@@ -616,7 +616,20 @@
         "Billy Joe Castle": "assets/logos/upstreams/billy-joe-castle.webp",
         "Gerard Greene": "assets/logos/upstreams/gerard-greene.webp",
         "Mark Joyce": "assets/logos/upstreams/mark-joyce.webp",
-        "Rory Mcleod": "assets/logos/upstreams/rory-mcleod.webp"
+        "Rory Mcleod": "assets/logos/upstreams/rory-mcleod.webp",
+        "Pharco FC": "assets/logos/upstreams/pharco-fc.webp",
+        "Ismailia Electricity Club": "assets/logos/upstreams/ismailia-electricity-club.webp",
+        "Al-Ittihad Alexandria": "assets/logos/upstreams/al-ittihad-alexandria.webp",
+        "Ghazl El Mahalla FC": "assets/logos/upstreams/ghazl-el-mahalla-fc.webp",
+        "Zrinjski": "assets/logos/upstreams/zrinjski.webp",
+        "Grobina": "assets/logos/upstreams/grobina.webp",
+        "BK Kekava": "assets/logos/upstreams/bk-kekava.webp",
+        "Hayato Matsuoka": "assets/logos/upstreams/hayato-matsuoka.webp",
+        "Daniil Ostapenkov": "assets/logos/upstreams/daniil-ostapenkov.webp",
+        "Ronit Karki": "assets/logos/upstreams/ronit-karki.webp",
+        "Vladyslav Orlov": "assets/logos/upstreams/vladyslav-orlov.webp",
+        "Tung-Lin Wu": "assets/logos/upstreams/tung-lin-wu.webp",
+        "Imanol Lopez Morillo": "assets/logos/upstreams/imanol-lopez-morillo.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -702,6 +715,8 @@
         "Brasilia, Brazil": "assets/logos/leagues/brasilia-brazil.webp",
         "Hersonissos, Greece": "assets/logos/leagues/hersonissos-greece.webp",
         "Kigali, Rwanda": "assets/logos/leagues/kigali-rwanda.webp",
-        "English Premier League U21": "assets/logos/leagues/english-premier-league-u21.webp"
+        "English Premier League U21": "assets/logos/leagues/english-premier-league-u21.webp",
+        "Egyptian Premier League": "assets/logos/leagues/egyptian-premier-league.webp",
+        "NBL, West": "assets/logos/leagues/nbl-west.webp"
     }
 }
