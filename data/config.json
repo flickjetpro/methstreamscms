@@ -479,6 +479,24 @@
         "isLeague": true,
         "hasLink": true,
         "isHidden": false
+      },
+      "Tennis": {
+        "score": 74,
+        "isLeague": false,
+        "hasLink": true,
+        "isHidden": false
+      },
+      "NBA": {
+        "score": 71,
+        "isLeague": true,
+        "hasLink": true,
+        "isHidden": false
+      },
+      "UFC": {
+        "score": 76,
+        "isLeague": false,
+        "hasLink": true,
+        "isHidden": false
       }
     }
   },
