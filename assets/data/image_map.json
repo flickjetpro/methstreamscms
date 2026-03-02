@@ -657,7 +657,9 @@
         "Incarnate Word": "assets/logos/streamed/incarnate-word.webp",
         "Stephen F Austin": "assets/logos/streamed/stephen-f-austin.webp",
         "Arizona": "assets/logos/streamed/arizona.webp",
-        "Iowa State": "assets/logos/streamed/iowa-state.webp"
+        "Iowa State": "assets/logos/streamed/iowa-state.webp",
+        "Eastern Washington": "assets/logos/streamed/eastern-washington.webp",
+        "Idaho": "assets/logos/streamed/idaho.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
