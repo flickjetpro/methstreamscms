@@ -41,7 +41,7 @@
     "logo_p1_color": "#e50914",
     "logo_p2_color": "#ffffff",
     "header_border_bottom": "",
-    "header_layout": "inverted",
+    "header_layout": "standard",
     "header_icon_pos": "left",
     "header_link_hover_color": "#ffffff",
     "header_highlight_color": "#ffffff",
@@ -1029,7 +1029,7 @@
     "league_intro": "Watch {{NAME}} live streams and access the full {{YEAR}} schedule on {{SITE_TITLE}}. Get real-time fixtures, playoffs coverage, and fast HD {{SPORT}} streaming.",
     "league_live_title": "Trending Live",
     "league_upcoming_prefix": "Upcoming",
-    "league_upcoming_suffix": "Matches"
+    "league_upcoming_suffix": ""
   },
   "theme_page": {
     "font_family_base": "system-ui, -apple-system, sans-serif",
