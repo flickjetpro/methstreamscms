@@ -8,7 +8,9 @@
     "title_part_1": "TotalSportek",
     "title_part_2": "",
     "custom_js": "",
-    "custom_meta_tags": [],
+    "custom_meta_tags": [
+      "<meta name=\"google-site-verification\" content=\"BG6Xf46Tj6pE68sptCkUPfJYLdbgybFEzIzQsYvQdEY\" />"
+    ],
     "robots_txt": "User-agent: *\nAllow: /\n\n# Disallow Admin & System Files\nDisallow: /admin/\nDisallow: /assets/\nDisallow: /data/\nDisallow: /scripts/\n\n# Sitemap\nSitemap: https://totalsportek.top/sitemap.xml",
     "domain": "totalsportek.top",
     "logo_url": "/assets/totalsportek-logo.webp",
