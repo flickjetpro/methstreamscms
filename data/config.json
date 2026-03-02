@@ -703,10 +703,6 @@
         "url": "/championship-streams/"
       },
       {
-        "title": "Scottish Premiership",
-        "url": "/scottish-premiership-streams/"
-      },
-      {
         "title": "Europa League",
         "url": "/europa-league-streams/"
       },
@@ -723,16 +719,8 @@
         "url": "/serie-a-streams/"
       },
       {
-        "title": "Bundesliga",
-        "url": "/bundesliga-streams/"
-      },
-      {
         "title": "F1",
         "url": "/formula-1-streams/"
-      },
-      {
-        "title": "UFC",
-        "url": "/ufc-streams/"
       },
       {
         "title": "Boxing",
@@ -745,14 +733,6 @@
       {
         "title": "Cricket",
         "url": "/cricket-streams/"
-      },
-      {
-        "title": "Darts",
-        "url": "/darts-streams/"
-      },
-      {
-        "title": "A-League",
-        "url": "/a-league-streams/"
       },
       {
         "title": "Ligue 1",
