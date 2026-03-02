@@ -699,16 +699,8 @@
         "url": "/champions-league-streams/"
       },
       {
-        "title": "Championship",
-        "url": "/championship-streams/"
-      },
-      {
         "title": "Europa League",
         "url": "/europa-league-streams/"
-      },
-      {
-        "title": "FA Cup",
-        "url": "/fa-cup-streams/"
       },
       {
         "title": "La Liga",
@@ -725,10 +717,6 @@
       {
         "title": "Boxing",
         "url": "/boxing-streams/"
-      },
-      {
-        "title": "Rugby",
-        "url": "/rugby-streams/"
       },
       {
         "title": "Cricket",
