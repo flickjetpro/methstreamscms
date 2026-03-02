@@ -585,7 +585,38 @@
         "Petr Bar Biryukov": "assets/logos/upstreams/petr-bar-biryukov.webp",
         "Sergey Fomin": "assets/logos/upstreams/sergey-fomin.webp",
         "Inter San Carlos": "assets/logos/upstreams/inter-san-carlos.webp",
-        "Quepos Cambute": "assets/logos/upstreams/quepos-cambute.webp"
+        "Quepos Cambute": "assets/logos/upstreams/quepos-cambute.webp",
+        "Chemal FC": "assets/logos/upstreams/chemal-fc.webp",
+        "Juan Carlos Prado Angelo": "assets/logos/upstreams/juan-carlos-prado-angelo.webp",
+        "Guy Den Ouden": "assets/logos/upstreams/guy-den-ouden.webp",
+        "Lui Maxted": "assets/logos/upstreams/lui-maxted.webp",
+        "Harry Wendelken": "assets/logos/upstreams/harry-wendelken.webp",
+        "Philip Henning": "assets/logos/upstreams/philip-henning.webp",
+        "Buvaysar Gadamauri": "assets/logos/upstreams/buvaysar-gadamauri.webp",
+        "Max Houkes": "assets/logos/upstreams/max-houkes.webp",
+        "Ryan Nijboer": "assets/logos/upstreams/ryan-nijboer.webp",
+        "Stefano Napolitano": "assets/logos/upstreams/stefano-napolitano.webp",
+        "Corentin Denolly": "assets/logos/upstreams/corentin-denolly.webp",
+        "Lorenzo Giustino": "assets/logos/upstreams/lorenzo-giustino.webp",
+        "Pietro Orlando Fellin": "assets/logos/upstreams/pietro-orlando-fellin.webp",
+        "Enrico Dalla Valle": "assets/logos/upstreams/enrico-dalla-valle.webp",
+        "Arthur Gea": "assets/logos/upstreams/arthur-gea.webp",
+        "Nicholas David Ionel": "assets/logos/upstreams/nicholas-david-ionel.webp",
+        "Michiel De Krom": "assets/logos/upstreams/michiel-de-krom.webp",
+        "Samuele Pieri": "assets/logos/upstreams/samuele-pieri.webp",
+        "Jerome Kym": "assets/logos/upstreams/jerome-kym.webp",
+        "Javier Barranco Cosano": "assets/logos/upstreams/javier-barranco-cosano.webp",
+        "Dimitar Kuzmanov": "assets/logos/upstreams/dimitar-kuzmanov.webp",
+        "Robin Bertrand": "assets/logos/upstreams/robin-bertrand.webp",
+        "Adria Soriano Barrera": "assets/logos/upstreams/adria-soriano-barrera.webp",
+        "Lorenzo Carboni": "assets/logos/upstreams/lorenzo-carboni.webp",
+        "Stefanos Sakellaridis": "assets/logos/upstreams/stefanos-sakellaridis.webp",
+        "Barry Pinches": "assets/logos/upstreams/barry-pinches.webp",
+        "Hammad Miah": "assets/logos/upstreams/hammad-miah.webp",
+        "Billy Joe Castle": "assets/logos/upstreams/billy-joe-castle.webp",
+        "Gerard Greene": "assets/logos/upstreams/gerard-greene.webp",
+        "Mark Joyce": "assets/logos/upstreams/mark-joyce.webp",
+        "Rory Mcleod": "assets/logos/upstreams/rory-mcleod.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -670,6 +701,7 @@
         "Thionville, France": "assets/logos/leagues/thionville-france.webp",
         "Brasilia, Brazil": "assets/logos/leagues/brasilia-brazil.webp",
         "Hersonissos, Greece": "assets/logos/leagues/hersonissos-greece.webp",
-        "Kigali, Rwanda": "assets/logos/leagues/kigali-rwanda.webp"
+        "Kigali, Rwanda": "assets/logos/leagues/kigali-rwanda.webp",
+        "English Premier League U21": "assets/logos/leagues/english-premier-league-u21.webp"
     }
 }
