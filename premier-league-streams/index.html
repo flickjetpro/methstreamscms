@@ -43,13 +43,13 @@
             --text-main: #ffffff;
             --text-muted: #b3b3b3;
             
-            --font-family-base: system-ui, -apple-system, sans-serif;
-            --font-family-headings: inherit;
-            --container-max-width: 1100px; 
+            --font-family-base: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+            --font-family-headings: 'Arial Black', 'Helvetica', sans-serif;
+            --container-max-width: 1200px; 
             --header-max-width: 1100px;
-            --border-radius-base: 8px; 
-            --button-border-radius: 8px;
-            --hero-pill-radius: 8px;
+            --border-radius-base: 2px; 
+            --button-border-radius: 12px;
+            --hero-pill-radius: 3px;
             
             /* HEADER */
             --header-bg: #000000;
@@ -71,8 +71,8 @@
             /* MATCH ROWS */
             --match-row-bg: #181818;
             --match-row-border: #333333;
-        --match-row-radius: 8px;
-            --match-row-live-border-left: 4px solid #E50914;
+        --match-row-radius: 5px;
+            --match-row-live-border-left: 7px solid #E50914;
             --match-row-live-bg-start: #200404;
             --match-row-live-bg-end: #141414;
         --live-dot-color: #e50914;
@@ -105,7 +105,7 @@
             --soc-sidebar-shadow: 0 4px 10px rgba(0,0,0,0.3);
             --soc-btn-bg: #222222;
             --soc-btn-border: #333333;
-        --soc-btn-radius: 4px;
+        --soc-btn-radius: 2px;
             --soc-btn-color: #94a3b8;
             --soc-btn-hover-bg: #595959;
             --soc-btn-hover-border: #e50914;
@@ -116,13 +116,13 @@
             --mob-foot-bg: #141414;
             --mob-foot-border: 1px solid #334155;
             --mob-foot-shadow: 0 -4px 10px rgba(0,0,0,0.5);
-            --mob-foot-height: 60px;
+            --mob-foot-height: 45;
             --mob-foot-active: rgba(255,255,255,0.1);
         /* SHOW MORE BUTTON */
             --show-more-bg: #151515;
             --show-more-border: #000000;
             --show-more-text: #cccccc;
-            --show-more-radius: 4px;
+            --show-more-radius: 6px;
             --show-more-hover-bg: #e50914;
             --show-more-hover-border: #D00000;
             --show-more-hover-text: #ffffff;
@@ -130,11 +130,11 @@
             /* ARTICLE */
             --article-bg: #111111;
             --article-text: #b3b3b3;
-            --article-line-height: 1.6;
+            --article-line-height: 1.7;
             --article-bullet: #e50914;
             --article-link: #e50914;
             --article-h2-color: #ffffff;
-            --article-h2-border: 1px solid #333333;
+            --article-h2-border: 2px solid #333333;
             
             /* LEAGUE CARDS (Footer) */
             --lc-bg: #222222;
@@ -150,7 +150,7 @@
             --btt-bg: #d00000;
             --btt-icon: #ffffff;
             --btt-radius: 50px;
-            --btt-size: 40px;
+            --btt-size: 45px;
             
             /* ADD/UPDATE THESE: */
             --btt-border: 0px solid #000000;
@@ -161,7 +161,7 @@
             --sys-status-dot-color: #06a220;
             --sys-status-radius: 20px;
             
-            --section-logo-size: 24px;
+            --section-logo-size: 20px;
             --row-h-mob: 76px; --row-h-desk: 96px;
         }
 
@@ -220,7 +220,7 @@
         /* HERO */
         .hero-section { background: radial-gradient(circle at top, #230505 0%, #000000 100%); padding: 40px 15px;  border-bottom: 1px solid #334155; display: block; }
        
-        .hero-inner { max-width: 1100px; margin: 0 auto; display: flex; flex-direction: column; text-align: center; align-items: center; }
+        .hero-inner { max-width: 1200px; margin: 0 auto; display: flex; flex-direction: column; text-align: center; align-items: center; }
         h1 { margin: 0 0 20px 0; font-size: 1.8rem; line-height: 1.2; color: var(--hero-h1-color); font-weight: 800; font-family: var(--font-family-headings); }
         .entity-intro { color: var(--hero-intro-color); font-size: 0.9rem; margin: 0 auto; margin-bottom: 20px; max-width: 800px; }
         
@@ -229,7 +229,7 @@
         .cat-pill:hover { background: var(--hero-pill-hover-bg); color: var(--hero-pill-hover-text); border-color: #D00000; }
 
         .sys-status { display: inline-flex; align-items: center; gap: 8px; background: var(--sys-status-bg); border: var(--sys-status-border); color: var(--sys-status-text); border-radius: var(--sys-status-radius); padding: 5px 14px; margin-bottom: 15px; font-size: 0.75rem; font-weight: 700; }
-        .sys-status .dot, .sys-status .live-dot { width: 8px; height: 8px; background: var(--sys-status-dot-color); border-radius: 50%; box-shadow: 0 0 10px var(--sys-status-dot-color); }
+        .sys-status .dot, .sys-status .live-dot { width: 7px; height: 7px; background: var(--sys-status-dot-color); border-radius: 50%; box-shadow: 0 0 10px var(--sys-status-dot-color); }
 
         /* MATCH ROWS & SECTIONS */
         .container { max-width: var(--container-max-width); margin: 0 auto; padding: 20px 15px; min-height: 60vh; }
@@ -434,7 +434,7 @@
         }
         .league-card span { font-size: 0.8rem; font-weight: 700; color: inherit; overflow: hidden; text-overflow: ellipsis; }
         .l-icon { font-size: 1.1rem; }
-        #footer-leagues-section .sec-head { border-bottom: 1px solid #333333; }
+        #footer-leagues-section .sec-head { border-bottom: 2px solid #333333; }
     </style>
 
 <link rel="preconnect" href="https://www.google-analytics.com" crossorigin>
@@ -465,7 +465,7 @@
 
     <div id="socialSidebar" class="social-sidebar"></div>
 
-    <header class="h-layout-standard">
+    <header class="h-layout-inverted">
         <div class="header-container">
             <a href="/" class="logo-link"><img src="/assets/streameast-logo.webp" alt="TotalSportek" class="logo-img" style="width:40px; height:40px; object-fit:cover; border-radius:6px; box-shadow: 0 0 10px #3d0003;"> <div class="logo-text" style="color:#e50914;">TotalSportek<span style="color:#ffffff;"></span></div></a>
             <nav class="nav-links" id="desktopNav"><a href="/#schedule" class="highlighted">Schedule</a><a href="/#features">Features</a><a href="/#faqs">FAQs</a><a href="/about">Who We Are</a></nav>
@@ -496,7 +496,7 @@
             <div class="sec-head">
                 <h2 class="sec-title">
                     <span id="upcoming-logo-container" style="font-size:1.2rem; display:inline-flex; align-items:center;">📅</span> 
-                    Upcoming Premier League
+                    Upcoming Premier League Matches
                 </h2>
             </div>
             <!-- Python replaces this with schedule rows -->
