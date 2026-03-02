@@ -47,15 +47,15 @@
             --border: #333333;
             
             /* TYPOGRAPHY & LAYOUT */
-            --font-family-base: system-ui, -apple-system, sans-serif;
-            --font-family-headings: inherit;
+            --font-family-base: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+            --font-family-headings: 'Arial Black', 'Helvetica', sans-serif;
             --base-font-size: 14px;
             --base-line-height: 1.5;
-            --container-max-width: 1100px;
-            --header-max-width: 1100px;
-            --border-radius-base: 8px;
-            --button-border-radius: 10px;
-            --hero-pill-radius: 8px;
+            --container-max-width: 1200px;
+            --header-max-width: 1190px;
+            --border-radius-base: 2px;
+            --button-border-radius: 12px;
+            --hero-pill-radius: 3px;
             --card-shadow: 0 4px 6px -1px rgba(0,0,0,0.1);
             
             /* HEADER */
@@ -82,11 +82,11 @@
             /* MATCH ROWS */
             --match-row-bg: #181818;
             --match-row-border: #333333;
-        --match-row-radius: 10px;
+        --match-row-radius: 5px;
             --match-row-hover-bg: #222222;
             --match-row-hover-border: #e50914;
             --match-row-hover-transform: translateY(-2px);
-            --match-row-live-border-left: 4px solid #E50914;
+            --match-row-live-border-left: 7px solid #E50914;
             --match-row-live-bg-start: #170303;
             --match-row-live-bg-end: #141010;
             --match-row-live-text-color: #949494;
@@ -119,7 +119,7 @@
             --show-more-bg: #151515;
             --show-more-border: #000000;
             --show-more-text: #cccccc;
-            --show-more-radius: 4px;
+            --show-more-radius: 6px;
             --show-more-hover-bg: #e50914;
             --show-more-hover-border: #D00000;
             --show-more-hover-text: #ffffff;
@@ -134,27 +134,27 @@
             --footer-link-hover: #f1f5f9;
             --footer-link-transform: translateX(5px);
             --footer-copyright: #475569;
-            --footer-align: left;
+            --footer-align: right;
             
             /* ARTICLE */
-            --article-bg: #141414;
+            --article-bg: #0f0f0f;
             --article-text: #c4c4c4;
-            --article-line-height: 1.6;
+            --article-line-height: 1.7;
             --article-link: #8f0000;
             --article-bullet: #8f0000;
             --article-h2: #a8a8a8;
-            --article-h2-border: 1px solid #363535;
+            --article-h2-border: 2px solid #363535;
             --article-h3: #ababab;
             --article-h4: #c2c2c2;
             
             /* LEAGUE CARDS (Footer) */
             --lc-bg: #222222;
             --lc-text: #ffffff;
-            --lc-border: 1px solid #333333;
-            --lc-radius: 4px;
+            --lc-border: 2px solid #333333;
+            --lc-radius: 2px;
             --lc-hover-bg: #e50914;
             --lc-hover-text: #ffffff;
-            --lc-hover-border: 1px solid #e50914;
+            --lc-hover-border: 2px solid #e50914;
 
             /* SOCIALS */
             --soc-sidebar-bg: #141414;
@@ -163,7 +163,7 @@
             --soc-btn-bg: #222222;
             --soc-btn-border: #333333;
             --soc-btn-color: #94a3b8;
-        --soc-btn-radius: 4px;
+        --soc-btn-radius: 2px;
             --soc-btn-hover-bg: #292929;
             --soc-btn-hover-border: #e50914;
             --soc-btn-hover-transform: translateX(5px);
@@ -173,7 +173,7 @@
             --mob-foot-bg: #141414;
             --mob-foot-border: 1px solid #334155;
             --mob-foot-shadow: 0 -4px 10px rgba(0,0,0,0.5);
-            --mob-foot-height: 60px;
+            --mob-foot-height: 45;
             --mob-foot-active: rgba(255,255,255,0.1);
             
             /* UTILS */
@@ -189,13 +189,13 @@
         --btt-border: 0px solid #000000;
         --btt-shadow: 0 4px 10px #000000;
             
-            --sys-status-bg: rgba(6, 152, 16, 0.1);
-            --sys-status-border: 1px solid #00ad0c;
-            --sys-status-text: #00a30b;
+            --sys-status-bg: rgba(0, 143, 0, 0.1);
+            --sys-status-border: 1px solid #07ab07;
+            --sys-status-text: #059905;
             --sys-status-dot-color: #0cb800;
-            --sys-status-radius: 20px;
+            --sys-status-radius: 15px;
             
-            --section-logo: 24px;
+            --section-logo: 20px;
             --button-shadow: rgba(0,0,0,0.2);
             
             --sk-start: #1e293b;
@@ -314,13 +314,13 @@
 
         /* HERO REFACTORED */
         .hero-section {
-            background: radial-gradient(circle at top, #170202 0%, #000000 100%); padding: 40px 15px;  border-bottom: 1px solid #334155;
+            background: radial-gradient(circle at top, #260303 0%, #000000 100%); padding: 40px 15px;  border-bottom: 1px solid #334155;
             display: block;
         }
         
 
         .hero-inner {
-            max-width: 1100px; margin: 0 auto;
+            max-width: 1200px; margin: 0 auto;
             display: flex;
             flex-direction: column;
             text-align: center;
@@ -336,7 +336,7 @@
         }
         
         .sys-status { display: inline-flex; align-items: center; gap: 8px; background: var(--sys-status-bg); border: var(--sys-status-border); color: var(--sys-status-text); border-radius: var(--sys-status-radius); padding: 5px 14px; margin-bottom: 15px; font-size: 0.75rem; font-weight: 700; }
-        .sys-status .dot, .sys-status .live-dot { width: 8px; height: 8px; background: var(--sys-status-dot-color); border-radius: 50%; box-shadow: 0 0 10px var(--sys-status-dot-color); }
+        .sys-status .dot, .sys-status .live-dot { width: 7px; height: 7px; background: var(--sys-status-dot-color); border-radius: 50%; box-shadow: 0 0 10px var(--sys-status-dot-color); }
 
         
         h1 { margin: 0 0 20px 0; font-size: 1.8rem; line-height: 1.2; color: var(--hero-h1-color); font-weight: 800; font-family: var(--font-family-headings); }
@@ -364,11 +364,11 @@
         .container { max-width: var(--container-max-width); margin: 0 auto; padding: 20px 15px; min-height: 60vh; }
         
         .sec-head { display: flex; justify-content: space-between; align-items: flex-end; margin: 40px 0 12px 0; padding-bottom: 8px; border-bottom: 1px solid var(--border); }
-        #live-section .sec-head, #live-content-wrapper .sec-head { border-bottom: 1px solid #e50914; }
-        #wildcard-container .sec-head { border-bottom: 1px solid #383838; }
-        #top-upcoming-container .sec-head { border-bottom: 1px solid #121212; }
-        #grouped-container .sec-head { border-bottom: 1px solid #212121; }
-        #footer-leagues-section .sec-head { border-bottom: 1px solid #292929; }
+        #live-section .sec-head, #live-content-wrapper .sec-head { border-bottom: 2px solid #e50914; }
+        #wildcard-container .sec-head { border-bottom: 2px solid #383838; }
+        #top-upcoming-container .sec-head { border-bottom: 2px solid #121212; }
+        #grouped-container .sec-head { border-bottom: 2px solid #212121; }
+        #footer-leagues-section .sec-head { border-bottom: 2px solid #292929; }
         
         /* MAGIC FIX FOR MOBILE SCROLL JUMP */
         #grouped-container { content-visibility: auto; contain-intrinsic-size: 1000px; }
@@ -647,7 +647,7 @@
     </script>
 </head>
 <body>
-    <header class="h-layout-standard">
+    <header class="h-layout-inverted">
         <div class="header-container">
             <a href="/" class="logo-link"><img src="/assets/streameast-logo.webp" alt="TotalSportek" class="logo-img" style="width:40px; height:40px; object-fit:cover; border-radius:6px; box-shadow: 0 0 10px #290000;"> <div class="logo-text" style="color:#e50914;">TotalSportek<span style="color:#ffffff;"></span></div></a>
             <nav class="nav-links" id="desktopNav"><a href="/#schedule" class="highlighted">Schedule</a><a href="/#features">Features</a><a href="/#faqs">FAQs</a><a href="/about">Who We Are</a></nav>
@@ -768,13 +768,13 @@
 
     <footer>
         <div class="footer-grid cols-3">
-    <div class="f-brand">
-        <img src="/assets/streameast-logo.webp" alt="TotalSportek" class="logo-img" style="width:40px; height:40px; object-fit:cover; border-radius:6px; box-shadow: 0 0 10px #290000;"> <div class="logo-text" style="color:#e50914;">TotalSportek<span style="color:#ffffff;"></span></div> 
-    </div>
-    <div></div>
     <div>
         <div class="f-head">Quick Links</div>
         <div class="f-links"><a href="/copyright-policy/" class="f-link">Copyright Policy</a><a href="/privacy" class="f-link">Privacy Policy</a><a href="/terms" class="f-link">Terms & Conditions</a><a href="/contact" class="f-link">Contact</a></div>
+    </div>
+    <div></div>
+    <div class="f-brand">
+        <img src="/assets/streameast-logo.webp" alt="TotalSportek" class="logo-img" style="width:40px; height:40px; object-fit:cover; border-radius:6px; box-shadow: 0 0 10px #290000;"> <div class="logo-text" style="color:#e50914;">TotalSportek<span style="color:#ffffff;"></span></div> 
     </div>
     </div>
         <div class="copyright">© 2026 StreamEast — Live sports streaming platform for major leagues and global tournaments in HD.</div>
