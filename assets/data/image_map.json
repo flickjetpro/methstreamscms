@@ -649,7 +649,15 @@
         "Clement Tabur": "assets/logos/upstreams/clement-tabur.webp",
         "Kei Nishikori": "assets/logos/upstreams/kei-nishikori.webp",
         "Mae Malige": "assets/logos/upstreams/mae-malige.webp",
-        "Jan Choinski": "assets/logos/upstreams/jan-choinski.webp"
+        "Jan Choinski": "assets/logos/upstreams/jan-choinski.webp",
+        "Howard": "assets/logos/streamed/howard.webp",
+        "Coppin State": "assets/logos/streamed/coppin-state.webp",
+        "Nicholls State": "assets/logos/streamed/nicholls-state.webp",
+        "McNeese State": "assets/logos/streamed/mcneese-state.webp",
+        "Incarnate Word": "assets/logos/streamed/incarnate-word.webp",
+        "Stephen F Austin": "assets/logos/streamed/stephen-f-austin.webp",
+        "Arizona": "assets/logos/streamed/arizona.webp",
+        "Iowa State": "assets/logos/streamed/iowa-state.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
