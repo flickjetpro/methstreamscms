@@ -621,23 +621,48 @@
   "menus": {
     "header": [
       {
-        "title": "Schedule",
-        "url": "/#schedule",
-        "highlight": true
-      },
-      {
-        "title": "Features",
-        "url": "/#features",
+        "title": "Premier League",
+        "url": "/premier-league-streams/",
         "highlight": false
       },
       {
-        "title": "FAQs",
-        "url": "/#faqs",
+        "title": "Champions League",
+        "url": "/champions-league-streams/",
         "highlight": false
       },
       {
-        "title": "Who We Are",
-        "url": "/about",
+        "title": "La Liga",
+        "url": "/laliga-streams/",
+        "highlight": false
+      },
+      {
+        "title": "Serie A",
+        "url": "/serie-a-streams/",
+        "highlight": false
+      },
+      {
+        "title": "F1",
+        "url": "/formula-1-streams/",
+        "highlight": false
+      },
+      {
+        "title": "UFC",
+        "url": "/ufc-streams/",
+        "highlight": false
+      },
+      {
+        "title": "NBA",
+        "url": "/nba-streams/",
+        "highlight": false
+      },
+      {
+        "title": "NFL",
+        "url": "/nfl-streams/",
+        "highlight": false
+      },
+      {
+        "title": "Rugby",
+        "url": "/rugby-streams/",
         "highlight": false
       }
     ],
@@ -728,12 +753,12 @@
   ],
   "social_sharing": {
     "counts": {
-      "telegram": 3444,
-      "whatsapp": 34444,
-      "reddit": 34444,
-      "twitter": 34444
+      "telegram": 6424,
+      "whatsapp": 5444,
+      "reddit": 5644,
+      "twitter": 5444
     },
-    "excluded_pages": "dmca,contact,about,privacy"
+    "excluded_pages": "about"
   },
   "theme_league": {
     "font_family_base": "'Segoe UI', Roboto, Helvetica, Arial, sans-serif",
