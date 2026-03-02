@@ -682,36 +682,93 @@
         "title": "Rugby",
         "url": "/rugby-streams/",
         "highlight": false
+      },
+      {
+        "title": "Tennis",
+        "url": "/tennis-streams/",
+        "highlight": false
       }
     ],
     "hero": [
       {
-        "title": "🏈 NFL",
-        "url": "/nfl-streams/"
+        "title": "Premier League",
+        "url": "/premier-league-streams/"
       },
       {
-        "title": "🏀 NBA",
-        "url": "/nba-streams/"
+        "title": "Champions League",
+        "url": "/champions-league-streams/"
       },
       {
-        "title": "🏆 NCAA",
-        "url": "/ncaa-streams/"
+        "title": "Championship",
+        "url": "/championship-streams/"
       },
       {
-        "title": "⚾ MLB",
-        "url": "/mlb-streams/"
+        "title": "Scottish Premiership",
+        "url": "/scottish-premiership-streams/"
       },
       {
-        "title": "🏒 NHL",
-        "url": "/nhl-streams/"
+        "title": "Europa League",
+        "url": "/europa-league-streams/"
       },
       {
-        "title": "🥊 UFC",
+        "title": "FA Cup",
+        "url": "/fa-cup-streams/"
+      },
+      {
+        "title": "La Liga",
+        "url": "/laliga-streams/"
+      },
+      {
+        "title": "Serie A",
+        "url": "/serie-a-streams/"
+      },
+      {
+        "title": "Bundesliga",
+        "url": "/bundesliga-streams/"
+      },
+      {
+        "title": "F1",
+        "url": "/formula-1-streams/"
+      },
+      {
+        "title": "UFC",
         "url": "/ufc-streams/"
       },
       {
-        "title": "🏆 Formula 1",
-        "url": "/formula-1-streams/"
+        "title": "Boxing",
+        "url": "/boxing-streams/"
+      },
+      {
+        "title": "Rugby",
+        "url": "/rugby-streams/"
+      },
+      {
+        "title": "Cricket",
+        "url": "/cricket-streams/"
+      },
+      {
+        "title": "Darts",
+        "url": "/darts-streams/"
+      },
+      {
+        "title": "A-League",
+        "url": "/a-league-streams/"
+      },
+      {
+        "title": "Ligue 1",
+        "url": "/ligue-1-streams/"
+      },
+      {
+        "title": "Tennis",
+        "url": "/tennis-streams/"
+      },
+      {
+        "title": "NBA",
+        "url": "/nba-streams/"
+      },
+      {
+        "title": "NFL",
+        "url": "/nfl-streams/"
       }
     ],
     "footer_links": [
@@ -722,20 +779,8 @@
     ],
     "footer_static": [
       {
-        "title": "Copyright Policy",
-        "url": "/copyright-policy/"
-      },
-      {
-        "title": "Privacy Policy",
-        "url": "/privacy"
-      },
-      {
-        "title": "Terms & Conditions",
-        "url": "/terms"
-      },
-      {
-        "title": "Contact",
-        "url": "/contact"
+        "title": "About Us",
+        "url": "/about/"
       }
     ],
     "footer_leagues": [
