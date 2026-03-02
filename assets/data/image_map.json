@@ -659,7 +659,9 @@
         "Arizona": "assets/logos/streamed/arizona.webp",
         "Iowa State": "assets/logos/streamed/iowa-state.webp",
         "Eastern Washington": "assets/logos/streamed/eastern-washington.webp",
-        "Idaho": "assets/logos/streamed/idaho.webp"
+        "Idaho": "assets/logos/streamed/idaho.webp",
+        "Portland State": "assets/logos/streamed/portland-state.webp",
+        "Weber State": "assets/logos/streamed/weber-state.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
