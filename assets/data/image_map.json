@@ -845,7 +845,21 @@
         "Paris SG": "assets/logos/upstreams/paris-sg.webp",
         "ONICO Warszawa": "assets/logos/upstreams/onico-warszawa.webp",
         "Trentino": "assets/logos/upstreams/trentino.webp",
-        "Montr\u00e9al Canadiens": "assets/logos/upstreams/montr\u00e9al-canadiens.webp"
+        "Montr\u00e9al Canadiens": "assets/logos/upstreams/montr\u00e9al-canadiens.webp",
+        "Chile": "assets/logos/streamed/chile.webp",
+        "Venezuela": "assets/logos/streamed/venezuela.webp",
+        "Alianza Atl\u00e9tico": "assets/logos/streamed/alianza-atl\u00e9tico.webp",
+        "Atletico de San Luis": "assets/logos/streamed/atletico-de-san-luis.webp",
+        "Pumas": "assets/logos/streamed/pumas.webp",
+        "Erzurumspor": "assets/logos/streamed/erzurumspor.webp",
+        "Ankara Ke\u00e7i\u00f6reng\u00fcc\u00fc": "assets/logos/streamed/ankara-ke\u00e7i\u00f6reng\u00fcc\u00fc.webp",
+        "Lorient": "assets/logos/streamed/lorient.webp",
+        "Nice": "assets/logos/streamed/nice.webp",
+        "Hamburg": "assets/logos/streamed/hamburg.webp",
+        "Brighton and Hove Albion": "assets/logos/streamed/brighton-and-hove-albion.webp",
+        "Nottingham Forest": "assets/logos/streamed/nottingham-forest.webp",
+        "Newcastle United": "assets/logos/streamed/newcastle-united.webp",
+        "U.N.A.M.- Pumas": "assets/logos/upstreams/unam-pumas.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
