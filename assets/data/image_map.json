@@ -861,7 +861,14 @@
         "Newcastle United": "assets/logos/streamed/newcastle-united.webp",
         "U.N.A.M.- Pumas": "assets/logos/upstreams/unam-pumas.webp",
         "Uruguay U17": "assets/logos/streamed/uruguay-u17.webp",
-        "Argentina U17": "assets/logos/streamed/argentina-u17.webp"
+        "Argentina U17": "assets/logos/streamed/argentina-u17.webp",
+        "Manta": "assets/logos/upstreams/manta.webp",
+        "Ind del Valle": "assets/logos/upstreams/ind-del-valle.webp",
+        "Madureira": "assets/logos/upstreams/madureira.webp",
+        "Flamengo": "assets/logos/upstreams/flamengo.webp",
+        "Arizona Wildcats": "assets/logos/upstreams/arizona-wildcats.webp",
+        "Iowa State Cyclones": "assets/logos/upstreams/iowa-state-cyclones.webp",
+        "Ayane Takagi": "assets/logos/upstreams/ayane-takagi.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -975,6 +982,7 @@
         "Cupa Romaniei": "assets/logos/leagues/cupa-romaniei.webp",
         "Champions League": "assets/logos/leagues/champions-league.webp",
         "European Championship Women": "assets/logos/leagues/european-championship-women.webp",
-        "Men's T20 World Cup": "assets/logos/leagues/mens-t20-world-cup.webp"
+        "Men's T20 World Cup": "assets/logos/leagues/mens-t20-world-cup.webp",
+        "Carioca S\u00e9rie A \u2013 Mata-mata": "assets/logos/leagues/carioca-s\u00e9rie-a-mata-mata.webp"
     }
 }
