@@ -1100,7 +1100,18 @@
         "Mexico Baseball": "assets/logos/streamed/mexico-baseball.webp",
         "Dominican Republic Baseball": "assets/logos/streamed/dominican-republic-baseball.webp",
         "Venezuela Baseball": "assets/logos/streamed/venezuela-baseball.webp",
-        "Puerto Rico Baseball": "assets/logos/streamed/puerto-rico-baseball.webp"
+        "Puerto Rico Baseball": "assets/logos/streamed/puerto-rico-baseball.webp",
+        "SG Flensburg-Handewitt": "assets/logos/upstreams/sg-flensburg-handewitt.webp",
+        "Anastasia Tikhonova": "assets/logos/upstreams/anastasia-tikhonova.webp",
+        "Elizara Yaneva": "assets/logos/upstreams/elizara-yaneva.webp",
+        "Daria Snigur": "assets/logos/upstreams/daria-snigur.webp",
+        "Vendula Valdmannova": "assets/logos/upstreams/vendula-valdmannova.webp",
+        "Patricia Georgiana Goina": "assets/logos/upstreams/patricia-georgiana-goina.webp",
+        "Sophia Ksandinov": "assets/logos/upstreams/sophia-ksandinov.webp",
+        "Emil Rast": "assets/logos/upstreams/emil-rast.webp",
+        "Benjamin Vitter": "assets/logos/upstreams/benjamin-vitter.webp",
+        "Amelia Rajecki": "assets/logos/upstreams/amelia-rajecki.webp",
+        "Hayu Kinoshita": "assets/logos/upstreams/hayu-kinoshita.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
