@@ -1212,7 +1212,9 @@
         "Ipswich": "assets/logos/streamed/ipswich.webp",
         "Leeds": "assets/logos/streamed/leeds.webp",
         "Atletico Torque": "assets/logos/streamed/atletico-torque.webp",
-        "Estudiantes de Rio Cuarto": "assets/logos/streamed/estudiantes-de-rio-cuarto.webp"
+        "Estudiantes de Rio Cuarto": "assets/logos/streamed/estudiantes-de-rio-cuarto.webp",
+        "South Carolina": "assets/logos/streamed/south-carolina.webp",
+        "Tennessee": "assets/logos/streamed/tennessee.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
