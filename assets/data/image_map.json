@@ -1200,7 +1200,19 @@
         "Indiana Pacers": "assets/logos/streamed/indiana-pacers.webp",
         "South Korea": "assets/logos/streamed/south-korea.webp",
         "Czech Republic": "assets/logos/streamed/czech-republic.webp",
-        "Colombia Baseball": "assets/logos/streamed/colombia-baseball.webp"
+        "Colombia Baseball": "assets/logos/streamed/colombia-baseball.webp",
+        "Dundee Utd": "assets/logos/streamed/dundee-utd.webp",
+        "ST Mirren": "assets/logos/streamed/st-mirren.webp",
+        "Colchester": "assets/logos/streamed/colchester.webp",
+        "Grimsby": "assets/logos/streamed/grimsby.webp",
+        "Tranmere": "assets/logos/streamed/tranmere.webp",
+        "Oldham": "assets/logos/streamed/oldham.webp",
+        "Wycombe": "assets/logos/streamed/wycombe.webp",
+        "Rotherham": "assets/logos/streamed/rotherham.webp",
+        "Ipswich": "assets/logos/streamed/ipswich.webp",
+        "Leeds": "assets/logos/streamed/leeds.webp",
+        "Atletico Torque": "assets/logos/streamed/atletico-torque.webp",
+        "Estudiantes de Rio Cuarto": "assets/logos/streamed/estudiantes-de-rio-cuarto.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
