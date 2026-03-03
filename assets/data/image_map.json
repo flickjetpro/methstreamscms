@@ -859,7 +859,9 @@
         "Brighton and Hove Albion": "assets/logos/streamed/brighton-and-hove-albion.webp",
         "Nottingham Forest": "assets/logos/streamed/nottingham-forest.webp",
         "Newcastle United": "assets/logos/streamed/newcastle-united.webp",
-        "U.N.A.M.- Pumas": "assets/logos/upstreams/unam-pumas.webp"
+        "U.N.A.M.- Pumas": "assets/logos/upstreams/unam-pumas.webp",
+        "Uruguay U17": "assets/logos/streamed/uruguay-u17.webp",
+        "Argentina U17": "assets/logos/streamed/argentina-u17.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
