@@ -1387,7 +1387,11 @@
         "Wellington Phoenix": "assets/logos/streamed/wellington-phoenix.webp",
         "Japan": "assets/logos/streamed/japan.webp",
         "Panama": "assets/logos/streamed/panama.webp",
-        "Cuba": "assets/logos/streamed/cuba.webp"
+        "Cuba": "assets/logos/streamed/cuba.webp",
+        "Lech Poznan": "assets/logos/streamed/lech-poznan.webp",
+        "Gornik Zabrze": "assets/logos/streamed/gornik-zabrze.webp",
+        "Avia \u015awidnik": "assets/logos/streamed/avia-\u015bwidnik.webp",
+        "Rak\u00f3w Cz\u0119stochowa": "assets/logos/streamed/rak\u00f3w-cz\u0119stochowa.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
