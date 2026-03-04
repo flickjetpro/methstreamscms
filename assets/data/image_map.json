@@ -1332,7 +1332,11 @@
         "Brive": "assets/logos/upstreams/brive.webp",
         "Czechia": "assets/logos/upstreams/czechia.webp",
         "Palmeiras": "assets/logos/streamed/palmeiras.webp",
-        "Novorizontino": "assets/logos/streamed/novorizontino.webp"
+        "Novorizontino": "assets/logos/streamed/novorizontino.webp",
+        "New York Mets": "assets/logos/streamed/new-york-mets.webp",
+        "Israel Baseball": "assets/logos/streamed/israel-baseball.webp",
+        "Brazil Baseball": "assets/logos/streamed/brazil-baseball.webp",
+        "Italy Baseball": "assets/logos/streamed/italy-baseball.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
