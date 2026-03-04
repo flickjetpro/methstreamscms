@@ -1330,7 +1330,9 @@
         "SC Magdeburg": "assets/logos/upstreams/sc-magdeburg.webp",
         "Colomiers": "assets/logos/upstreams/colomiers.webp",
         "Brive": "assets/logos/upstreams/brive.webp",
-        "Czechia": "assets/logos/upstreams/czechia.webp"
+        "Czechia": "assets/logos/upstreams/czechia.webp",
+        "Palmeiras": "assets/logos/streamed/palmeiras.webp",
+        "Novorizontino": "assets/logos/streamed/novorizontino.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
