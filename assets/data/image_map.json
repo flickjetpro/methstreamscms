@@ -1405,7 +1405,13 @@
         "DePaul": "assets/logos/streamed/depaul.webp",
         "Villanova": "assets/logos/streamed/villanova.webp",
         "Saint Louis": "assets/logos/streamed/saint-louis.webp",
-        "Loyola-Chicago": "assets/logos/streamed/loyola-chicago.webp"
+        "Loyola-Chicago": "assets/logos/streamed/loyola-chicago.webp",
+        "Pittsburgh": "assets/logos/streamed/pittsburgh.webp",
+        "Florida State": "assets/logos/streamed/florida-state.webp",
+        "New Mexico": "assets/logos/streamed/new-mexico.webp",
+        "Colorado State": "assets/logos/streamed/colorado-state.webp",
+        "Washington": "assets/logos/streamed/washington.webp",
+        "USC": "assets/logos/streamed/usc.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
