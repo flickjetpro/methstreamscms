@@ -1336,7 +1336,9 @@
         "New York Mets": "assets/logos/streamed/new-york-mets.webp",
         "Israel Baseball": "assets/logos/streamed/israel-baseball.webp",
         "Brazil Baseball": "assets/logos/streamed/brazil-baseball.webp",
-        "Italy Baseball": "assets/logos/streamed/italy-baseball.webp"
+        "Italy Baseball": "assets/logos/streamed/italy-baseball.webp",
+        "Netherlands Baseball": "assets/logos/streamed/netherlands-baseball.webp",
+        "Great Britain Baseball": "assets/logos/streamed/great-britain-baseball.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
