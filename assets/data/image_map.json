@@ -2273,7 +2273,25 @@
         "Aizawl FC": "assets/logos/upstreams/aizawl-fc.webp",
         "Rajasthan United FC": "assets/logos/upstreams/rajasthan-united-fc.webp",
         "Estudiantes de M\u00e9rida": "assets/logos/upstreams/estudiantes-de-m\u00e9rida.webp",
-        "Albirex Niigata Singapore": "assets/logos/upstreams/albirex-niigata-singapore.webp"
+        "Albirex Niigata Singapore": "assets/logos/upstreams/albirex-niigata-singapore.webp",
+        "Medina United": "assets/logos/upstreams/medina-united.webp",
+        "TMT": "assets/logos/upstreams/tmt.webp",
+        "Ports Authority": "assets/logos/upstreams/ports-authority.webp",
+        "Fortune": "assets/logos/upstreams/fortune.webp",
+        "Team Rhino": "assets/logos/upstreams/team-rhino.webp",
+        "KK Proleter Naftagas Zrenjanin": "assets/logos/upstreams/kk-proleter-naftagas-zrenjanin.webp",
+        "KK Beko": "assets/logos/upstreams/kk-beko.webp",
+        "Diego Dedura-Palomero": "assets/logos/upstreams/diego-dedura-palomero.webp",
+        "Ezequiel Monferrer": "assets/logos/upstreams/ezequiel-monferrer.webp",
+        "Urania Basket Milano": "assets/logos/upstreams/urania-basket-milano.webp",
+        "Avellino Basket": "assets/logos/upstreams/avellino-basket.webp",
+        "East Bengal": "assets/logos/upstreams/east-bengal.webp",
+        "Goa": "assets/logos/upstreams/goa.webp",
+        "Daniel Antonio Nunez": "assets/logos/upstreams/daniel-antonio-nunez.webp",
+        "Lorenzo Joaquin Rodriguez": "assets/logos/upstreams/lorenzo-joaquin-rodriguez.webp",
+        "Lukas Neumayer": "assets/logos/upstreams/lukas-neumayer.webp",
+        "Anja Strausak": "assets/logos/upstreams/anja-strausak.webp",
+        "Lole Courtois": "assets/logos/upstreams/lole-courtois.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -2540,6 +2558,8 @@
         "Singapore - Premier League": "assets/logos/leagues/singapore-premier-league.webp",
         "India - Super League": "assets/logos/leagues/india-super-league.webp",
         "I-League": "assets/logos/leagues/i-league.webp",
-        "Primera Division, Apertura": "assets/logos/leagues/primera-division-apertura.webp"
+        "Primera Division, Apertura": "assets/logos/leagues/primera-division-apertura.webp",
+        "2. Mu\u0161ka Liga": "assets/logos/leagues/2-mu\u0161ka-liga.webp",
+        "Serie A2": "assets/logos/leagues/serie-a2.webp"
     }
 }
