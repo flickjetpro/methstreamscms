@@ -2301,7 +2301,20 @@
         "Carlos Maria Zarate": "assets/logos/upstreams/carlos-maria-zarate.webp",
         "Tomas Farjat": "assets/logos/upstreams/tomas-farjat.webp",
         "Juan Estevez": "assets/logos/upstreams/juan-estevez.webp",
-        "Tadeo Meneo": "assets/logos/upstreams/tadeo-meneo.webp"
+        "Tadeo Meneo": "assets/logos/upstreams/tadeo-meneo.webp",
+        "Arab Contractors FC": "assets/logos/upstreams/arab-contractors-fc.webp",
+        "Al Ahly FC": "assets/logos/upstreams/al-ahly-fc.webp",
+        "Petrojet": "assets/logos/upstreams/petrojet.webp",
+        "Tala'ea El-Gaish": "assets/logos/upstreams/talaea-el-gaish.webp",
+        "Haras El Hodoud": "assets/logos/upstreams/haras-el-hodoud.webp",
+        "Pyramids FC": "assets/logos/upstreams/pyramids-fc.webp",
+        "Ceramica Cleopatra": "assets/logos/upstreams/ceramica-cleopatra.webp",
+        "National Bank of Egypt": "assets/logos/upstreams/national-bank-of-egypt.webp",
+        "Colomiers Rugby": "assets/logos/upstreams/colomiers-rugby.webp",
+        "CA Brive": "assets/logos/upstreams/ca-brive.webp",
+        "Lions": "assets/logos/upstreams/lions.webp",
+        "Warriors": "assets/logos/upstreams/warriors.webp",
+        "Beograd Woodville": "assets/logos/upstreams/beograd-woodville.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -2571,6 +2584,8 @@
         "Primera Division, Apertura": "assets/logos/leagues/primera-division-apertura.webp",
         "2. Mu\u0161ka Liga": "assets/logos/leagues/2-mu\u0161ka-liga.webp",
         "Serie A2": "assets/logos/leagues/serie-a2.webp",
-        "Sweden Hockey SHL": "assets/logos/leagues/sweden-hockey-shl.webp"
+        "Sweden Hockey SHL": "assets/logos/leagues/sweden-hockey-shl.webp",
+        "Australia - NPL - South": "assets/logos/leagues/australia-npl-south.webp",
+        "Darts": "assets/logos/leagues/darts.webp"
     }
 }
