@@ -2291,7 +2291,17 @@
         "Lorenzo Joaquin Rodriguez": "assets/logos/upstreams/lorenzo-joaquin-rodriguez.webp",
         "Lukas Neumayer": "assets/logos/upstreams/lukas-neumayer.webp",
         "Anja Strausak": "assets/logos/upstreams/anja-strausak.webp",
-        "Lole Courtois": "assets/logos/upstreams/lole-courtois.webp"
+        "Lole Courtois": "assets/logos/upstreams/lole-courtois.webp",
+        "Linkoping": "assets/logos/upstreams/linkoping.webp",
+        "Vaxjo": "assets/logos/upstreams/vaxjo.webp",
+        "Djurgarden": "assets/logos/upstreams/djurgarden.webp",
+        "Malmo": "assets/logos/upstreams/malmo.webp",
+        "Farjestad": "assets/logos/upstreams/farjestad.webp",
+        "Leksand": "assets/logos/upstreams/leksand.webp",
+        "Carlos Maria Zarate": "assets/logos/upstreams/carlos-maria-zarate.webp",
+        "Tomas Farjat": "assets/logos/upstreams/tomas-farjat.webp",
+        "Juan Estevez": "assets/logos/upstreams/juan-estevez.webp",
+        "Tadeo Meneo": "assets/logos/upstreams/tadeo-meneo.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -2560,6 +2570,7 @@
         "I-League": "assets/logos/leagues/i-league.webp",
         "Primera Division, Apertura": "assets/logos/leagues/primera-division-apertura.webp",
         "2. Mu\u0161ka Liga": "assets/logos/leagues/2-mu\u0161ka-liga.webp",
-        "Serie A2": "assets/logos/leagues/serie-a2.webp"
+        "Serie A2": "assets/logos/leagues/serie-a2.webp",
+        "Sweden Hockey SHL": "assets/logos/leagues/sweden-hockey-shl.webp"
     }
 }
