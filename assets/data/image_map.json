@@ -2314,7 +2314,11 @@
         "CA Brive": "assets/logos/upstreams/ca-brive.webp",
         "Lions": "assets/logos/upstreams/lions.webp",
         "Warriors": "assets/logos/upstreams/warriors.webp",
-        "Beograd Woodville": "assets/logos/upstreams/beograd-woodville.webp"
+        "Beograd Woodville": "assets/logos/upstreams/beograd-woodville.webp",
+        "Liberty": "assets/logos/streamed/liberty.webp",
+        "Louisiana Tech": "assets/logos/streamed/louisiana-tech.webp",
+        "Boston University": "assets/logos/streamed/boston-university.webp",
+        "American": "assets/logos/streamed/american.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
