@@ -1667,7 +1667,19 @@
         "San Lorenzo de Almagro": "assets/logos/upstreams/san-lorenzo-de-almagro.webp",
         "NK Opatija": "assets/logos/upstreams/nk-opatija.webp",
         "Hrvace": "assets/logos/upstreams/hrvace.webp",
-        "Huesca": "assets/logos/upstreams/huesca.webp"
+        "Huesca": "assets/logos/upstreams/huesca.webp",
+        "Metropolitanos FC": "assets/logos/streamed/metropolitanos-fc.webp",
+        "Melgar": "assets/logos/streamed/melgar.webp",
+        "Atl\u00e9tico Junior": "assets/logos/streamed/atl\u00e9tico-junior.webp",
+        "Alianza de Valledupar": "assets/logos/streamed/alianza-de-valledupar.webp",
+        "Chiefs Super Rugby": "assets/logos/streamed/chiefs-super-rugby.webp",
+        "New South Wales Waratahs": "assets/logos/streamed/new-south-wales-waratahs.webp",
+        "Hurricanes Super Rugby": "assets/logos/streamed/hurricanes-super-rugby.webp",
+        "Japan Baseball": "assets/logos/streamed/japan-baseball.webp",
+        "Panama Baseball": "assets/logos/streamed/panama-baseball.webp",
+        "Cuba Baseball": "assets/logos/streamed/cuba-baseball.webp",
+        "Bayern Munich": "assets/logos/streamed/bayern-munich.webp",
+        "Borussia M\u00f6nchengladbach": "assets/logos/streamed/borussia-m\u00f6nchengladbach.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
