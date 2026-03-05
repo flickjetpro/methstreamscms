@@ -1805,7 +1805,9 @@
         "New Zealand W": "assets/logos/upstreams/new-zealand-w.webp",
         "Zimbabwe W": "assets/logos/upstreams/zimbabwe-w.webp",
         "India Cricket": "assets/logos/streamed/india-cricket.webp",
-        "England Cricket": "assets/logos/streamed/england-cricket.webp"
+        "England Cricket": "assets/logos/streamed/england-cricket.webp",
+        "Gimnasia M.": "assets/logos/streamed/gimnasia-m.webp",
+        "Defensa Y Justicia": "assets/logos/streamed/defensa-y-justicia.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
