@@ -2322,7 +2322,15 @@
         "Iowa": "assets/logos/streamed/iowa.webp",
         "Michigan": "assets/logos/streamed/michigan.webp",
         "UTEP": "assets/logos/streamed/utep.webp",
-        "Joachim Szamborski": "assets/logos/upstreams/joachim-szamborski.webp"
+        "Joachim Szamborski": "assets/logos/upstreams/joachim-szamborski.webp",
+        "Inter Bogota": "assets/logos/upstreams/inter-bogota.webp",
+        "Santiago Rodriguez Taverna": "assets/logos/upstreams/santiago-rodriguez-taverna.webp",
+        "Nicolas Zanellato": "assets/logos/upstreams/nicolas-zanellato.webp",
+        "Luke Littler": "assets/logos/upstreams/luke-littler.webp",
+        "Josh Rock": "assets/logos/upstreams/josh-rock.webp",
+        "Felix Einig": "assets/logos/upstreams/felix-einig.webp",
+        "Nemanja Malesevic": "assets/logos/upstreams/nemanja-malesevic.webp",
+        "Marcelina Podlinska": "assets/logos/upstreams/marcelina-podlinska.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -2594,6 +2602,8 @@
         "Serie A2": "assets/logos/leagues/serie-a2.webp",
         "Sweden Hockey SHL": "assets/logos/leagues/sweden-hockey-shl.webp",
         "Australia - NPL - South": "assets/logos/leagues/australia-npl-south.webp",
-        "Darts": "assets/logos/leagues/darts.webp"
+        "Darts": "assets/logos/leagues/darts.webp",
+        "Colombia Primera A": "assets/logos/leagues/colombia-primera-a.webp",
+        "Premier League, Night 5": "assets/logos/leagues/premier-league-night-5.webp"
     }
 }
