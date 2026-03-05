@@ -1954,7 +1954,29 @@
         "Filippo Romano": "assets/logos/upstreams/filippo-romano.webp",
         "Jule Niemeier": "assets/logos/upstreams/jule-niemeier.webp",
         "Mona Barthel": "assets/logos/upstreams/mona-barthel.webp",
-        "Santa Fe": "assets/logos/streamed/santa-fe.webp"
+        "Santa Fe": "assets/logos/streamed/santa-fe.webp",
+        "Dobrudzha Dobrich": "assets/logos/upstreams/dobrudzha-dobrich.webp",
+        "Lok. Plovdiv": "assets/logos/upstreams/lok-plovdiv.webp",
+        "CSKA 1948": "assets/logos/upstreams/cska-1948.webp",
+        "Aluminij Kidricevo": "assets/logos/upstreams/aluminij-kidricevo.webp",
+        "Din. Bucuresti": "assets/logos/upstreams/din-bucuresti.webp",
+        "AFC Metalul Buzau": "assets/logos/upstreams/afc-metalul-buzau.webp",
+        "AL Qadisiyah": "assets/logos/upstreams/al-qadisiyah.webp",
+        "Tapiolan Honka II": "assets/logos/upstreams/tapiolan-honka-ii.webp",
+        "BC Nokia": "assets/logos/upstreams/bc-nokia.webp",
+        "Pyrinto Akatemia": "assets/logos/upstreams/pyrinto-akatemia.webp",
+        "Raholan Pyrkiva": "assets/logos/upstreams/raholan-pyrkiva.webp",
+        "Cestistica Citt\u00e0 di San Severo": "assets/logos/upstreams/cestistica-citt\u00e0-di-san-severo.webp",
+        "Asd Loreto Basket": "assets/logos/upstreams/asd-loreto-basket.webp",
+        "Sydney Swans": "assets/logos/upstreams/sydney-swans.webp",
+        "Carlton Blues": "assets/logos/upstreams/carlton-blues.webp",
+        "Ella Haavisto": "assets/logos/upstreams/ella-haavisto.webp",
+        "Harmony Tan": "assets/logos/upstreams/harmony-tan.webp",
+        "Elgin Khoeblal": "assets/logos/upstreams/elgin-khoeblal.webp",
+        "Otso Martikainen": "assets/logos/upstreams/otso-martikainen.webp",
+        "Omar Rhazali": "assets/logos/upstreams/omar-rhazali.webp",
+        "Adrien Burdet": "assets/logos/upstreams/adrien-burdet.webp",
+        "Mateya Stanisavljevic": "assets/logos/upstreams/mateya-stanisavljevic.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -2192,6 +2214,11 @@
         "Turkey - Cup - Gr.B": "assets/logos/leagues/turkey-cup-grb.webp",
         "Liiga": "assets/logos/leagues/liiga.webp",
         "Sweden - SHL": "assets/logos/leagues/sweden-shl.webp",
-        "WTA Indian Wells": "assets/logos/leagues/wta-indian-wells.webp"
+        "WTA Indian Wells": "assets/logos/leagues/wta-indian-wells.webp",
+        "PrvaLiga": "assets/logos/leagues/prvaliga.webp",
+        "Romania Cup": "assets/logos/leagues/romania-cup.webp",
+        "1. Division": "assets/logos/leagues/1-division.webp",
+        "Serie B, Group B": "assets/logos/leagues/serie-b-group-b.webp",
+        "AFL": "assets/logos/leagues/afl.webp"
     }
 }
