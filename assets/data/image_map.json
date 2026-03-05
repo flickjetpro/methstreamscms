@@ -2321,7 +2321,8 @@
         "American": "assets/logos/streamed/american.webp",
         "Iowa": "assets/logos/streamed/iowa.webp",
         "Michigan": "assets/logos/streamed/michigan.webp",
-        "UTEP": "assets/logos/streamed/utep.webp"
+        "UTEP": "assets/logos/streamed/utep.webp",
+        "Joachim Szamborski": "assets/logos/upstreams/joachim-szamborski.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
