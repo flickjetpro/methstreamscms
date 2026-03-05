@@ -2318,7 +2318,10 @@
         "Liberty": "assets/logos/streamed/liberty.webp",
         "Louisiana Tech": "assets/logos/streamed/louisiana-tech.webp",
         "Boston University": "assets/logos/streamed/boston-university.webp",
-        "American": "assets/logos/streamed/american.webp"
+        "American": "assets/logos/streamed/american.webp",
+        "Iowa": "assets/logos/streamed/iowa.webp",
+        "Michigan": "assets/logos/streamed/michigan.webp",
+        "UTEP": "assets/logos/streamed/utep.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
