@@ -1803,7 +1803,9 @@
         "Colombia": "assets/logos/upstreams/colombia.webp",
         "Puerto Rico": "assets/logos/upstreams/puerto-rico.webp",
         "New Zealand W": "assets/logos/upstreams/new-zealand-w.webp",
-        "Zimbabwe W": "assets/logos/upstreams/zimbabwe-w.webp"
+        "Zimbabwe W": "assets/logos/upstreams/zimbabwe-w.webp",
+        "India Cricket": "assets/logos/streamed/india-cricket.webp",
+        "England Cricket": "assets/logos/streamed/england-cricket.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
