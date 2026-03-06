@@ -3176,7 +3176,13 @@
         "Montreal Toundra": "assets/logos/upstreams/montreal-toundra.webp",
         "Sudbury Five": "assets/logos/upstreams/sudbury-five.webp",
         "Osaka": "assets/logos/upstreams/osaka.webp",
-        "Shizuka Sakurada": "assets/logos/upstreams/shizuka-sakurada.webp"
+        "Shizuka Sakurada": "assets/logos/upstreams/shizuka-sakurada.webp",
+        "Al-Taawoun": "assets/logos/upstreams/al-taawoun.webp",
+        "Al-Khaleej": "assets/logos/upstreams/al-khaleej.webp",
+        "Al-Hazem": "assets/logos/upstreams/al-hazem.webp",
+        "Kisvarda": "assets/logos/upstreams/kisvarda.webp",
+        "Puskas Akademia": "assets/logos/upstreams/puskas-akademia.webp",
+        "Faroe Islands": "assets/logos/upstreams/faroe-islands.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -3558,6 +3564,8 @@
         "FIFA World Cup, Women, Qualification, UEFA, Gr. A1": "assets/logos/leagues/fifa-world-cup-women-qualification-uefa-gr-a1.webp",
         "Champions League Americas, Knockout stage": "assets/logos/leagues/champions-league-americas-knockout-stage.webp",
         "Ukraine Premier League": "assets/logos/leagues/ukraine-premier-league.webp",
-        "Japan J League": "assets/logos/leagues/japan-j-league.webp"
+        "Japan J League": "assets/logos/leagues/japan-j-league.webp",
+        "FIFA World Cup, Women, Qualification, UEFA, Gr. C4": "assets/logos/leagues/fifa-world-cup-women-qualification-uefa-gr-c4.webp",
+        "Basketball Euroleague": "assets/logos/leagues/basketball-euroleague.webp"
     }
 }
