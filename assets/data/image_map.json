@@ -3042,7 +3042,9 @@
         "Mohammedan SC": "assets/logos/upstreams/mohammedan-sc.webp",
         "Bengaluru FC": "assets/logos/upstreams/bengaluru-fc.webp",
         "Cholan Kayan": "assets/logos/upstreams/cholan-kayan.webp",
-        "Yanqing Wang": "assets/logos/upstreams/yanqing-wang.webp"
+        "Yanqing Wang": "assets/logos/upstreams/yanqing-wang.webp",
+        "Central Arkansas": "assets/logos/streamed/central-arkansas.webp",
+        "Bellarmine": "assets/logos/streamed/bellarmine.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
