@@ -3185,7 +3185,9 @@
         "Faroe Islands": "assets/logos/upstreams/faroe-islands.webp",
         "Eastern Michigan": "assets/logos/streamed/eastern-michigan.webp",
         "Bowling Green": "assets/logos/streamed/bowling-green.webp",
-        "St Johns": "assets/logos/streamed/st-johns.webp"
+        "St Johns": "assets/logos/streamed/st-johns.webp",
+        "Le Portel": "assets/logos/upstreams/le-portel.webp",
+        "Saint-Quentin": "assets/logos/upstreams/saint-quentin.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -3569,6 +3571,7 @@
         "Ukraine Premier League": "assets/logos/leagues/ukraine-premier-league.webp",
         "Japan J League": "assets/logos/leagues/japan-j-league.webp",
         "FIFA World Cup, Women, Qualification, UEFA, Gr. C4": "assets/logos/leagues/fifa-world-cup-women-qualification-uefa-gr-c4.webp",
-        "Basketball Euroleague": "assets/logos/leagues/basketball-euroleague.webp"
+        "Basketball Euroleague": "assets/logos/leagues/basketball-euroleague.webp",
+        "France Pro A": "assets/logos/leagues/france-pro-a.webp"
     }
 }
