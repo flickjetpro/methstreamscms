@@ -2537,7 +2537,14 @@
         "Italy Rugby": "assets/logos/streamed/italy-rugby.webp",
         "England Rugby": "assets/logos/streamed/england-rugby.webp",
         "Dijon": "assets/logos/streamed/dijon.webp",
-        "FC K\u00f6ln": "assets/logos/streamed/fc-k\u00f6ln.webp"
+        "FC K\u00f6ln": "assets/logos/streamed/fc-k\u00f6ln.webp",
+        "Ind Medellin": "assets/logos/upstreams/ind-medellin.webp",
+        "Juventude": "assets/logos/upstreams/juventude.webp",
+        "Guapor\u00e9 FC": "assets/logos/upstreams/guapor\u00e9-fc.webp",
+        "Grand Rapids Gold": "assets/logos/upstreams/grand-rapids-gold.webp",
+        "Capital City Go-Go": "assets/logos/upstreams/capital-city-go-go.webp",
+        "Alianza": "assets/logos/upstreams/alianza.webp",
+        "Gustavo Heide": "assets/logos/upstreams/gustavo-heide.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
