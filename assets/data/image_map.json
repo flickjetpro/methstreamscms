@@ -3187,7 +3187,9 @@
         "Bowling Green": "assets/logos/streamed/bowling-green.webp",
         "St Johns": "assets/logos/streamed/st-johns.webp",
         "Le Portel": "assets/logos/upstreams/le-portel.webp",
-        "Saint-Quentin": "assets/logos/upstreams/saint-quentin.webp"
+        "Saint-Quentin": "assets/logos/upstreams/saint-quentin.webp",
+        "Kent State": "assets/logos/streamed/kent-state.webp",
+        "Western Michigan": "assets/logos/streamed/western-michigan.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
