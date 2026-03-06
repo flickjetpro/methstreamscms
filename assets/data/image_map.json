@@ -3167,7 +3167,16 @@
         "Reinier de Ridder": "assets/logos/streamed/reinier-de-ridder.webp",
         "Caio Borralho": "assets/logos/streamed/caio-borralho.webp",
         "Charles Oliveira": "assets/logos/streamed/charles-oliveira.webp",
-        "Max Holloway": "assets/logos/streamed/max-holloway.webp"
+        "Max Holloway": "assets/logos/streamed/max-holloway.webp",
+        "Anguilla (W)": "assets/logos/upstreams/anguilla-w.webp",
+        "Dominican Republic (W)": "assets/logos/upstreams/dominican-republic-w.webp",
+        "Oleksandriya": "assets/logos/upstreams/oleksandriya.webp",
+        "Shakhtar Donetsk": "assets/logos/upstreams/shakhtar-donetsk.webp",
+        "Thanh Hoa": "assets/logos/upstreams/thanh-hoa.webp",
+        "Montreal Toundra": "assets/logos/upstreams/montreal-toundra.webp",
+        "Sudbury Five": "assets/logos/upstreams/sudbury-five.webp",
+        "Osaka": "assets/logos/upstreams/osaka.webp",
+        "Shizuka Sakurada": "assets/logos/upstreams/shizuka-sakurada.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -3547,6 +3556,8 @@
         "UEFA Champions League": "assets/logos/leagues/uefa-champions-league.webp",
         "Major League Soccer": "assets/logos/leagues/major-league-soccer.webp",
         "FIFA World Cup, Women, Qualification, UEFA, Gr. A1": "assets/logos/leagues/fifa-world-cup-women-qualification-uefa-gr-a1.webp",
-        "Champions League Americas, Knockout stage": "assets/logos/leagues/champions-league-americas-knockout-stage.webp"
+        "Champions League Americas, Knockout stage": "assets/logos/leagues/champions-league-americas-knockout-stage.webp",
+        "Ukraine Premier League": "assets/logos/leagues/ukraine-premier-league.webp",
+        "Japan J League": "assets/logos/leagues/japan-j-league.webp"
     }
 }
