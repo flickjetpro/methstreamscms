@@ -2957,7 +2957,11 @@
         "Australia W": "assets/logos/upstreams/australia-w.webp",
         "India W": "assets/logos/upstreams/india-w.webp",
         "Brisbane Broncos": "assets/logos/streamed/brisbane-broncos.webp",
-        "Penrith Panthers": "assets/logos/streamed/penrith-panthers.webp"
+        "Penrith Panthers": "assets/logos/streamed/penrith-panthers.webp",
+        "York City Knights": "assets/logos/streamed/york-city-knights.webp",
+        "Warrington Wolves": "assets/logos/streamed/warrington-wolves.webp",
+        "Leigh Leopards": "assets/logos/streamed/leigh-leopards.webp",
+        "Catalans Dragons": "assets/logos/streamed/catalans-dragons.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
