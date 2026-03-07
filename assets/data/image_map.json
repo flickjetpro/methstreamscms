@@ -4114,7 +4114,10 @@
         "Hvidovre IF": "assets/logos/streamed/hvidovre-if.webp",
         "St Bonaventure": "assets/logos/streamed/st-bonaventure.webp",
         "Davidson": "assets/logos/streamed/davidson.webp",
-        "Mississippi": "assets/logos/streamed/mississippi.webp"
+        "Mississippi": "assets/logos/streamed/mississippi.webp",
+        "George Washington": "assets/logos/streamed/george-washington.webp",
+        "Vanderbilt": "assets/logos/streamed/vanderbilt.webp",
+        "Utah": "assets/logos/streamed/utah.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
