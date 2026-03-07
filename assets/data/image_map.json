@@ -3581,7 +3581,28 @@
         "Limpopo": "assets/logos/upstreams/limpopo.webp",
         "Easterns": "assets/logos/upstreams/easterns.webp",
         "Radford": "assets/logos/streamed/radford.webp",
-        "Presbyterian": "assets/logos/streamed/presbyterian.webp"
+        "Presbyterian": "assets/logos/streamed/presbyterian.webp",
+        "Santa Cruz Warriors": "assets/logos/streamed/santa-cruz-warriors.webp",
+        "South Bay Lakers": "assets/logos/streamed/south-bay-lakers.webp",
+        "Launceston United": "assets/logos/streamed/launceston-united.webp",
+        "Devonport City": "assets/logos/streamed/devonport-city.webp",
+        "Orix Buffaloes": "assets/logos/streamed/orix-buffaloes.webp",
+        "Yomiuri Giants": "assets/logos/streamed/yomiuri-giants.webp",
+        "Hokkaido Nippon-Ham Fighters": "assets/logos/streamed/hokkaido-nippon-ham-fighters.webp",
+        "Chiba Lotte Marines": "assets/logos/streamed/chiba-lotte-marines.webp",
+        "Yokohama F Marinos": "assets/logos/streamed/yokohama-f-marinos.webp",
+        "Brisbane Lions": "assets/logos/streamed/brisbane-lions.webp",
+        "Western Bulldogs": "assets/logos/streamed/western-bulldogs.webp",
+        "Japan W": "assets/logos/streamed/japan-w.webp",
+        "1. FC Nurnberg": "assets/logos/streamed/1-fc-nurnberg.webp",
+        "Iceland W": "assets/logos/streamed/iceland-w.webp",
+        "Surrey 89ers": "assets/logos/streamed/surrey-89ers.webp",
+        "Leicester Riders": "assets/logos/streamed/leicester-riders.webp",
+        "Saitama Seibu Lions": "assets/logos/streamed/saitama-seibu-lions.webp",
+        "Tokyo Yakult Swallows": "assets/logos/streamed/tokyo-yakult-swallows.webp",
+        "Hanshin Tigers": "assets/logos/streamed/hanshin-tigers.webp",
+        "Fukuoka SoftBank Hawks": "assets/logos/streamed/fukuoka-softbank-hawks.webp",
+        "Bristol Flyers": "assets/logos/streamed/bristol-flyers.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -3992,6 +4013,7 @@
         "USL Super League": "assets/logos/leagues/usl-super-league.webp",
         "Greece - A1": "assets/logos/leagues/greece-a1.webp",
         "Australia - NPL - Tasmania": "assets/logos/leagues/australia-npl-tasmania.webp",
-        "Norway - EHL - Gr.Retrogradare": "assets/logos/leagues/norway-ehl-grretrogradare.webp"
+        "Norway - EHL - Gr.Retrogradare": "assets/logos/leagues/norway-ehl-grretrogradare.webp",
+        "Segunda Liga": "assets/logos/leagues/segunda-liga.webp"
     }
 }
