@@ -4027,7 +4027,9 @@
         "Bradford Bulls": "assets/logos/streamed/bradford-bulls.webp",
         "Harlequins Women": "assets/logos/streamed/harlequins-women.webp",
         "Saracens Women": "assets/logos/streamed/saracens-women.webp",
-        "Metaloglobus Bucure\u0219ti": "assets/logos/streamed/metaloglobus-bucure\u0219ti.webp"
+        "Metaloglobus Bucure\u0219ti": "assets/logos/streamed/metaloglobus-bucure\u0219ti.webp",
+        "Boreham Wood": "assets/logos/streamed/boreham-wood.webp",
+        "Brackley Town": "assets/logos/streamed/brackley-town.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
