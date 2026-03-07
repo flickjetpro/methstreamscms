@@ -4111,7 +4111,10 @@
         "BMS Herlev": "assets/logos/streamed/bms-herlev.webp",
         "Kastrioti Kruj\u00eb": "assets/logos/streamed/kastrioti-kruj\u00eb.webp",
         "Besa Kavaj\u00eb": "assets/logos/streamed/besa-kavaj\u00eb.webp",
-        "Hvidovre IF": "assets/logos/streamed/hvidovre-if.webp"
+        "Hvidovre IF": "assets/logos/streamed/hvidovre-if.webp",
+        "St Bonaventure": "assets/logos/streamed/st-bonaventure.webp",
+        "Davidson": "assets/logos/streamed/davidson.webp",
+        "Mississippi": "assets/logos/streamed/mississippi.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
