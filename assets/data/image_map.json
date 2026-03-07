@@ -3956,7 +3956,9 @@
         "Rayong": "assets/logos/streamed/rayong.webp",
         "Kanchanaburi Power": "assets/logos/streamed/kanchanaburi-power.webp",
         "Shanghai Port": "assets/logos/streamed/shanghai-port.webp",
-        "Henan FC": "assets/logos/streamed/henan-fc.webp"
+        "Henan FC": "assets/logos/streamed/henan-fc.webp",
+        "Yunnan Yukun": "assets/logos/streamed/yunnan-yukun.webp",
+        "Qingdao Hainiu": "assets/logos/streamed/qingdao-hainiu.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
