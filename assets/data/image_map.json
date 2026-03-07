@@ -4117,7 +4117,11 @@
         "Mississippi": "assets/logos/streamed/mississippi.webp",
         "George Washington": "assets/logos/streamed/george-washington.webp",
         "Vanderbilt": "assets/logos/streamed/vanderbilt.webp",
-        "Utah": "assets/logos/streamed/utah.webp"
+        "Utah": "assets/logos/streamed/utah.webp",
+        "North Dakota": "assets/logos/streamed/north-dakota.webp",
+        "Omaha": "assets/logos/streamed/omaha.webp",
+        "UC Irvine": "assets/logos/streamed/uc-irvine.webp",
+        "UC Davis": "assets/logos/streamed/uc-davis.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
