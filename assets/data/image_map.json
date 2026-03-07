@@ -4278,7 +4278,11 @@
         "Paks": "assets/logos/streamed/paks.webp",
         "BM Guadalajara": "assets/logos/streamed/bm-guadalajara.webp",
         "CB Cangas": "assets/logos/streamed/cb-cangas.webp",
-        "BYU": "assets/logos/streamed/byu.webp"
+        "BYU": "assets/logos/streamed/byu.webp",
+        "HC Ajoie": "assets/logos/streamed/hc-ajoie.webp",
+        "Ambri-Piotta": "assets/logos/streamed/ambri-piotta.webp",
+        "Bern": "assets/logos/streamed/bern.webp",
+        "Dinamo Basket Sassari": "assets/logos/streamed/dinamo-basket-sassari.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
