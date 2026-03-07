@@ -3689,7 +3689,10 @@
         "Busan KCC Egis": "assets/logos/streamed/busan-kcc-egis.webp",
         "Croydon": "assets/logos/streamed/croydon.webp",
         "Kochi United": "assets/logos/streamed/kochi-united.webp",
-        "J\u00fabilo Iwata": "assets/logos/streamed/j\u00fabilo-iwata.webp"
+        "J\u00fabilo Iwata": "assets/logos/streamed/j\u00fabilo-iwata.webp",
+        "Matsumoto Yamaga": "assets/logos/streamed/matsumoto-yamaga.webp",
+        "Renofa Yamaguchi": "assets/logos/streamed/renofa-yamaguchi.webp",
+        "Iwaki": "assets/logos/streamed/iwaki.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
