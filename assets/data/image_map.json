@@ -4036,7 +4036,13 @@
         "Queen's Park": "assets/logos/streamed/queens-park.webp",
         "HC Lada Togliatti": "assets/logos/streamed/hc-lada-togliatti.webp",
         "Spartak Moscow": "assets/logos/streamed/spartak-moscow.webp",
-        "Chunichi Dragons": "assets/logos/streamed/chunichi-dragons.webp"
+        "Chunichi Dragons": "assets/logos/streamed/chunichi-dragons.webp",
+        "PBC MBA Moscow": "assets/logos/streamed/pbc-mba-moscow.webp",
+        "Parma Basket": "assets/logos/streamed/parma-basket.webp",
+        "HC Izhstal": "assets/logos/streamed/hc-izhstal.webp",
+        "Toros Neftekamsk": "assets/logos/streamed/toros-neftekamsk.webp",
+        "CSK VVS Samara": "assets/logos/streamed/csk-vvs-samara.webp",
+        "Bars Kazan": "assets/logos/streamed/bars-kazan.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
