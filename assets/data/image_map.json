@@ -3887,7 +3887,11 @@
         "Kaja Najzer": "assets/logos/upstreams/kaja-najzer.webp",
         "North Eastern MetroStars": "assets/logos/streamed/north-eastern-metrostars.webp",
         "Playford City Patriots": "assets/logos/streamed/playford-city-patriots.webp",
-        "Dalian Yingbo": "assets/logos/streamed/dalian-yingbo.webp"
+        "Dalian Yingbo": "assets/logos/streamed/dalian-yingbo.webp",
+        "Kazakhstan Women": "assets/logos/streamed/kazakhstan-women.webp",
+        "Belarus Women": "assets/logos/streamed/belarus-women.webp",
+        "Chrudim": "assets/logos/streamed/chrudim.webp",
+        "Opava": "assets/logos/streamed/opava.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
