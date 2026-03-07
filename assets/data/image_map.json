@@ -4154,7 +4154,12 @@
         "Kuala Lumpur City": "assets/logos/streamed/kuala-lumpur-city.webp",
         "Melaka": "assets/logos/streamed/melaka.webp",
         "Obolon Kyiv": "assets/logos/streamed/obolon-kyiv.webp",
-        "Kryvbas Kryvyi Rih": "assets/logos/streamed/kryvbas-kryvyi-rih.webp"
+        "Kryvbas Kryvyi Rih": "assets/logos/streamed/kryvbas-kryvyi-rih.webp",
+        "Bohemians 1905": "assets/logos/streamed/bohemians-1905.webp",
+        "Slovan Liberec": "assets/logos/streamed/slovan-liberec.webp",
+        "Dukla Praha": "assets/logos/streamed/dukla-praha.webp",
+        "BC Juventus": "assets/logos/streamed/bc-juventus.webp",
+        "BC Lietkabelis": "assets/logos/streamed/bc-lietkabelis.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
