@@ -4259,7 +4259,9 @@
         "Independiente Medell\u00edn U20": "assets/logos/upstreams/independiente-medell\u00edn-u20.webp",
         "Club Bolivar U20": "assets/logos/upstreams/club-bolivar-u20.webp",
         "Le Mans Sarthe Basket": "assets/logos/streamed/le-mans-sarthe-basket.webp",
-        "MIrandes": "assets/logos/upstreams/mirandes.webp"
+        "MIrandes": "assets/logos/upstreams/mirandes.webp",
+        "Newroz": "assets/logos/streamed/newroz.webp",
+        "Al-Zawraa": "assets/logos/streamed/al-zawraa.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
