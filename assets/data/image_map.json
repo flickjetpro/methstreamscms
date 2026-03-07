@@ -3893,7 +3893,11 @@
         "Chrudim": "assets/logos/streamed/chrudim.webp",
         "Opava": "assets/logos/streamed/opava.webp",
         "HC Zvezda Moscow": "assets/logos/streamed/hc-zvezda-moscow.webp",
-        "HC Chelny": "assets/logos/streamed/hc-chelny.webp"
+        "HC Chelny": "assets/logos/streamed/hc-chelny.webp",
+        "Galatasaray SK": "assets/logos/streamed/galatasaray-sk.webp",
+        "T\u00fcrk Telekom BK": "assets/logos/streamed/t\u00fcrk-telekom-bk.webp",
+        "La\u00e7i": "assets/logos/streamed/la\u00e7i.webp",
+        "Apolonia Fier": "assets/logos/streamed/apolonia-fier.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
