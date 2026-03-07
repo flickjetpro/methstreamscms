@@ -4298,7 +4298,9 @@
         "Dartmouth": "assets/logos/streamed/dartmouth.webp",
         "Cornell": "assets/logos/streamed/cornell.webp",
         "Pallacanestro Reggiana": "assets/logos/streamed/pallacanestro-reggiana.webp",
-        "Pallacanestro Trieste": "assets/logos/streamed/pallacanestro-trieste.webp"
+        "Pallacanestro Trieste": "assets/logos/streamed/pallacanestro-trieste.webp",
+        "Vermont": "assets/logos/streamed/vermont.webp",
+        "Bryant": "assets/logos/streamed/bryant.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
