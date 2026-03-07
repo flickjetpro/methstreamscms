@@ -4331,7 +4331,11 @@
         "URT": "assets/logos/streamed/urt.webp",
         "Sporting Cristal U20": "assets/logos/upstreams/sporting-cristal-u20.webp",
         "Olimpia U20": "assets/logos/upstreams/olimpia-u20.webp",
-        "Alexde Minaur": "assets/logos/upstreams/alexde-minaur.webp"
+        "Alexde Minaur": "assets/logos/upstreams/alexde-minaur.webp",
+        "Rip City Remix": "assets/logos/streamed/rip-city-remix.webp",
+        "Valley Suns": "assets/logos/streamed/valley-suns.webp",
+        "Greensboro Swarm": "assets/logos/streamed/greensboro-swarm.webp",
+        "Motor City Cruise": "assets/logos/streamed/motor-city-cruise.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
