@@ -4323,7 +4323,14 @@
         "Purdue Fort Wayne": "assets/logos/streamed/purdue-fort-wayne.webp",
         "New Mexico State": "assets/logos/streamed/new-mexico-state.webp",
         "Mushuc Runa": "assets/logos/streamed/mushuc-runa.webp",
-        "Emelec": "assets/logos/streamed/emelec.webp"
+        "Emelec": "assets/logos/streamed/emelec.webp",
+        "Kawkab Marrakech": "assets/logos/streamed/kawkab-marrakech.webp",
+        "Raja Casablanca": "assets/logos/streamed/raja-casablanca.webp",
+        "Olympic Safi": "assets/logos/streamed/olympic-safi.webp",
+        "North": "assets/logos/streamed/north.webp",
+        "URT": "assets/logos/streamed/urt.webp",
+        "Sporting Cristal U20": "assets/logos/upstreams/sporting-cristal-u20.webp",
+        "Olimpia U20": "assets/logos/upstreams/olimpia-u20.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -4770,6 +4777,7 @@
         "Segunda FEB, Group West": "assets/logos/leagues/segunda-feb-group-west.webp",
         "U20 CONMEBOL Libertadores, Group A": "assets/logos/leagues/u20-conmebol-libertadores-group-a.webp",
         "Portugal - I Divisao": "assets/logos/leagues/portugal-i-divisao.webp",
-        "I A MCKL": "assets/logos/leagues/i-a-mckl.webp"
+        "I A MCKL": "assets/logos/leagues/i-a-mckl.webp",
+        "U20 CONMEBOL Libertadores, Group B": "assets/logos/leagues/u20-conmebol-libertadores-group-b.webp"
     }
 }
