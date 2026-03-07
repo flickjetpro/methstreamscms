@@ -4212,7 +4212,10 @@
         "Deportivo Moquegua": "assets/logos/streamed/deportivo-moquegua.webp",
         "Sport Huancayo": "assets/logos/streamed/sport-huancayo.webp",
         "Peristeri BC": "assets/logos/streamed/peristeri-bc.webp",
-        "Panionios BC": "assets/logos/streamed/panionios-bc.webp"
+        "Panionios BC": "assets/logos/streamed/panionios-bc.webp",
+        "SKA Saint Petersburg": "assets/logos/streamed/ska-saint-petersburg.webp",
+        "Tappara": "assets/logos/streamed/tappara.webp",
+        "KalPa": "assets/logos/streamed/kalpa.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
