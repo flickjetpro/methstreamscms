@@ -3897,7 +3897,9 @@
         "Galatasaray SK": "assets/logos/streamed/galatasaray-sk.webp",
         "T\u00fcrk Telekom BK": "assets/logos/streamed/t\u00fcrk-telekom-bk.webp",
         "La\u00e7i": "assets/logos/streamed/la\u00e7i.webp",
-        "Apolonia Fier": "assets/logos/streamed/apolonia-fier.webp"
+        "Apolonia Fier": "assets/logos/streamed/apolonia-fier.webp",
+        "AEK BC": "assets/logos/streamed/aek-bc.webp",
+        "Promitheas Patras BC": "assets/logos/streamed/promitheas-patras-bc.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
