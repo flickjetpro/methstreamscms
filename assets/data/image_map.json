@@ -3703,7 +3703,9 @@
         "Amur Khabarovsk": "assets/logos/streamed/amur-khabarovsk.webp",
         "Salavat Yulaev Ufa": "assets/logos/streamed/salavat-yulaev-ufa.webp",
         "Manly Sea Eagles": "assets/logos/streamed/manly-sea-eagles.webp",
-        "Canberra Raiders": "assets/logos/streamed/canberra-raiders.webp"
+        "Canberra Raiders": "assets/logos/streamed/canberra-raiders.webp",
+        "Yongin FC": "assets/logos/streamed/yongin-fc.webp",
+        "Chongqing Tonglianglong": "assets/logos/streamed/chongqing-tonglianglong.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
