@@ -4121,7 +4121,23 @@
         "North Dakota": "assets/logos/streamed/north-dakota.webp",
         "Omaha": "assets/logos/streamed/omaha.webp",
         "UC Irvine": "assets/logos/streamed/uc-irvine.webp",
-        "UC Davis": "assets/logos/streamed/uc-davis.webp"
+        "UC Davis": "assets/logos/streamed/uc-davis.webp",
+        "Gloria": "assets/logos/upstreams/gloria.webp",
+        "Academia Pervanciuc": "assets/logos/upstreams/academia-pervanciuc.webp",
+        "Ferreira Zezere": "assets/logos/upstreams/ferreira-zezere.webp",
+        "Leoes Porto Salvo": "assets/logos/upstreams/leoes-porto-salvo.webp",
+        "SC Braga/AAUM": "assets/logos/upstreams/sc-bragaaaum.webp",
+        "BCM Gravelines-Dunkerque": "assets/logos/upstreams/bcm-gravelines-dunkerque.webp",
+        "Boulazac Basket": "assets/logos/upstreams/boulazac-basket.webp",
+        "Pesaro": "assets/logos/upstreams/pesaro.webp",
+        "JuVi Cremona": "assets/logos/upstreams/juvi-cremona.webp",
+        "Pistoia": "assets/logos/upstreams/pistoia.webp",
+        "Scafati": "assets/logos/upstreams/scafati.webp",
+        "Rimini": "assets/logos/upstreams/rimini.webp",
+        "Brindisi": "assets/logos/upstreams/brindisi.webp",
+        "Real Sebastiani Rieti": "assets/logos/upstreams/real-sebastiani-rieti.webp",
+        "Roseto": "assets/logos/upstreams/roseto.webp",
+        "Quinta dos Lombos": "assets/logos/upstreams/quinta-dos-lombos.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -4566,6 +4582,7 @@
         "Segunda FEB, Group East": "assets/logos/leagues/segunda-feb-group-east.webp",
         "Swiss Basketball League Women": "assets/logos/leagues/swiss-basketball-league-women.webp",
         "Segunda FEB, Group West": "assets/logos/leagues/segunda-feb-group-west.webp",
-        "U20 CONMEBOL Libertadores, Group A": "assets/logos/leagues/u20-conmebol-libertadores-group-a.webp"
+        "U20 CONMEBOL Libertadores, Group A": "assets/logos/leagues/u20-conmebol-libertadores-group-a.webp",
+        "Portugal - I Divisao": "assets/logos/leagues/portugal-i-divisao.webp"
     }
 }
