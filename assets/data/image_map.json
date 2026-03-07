@@ -4292,7 +4292,13 @@
         "Sporting Delhi": "assets/logos/upstreams/sporting-delhi.webp",
         "AS Douanes": "assets/logos/upstreams/as-douanes.webp",
         "AS Pompier": "assets/logos/upstreams/as-pompier.webp",
-        "Olympiacos Piraeus Basketball": "assets/logos/streamed/olympiacos-piraeus-basketball.webp"
+        "Olympiacos Piraeus Basketball": "assets/logos/streamed/olympiacos-piraeus-basketball.webp",
+        "Yale": "assets/logos/streamed/yale.webp",
+        "Princeton": "assets/logos/streamed/princeton.webp",
+        "Dartmouth": "assets/logos/streamed/dartmouth.webp",
+        "Cornell": "assets/logos/streamed/cornell.webp",
+        "Pallacanestro Reggiana": "assets/logos/streamed/pallacanestro-reggiana.webp",
+        "Pallacanestro Trieste": "assets/logos/streamed/pallacanestro-trieste.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
