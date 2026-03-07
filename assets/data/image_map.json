@@ -4321,7 +4321,9 @@
         "Mixco": "assets/logos/streamed/mixco.webp",
         "Guastatoya": "assets/logos/streamed/guastatoya.webp",
         "Purdue Fort Wayne": "assets/logos/streamed/purdue-fort-wayne.webp",
-        "New Mexico State": "assets/logos/streamed/new-mexico-state.webp"
+        "New Mexico State": "assets/logos/streamed/new-mexico-state.webp",
+        "Mushuc Runa": "assets/logos/streamed/mushuc-runa.webp",
+        "Emelec": "assets/logos/streamed/emelec.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
