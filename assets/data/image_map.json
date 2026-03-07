@@ -4203,7 +4203,9 @@
         "Jukurit": "assets/logos/streamed/jukurit.webp",
         "Assat": "assets/logos/streamed/assat.webp",
         "BC UNICS": "assets/logos/streamed/bc-unics.webp",
-        "BC Zenit Saint Petersburg": "assets/logos/streamed/bc-zenit-saint-petersburg.webp"
+        "BC Zenit Saint Petersburg": "assets/logos/streamed/bc-zenit-saint-petersburg.webp",
+        "Zemgale": "assets/logos/streamed/zemgale.webp",
+        "HK Prizma Riga": "assets/logos/streamed/hk-prizma-riga.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
