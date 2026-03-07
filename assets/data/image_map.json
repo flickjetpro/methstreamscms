@@ -4271,7 +4271,9 @@
         "New Hampshire": "assets/logos/streamed/new-hampshire.webp",
         "UMass": "assets/logos/streamed/umass.webp",
         "Oviedo CB": "assets/logos/streamed/oviedo-cb.webp",
-        "Cartagena CB": "assets/logos/streamed/cartagena-cb.webp"
+        "Cartagena CB": "assets/logos/streamed/cartagena-cb.webp",
+        "Ty Mitchell": "assets/logos/upstreams/ty-mitchell.webp",
+        "Gabriel Rosado": "assets/logos/upstreams/gabriel-rosado.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
