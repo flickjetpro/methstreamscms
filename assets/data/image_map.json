@@ -4169,7 +4169,9 @@
         "Portuguesa FC": "assets/logos/upstreams/portuguesa-fc.webp",
         "Trujillanos FC": "assets/logos/upstreams/trujillanos-fc.webp",
         "Hwaseong FC": "assets/logos/upstreams/hwaseong-fc.webp",
-        "Gimhae City FC": "assets/logos/upstreams/gimhae-city-fc.webp"
+        "Gimhae City FC": "assets/logos/upstreams/gimhae-city-fc.webp",
+        "SaiPa": "assets/logos/streamed/saipa.webp",
+        "Pelicans": "assets/logos/streamed/pelicans.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
