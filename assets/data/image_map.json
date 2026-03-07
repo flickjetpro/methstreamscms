@@ -3699,7 +3699,11 @@
         "Cronulla Sharks": "assets/logos/streamed/cronulla-sharks.webp",
         "Gold Coast Titans": "assets/logos/streamed/gold-coast-titans.webp",
         "Yokohama DeNA BayStars": "assets/logos/streamed/yokohama-dena-baystars.webp",
-        "Hiroshima Toyo Carp": "assets/logos/streamed/hiroshima-toyo-carp.webp"
+        "Hiroshima Toyo Carp": "assets/logos/streamed/hiroshima-toyo-carp.webp",
+        "Amur Khabarovsk": "assets/logos/streamed/amur-khabarovsk.webp",
+        "Salavat Yulaev Ufa": "assets/logos/streamed/salavat-yulaev-ufa.webp",
+        "Manly Sea Eagles": "assets/logos/streamed/manly-sea-eagles.webp",
+        "Canberra Raiders": "assets/logos/streamed/canberra-raiders.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
