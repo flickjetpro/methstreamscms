@@ -4029,7 +4029,10 @@
         "Saracens Women": "assets/logos/streamed/saracens-women.webp",
         "Metaloglobus Bucure\u0219ti": "assets/logos/streamed/metaloglobus-bucure\u0219ti.webp",
         "Boreham Wood": "assets/logos/streamed/boreham-wood.webp",
-        "Brackley Town": "assets/logos/streamed/brackley-town.webp"
+        "Brackley Town": "assets/logos/streamed/brackley-town.webp",
+        "Nakhon Ratchasima": "assets/logos/streamed/nakhon-ratchasima.webp",
+        "Maccabi Netanya": "assets/logos/streamed/maccabi-netanya.webp",
+        "Hapoel Haifa": "assets/logos/streamed/hapoel-haifa.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
