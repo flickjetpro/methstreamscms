@@ -3695,7 +3695,9 @@
         "Iwaki": "assets/logos/streamed/iwaki.webp",
         "West Adelaide": "assets/logos/streamed/west-adelaide.webp",
         "Launceston City": "assets/logos/streamed/launceston-city.webp",
-        "Mito HollyHock": "assets/logos/streamed/mito-hollyhock.webp"
+        "Mito HollyHock": "assets/logos/streamed/mito-hollyhock.webp",
+        "Cronulla Sharks": "assets/logos/streamed/cronulla-sharks.webp",
+        "Gold Coast Titans": "assets/logos/streamed/gold-coast-titans.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
