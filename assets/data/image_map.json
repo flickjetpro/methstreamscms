@@ -4265,7 +4265,11 @@
         "Oklahoma City Blue": "assets/logos/streamed/oklahoma-city-blue.webp",
         "Texas Legends": "assets/logos/streamed/texas-legends.webp",
         "Baloncesto Fuenlabrada": "assets/logos/streamed/baloncesto-fuenlabrada.webp",
-        "Obradoiro CAB": "assets/logos/streamed/obradoiro-cab.webp"
+        "Obradoiro CAB": "assets/logos/streamed/obradoiro-cab.webp",
+        "Massachusetts Lowell": "assets/logos/streamed/massachusetts-lowell.webp",
+        "UAlbany": "assets/logos/streamed/ualbany.webp",
+        "New Hampshire": "assets/logos/streamed/new-hampshire.webp",
+        "UMass": "assets/logos/streamed/umass.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
