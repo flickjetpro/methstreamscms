@@ -4346,7 +4346,10 @@
         "La Union": "assets/logos/streamed/la-union.webp",
         "Gimnasia y Esgrima de Comodoro Rivadavia": "assets/logos/streamed/gimnasia-y-esgrima-de-comodoro-rivadavia.webp",
         "One Knoxville": "assets/logos/streamed/one-knoxville.webp",
-        "Cusco": "assets/logos/streamed/cusco.webp"
+        "Cusco": "assets/logos/streamed/cusco.webp",
+        "Abilene Christian": "assets/logos/streamed/abilene-christian.webp",
+        "Texas-Arlington": "assets/logos/streamed/texas-arlington.webp",
+        "Sacramento State": "assets/logos/streamed/sacramento-state.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
