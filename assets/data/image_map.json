@@ -4317,7 +4317,11 @@
         "Union Saint-Gilloise": "assets/logos/streamed/union-saint-gilloise.webp",
         "Netherlands Women": "assets/logos/streamed/netherlands-women.webp",
         "Ireland Women": "assets/logos/streamed/ireland-women.webp",
-        "Maine": "assets/logos/streamed/maine.webp"
+        "Maine": "assets/logos/streamed/maine.webp",
+        "Mixco": "assets/logos/streamed/mixco.webp",
+        "Guastatoya": "assets/logos/streamed/guastatoya.webp",
+        "Purdue Fort Wayne": "assets/logos/streamed/purdue-fort-wayne.webp",
+        "New Mexico State": "assets/logos/streamed/new-mexico-state.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
