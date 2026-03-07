@@ -4152,7 +4152,9 @@
         "Sibir Novosibirsk": "assets/logos/streamed/sibir-novosibirsk.webp",
         "Slaven Belupo Koprivnica": "assets/logos/streamed/slaven-belupo-koprivnica.webp",
         "Kuala Lumpur City": "assets/logos/streamed/kuala-lumpur-city.webp",
-        "Melaka": "assets/logos/streamed/melaka.webp"
+        "Melaka": "assets/logos/streamed/melaka.webp",
+        "Obolon Kyiv": "assets/logos/streamed/obolon-kyiv.webp",
+        "Kryvbas Kryvyi Rih": "assets/logos/streamed/kryvbas-kryvyi-rih.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
