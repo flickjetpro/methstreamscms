@@ -4286,7 +4286,12 @@
         "BC Andorra": "assets/logos/streamed/bc-andorra.webp",
         "HC Fribourg-Gott\u00e9ron": "assets/logos/streamed/hc-fribourg-gott\u00e9ron.webp",
         "Lausanne HC": "assets/logos/streamed/lausanne-hc.webp",
-        "Zug": "assets/logos/streamed/zug.webp"
+        "Zug": "assets/logos/streamed/zug.webp",
+        "RWDM Brussels": "assets/logos/streamed/rwdm-brussels.webp",
+        "Mumbai City FC": "assets/logos/upstreams/mumbai-city-fc.webp",
+        "Sporting Delhi": "assets/logos/upstreams/sporting-delhi.webp",
+        "AS Douanes": "assets/logos/upstreams/as-douanes.webp",
+        "AS Pompier": "assets/logos/upstreams/as-pompier.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
