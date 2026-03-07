@@ -4020,7 +4020,11 @@
         "Gustav Bjorkler": "assets/logos/upstreams/gustav-bjorkler.webp",
         "Jeppe Bruun": "assets/logos/upstreams/jeppe-bruun.webp",
         "Wolfgang Gnedt": "assets/logos/upstreams/wolfgang-gnedt.webp",
-        "Jakob Houe": "assets/logos/upstreams/jakob-houe.webp"
+        "Jakob Houe": "assets/logos/upstreams/jakob-houe.webp",
+        "Toulouse Olympique": "assets/logos/streamed/toulouse-olympique.webp",
+        "Wigan Warriors": "assets/logos/streamed/wigan-warriors.webp",
+        "St Helens": "assets/logos/streamed/st-helens.webp",
+        "Bradford Bulls": "assets/logos/streamed/bradford-bulls.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
