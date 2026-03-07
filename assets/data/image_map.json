@@ -4137,7 +4137,13 @@
         "Brindisi": "assets/logos/upstreams/brindisi.webp",
         "Real Sebastiani Rieti": "assets/logos/upstreams/real-sebastiani-rieti.webp",
         "Roseto": "assets/logos/upstreams/roseto.webp",
-        "Quinta dos Lombos": "assets/logos/upstreams/quinta-dos-lombos.webp"
+        "Quinta dos Lombos": "assets/logos/upstreams/quinta-dos-lombos.webp",
+        "BC Avtodor Saratov": "assets/logos/streamed/bc-avtodor-saratov.webp",
+        "Uralmash Ekaterinburg": "assets/logos/streamed/uralmash-ekaterinburg.webp",
+        "Sabah": "assets/logos/streamed/sabah.webp",
+        "Rostov": "assets/logos/streamed/rostov.webp",
+        "FH Hafnarfjordur": "assets/logos/streamed/fh-hafnarfjordur.webp",
+        "Moss": "assets/logos/streamed/moss.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
