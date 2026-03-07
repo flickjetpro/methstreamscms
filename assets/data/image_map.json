@@ -4024,7 +4024,9 @@
         "Toulouse Olympique": "assets/logos/streamed/toulouse-olympique.webp",
         "Wigan Warriors": "assets/logos/streamed/wigan-warriors.webp",
         "St Helens": "assets/logos/streamed/st-helens.webp",
-        "Bradford Bulls": "assets/logos/streamed/bradford-bulls.webp"
+        "Bradford Bulls": "assets/logos/streamed/bradford-bulls.webp",
+        "Harlequins Women": "assets/logos/streamed/harlequins-women.webp",
+        "Saracens Women": "assets/logos/streamed/saracens-women.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
