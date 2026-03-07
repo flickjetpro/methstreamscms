@@ -3679,7 +3679,15 @@
         "Ugo Humbert": "assets/logos/upstreams/ugo-humbert.webp",
         "Jiri Lehecka": "assets/logos/upstreams/jiri-lehecka.webp",
         "Taylor Fritz": "assets/logos/upstreams/taylor-fritz.webp",
-        "Daniil Medvedev": "assets/logos/upstreams/daniil-medvedev.webp"
+        "Daniil Medvedev": "assets/logos/upstreams/daniil-medvedev.webp",
+        "West Torrens Birkalla": "assets/logos/streamed/west-torrens-birkalla.webp",
+        "Paju Frontier": "assets/logos/streamed/paju-frontier.webp",
+        "Seoul E-Land": "assets/logos/streamed/seoul-e-land.webp",
+        "Chinese Taipei Women": "assets/logos/streamed/chinese-taipei-women.webp",
+        "Vietnam Women": "assets/logos/streamed/vietnam-women.webp",
+        "Seoul Samsung Thunders": "assets/logos/streamed/seoul-samsung-thunders.webp",
+        "Busan KCC Egis": "assets/logos/streamed/busan-kcc-egis.webp",
+        "Croydon": "assets/logos/streamed/croydon.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
