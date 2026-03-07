@@ -4032,7 +4032,10 @@
         "Brackley Town": "assets/logos/streamed/brackley-town.webp",
         "Nakhon Ratchasima": "assets/logos/streamed/nakhon-ratchasima.webp",
         "Maccabi Netanya": "assets/logos/streamed/maccabi-netanya.webp",
-        "Hapoel Haifa": "assets/logos/streamed/hapoel-haifa.webp"
+        "Hapoel Haifa": "assets/logos/streamed/hapoel-haifa.webp",
+        "Queen's Park": "assets/logos/streamed/queens-park.webp",
+        "HC Lada Togliatti": "assets/logos/streamed/hc-lada-togliatti.webp",
+        "Spartak Moscow": "assets/logos/streamed/spartak-moscow.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
