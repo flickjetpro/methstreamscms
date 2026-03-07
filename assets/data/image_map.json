@@ -4261,7 +4261,11 @@
         "Le Mans Sarthe Basket": "assets/logos/streamed/le-mans-sarthe-basket.webp",
         "MIrandes": "assets/logos/upstreams/mirandes.webp",
         "Newroz": "assets/logos/streamed/newroz.webp",
-        "Al-Zawraa": "assets/logos/streamed/al-zawraa.webp"
+        "Al-Zawraa": "assets/logos/streamed/al-zawraa.webp",
+        "Oklahoma City Blue": "assets/logos/streamed/oklahoma-city-blue.webp",
+        "Texas Legends": "assets/logos/streamed/texas-legends.webp",
+        "Baloncesto Fuenlabrada": "assets/logos/streamed/baloncesto-fuenlabrada.webp",
+        "Obradoiro CAB": "assets/logos/streamed/obradoiro-cab.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
