@@ -4241,7 +4241,23 @@
         "ESSM Le Portel": "assets/logos/streamed/essm-le-portel.webp",
         "Saint-Quentin Basket-Ball": "assets/logos/streamed/saint-quentin-basket-ball.webp",
         "Gipuzkoa Basket": "assets/logos/streamed/gipuzkoa-basket.webp",
-        "Club Ourense Baloncesto": "assets/logos/streamed/club-ourense-baloncesto.webp"
+        "Club Ourense Baloncesto": "assets/logos/streamed/club-ourense-baloncesto.webp",
+        "Charleroi": "assets/logos/streamed/charleroi.webp",
+        "Shillong Lajong FC": "assets/logos/upstreams/shillong-lajong-fc.webp",
+        "Real Kashmir": "assets/logos/upstreams/real-kashmir.webp",
+        "KK Podgorica": "assets/logos/upstreams/kk-podgorica.webp",
+        "KK Teodo Tivat": "assets/logos/upstreams/kk-teodo-tivat.webp",
+        "Kk Ulcinjska Rivijera Ulcinj": "assets/logos/upstreams/kk-ulcinjska-rivijera-ulcinj.webp",
+        "Kk Vukovi Zeta": "assets/logos/upstreams/kk-vukovi-zeta.webp",
+        "Lovcen Cetinje": "assets/logos/upstreams/lovcen-cetinje.webp",
+        "KK Decic": "assets/logos/upstreams/kk-decic.webp",
+        "Sutjeska": "assets/logos/upstreams/sutjeska.webp",
+        "Zeta 2011 Podgorica": "assets/logos/upstreams/zeta-2011-podgorica.webp",
+        "Kk Pljevlja": "assets/logos/upstreams/kk-pljevlja.webp",
+        "Club Baloncesto Valle de Egues": "assets/logos/upstreams/club-baloncesto-valle-de-egues.webp",
+        "Ja\u00e9n Paraiso Interior CB": "assets/logos/upstreams/ja\u00e9n-paraiso-interior-cb.webp",
+        "Independiente Medell\u00edn U20": "assets/logos/upstreams/independiente-medell\u00edn-u20.webp",
+        "Club Bolivar U20": "assets/logos/upstreams/club-bolivar-u20.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -4687,6 +4703,7 @@
         "Swiss Basketball League Women": "assets/logos/leagues/swiss-basketball-league-women.webp",
         "Segunda FEB, Group West": "assets/logos/leagues/segunda-feb-group-west.webp",
         "U20 CONMEBOL Libertadores, Group A": "assets/logos/leagues/u20-conmebol-libertadores-group-a.webp",
-        "Portugal - I Divisao": "assets/logos/leagues/portugal-i-divisao.webp"
+        "Portugal - I Divisao": "assets/logos/leagues/portugal-i-divisao.webp",
+        "I A MCKL": "assets/logos/leagues/i-a-mckl.webp"
     }
 }
