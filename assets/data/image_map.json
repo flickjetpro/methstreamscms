@@ -4234,7 +4234,14 @@
         "Central Cordoba de Santiago": "assets/logos/streamed/central-cordoba-de-santiago.webp",
         "FC Cincinnati": "assets/logos/streamed/fc-cincinnati.webp",
         "Toronto FC": "assets/logos/streamed/toronto-fc.webp",
-        "Panetolikos": "assets/logos/streamed/panetolikos.webp"
+        "Panetolikos": "assets/logos/streamed/panetolikos.webp",
+        "Sigma Olomouc": "assets/logos/streamed/sigma-olomouc.webp",
+        "Omonia Aradippou": "assets/logos/streamed/omonia-aradippou.webp",
+        "Omonia Nicosia": "assets/logos/streamed/omonia-nicosia.webp",
+        "ESSM Le Portel": "assets/logos/streamed/essm-le-portel.webp",
+        "Saint-Quentin Basket-Ball": "assets/logos/streamed/saint-quentin-basket-ball.webp",
+        "Gipuzkoa Basket": "assets/logos/streamed/gipuzkoa-basket.webp",
+        "Club Ourense Baloncesto": "assets/logos/streamed/club-ourense-baloncesto.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
