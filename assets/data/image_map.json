@@ -4342,7 +4342,9 @@
         "Marist": "assets/logos/streamed/marist.webp",
         "Olancho": "assets/logos/streamed/olancho.webp",
         "Platense Puerto Cort\u00e9s": "assets/logos/streamed/platense-puerto-cort\u00e9s.webp",
-        "Northeastern": "assets/logos/streamed/northeastern.webp"
+        "Northeastern": "assets/logos/streamed/northeastern.webp",
+        "La Union": "assets/logos/streamed/la-union.webp",
+        "Gimnasia y Esgrima de Comodoro Rivadavia": "assets/logos/streamed/gimnasia-y-esgrima-de-comodoro-rivadavia.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
