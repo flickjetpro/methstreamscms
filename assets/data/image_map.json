@@ -4160,7 +4160,16 @@
         "Dukla Praha": "assets/logos/streamed/dukla-praha.webp",
         "BC Juventus": "assets/logos/streamed/bc-juventus.webp",
         "BC Lietkabelis": "assets/logos/streamed/bc-lietkabelis.webp",
-        "St Johnstone": "assets/logos/streamed/st-johnstone.webp"
+        "St Johnstone": "assets/logos/streamed/st-johnstone.webp",
+        "1. FSV Mainz 05": "assets/logos/upstreams/1-fsv-mainz-05.webp",
+        "Young Lions": "assets/logos/upstreams/young-lions.webp",
+        "Rayo Zuliano": "assets/logos/upstreams/rayo-zuliano.webp",
+        "Universidad Central": "assets/logos/upstreams/universidad-central.webp",
+        "Czu Farmers Prague": "assets/logos/upstreams/czu-farmers-prague.webp",
+        "Portuguesa FC": "assets/logos/upstreams/portuguesa-fc.webp",
+        "Trujillanos FC": "assets/logos/upstreams/trujillanos-fc.webp",
+        "Hwaseong FC": "assets/logos/upstreams/hwaseong-fc.webp",
+        "Gimhae City FC": "assets/logos/upstreams/gimhae-city-fc.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
