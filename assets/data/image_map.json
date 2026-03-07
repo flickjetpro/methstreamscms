@@ -4273,7 +4273,11 @@
         "Oviedo CB": "assets/logos/streamed/oviedo-cb.webp",
         "Cartagena CB": "assets/logos/streamed/cartagena-cb.webp",
         "Ty Mitchell": "assets/logos/upstreams/ty-mitchell.webp",
-        "Gabriel Rosado": "assets/logos/upstreams/gabriel-rosado.webp"
+        "Gabriel Rosado": "assets/logos/upstreams/gabriel-rosado.webp",
+        "\u00dajpest": "assets/logos/streamed/\u00fajpest.webp",
+        "Paks": "assets/logos/streamed/paks.webp",
+        "BM Guadalajara": "assets/logos/streamed/bm-guadalajara.webp",
+        "CB Cangas": "assets/logos/streamed/cb-cangas.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
