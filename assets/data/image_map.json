@@ -4992,7 +4992,11 @@
         "Vora": "assets/logos/streamed/vora.webp",
         "Aris Limassol": "assets/logos/streamed/aris-limassol.webp",
         "Tirana": "assets/logos/streamed/tirana.webp",
-        "Elbasani": "assets/logos/streamed/elbasani.webp"
+        "Elbasani": "assets/logos/streamed/elbasani.webp",
+        "Auda Kekava": "assets/logos/streamed/auda-kekava.webp",
+        "Super Nova": "assets/logos/streamed/super-nova.webp",
+        "Apollon Limassol": "assets/logos/streamed/apollon-limassol.webp",
+        "AEL Limassol": "assets/logos/streamed/ael-limassol.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
