@@ -4349,7 +4349,25 @@
         "Cusco": "assets/logos/streamed/cusco.webp",
         "Abilene Christian": "assets/logos/streamed/abilene-christian.webp",
         "Texas-Arlington": "assets/logos/streamed/texas-arlington.webp",
-        "Sacramento State": "assets/logos/streamed/sacramento-state.webp"
+        "Sacramento State": "assets/logos/streamed/sacramento-state.webp",
+        "Sassuolo": "assets/logos/upstreams/sassuolo.webp",
+        "Espanyol": "assets/logos/upstreams/espanyol.webp",
+        "Northwestern State Demons": "assets/logos/upstreams/northwestern-state-demons.webp",
+        "Mega Soccerbet": "assets/logos/upstreams/mega-soccerbet.webp",
+        "Studentski Centar": "assets/logos/upstreams/studentski-centar.webp",
+        "Cantu": "assets/logos/upstreams/cantu.webp",
+        "Heidelberg": "assets/logos/upstreams/heidelberg.webp",
+        "FC ASA Tg. Mures": "assets/logos/upstreams/fc-asa-tg-mures.webp",
+        "Chindia Targoviste": "assets/logos/upstreams/chindia-targoviste.webp",
+        "Kayserispor": "assets/logos/upstreams/kayserispor.webp",
+        "Almeria": "assets/logos/upstreams/almeria.webp",
+        "Leonesa": "assets/logos/upstreams/leonesa.webp",
+        "Tondela": "assets/logos/upstreams/tondela.webp",
+        "Rio Ave": "assets/logos/upstreams/rio-ave.webp",
+        "Plock": "assets/logos/upstreams/plock.webp",
+        "Goppingen": "assets/logos/upstreams/goppingen.webp",
+        "Eisenach": "assets/logos/upstreams/eisenach.webp",
+        "Lubbecke": "assets/logos/upstreams/lubbecke.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -4797,6 +4815,8 @@
         "U20 CONMEBOL Libertadores, Group A": "assets/logos/leagues/u20-conmebol-libertadores-group-a.webp",
         "Portugal - I Divisao": "assets/logos/leagues/portugal-i-divisao.webp",
         "I A MCKL": "assets/logos/leagues/i-a-mckl.webp",
-        "U20 CONMEBOL Libertadores, Group B": "assets/logos/leagues/u20-conmebol-libertadores-group-b.webp"
+        "U20 CONMEBOL Libertadores, Group B": "assets/logos/leagues/u20-conmebol-libertadores-group-b.webp",
+        "Southland Conference, Playoffs": "assets/logos/leagues/southland-conference-playoffs.webp",
+        "BBL": "assets/logos/leagues/bbl.webp"
     }
 }
