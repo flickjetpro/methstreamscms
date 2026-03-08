@@ -5103,7 +5103,10 @@
         "Basket Torino": "assets/logos/streamed/basket-torino.webp",
         "Scaligera Basket Verona": "assets/logos/streamed/scaligera-basket-verona.webp",
         "New Basket Brindisi": "assets/logos/streamed/new-basket-brindisi.webp",
-        "Pallacanestro Roseto": "assets/logos/streamed/pallacanestro-roseto.webp"
+        "Pallacanestro Roseto": "assets/logos/streamed/pallacanestro-roseto.webp",
+        "Bangladesh Women": "assets/logos/streamed/bangladesh-women.webp",
+        "Uzbekistan Women": "assets/logos/streamed/uzbekistan-women.webp",
+        "Turkiye": "assets/logos/streamed/turkiye.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
