@@ -5108,7 +5108,10 @@
         "Uzbekistan Women": "assets/logos/streamed/uzbekistan-women.webp",
         "Turkiye": "assets/logos/streamed/turkiye.webp",
         "Korea DPR": "assets/logos/streamed/korea-dpr.webp",
-        "Standard Li\u00e8ge": "assets/logos/streamed/standard-li\u00e8ge.webp"
+        "Standard Li\u00e8ge": "assets/logos/streamed/standard-li\u00e8ge.webp",
+        "CB Gran Canaria": "assets/logos/streamed/cb-gran-canaria.webp",
+        "Estudiantes": "assets/logos/streamed/estudiantes.webp",
+        "CB Menorca": "assets/logos/streamed/cb-menorca.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
