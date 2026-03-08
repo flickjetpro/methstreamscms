@@ -5140,7 +5140,18 @@
         "Tivoli Gardens": "assets/logos/streamed/tivoli-gardens.webp",
         "Dunbeholden": "assets/logos/streamed/dunbeholden.webp",
         "Los Chankas": "assets/logos/streamed/los-chankas.webp",
-        "Universitario": "assets/logos/streamed/universitario.webp"
+        "Universitario": "assets/logos/streamed/universitario.webp",
+        "GFS Panetolikos": "assets/logos/upstreams/gfs-panetolikos.webp",
+        "KK Bosna": "assets/logos/upstreams/kk-bosna.webp",
+        "KK Partizan Mozzart Bet": "assets/logos/upstreams/kk-partizan-mozzart-bet.webp",
+        "Ignacio Antonio Becerra Otarola": "assets/logos/upstreams/ignacio-antonio-becerra-otarola.webp",
+        "Allen Americans": "assets/logos/upstreams/allen-americans.webp",
+        "Tulsa Oilers": "assets/logos/upstreams/tulsa-oilers.webp",
+        "Henry Bernet": "assets/logos/upstreams/henry-bernet.webp",
+        "Stefan Dostanic": "assets/logos/upstreams/stefan-dostanic.webp",
+        "Viktor Durasovic": "assets/logos/upstreams/viktor-durasovic.webp",
+        "Paul Jubb": "assets/logos/upstreams/paul-jubb.webp",
+        "Oriol Roca Batalla": "assets/logos/upstreams/oriol-roca-batalla.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -5622,6 +5633,8 @@
         "Spain - Primera Federacion - Gr.1": "assets/logos/leagues/spain-primera-federacion-gr1.webp",
         "Cherbourg-en-Cotentin, France, Qualifying": "assets/logos/leagues/cherbourg-en-cotentin-france-qualifying.webp",
         "Nigeria - Premier League": "assets/logos/leagues/nigeria-premier-league.webp",
-        "Kigali 2, Rwanda": "assets/logos/leagues/kigali-2-rwanda.webp"
+        "Kigali 2, Rwanda": "assets/logos/leagues/kigali-2-rwanda.webp",
+        "Spanish La Liga": "assets/logos/leagues/spanish-la-liga.webp",
+        "Hersonissos 2, Greece": "assets/logos/leagues/hersonissos-2-greece.webp"
     }
 }
