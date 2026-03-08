@@ -5041,7 +5041,13 @@
         "Granada CF": "assets/logos/streamed/granada-cf.webp",
         "Gravelines-Dunkerque": "assets/logos/streamed/gravelines-dunkerque.webp",
         "Boulazac Basket Dordogne": "assets/logos/streamed/boulazac-basket-dordogne.webp",
-        "Jong Utrecht": "assets/logos/streamed/jong-utrecht.webp"
+        "Jong Utrecht": "assets/logos/streamed/jong-utrecht.webp",
+        "ASFA-Yennenga": "assets/logos/streamed/asfa-yennenga.webp",
+        "RC Bobo-Dioulasso": "assets/logos/streamed/rc-bobo-dioulasso.webp",
+        "Polissya Zhytomyr": "assets/logos/streamed/polissya-zhytomyr.webp",
+        "Dynamo Kyiv": "assets/logos/streamed/dynamo-kyiv.webp",
+        "Valencia Basket": "assets/logos/streamed/valencia-basket.webp",
+        "CB Murcia": "assets/logos/streamed/cb-murcia.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
