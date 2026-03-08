@@ -4823,7 +4823,15 @@
         "Vr\u0161ac": "assets/logos/streamed/vr\u0161ac.webp",
         "Rakow Czestochowa": "assets/logos/streamed/rakow-czestochowa.webp",
         "Gomel": "assets/logos/streamed/gomel.webp",
-        "HK Brest": "assets/logos/streamed/hk-brest.webp"
+        "HK Brest": "assets/logos/streamed/hk-brest.webp",
+        "Triglav Kranj": "assets/logos/streamed/triglav-kranj.webp",
+        "Brinje-Grosuplje": "assets/logos/streamed/brinje-grosuplje.webp",
+        "Jelgava": "assets/logos/streamed/jelgava.webp",
+        "Tukums": "assets/logos/streamed/tukums.webp",
+        "Helsingborg": "assets/logos/streamed/helsingborg.webp",
+        "Sundsvall": "assets/logos/streamed/sundsvall.webp",
+        "Slavia Prague": "assets/logos/streamed/slavia-prague.webp",
+        "Sparta Prague": "assets/logos/streamed/sparta-prague.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
