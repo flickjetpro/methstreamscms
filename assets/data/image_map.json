@@ -4388,7 +4388,17 @@
         "Austin Spurs": "assets/logos/streamed/austin-spurs.webp",
         "Iran Women": "assets/logos/streamed/iran-women.webp",
         "Philippines Women": "assets/logos/streamed/philippines-women.webp",
-        "Irapuato": "assets/logos/streamed/irapuato.webp"
+        "Irapuato": "assets/logos/streamed/irapuato.webp",
+        "Choloma": "assets/logos/streamed/choloma.webp",
+        "Motagua": "assets/logos/streamed/motagua.webp",
+        "San Antonio": "assets/logos/streamed/san-antonio.webp",
+        "Phoenix Rising": "assets/logos/streamed/phoenix-rising.webp",
+        "Southern Utah": "assets/logos/streamed/southern-utah.webp",
+        "California Baptist": "assets/logos/streamed/california-baptist.webp",
+        "Mercer": "assets/logos/streamed/mercer.webp",
+        "Western Carolina": "assets/logos/streamed/western-carolina.webp",
+        "Siena": "assets/logos/streamed/siena.webp",
+        "Mount St Marys": "assets/logos/streamed/mount-st-marys.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
