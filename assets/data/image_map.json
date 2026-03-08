@@ -4732,7 +4732,12 @@
         "Yuzhny Ural Orsk": "assets/logos/streamed/yuzhny-ural-orsk.webp",
         "Kristall Saratov": "assets/logos/streamed/kristall-saratov.webp",
         "Shan United": "assets/logos/streamed/shan-united.webp",
-        "Yarmanya United": "assets/logos/streamed/yarmanya-united.webp"
+        "Yarmanya United": "assets/logos/streamed/yarmanya-united.webp",
+        "Zenit Saint Petersburg": "assets/logos/streamed/zenit-saint-petersburg.webp",
+        "Sparta Prague B": "assets/logos/streamed/sparta-prague-b.webp",
+        "\u00dast\u00ed nad Labem": "assets/logos/streamed/\u00fast\u00ed-nad-labem.webp",
+        "HC Tambov": "assets/logos/streamed/hc-tambov.webp",
+        "HC Norilsk": "assets/logos/streamed/hc-norilsk.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
