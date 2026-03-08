@@ -4737,7 +4737,11 @@
         "Sparta Prague B": "assets/logos/streamed/sparta-prague-b.webp",
         "\u00dast\u00ed nad Labem": "assets/logos/streamed/\u00fast\u00ed-nad-labem.webp",
         "HC Tambov": "assets/logos/streamed/hc-tambov.webp",
-        "HC Norilsk": "assets/logos/streamed/hc-norilsk.webp"
+        "HC Norilsk": "assets/logos/streamed/hc-norilsk.webp",
+        "BC Enisey": "assets/logos/streamed/bc-enisey.webp",
+        "PBC Lokomotiv Kuban": "assets/logos/streamed/pbc-lokomotiv-kuban.webp",
+        "Levadia Tallinn": "assets/logos/streamed/levadia-tallinn.webp",
+        "Kuressaare": "assets/logos/streamed/kuressaare.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
