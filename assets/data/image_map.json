@@ -4989,7 +4989,10 @@
         "JS Saoura": "assets/logos/streamed/js-saoura.webp",
         "Olimpija Ljubljana": "assets/logos/streamed/olimpija-ljubljana.webp",
         "Bylis": "assets/logos/streamed/bylis.webp",
-        "Vora": "assets/logos/streamed/vora.webp"
+        "Vora": "assets/logos/streamed/vora.webp",
+        "Aris Limassol": "assets/logos/streamed/aris-limassol.webp",
+        "Tirana": "assets/logos/streamed/tirana.webp",
+        "Elbasani": "assets/logos/streamed/elbasani.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
