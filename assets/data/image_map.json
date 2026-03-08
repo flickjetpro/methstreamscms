@@ -4933,7 +4933,20 @@
         "Tekstilac Od\u017eaci": "assets/logos/streamed/tekstilac-od\u017eaci.webp",
         "Loznica": "assets/logos/streamed/loznica.webp",
         "Bears Academy": "assets/logos/streamed/bears-academy.webp",
-        "BK Amager": "assets/logos/streamed/bk-amager.webp"
+        "BK Amager": "assets/logos/streamed/bk-amager.webp",
+        "Kom Podgorica": "assets/logos/upstreams/kom-podgorica.webp",
+        "Rudar Pljevlja": "assets/logos/upstreams/rudar-pljevlja.webp",
+        "Racing Ferrol": "assets/logos/upstreams/racing-ferrol.webp",
+        "ASA T\u00e2rgu Mure\u015f": "assets/logos/upstreams/asa-t\u00e2rgu-mure\u015f.webp",
+        "Chindia T\u00e2rgovi\u0219te": "assets/logos/upstreams/chindia-t\u00e2rgovi\u0219te.webp",
+        "Kalcer Radomlje": "assets/logos/upstreams/kalcer-radomlje.webp",
+        "NK Bravo": "assets/logos/upstreams/nk-bravo.webp",
+        "Valentin Basel": "assets/logos/upstreams/valentin-basel.webp",
+        "Milledge Cossu": "assets/logos/upstreams/milledge-cossu.webp",
+        "Juan Bautista Torres": "assets/logos/upstreams/juan-bautista-torres.webp",
+        "Joao Vitor Scramin Do Lago": "assets/logos/upstreams/joao-vitor-scramin-do-lago.webp",
+        "Hougang United": "assets/logos/upstreams/hougang-united.webp",
+        "Balestier Khalsa": "assets/logos/upstreams/balestier-khalsa.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -5411,6 +5424,7 @@
         "China CBA All Star Game": "assets/logos/leagues/china-cba-all-star-game.webp",
         "Italy - Serie B - Gr.A": "assets/logos/leagues/italy-serie-b-gra.webp",
         "Serie B, Group A": "assets/logos/leagues/serie-b-group-a.webp",
-        "Serie B Interregionale, Division C": "assets/logos/leagues/serie-b-interregionale-division-c.webp"
+        "Serie B Interregionale, Division C": "assets/logos/leagues/serie-b-interregionale-division-c.webp",
+        "Spain - Primera Federacion - Gr.1": "assets/logos/leagues/spain-primera-federacion-gr1.webp"
     }
 }
