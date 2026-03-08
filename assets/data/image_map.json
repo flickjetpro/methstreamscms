@@ -4373,7 +4373,10 @@
         "Sarasota Paradise": "assets/logos/streamed/sarasota-paradise.webp",
         "AC Boise": "assets/logos/streamed/ac-boise.webp",
         "Utah Tech": "assets/logos/streamed/utah-tech.webp",
-        "Utah Valley": "assets/logos/streamed/utah-valley.webp"
+        "Utah Valley": "assets/logos/streamed/utah-valley.webp",
+        "Fagiano Okayama": "assets/logos/streamed/fagiano-okayama.webp",
+        "Kyoto Sanga": "assets/logos/streamed/kyoto-sanga.webp",
+        "Jeonbuk Hyundai Motors": "assets/logos/streamed/jeonbuk-hyundai-motors.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
