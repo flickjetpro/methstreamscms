@@ -5088,7 +5088,9 @@
         "Deportivo Pasto": "assets/logos/streamed/deportivo-pasto.webp",
         "Germany": "assets/logos/streamed/germany.webp",
         "Turk Telekom Ankara": "assets/logos/streamed/turk-telekom-ankara.webp",
-        "BAXI Manresa": "assets/logos/streamed/baxi-manresa.webp"
+        "BAXI Manresa": "assets/logos/streamed/baxi-manresa.webp",
+        "Udine": "assets/logos/streamed/udine.webp",
+        "Pallacanestro Varese": "assets/logos/streamed/pallacanestro-varese.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
