@@ -4815,7 +4815,9 @@
         "Poltava": "assets/logos/streamed/poltava.webp",
         "Wuhan Three Towns": "assets/logos/streamed/wuhan-three-towns.webp",
         "Beijing Guoan": "assets/logos/streamed/beijing-guoan.webp",
-        "PAOK BC": "assets/logos/streamed/paok-bc.webp"
+        "PAOK BC": "assets/logos/streamed/paok-bc.webp",
+        "BC Lokomotiv Plovdiv": "assets/logos/streamed/bc-lokomotiv-plovdiv.webp",
+        "BC Cherno More": "assets/logos/streamed/bc-cherno-more.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
