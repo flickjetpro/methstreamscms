@@ -4987,7 +4987,9 @@
         "Iraklis BC": "assets/logos/streamed/iraklis-bc.webp",
         "Olympique Akbou": "assets/logos/streamed/olympique-akbou.webp",
         "JS Saoura": "assets/logos/streamed/js-saoura.webp",
-        "Olimpija Ljubljana": "assets/logos/streamed/olimpija-ljubljana.webp"
+        "Olimpija Ljubljana": "assets/logos/streamed/olimpija-ljubljana.webp",
+        "Bylis": "assets/logos/streamed/bylis.webp",
+        "Vora": "assets/logos/streamed/vora.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
