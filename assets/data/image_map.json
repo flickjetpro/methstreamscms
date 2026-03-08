@@ -4839,7 +4839,10 @@
         "Leeds Rhinos": "assets/logos/streamed/leeds-rhinos.webp",
         "Castleford Tigers": "assets/logos/streamed/castleford-tigers.webp",
         "Huddersfield Giants": "assets/logos/streamed/huddersfield-giants.webp",
-        "Hull Kingston Rovers": "assets/logos/streamed/hull-kingston-rovers.webp"
+        "Hull Kingston Rovers": "assets/logos/streamed/hull-kingston-rovers.webp",
+        "Tartu Tammeka": "assets/logos/streamed/tartu-tammeka.webp",
+        "Lokeren-Temse": "assets/logos/streamed/lokeren-temse.webp",
+        "Beveren": "assets/logos/streamed/beveren.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
