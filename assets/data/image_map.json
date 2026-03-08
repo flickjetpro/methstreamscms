@@ -5130,7 +5130,11 @@
         "Legia Warsaw": "assets/logos/streamed/legia-warsaw.webp",
         "Juventud Las Piedras": "assets/logos/streamed/juventud-las-piedras.webp",
         "Nacional Montevideo": "assets/logos/streamed/nacional-montevideo.webp",
-        "Cleveland Charge": "assets/logos/streamed/cleveland-charge.webp"
+        "Cleveland Charge": "assets/logos/streamed/cleveland-charge.webp",
+        "Portmore United": "assets/logos/streamed/portmore-united.webp",
+        "Treasure Beach": "assets/logos/streamed/treasure-beach.webp",
+        "Umana Reyer Venice": "assets/logos/streamed/umana-reyer-venice.webp",
+        "Dolomiti Energia Trento": "assets/logos/streamed/dolomiti-energia-trento.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
