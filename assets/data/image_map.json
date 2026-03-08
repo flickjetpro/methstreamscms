@@ -5058,7 +5058,27 @@
         "Reyer Venezia Mestre": "assets/logos/streamed/reyer-venezia-mestre.webp",
         "BC Levski Sofia": "assets/logos/streamed/bc-levski-sofia.webp",
         "Katsina United": "assets/logos/streamed/katsina-united.webp",
-        "Kwara United": "assets/logos/streamed/kwara-united.webp"
+        "Kwara United": "assets/logos/streamed/kwara-united.webp",
+        "Abia Warriors": "assets/logos/upstreams/abia-warriors.webp",
+        "Shooting Stars": "assets/logos/upstreams/shooting-stars.webp",
+        "Racing Santander": "assets/logos/upstreams/racing-santander.webp",
+        "Sloga Pozega": "assets/logos/upstreams/sloga-pozega.webp",
+        "Nibak": "assets/logos/upstreams/nibak.webp",
+        "KK Jedinstvo Bijelo Polje": "assets/logos/upstreams/kk-jedinstvo-bijelo-polje.webp",
+        "Vrsac": "assets/logos/upstreams/vrsac.webp",
+        "KK Kotor": "assets/logos/upstreams/kk-kotor.webp",
+        "Kk Primorje Herceg Novi 1945": "assets/logos/upstreams/kk-primorje-herceg-novi-1945.webp",
+        "Mondo Basket": "assets/logos/upstreams/mondo-basket.webp",
+        "Zkk Proleter Novi Sad": "assets/logos/upstreams/zkk-proleter-novi-sad.webp",
+        "Jungwon Park": "assets/logos/upstreams/jungwon-park.webp",
+        "Palmeiras U20": "assets/logos/upstreams/palmeiras-u20.webp",
+        "Universidad Cat\u00f3lica del Ecuador U20": "assets/logos/upstreams/universidad-cat\u00f3lica-del-ecuador-u20.webp",
+        "Freek van Donselaar": "assets/logos/upstreams/freek-van-donselaar.webp",
+        "Jaden Dewandaka Tan": "assets/logos/upstreams/jaden-dewandaka-tan.webp",
+        "Michael Dylan Jimenez": "assets/logos/upstreams/michael-dylan-jimenez.webp",
+        "Azuna Ichioka": "assets/logos/upstreams/azuna-ichioka.webp",
+        "Sayuri Hata": "assets/logos/upstreams/sayuri-hata.webp",
+        "Ran Inaba": "assets/logos/upstreams/ran-inaba.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -5538,6 +5558,7 @@
         "Serie B, Group A": "assets/logos/leagues/serie-b-group-a.webp",
         "Serie B Interregionale, Division C": "assets/logos/leagues/serie-b-interregionale-division-c.webp",
         "Spain - Primera Federacion - Gr.1": "assets/logos/leagues/spain-primera-federacion-gr1.webp",
-        "Cherbourg-en-Cotentin, France, Qualifying": "assets/logos/leagues/cherbourg-en-cotentin-france-qualifying.webp"
+        "Cherbourg-en-Cotentin, France, Qualifying": "assets/logos/leagues/cherbourg-en-cotentin-france-qualifying.webp",
+        "Nigeria - Premier League": "assets/logos/leagues/nigeria-premier-league.webp"
     }
 }
