@@ -4578,7 +4578,11 @@
         "Mpumalanga": "assets/logos/upstreams/mpumalanga.webp",
         "Western Province": "assets/logos/upstreams/western-province.webp",
         "Cayman Islands": "assets/logos/upstreams/cayman-islands.webp",
-        "Suriname": "assets/logos/upstreams/suriname.webp"
+        "Suriname": "assets/logos/upstreams/suriname.webp",
+        "Atl\u00e9tico La Paz": "assets/logos/streamed/atl\u00e9tico-la-paz.webp",
+        "Tlaxcala": "assets/logos/streamed/tlaxcala.webp",
+        "Oakland Roots": "assets/logos/streamed/oakland-roots.webp",
+        "Sacramento Republic": "assets/logos/streamed/sacramento-republic.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
