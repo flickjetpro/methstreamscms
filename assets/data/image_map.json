@@ -5097,7 +5097,11 @@
         "Debrecen": "assets/logos/streamed/debrecen.webp",
         "Kirchheim Knights": "assets/logos/streamed/kirchheim-knights.webp",
         "PS Karlsruhe Lions": "assets/logos/streamed/ps-karlsruhe-lions.webp",
-        "Baskets Oldenburg": "assets/logos/streamed/baskets-oldenburg.webp"
+        "Baskets Oldenburg": "assets/logos/streamed/baskets-oldenburg.webp",
+        "Pistoia Basket": "assets/logos/streamed/pistoia-basket.webp",
+        "Scafati Basket": "assets/logos/streamed/scafati-basket.webp",
+        "Basket Torino": "assets/logos/streamed/basket-torino.webp",
+        "Scaligera Basket Verona": "assets/logos/streamed/scaligera-basket-verona.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
