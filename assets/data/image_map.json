@@ -4376,7 +4376,9 @@
         "Utah Valley": "assets/logos/streamed/utah-valley.webp",
         "Fagiano Okayama": "assets/logos/streamed/fagiano-okayama.webp",
         "Kyoto Sanga": "assets/logos/streamed/kyoto-sanga.webp",
-        "Jeonbuk Hyundai Motors": "assets/logos/streamed/jeonbuk-hyundai-motors.webp"
+        "Jeonbuk Hyundai Motors": "assets/logos/streamed/jeonbuk-hyundai-motors.webp",
+        "Dusko Todorovic": "assets/logos/upstreams/dusko-todorovic.webp",
+        "Raul Rosas Jr": "assets/logos/upstreams/raul-rosas-jr.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -4826,6 +4828,7 @@
         "I A MCKL": "assets/logos/leagues/i-a-mckl.webp",
         "U20 CONMEBOL Libertadores, Group B": "assets/logos/leagues/u20-conmebol-libertadores-group-b.webp",
         "Southland Conference, Playoffs": "assets/logos/leagues/southland-conference-playoffs.webp",
-        "BBL": "assets/logos/leagues/bbl.webp"
+        "BBL": "assets/logos/leagues/bbl.webp",
+        "UFC 326 : Holloway vs. Oliveira 2": "assets/logos/leagues/ufc-326-holloway-vs-oliveira-2.webp"
     }
 }
