@@ -5134,7 +5134,13 @@
         "Portmore United": "assets/logos/streamed/portmore-united.webp",
         "Treasure Beach": "assets/logos/streamed/treasure-beach.webp",
         "Umana Reyer Venice": "assets/logos/streamed/umana-reyer-venice.webp",
-        "Dolomiti Energia Trento": "assets/logos/streamed/dolomiti-energia-trento.webp"
+        "Dolomiti Energia Trento": "assets/logos/streamed/dolomiti-energia-trento.webp",
+        "Spanish Town Police": "assets/logos/streamed/spanish-town-police.webp",
+        "Mount Pleasant": "assets/logos/streamed/mount-pleasant.webp",
+        "Tivoli Gardens": "assets/logos/streamed/tivoli-gardens.webp",
+        "Dunbeholden": "assets/logos/streamed/dunbeholden.webp",
+        "Los Chankas": "assets/logos/streamed/los-chankas.webp",
+        "Universitario": "assets/logos/streamed/universitario.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
