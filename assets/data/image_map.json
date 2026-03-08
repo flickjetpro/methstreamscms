@@ -4398,7 +4398,11 @@
         "Mercer": "assets/logos/streamed/mercer.webp",
         "Western Carolina": "assets/logos/streamed/western-carolina.webp",
         "Siena": "assets/logos/streamed/siena.webp",
-        "Mount St Marys": "assets/logos/streamed/mount-st-marys.webp"
+        "Mount St Marys": "assets/logos/streamed/mount-st-marys.webp",
+        "Marquense": "assets/logos/streamed/marquense.webp",
+        "Malacateco": "assets/logos/streamed/malacateco.webp",
+        "El Paso Locomotive": "assets/logos/streamed/el-paso-locomotive.webp",
+        "Colorado Springs Switchbacks": "assets/logos/streamed/colorado-springs-switchbacks.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
