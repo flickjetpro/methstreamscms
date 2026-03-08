@@ -4833,7 +4833,13 @@
         "Slavia Prague": "assets/logos/streamed/slavia-prague.webp",
         "Sparta Prague": "assets/logos/streamed/sparta-prague.webp",
         "Lusitania Lourosa": "assets/logos/streamed/lusitania-lourosa.webp",
-        "Sporting CP B": "assets/logos/streamed/sporting-cp-b.webp"
+        "Sporting CP B": "assets/logos/streamed/sporting-cp-b.webp",
+        "MTK Budapest": "assets/logos/streamed/mtk-budapest.webp",
+        "Di\u00f3sgy\u0151r": "assets/logos/streamed/di\u00f3sgy\u0151r.webp",
+        "Leeds Rhinos": "assets/logos/streamed/leeds-rhinos.webp",
+        "Castleford Tigers": "assets/logos/streamed/castleford-tigers.webp",
+        "Huddersfield Giants": "assets/logos/streamed/huddersfield-giants.webp",
+        "Hull Kingston Rovers": "assets/logos/streamed/hull-kingston-rovers.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
