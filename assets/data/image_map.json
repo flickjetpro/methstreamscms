@@ -4984,7 +4984,10 @@
         "Nicolas Ifi": "assets/logos/upstreams/nicolas-ifi.webp",
         "AKM": "assets/logos/streamed/akm.webp",
         "Torpedo-Gorky Nizhny Novgorod": "assets/logos/streamed/torpedo-gorky-nizhny-novgorod.webp",
-        "Iraklis BC": "assets/logos/streamed/iraklis-bc.webp"
+        "Iraklis BC": "assets/logos/streamed/iraklis-bc.webp",
+        "Olympique Akbou": "assets/logos/streamed/olympique-akbou.webp",
+        "JS Saoura": "assets/logos/streamed/js-saoura.webp",
+        "Olimpija Ljubljana": "assets/logos/streamed/olimpija-ljubljana.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
