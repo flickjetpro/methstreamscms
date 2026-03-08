@@ -5182,7 +5182,9 @@
         "Antigua": "assets/logos/streamed/antigua.webp",
         "Cob\u00e1n Imperial": "assets/logos/streamed/cob\u00e1n-imperial.webp",
         "San Martin": "assets/logos/streamed/san-martin.webp",
-        "Montego Bay United": "assets/logos/streamed/montego-bay-united.webp"
+        "Montego Bay United": "assets/logos/streamed/montego-bay-united.webp",
+        "Comunicaciones": "assets/logos/streamed/comunicaciones.webp",
+        "Achuapa": "assets/logos/streamed/achuapa.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
