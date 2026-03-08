@@ -4952,7 +4952,36 @@
         "Willem II": "assets/logos/streamed/willem-ii.webp",
         "Zag\u0142\u0119bie Sosnowiec": "assets/logos/streamed/zag\u0142\u0119bie-sosnowiec.webp",
         "Polonia Bytom": "assets/logos/streamed/polonia-bytom.webp",
-        "Mali": "assets/logos/streamed/mali.webp"
+        "Mali": "assets/logos/streamed/mali.webp",
+        "Zoria Luhansk": "assets/logos/upstreams/zoria-luhansk.webp",
+        "SC Poltava": "assets/logos/upstreams/sc-poltava.webp",
+        "NK Karlovac": "assets/logos/upstreams/nk-karlovac.webp",
+        "FK Silute": "assets/logos/upstreams/fk-silute.webp",
+        "Nomme United U21": "assets/logos/upstreams/nomme-united-u21.webp",
+        "FC Sevilla": "assets/logos/upstreams/fc-sevilla.webp",
+        "Macc. Haifa": "assets/logos/upstreams/macc-haifa.webp",
+        "Kaposvari R.": "assets/logos/upstreams/kaposvari-r.webp",
+        "Punjab FC": "assets/logos/upstreams/punjab-fc.webp",
+        "NorthEast United FC": "assets/logos/upstreams/northeast-united-fc.webp",
+        "Cyril Vandermeersch": "assets/logos/upstreams/cyril-vandermeersch.webp",
+        "Patrick Brady": "assets/logos/upstreams/patrick-brady.webp",
+        "Lorenzo Rottoli": "assets/logos/upstreams/lorenzo-rottoli.webp",
+        "Yanis Ghazouani Durand": "assets/logos/upstreams/yanis-ghazouani-durand.webp",
+        "David Poljak": "assets/logos/upstreams/david-poljak.webp",
+        "Kenny De Schepper": "assets/logos/upstreams/kenny-de-schepper.webp",
+        "Maxime Janvier": "assets/logos/upstreams/maxime-janvier.webp",
+        "Nicolas Parizzia": "assets/logos/upstreams/nicolas-parizzia.webp",
+        "Paul Jan-Henrik": "assets/logos/upstreams/paul-jan-henrik.webp",
+        "Alexandre Reco": "assets/logos/upstreams/alexandre-reco.webp",
+        "Matt Ponchet": "assets/logos/upstreams/matt-ponchet.webp",
+        "Matisse Bobichon": "assets/logos/upstreams/matisse-bobichon.webp",
+        "Pierre Antoine Faut": "assets/logos/upstreams/pierre-antoine-faut.webp",
+        "Jarno Jans": "assets/logos/upstreams/jarno-jans.webp",
+        "Ben Jones": "assets/logos/upstreams/ben-jones.webp",
+        "Cleeve Harper": "assets/logos/upstreams/cleeve-harper.webp",
+        "Maxence Beauge": "assets/logos/upstreams/maxence-beauge.webp",
+        "Niels Visker": "assets/logos/upstreams/niels-visker.webp",
+        "Nicolas Ifi": "assets/logos/upstreams/nicolas-ifi.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -5431,6 +5460,7 @@
         "Italy - Serie B - Gr.A": "assets/logos/leagues/italy-serie-b-gra.webp",
         "Serie B, Group A": "assets/logos/leagues/serie-b-group-a.webp",
         "Serie B Interregionale, Division C": "assets/logos/leagues/serie-b-interregionale-division-c.webp",
-        "Spain - Primera Federacion - Gr.1": "assets/logos/leagues/spain-primera-federacion-gr1.webp"
+        "Spain - Primera Federacion - Gr.1": "assets/logos/leagues/spain-primera-federacion-gr1.webp",
+        "Cherbourg-en-Cotentin, France, Qualifying": "assets/logos/leagues/cherbourg-en-cotentin-france-qualifying.webp"
     }
 }
