@@ -5127,7 +5127,10 @@
         "NINERS Chemnitz": "assets/logos/streamed/niners-chemnitz.webp",
         "Buducnost VOLI Podgorica": "assets/logos/streamed/buducnost-voli-podgorica.webp",
         "U-BT Cluj-Napoca": "assets/logos/streamed/u-bt-cluj-napoca.webp",
-        "Legia Warsaw": "assets/logos/streamed/legia-warsaw.webp"
+        "Legia Warsaw": "assets/logos/streamed/legia-warsaw.webp",
+        "Juventud Las Piedras": "assets/logos/streamed/juventud-las-piedras.webp",
+        "Nacional Montevideo": "assets/logos/streamed/nacional-montevideo.webp",
+        "Cleveland Charge": "assets/logos/streamed/cleveland-charge.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
