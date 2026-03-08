@@ -4810,7 +4810,12 @@
         "Cannon Kingsley": "assets/logos/upstreams/cannon-kingsley.webp",
         "Franco Ribero": "assets/logos/upstreams/franco-ribero.webp",
         "Nicolas Moreno de Alboran": "assets/logos/upstreams/nicolas-moreno-de-alboran.webp",
-        "Nino Serdarusic": "assets/logos/upstreams/nino-serdarusic.webp"
+        "Nino Serdarusic": "assets/logos/upstreams/nino-serdarusic.webp",
+        "Zorya Luhansk": "assets/logos/streamed/zorya-luhansk.webp",
+        "Poltava": "assets/logos/streamed/poltava.webp",
+        "Wuhan Three Towns": "assets/logos/streamed/wuhan-three-towns.webp",
+        "Beijing Guoan": "assets/logos/streamed/beijing-guoan.webp",
+        "PAOK BC": "assets/logos/streamed/paok-bc.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
