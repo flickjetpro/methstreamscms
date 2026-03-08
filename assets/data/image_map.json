@@ -5122,7 +5122,11 @@
         "Moka Ito": "assets/logos/upstreams/moka-ito.webp",
         "Jonas Forejtek": "assets/logos/upstreams/jonas-forejtek.webp",
         "Aziz Ouakaa": "assets/logos/upstreams/aziz-ouakaa.webp",
-        "Andrej Martin": "assets/logos/upstreams/andrej-martin.webp"
+        "Andrej Martin": "assets/logos/upstreams/andrej-martin.webp",
+        "Cedevita Olimpija Ljubljana": "assets/logos/streamed/cedevita-olimpija-ljubljana.webp",
+        "NINERS Chemnitz": "assets/logos/streamed/niners-chemnitz.webp",
+        "Buducnost VOLI Podgorica": "assets/logos/streamed/buducnost-voli-podgorica.webp",
+        "U-BT Cluj-Napoca": "assets/logos/streamed/u-bt-cluj-napoca.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
