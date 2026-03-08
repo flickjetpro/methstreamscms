@@ -5151,7 +5151,14 @@
         "Stefan Dostanic": "assets/logos/upstreams/stefan-dostanic.webp",
         "Viktor Durasovic": "assets/logos/upstreams/viktor-durasovic.webp",
         "Paul Jubb": "assets/logos/upstreams/paul-jubb.webp",
-        "Oriol Roca Batalla": "assets/logos/upstreams/oriol-roca-batalla.webp"
+        "Oriol Roca Batalla": "assets/logos/upstreams/oriol-roca-batalla.webp",
+        "Chapecoense": "assets/logos/streamed/chapecoense.webp",
+        "Barra": "assets/logos/streamed/barra.webp",
+        "Fluminense": "assets/logos/streamed/fluminense.webp",
+        "Cavalier": "assets/logos/streamed/cavalier.webp",
+        "Chapelton Maroons": "assets/logos/streamed/chapelton-maroons.webp",
+        "USM Alger": "assets/logos/streamed/usm-alger.webp",
+        "CS Constantine": "assets/logos/streamed/cs-constantine.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
