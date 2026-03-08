@@ -4367,7 +4367,13 @@
         "Plock": "assets/logos/upstreams/plock.webp",
         "Goppingen": "assets/logos/upstreams/goppingen.webp",
         "Eisenach": "assets/logos/upstreams/eisenach.webp",
-        "Lubbecke": "assets/logos/upstreams/lubbecke.webp"
+        "Lubbecke": "assets/logos/upstreams/lubbecke.webp",
+        "D.C. United": "assets/logos/upstreams/dc-united.webp",
+        "Sporting JAX": "assets/logos/streamed/sporting-jax.webp",
+        "Sarasota Paradise": "assets/logos/streamed/sarasota-paradise.webp",
+        "AC Boise": "assets/logos/streamed/ac-boise.webp",
+        "Utah Tech": "assets/logos/streamed/utah-tech.webp",
+        "Utah Valley": "assets/logos/streamed/utah-valley.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
