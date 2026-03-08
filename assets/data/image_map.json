@@ -5165,7 +5165,12 @@
         "Birmingham Squadron": "assets/logos/streamed/birmingham-squadron.webp",
         "New Orleans": "assets/logos/streamed/new-orleans.webp",
         "Houston Baptist": "assets/logos/streamed/houston-baptist.webp",
-        "Senegal": "assets/logos/streamed/senegal.webp"
+        "Senegal": "assets/logos/streamed/senegal.webp",
+        "Felix Littlejohn": "assets/logos/upstreams/felix-littlejohn.webp",
+        "Jerome Estephan": "assets/logos/upstreams/jerome-estephan.webp",
+        "Christopher Sousou": "assets/logos/upstreams/christopher-sousou.webp",
+        "Zac Hamill": "assets/logos/upstreams/zac-hamill.webp",
+        "Ivan Marrero Curbelo": "assets/logos/upstreams/ivan-marrero-curbelo.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
