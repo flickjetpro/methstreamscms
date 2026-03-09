@@ -5231,7 +5231,11 @@
         "Gonzalo Bueno": "assets/logos/upstreams/gonzalo-bueno.webp",
         "Lokomotiv Yaroslavl": "assets/logos/streamed/lokomotiv-yaroslavl.webp",
         "Severstal Cherepovets": "assets/logos/streamed/severstal-cherepovets.webp",
-        "Dinamo Minsk": "assets/logos/streamed/dinamo-minsk.webp"
+        "Dinamo Minsk": "assets/logos/streamed/dinamo-minsk.webp",
+        "Lokomotiv Moscow": "assets/logos/streamed/lokomotiv-moscow.webp",
+        "Akhmat Grozny": "assets/logos/streamed/akhmat-grozny.webp",
+        "Jedinstvo Ub": "assets/logos/streamed/jedinstvo-ub.webp",
+        "Smederevo 1924": "assets/logos/streamed/smederevo-1924.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
