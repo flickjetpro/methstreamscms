@@ -5592,7 +5592,9 @@
         "Robert Morris": "assets/logos/streamed/robert-morris.webp",
         "Detroit": "assets/logos/streamed/detroit.webp",
         "Liverpool Montevideo": "assets/logos/streamed/liverpool-montevideo.webp",
-        "Regatas Corrientes": "assets/logos/streamed/regatas-corrientes.webp"
+        "Regatas Corrientes": "assets/logos/streamed/regatas-corrientes.webp",
+        "Gilles Arnaud Bailly": "assets/logos/upstreams/gilles-arnaud-bailly.webp",
+        "Raphael Perot": "assets/logos/upstreams/raphael-perot.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -6103,6 +6105,7 @@
         "Greece Super League": "assets/logos/leagues/greece-super-league.webp",
         "Sweden Svenska Cupen": "assets/logos/leagues/sweden-svenska-cupen.webp",
         "Denmark Division 1": "assets/logos/leagues/denmark-division-1.webp",
-        "WTA Indian Well": "assets/logos/leagues/wta-indian-well.webp"
+        "WTA Indian Well": "assets/logos/leagues/wta-indian-well.webp",
+        "France Ligue 2": "assets/logos/leagues/france-ligue-2.webp"
     }
 }
