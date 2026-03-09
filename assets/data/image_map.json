@@ -5239,7 +5239,9 @@
         "Majestic": "assets/logos/streamed/majestic.webp",
         "AJEB": "assets/logos/streamed/ajeb.webp",
         "Rahimo": "assets/logos/streamed/rahimo.webp",
-        "SONABEL": "assets/logos/streamed/sonabel.webp"
+        "SONABEL": "assets/logos/streamed/sonabel.webp",
+        "ASF Bobo Dioulasso": "assets/logos/streamed/asf-bobo-dioulasso.webp",
+        "Vitesse Burkina Faso": "assets/logos/streamed/vitesse-burkina-faso.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
