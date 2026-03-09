@@ -5245,7 +5245,32 @@
         "Veres Rivne": "assets/logos/streamed/veres-rivne.webp",
         "LNZ Cherkasy": "assets/logos/streamed/lnz-cherkasy.webp",
         "Radomlje": "assets/logos/streamed/radomlje.webp",
-        "Bravo": "assets/logos/streamed/bravo.webp"
+        "Bravo": "assets/logos/streamed/bravo.webp",
+        "AIK Stockholm": "assets/logos/upstreams/aik-stockholm.webp",
+        "U de Deportes": "assets/logos/upstreams/u-de-deportes.webp",
+        "Olimpia Asuncion": "assets/logos/upstreams/olimpia-asuncion.webp",
+        "Flamengo RJ": "assets/logos/upstreams/flamengo-rj.webp",
+        "Internacional": "assets/logos/upstreams/internacional.webp",
+        "MC Saida": "assets/logos/upstreams/mc-saida.webp",
+        "WA Tlemcen": "assets/logos/upstreams/wa-tlemcen.webp",
+        "Defensor Sp": "assets/logos/upstreams/defensor-sp.webp",
+        "Central Esp": "assets/logos/upstreams/central-esp.webp",
+        "Korihait Uusikaupunki": "assets/logos/upstreams/korihait-uusikaupunki.webp",
+        "NK Lokomotiva Zagreb": "assets/logos/upstreams/nk-lokomotiva-zagreb.webp",
+        "V\u00e9lez Sarsfield": "assets/logos/upstreams/v\u00e9lez-sarsfield.webp",
+        "Nexe Na\u0161ice": "assets/logos/upstreams/nexe-na\u0161ice.webp",
+        "JL Bourg Basket": "assets/logos/upstreams/jl-bourg-basket.webp",
+        "Union Touarga": "assets/logos/upstreams/union-touarga.webp",
+        "Sam Thompson": "assets/logos/upstreams/sam-thompson.webp",
+        "Riley Breen": "assets/logos/upstreams/riley-breen.webp",
+        "Laurent Lokoli": "assets/logos/upstreams/laurent-lokoli.webp",
+        "Borna Gojo": "assets/logos/upstreams/borna-gojo.webp",
+        "Geoffrey Blancaneaux": "assets/logos/upstreams/geoffrey-blancaneaux.webp",
+        "Matteo Martineau": "assets/logos/upstreams/matteo-martineau.webp",
+        "Sebastian Chodura": "assets/logos/upstreams/sebastian-chodura.webp",
+        "Izabela Heinzova": "assets/logos/upstreams/izabela-heinzova.webp",
+        "Simona Wirglerova": "assets/logos/upstreams/simona-wirglerova.webp",
+        "Dalila Jakupovic": "assets/logos/upstreams/dalila-jakupovic.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -5737,6 +5762,10 @@
         "AFC - Champions League - Playoff": "assets/logos/leagues/afc-champions-league-playoff.webp",
         "CONCACAF Champions Cup": "assets/logos/leagues/concacaf-champions-cup.webp",
         "World Baseball Classic": "assets/logos/leagues/world-baseball-classic.webp",
-        "Santiago, Chile": "assets/logos/leagues/santiago-chile.webp"
+        "Santiago, Chile": "assets/logos/leagues/santiago-chile.webp",
+        "UEFA Champions League, Knockout stage": "assets/logos/leagues/uefa-champions-league-knockout-stage.webp",
+        "Brazil Mineiro": "assets/logos/leagues/brazil-mineiro.webp",
+        "Champions League, Group K": "assets/logos/leagues/champions-league-group-k.webp",
+        "Cherbourg-en-Cotentin, France": "assets/logos/leagues/cherbourg-en-cotentin-france.webp"
     }
 }
