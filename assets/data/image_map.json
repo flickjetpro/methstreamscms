@@ -5553,7 +5553,9 @@
         "Melios Efstathiou": "assets/logos/upstreams/melios-efstathiou.webp",
         "Deportivo Pereira": "assets/logos/streamed/deportivo-pereira.webp",
         "Mirassol": "assets/logos/streamed/mirassol.webp",
-        "Santos": "assets/logos/streamed/santos.webp"
+        "Santos": "assets/logos/streamed/santos.webp",
+        "Racing United": "assets/logos/streamed/racing-united.webp",
+        "Al-Duhail": "assets/logos/streamed/al-duhail.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
