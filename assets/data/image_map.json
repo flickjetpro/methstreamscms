@@ -5556,7 +5556,15 @@
         "Santos": "assets/logos/streamed/santos.webp",
         "Racing United": "assets/logos/streamed/racing-united.webp",
         "Al-Duhail": "assets/logos/streamed/al-duhail.webp",
-        "Club Nacional": "assets/logos/streamed/club-nacional.webp"
+        "Club Nacional": "assets/logos/streamed/club-nacional.webp",
+        "Vasteras SK": "assets/logos/upstreams/vasteras-sk.webp",
+        "Oddevold": "assets/logos/upstreams/oddevold.webp",
+        "Horsens": "assets/logos/upstreams/horsens.webp",
+        "SL Benfica B U21": "assets/logos/upstreams/sl-benfica-b-u21.webp",
+        "Gendrim": "assets/logos/upstreams/gendrim.webp",
+        "Sarah Victoria Majesty Nita": "assets/logos/upstreams/sarah-victoria-majesty-nita.webp",
+        "Azusa Ishii": "assets/logos/upstreams/azusa-ishii.webp",
+        "Natsumi Shioya": "assets/logos/upstreams/natsumi-shioya.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -6064,6 +6072,8 @@
         "Bulgaria efbet League": "assets/logos/leagues/bulgaria-efbet-league.webp",
         "Azerbaijan Premier League": "assets/logos/leagues/azerbaijan-premier-league.webp",
         "India ISL": "assets/logos/leagues/india-isl.webp",
-        "Greece Super League": "assets/logos/leagues/greece-super-league.webp"
+        "Greece Super League": "assets/logos/leagues/greece-super-league.webp",
+        "Sweden Svenska Cupen": "assets/logos/leagues/sweden-svenska-cupen.webp",
+        "Denmark Division 1": "assets/logos/leagues/denmark-division-1.webp"
     }
 }
