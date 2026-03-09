@@ -5550,7 +5550,10 @@
         "Florent Bax": "assets/logos/upstreams/florent-bax.webp",
         "Maximilian Neuchrist": "assets/logos/upstreams/maximilian-neuchrist.webp",
         "Daniel Rincon": "assets/logos/upstreams/daniel-rincon.webp",
-        "Melios Efstathiou": "assets/logos/upstreams/melios-efstathiou.webp"
+        "Melios Efstathiou": "assets/logos/upstreams/melios-efstathiou.webp",
+        "Deportivo Pereira": "assets/logos/streamed/deportivo-pereira.webp",
+        "Mirassol": "assets/logos/streamed/mirassol.webp",
+        "Santos": "assets/logos/streamed/santos.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
