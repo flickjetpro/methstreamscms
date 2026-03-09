@@ -5602,7 +5602,9 @@
         "Vanesa Sulcova": "assets/logos/upstreams/vanesa-sulcova.webp",
         "Adana Demirspor": "assets/logos/streamed/adana-demirspor.webp",
         "Dynamo-Altay Barnaul": "assets/logos/streamed/dynamo-altay-barnaul.webp",
-        "Metallurg Novokuznetsk": "assets/logos/streamed/metallurg-novokuznetsk.webp"
+        "Metallurg Novokuznetsk": "assets/logos/streamed/metallurg-novokuznetsk.webp",
+        "HC Yugra": "assets/logos/streamed/hc-yugra.webp",
+        "Khimik": "assets/logos/streamed/khimik.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
