@@ -5399,7 +5399,9 @@
         "Academic Plovdiv": "assets/logos/streamed/academic-plovdiv.webp",
         "BC Balkan Botevgrad": "assets/logos/streamed/bc-balkan-botevgrad.webp",
         "BC Botev Vratsa": "assets/logos/streamed/bc-botev-vratsa.webp",
-        "BC Beroe": "assets/logos/streamed/bc-beroe.webp"
+        "BC Beroe": "assets/logos/streamed/bc-beroe.webp",
+        "Gladiators Trier": "assets/logos/streamed/gladiators-trier.webp",
+        "USC Heidelberg": "assets/logos/streamed/usc-heidelberg.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
