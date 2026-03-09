@@ -5243,7 +5243,9 @@
         "ASF Bobo Dioulasso": "assets/logos/streamed/asf-bobo-dioulasso.webp",
         "Vitesse Burkina Faso": "assets/logos/streamed/vitesse-burkina-faso.webp",
         "Veres Rivne": "assets/logos/streamed/veres-rivne.webp",
-        "LNZ Cherkasy": "assets/logos/streamed/lnz-cherkasy.webp"
+        "LNZ Cherkasy": "assets/logos/streamed/lnz-cherkasy.webp",
+        "Radomlje": "assets/logos/streamed/radomlje.webp",
+        "Bravo": "assets/logos/streamed/bravo.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
