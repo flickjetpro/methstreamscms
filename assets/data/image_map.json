@@ -5377,7 +5377,12 @@
         "Sahaja Yamalapalli": "assets/logos/upstreams/sahaja-yamalapalli.webp",
         "Karen Tsutsumi": "assets/logos/upstreams/karen-tsutsumi.webp",
         "Nagisa Suzuki": "assets/logos/upstreams/nagisa-suzuki.webp",
-        "Amy Zhu": "assets/logos/upstreams/amy-zhu.webp"
+        "Amy Zhu": "assets/logos/upstreams/amy-zhu.webp",
+        "Aalesund": "assets/logos/streamed/aalesund.webp",
+        "Egersund": "assets/logos/streamed/egersund.webp",
+        "Hapoel Be'er Sheva": "assets/logos/streamed/hapoel-beer-sheva.webp",
+        "Baskets Wolmirstedt": "assets/logos/streamed/baskets-wolmirstedt.webp",
+        "Bayreuth": "assets/logos/streamed/bayreuth.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
