@@ -5569,7 +5569,15 @@
         "Alcorn State": "assets/logos/streamed/alcorn-state.webp",
         "Monmouth": "assets/logos/streamed/monmouth.webp",
         "Campbell": "assets/logos/streamed/campbell.webp",
-        "Texas A and M-Corpus Christi": "assets/logos/streamed/texas-a-and-m-corpus-christi.webp"
+        "Texas A and M-Corpus Christi": "assets/logos/streamed/texas-a-and-m-corpus-christi.webp",
+        "Jedinstvo Bijelo Polje 2": "assets/logos/upstreams/jedinstvo-bijelo-polje-2.webp",
+        "KK Rudar Pljevlja": "assets/logos/upstreams/kk-rudar-pljevlja.webp",
+        "Sunderland U21": "assets/logos/upstreams/sunderland-u21.webp",
+        "Leeds U21": "assets/logos/upstreams/leeds-u21.webp",
+        "Reading U21": "assets/logos/upstreams/reading-u21.webp",
+        "Everton U21": "assets/logos/upstreams/everton-u21.webp",
+        "Leicester U21": "assets/logos/upstreams/leicester-u21.webp",
+        "Pavel Kotov": "assets/logos/upstreams/pavel-kotov.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
