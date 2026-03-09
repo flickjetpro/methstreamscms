@@ -5404,7 +5404,35 @@
         "USC Heidelberg": "assets/logos/streamed/usc-heidelberg.webp",
         "Amador Salazar": "assets/logos/upstreams/amador-salazar.webp",
         "Andrea Collarini": "assets/logos/upstreams/andrea-collarini.webp",
-        "Alex Barrena": "assets/logos/upstreams/alex-barrena.webp"
+        "Alex Barrena": "assets/logos/upstreams/alex-barrena.webp",
+        "FK Mladost Lu\u010dani": "assets/logos/upstreams/fk-mladost-lu\u010dani.webp",
+        "BC Vienna": "assets/logos/upstreams/bc-vienna.webp",
+        "Raiffeisen Flyers Wels": "assets/logos/upstreams/raiffeisen-flyers-wels.webp",
+        "CO Basket": "assets/logos/upstreams/co-basket.webp",
+        "Darussafaka": "assets/logos/upstreams/darussafaka.webp",
+        "UCC Assigeco Piacenza": "assets/logos/upstreams/ucc-assigeco-piacenza.webp",
+        "Paffoni Fulgor Omegna": "assets/logos/upstreams/paffoni-fulgor-omegna.webp",
+        "Belgrano U20": "assets/logos/upstreams/belgrano-u20.webp",
+        "LDU Quito U20": "assets/logos/upstreams/ldu-quito-u20.webp",
+        "Arthur Fery": "assets/logos/upstreams/arthur-fery.webp",
+        "Zhizhen Zhang": "assets/logos/upstreams/zhizhen-zhang.webp",
+        "Martin Damm Jr": "assets/logos/upstreams/martin-damm-jr.webp",
+        "Nacional U20": "assets/logos/upstreams/nacional-u20.webp",
+        "Santiago Wanderers U20": "assets/logos/upstreams/santiago-wanderers-u20.webp",
+        "Academic Bultex 99 Plovdiv": "assets/logos/upstreams/academic-bultex-99-plovdiv.webp",
+        "Balkan Botevgrad": "assets/logos/upstreams/balkan-botevgrad.webp",
+        "Raggisolaris Faenza": "assets/logos/upstreams/raggisolaris-faenza.webp",
+        "Linda Fruhvirtova": "assets/logos/upstreams/linda-fruhvirtova.webp",
+        "Suzan Lamens": "assets/logos/upstreams/suzan-lamens.webp",
+        "Zen Uehling": "assets/logos/upstreams/zen-uehling.webp",
+        "Youssef Kadiri Hassani": "assets/logos/upstreams/youssef-kadiri-hassani.webp",
+        "Amy Lee": "assets/logos/upstreams/amy-lee.webp",
+        "Lyric Bonilla": "assets/logos/upstreams/lyric-bonilla.webp",
+        "Shakhnoza Khatamova": "assets/logos/upstreams/shakhnoza-khatamova.webp",
+        "Veronica Miroshnichenko": "assets/logos/upstreams/veronica-miroshnichenko.webp",
+        "Leevi Saatela": "assets/logos/upstreams/leevi-saatela.webp",
+        "Edouard Villoslada": "assets/logos/upstreams/edouard-villoslada.webp",
+        "Andrea M'chich": "assets/logos/upstreams/andrea-mchich.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -5901,6 +5929,9 @@
         "Brazil Mineiro": "assets/logos/leagues/brazil-mineiro.webp",
         "Champions League, Group K": "assets/logos/leagues/champions-league-group-k.webp",
         "Cherbourg-en-Cotentin, France": "assets/logos/leagues/cherbourg-en-cotentin-france.webp",
-        "Segunda Divisi\u00f3n": "assets/logos/leagues/segunda-divisi\u00f3n.webp"
+        "Segunda Divisi\u00f3n": "assets/logos/leagues/segunda-divisi\u00f3n.webp",
+        "Turkey - TBL": "assets/logos/leagues/turkey-tbl.webp",
+        "U20 CONMEBOL Libertadores, Group C": "assets/logos/leagues/u20-conmebol-libertadores-group-c.webp",
+        "Cap Cana, Dominican Republic, Qualifying": "assets/logos/leagues/cap-cana-dominican-republic-qualifying.webp"
     }
 }
