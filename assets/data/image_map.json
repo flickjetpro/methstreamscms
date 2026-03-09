@@ -5395,7 +5395,11 @@
         "Malaika Rapolu": "assets/logos/upstreams/malaika-rapolu.webp",
         "Leolia Jeanjean": "assets/logos/upstreams/leolia-jeanjean.webp",
         "Cedric Stanke": "assets/logos/upstreams/cedric-stanke.webp",
-        "Arjun Rathi": "assets/logos/upstreams/arjun-rathi.webp"
+        "Arjun Rathi": "assets/logos/upstreams/arjun-rathi.webp",
+        "Academic Plovdiv": "assets/logos/streamed/academic-plovdiv.webp",
+        "BC Balkan Botevgrad": "assets/logos/streamed/bc-balkan-botevgrad.webp",
+        "BC Botev Vratsa": "assets/logos/streamed/bc-botev-vratsa.webp",
+        "BC Beroe": "assets/logos/streamed/bc-beroe.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
