@@ -5401,7 +5401,10 @@
         "BC Botev Vratsa": "assets/logos/streamed/bc-botev-vratsa.webp",
         "BC Beroe": "assets/logos/streamed/bc-beroe.webp",
         "Gladiators Trier": "assets/logos/streamed/gladiators-trier.webp",
-        "USC Heidelberg": "assets/logos/streamed/usc-heidelberg.webp"
+        "USC Heidelberg": "assets/logos/streamed/usc-heidelberg.webp",
+        "Amador Salazar": "assets/logos/upstreams/amador-salazar.webp",
+        "Andrea Collarini": "assets/logos/upstreams/andrea-collarini.webp",
+        "Alex Barrena": "assets/logos/upstreams/alex-barrena.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
