@@ -5470,7 +5470,30 @@
         "Lya Fernandez": "assets/logos/upstreams/lya-fernandez.webp",
         "Romina Dominguez Garcia": "assets/logos/upstreams/romina-dominguez-garcia.webp",
         "Samantha Imbo Nloga": "assets/logos/upstreams/samantha-imbo-nloga.webp",
-        "Zyanya Saavedra Carrera": "assets/logos/upstreams/zyanya-saavedra-carrera.webp"
+        "Zyanya Saavedra Carrera": "assets/logos/upstreams/zyanya-saavedra-carrera.webp",
+        "Jay Dylan Hara Friend": "assets/logos/upstreams/jay-dylan-hara-friend.webp",
+        "Taro Daniel": "assets/logos/upstreams/taro-daniel.webp",
+        "Mathis Bondaz": "assets/logos/upstreams/mathis-bondaz.webp",
+        "Ofek Shimanov": "assets/logos/upstreams/ofek-shimanov.webp",
+        "Aidan Mayo": "assets/logos/upstreams/aidan-mayo.webp",
+        "Bor Artnak": "assets/logos/upstreams/bor-artnak.webp",
+        "Shu Matsuoka": "assets/logos/upstreams/shu-matsuoka.webp",
+        "Marc Polmans": "assets/logos/upstreams/marc-polmans.webp",
+        "Stefan Kozlov": "assets/logos/upstreams/stefan-kozlov.webp",
+        "Nathan Ponwith": "assets/logos/upstreams/nathan-ponwith.webp",
+        "Blaise Bicknell": "assets/logos/upstreams/blaise-bicknell.webp",
+        "Andres Martin": "assets/logos/upstreams/andres-martin.webp",
+        "Thai-Son Kwiatkowski": "assets/logos/upstreams/thai-son-kwiatkowski.webp",
+        "FaMalicao U23": "assets/logos/upstreams/famalicao-u23.webp",
+        "SC Braga U23": "assets/logos/upstreams/sc-braga-u23.webp",
+        "Mar\u00edtimo U23": "assets/logos/upstreams/mar\u00edtimo-u23.webp",
+        "Academico Viseu U23": "assets/logos/upstreams/academico-viseu-u23.webp",
+        "Benfica U23": "assets/logos/upstreams/benfica-u23.webp",
+        "SC Farense U23": "assets/logos/upstreams/sc-farense-u23.webp",
+        "Rio Ave U23": "assets/logos/upstreams/rio-ave-u23.webp",
+        "Gray Kelley": "assets/logos/upstreams/gray-kelley.webp",
+        "Tristan Berard": "assets/logos/upstreams/tristan-berard.webp",
+        "Pepijn Bastiaansen": "assets/logos/upstreams/pepijn-bastiaansen.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -5972,6 +5995,8 @@
         "U20 CONMEBOL Libertadores, Group C": "assets/logos/leagues/u20-conmebol-libertadores-group-c.webp",
         "Cap Cana, Dominican Republic, Qualifying": "assets/logos/leagues/cap-cana-dominican-republic-qualifying.webp",
         "Big Sky Conference, Playoffs": "assets/logos/leagues/big-sky-conference-playoffs.webp",
-        "NHL Hockey": "assets/logos/leagues/nhl-hockey.webp"
+        "NHL Hockey": "assets/logos/leagues/nhl-hockey.webp",
+        "Phoenix, USA, Qualifying": "assets/logos/leagues/phoenix-usa-qualifying.webp",
+        "Portugal - League Revelacao U23 - Gr.Championship": "assets/logos/leagues/portugal-league-revelacao-u23-grchampionship.webp"
     }
 }
