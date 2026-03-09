@@ -5382,7 +5382,11 @@
         "Egersund": "assets/logos/streamed/egersund.webp",
         "Hapoel Be'er Sheva": "assets/logos/streamed/hapoel-beer-sheva.webp",
         "Baskets Wolmirstedt": "assets/logos/streamed/baskets-wolmirstedt.webp",
-        "Bayreuth": "assets/logos/streamed/bayreuth.webp"
+        "Bayreuth": "assets/logos/streamed/bayreuth.webp",
+        "AIK": "assets/logos/streamed/aik.webp",
+        "Hacken": "assets/logos/streamed/hacken.webp",
+        "Viktoria Veleva": "assets/logos/upstreams/viktoria-veleva.webp",
+        "Allura Zamarripa": "assets/logos/upstreams/allura-zamarripa.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
