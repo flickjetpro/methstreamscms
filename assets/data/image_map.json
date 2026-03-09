@@ -5595,7 +5595,11 @@
         "Regatas Corrientes": "assets/logos/streamed/regatas-corrientes.webp",
         "Gilles Arnaud Bailly": "assets/logos/upstreams/gilles-arnaud-bailly.webp",
         "Raphael Perot": "assets/logos/upstreams/raphael-perot.webp",
-        "Saint Marys-California": "assets/logos/streamed/saint-marys-california.webp"
+        "Saint Marys-California": "assets/logos/streamed/saint-marys-california.webp",
+        "Stepan Baum": "assets/logos/upstreams/stepan-baum.webp",
+        "Magdalena Smekalova": "assets/logos/upstreams/magdalena-smekalova.webp",
+        "Adela Polakovicova": "assets/logos/upstreams/adela-polakovicova.webp",
+        "Vanesa Sulcova": "assets/logos/upstreams/vanesa-sulcova.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
