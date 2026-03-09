@@ -5577,7 +5577,11 @@
         "Reading U21": "assets/logos/upstreams/reading-u21.webp",
         "Everton U21": "assets/logos/upstreams/everton-u21.webp",
         "Leicester U21": "assets/logos/upstreams/leicester-u21.webp",
-        "Pavel Kotov": "assets/logos/upstreams/pavel-kotov.webp"
+        "Pavel Kotov": "assets/logos/upstreams/pavel-kotov.webp",
+        "Troy": "assets/logos/streamed/troy.webp",
+        "Georgia Southern": "assets/logos/streamed/georgia-southern.webp",
+        "Wright State": "assets/logos/streamed/wright-state.webp",
+        "Northern Kentucky": "assets/logos/streamed/northern-kentucky.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
