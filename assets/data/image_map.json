@@ -5808,7 +5808,30 @@
         "Viktorija Golubic": "assets/logos/upstreams/viktorija-golubic.webp",
         "Yexin MA": "assets/logos/upstreams/yexin-ma.webp",
         "DEAC": "assets/logos/streamed/deac.webp",
-        "DVTK": "assets/logos/streamed/dvtk.webp"
+        "DVTK": "assets/logos/streamed/dvtk.webp",
+        "Liverpool M": "assets/logos/upstreams/liverpool-m.webp",
+        "Graz 99ers": "assets/logos/upstreams/graz-99ers.webp",
+        "SG Cortina": "assets/logos/upstreams/sg-cortina.webp",
+        "Eczacibasi": "assets/logos/upstreams/eczacibasi.webp",
+        "Gianluca Brunkow": "assets/logos/upstreams/gianluca-brunkow.webp",
+        "Brice Patoux": "assets/logos/upstreams/brice-patoux.webp",
+        "Adam Jones": "assets/logos/upstreams/adam-jones.webp",
+        "Matthew Summers": "assets/logos/upstreams/matthew-summers.webp",
+        "Dev Javia": "assets/logos/upstreams/dev-javia.webp",
+        "Kabir Hans": "assets/logos/upstreams/kabir-hans.webp",
+        "Lai Yin Chung": "assets/logos/upstreams/lai-yin-chung.webp",
+        "Yu Xiao Tan": "assets/logos/upstreams/yu-xiao-tan.webp",
+        "Dai Wang": "assets/logos/upstreams/dai-wang.webp",
+        "Ditlev Jaeger Holm": "assets/logos/upstreams/ditlev-jaeger-holm.webp",
+        "Aria Dinata": "assets/logos/upstreams/aria-dinata.webp",
+        "Tian Yao Dong": "assets/logos/upstreams/tian-yao-dong.webp",
+        "Yu Po Pai": "assets/logos/upstreams/yu-po-pai.webp",
+        "Kaloyana Nalbantova": "assets/logos/upstreams/kaloyana-nalbantova.webp",
+        "Su Yu Chen": "assets/logos/upstreams/su-yu-chen.webp",
+        "AMalie Schulz": "assets/logos/upstreams/amalie-schulz.webp",
+        "Milena Schnider": "assets/logos/upstreams/milena-schnider.webp",
+        "Anna Siess Ryberg": "assets/logos/upstreams/anna-siess-ryberg.webp",
+        "Yvonne Li": "assets/logos/upstreams/yvonne-li.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -6344,6 +6367,9 @@
         "Conference USA, Playoffs": "assets/logos/leagues/conference-usa-playoffs.webp",
         "Atlantic 10 Conference, Playoffs": "assets/logos/leagues/atlantic-10-conference-playoffs.webp",
         "S\u00e9rie A": "assets/logos/leagues/s\u00e9rie-a.webp",
-        "Champions League Women, Playoffs": "assets/logos/leagues/champions-league-women-playoffs.webp"
+        "Champions League Women, Playoffs": "assets/logos/leagues/champions-league-women-playoffs.webp",
+        "Alps Hockey League, Knockout Stage": "assets/logos/leagues/alps-hockey-league-knockout-stage.webp",
+        "Tennis": "assets/logos/leagues/tennis.webp",
+        "Volleyball": "assets/logos/leagues/volleyball.webp"
     }
 }
