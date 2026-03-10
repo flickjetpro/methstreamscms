@@ -5645,7 +5645,12 @@
         "Hungary W": "assets/logos/upstreams/hungary-w.webp",
         "Hamburger SV W": "assets/logos/upstreams/hamburger-sv-w.webp",
         "Bayern Munich W": "assets/logos/upstreams/bayern-munich-w.webp",
-        "Szeged": "assets/logos/upstreams/szeged.webp"
+        "Szeged": "assets/logos/upstreams/szeged.webp",
+        "Kiekko-Espoo": "assets/logos/streamed/kiekko-espoo.webp",
+        "HC Sochi": "assets/logos/streamed/hc-sochi.webp",
+        "Uni\u00f3n de Santa Fe": "assets/logos/streamed/uni\u00f3n-de-santa-fe.webp",
+        "Newell's Old Boys": "assets/logos/streamed/newells-old-boys.webp",
+        "Bod\u00f8/Glimt": "assets/logos/streamed/bod\u00f8glimt.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
