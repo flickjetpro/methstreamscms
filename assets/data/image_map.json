@@ -5920,7 +5920,18 @@
         "Corinthians": "assets/logos/streamed/corinthians.webp",
         "Coritiba": "assets/logos/streamed/coritiba.webp",
         "Mount Pleasant Academy": "assets/logos/streamed/mount-pleasant-academy.webp",
-        "Jacksonville State": "assets/logos/streamed/jacksonville-state.webp"
+        "Jacksonville State": "assets/logos/streamed/jacksonville-state.webp",
+        "S.L. Benfica": "assets/logos/streamed/sl-benfica.webp",
+        "H\u0160K Zrinjski Mostar": "assets/logos/upstreams/h\u0161k-zrinjski-mostar.webp",
+        "GO\u0160K Gabela": "assets/logos/upstreams/go\u0161k-gabela.webp",
+        "Masaki Tonaka": "assets/logos/upstreams/masaki-tonaka.webp",
+        "Kazuki Sugimoto": "assets/logos/upstreams/kazuki-sugimoto.webp",
+        "Gauthier Onclin": "assets/logos/upstreams/gauthier-onclin.webp",
+        "Sascha Gueymard Wayenburg": "assets/logos/upstreams/sascha-gueymard-wayenburg.webp",
+        "Sidharth Rawat": "assets/logos/upstreams/sidharth-rawat.webp",
+        "Brian Bozemoj": "assets/logos/upstreams/brian-bozemoj.webp",
+        "August Holmgren": "assets/logos/upstreams/august-holmgren.webp",
+        "Thomas Faurel": "assets/logos/upstreams/thomas-faurel.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -6464,6 +6475,7 @@
         "Champions League Women": "assets/logos/leagues/champions-league-women.webp",
         "Metro Atlantic Athletic Conference, Playoffs": "assets/logos/leagues/metro-atlantic-athletic-conference-playoffs.webp",
         "Patriot League, Playoffs": "assets/logos/leagues/patriot-league-playoffs.webp",
-        "football": "assets/logos/leagues/football.webp"
+        "football": "assets/logos/leagues/football.webp",
+        "Cup": "assets/logos/leagues/cup.webp"
     }
 }
