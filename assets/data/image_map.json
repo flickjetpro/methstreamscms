@@ -5774,7 +5774,11 @@
         "Yadanarbon": "assets/logos/streamed/yadanarbon.webp",
         "Yangon United": "assets/logos/streamed/yangon-united.webp",
         "Al Dhafra": "assets/logos/streamed/al-dhafra.webp",
-        "Al Jazira": "assets/logos/streamed/al-jazira.webp"
+        "Al Jazira": "assets/logos/streamed/al-jazira.webp",
+        "Montpellier HSC": "assets/logos/streamed/montpellier-hsc.webp",
+        "Guaguas Las Palmas": "assets/logos/streamed/guaguas-las-palmas.webp",
+        "Patro Eisden": "assets/logos/streamed/patro-eisden.webp",
+        "Bourg-en-Bresse": "assets/logos/streamed/bourg-en-bresse.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
