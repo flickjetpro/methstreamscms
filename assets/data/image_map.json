@@ -5693,7 +5693,13 @@
         "Anthony Sinisuka Ginting": "assets/logos/upstreams/anthony-sinisuka-ginting.webp",
         "Energie Karlovy Vary": "assets/logos/streamed/energie-karlovy-vary.webp",
         "Vitkovice": "assets/logos/streamed/vitkovice.webp",
-        "Science City Jena": "assets/logos/streamed/science-city-jena.webp"
+        "Science City Jena": "assets/logos/streamed/science-city-jena.webp",
+        "Orbit College": "assets/logos/streamed/orbit-college.webp",
+        "RK Nexe Na\u0161ice": "assets/logos/streamed/rk-nexe-na\u0161ice.webp",
+        "TSV Hannover-Burgdorf": "assets/logos/streamed/tsv-hannover-burgdorf.webp",
+        "BM Granollers": "assets/logos/streamed/bm-granollers.webp",
+        "Elverum H\u00e5ndball": "assets/logos/streamed/elverum-h\u00e5ndball.webp",
+        "Fredericia HK": "assets/logos/streamed/fredericia-hk.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
