@@ -5939,7 +5939,9 @@
         "Chorley": "assets/logos/streamed/chorley.webp",
         "South Shields": "assets/logos/streamed/south-shields.webp",
         "Alfreton Town": "assets/logos/streamed/alfreton-town.webp",
-        "Radcliffe": "assets/logos/streamed/radcliffe.webp"
+        "Radcliffe": "assets/logos/streamed/radcliffe.webp",
+        "Darlington": "assets/logos/streamed/darlington.webp",
+        "Buxton": "assets/logos/streamed/buxton.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
