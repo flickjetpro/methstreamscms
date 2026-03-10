@@ -5785,7 +5785,28 @@
         "Sheng Xuan Luo": "assets/logos/upstreams/sheng-xuan-luo.webp",
         "Thamonwan Nithiittikrai": "assets/logos/upstreams/thamonwan-nithiittikrai.webp",
         "Chi Wa Pui": "assets/logos/upstreams/chi-wa-pui.webp",
-        "Noblesville Boom": "assets/logos/streamed/noblesville-boom.webp"
+        "Noblesville Boom": "assets/logos/streamed/noblesville-boom.webp",
+        "HKK \u0160iroki": "assets/logos/upstreams/hkk-\u0161iroki.webp",
+        "MZT Skopje Aerodrom": "assets/logos/upstreams/mzt-skopje-aerodrom.webp",
+        "Wake Forest Demon Deacons": "assets/logos/upstreams/wake-forest-demon-deacons.webp",
+        "Parma Permsky Kray": "assets/logos/upstreams/parma-permsky-kray.webp",
+        "HC Vardar": "assets/logos/upstreams/hc-vardar.webp",
+        "Jacksonville State Gamecocks": "assets/logos/upstreams/jacksonville-state-gamecocks.webp",
+        "New Mexico State Aggies": "assets/logos/upstreams/new-mexico-state-aggies.webp",
+        "La Salle Explorers": "assets/logos/upstreams/la-salle-explorers.webp",
+        "St. Bonaventure Bonnies": "assets/logos/upstreams/st-bonaventure-bonnies.webp",
+        "Lietuvos Rytas": "assets/logos/upstreams/lietuvos-rytas.webp",
+        "Richmond Spiders": "assets/logos/upstreams/richmond-spiders.webp",
+        "Loyola Chicago Ramblers": "assets/logos/upstreams/loyola-chicago-ramblers.webp",
+        "Bahia": "assets/logos/upstreams/bahia.webp",
+        "Vitoria": "assets/logos/upstreams/vitoria.webp",
+        "Zeren Spor": "assets/logos/upstreams/zeren-spor.webp",
+        "Imoco Volley Conegliano": "assets/logos/upstreams/imoco-volley-conegliano.webp",
+        "Maddison Inglis": "assets/logos/upstreams/maddison-inglis.webp",
+        "Lars Goran Verwerft": "assets/logos/upstreams/lars-goran-verwerft.webp",
+        "Andrea Bacaloni": "assets/logos/upstreams/andrea-bacaloni.webp",
+        "Viktorija Golubic": "assets/logos/upstreams/viktorija-golubic.webp",
+        "Yexin MA": "assets/logos/upstreams/yexin-ma.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -6315,6 +6336,12 @@
         "Eurocup, Playoffs": "assets/logos/leagues/eurocup-playoffs.webp",
         "FIBA World Cup Qualification, Women, Group B": "assets/logos/leagues/fiba-world-cup-qualification-women-group-b.webp",
         "Champions League, Group J": "assets/logos/leagues/champions-league-group-j.webp",
-        "DFB Pokal, Women": "assets/logos/leagues/dfb-pokal-women.webp"
+        "DFB Pokal, Women": "assets/logos/leagues/dfb-pokal-women.webp",
+        "Atlantic Coast Conference, Playoffs": "assets/logos/leagues/atlantic-coast-conference-playoffs.webp",
+        "United League": "assets/logos/leagues/united-league.webp",
+        "Conference USA, Playoffs": "assets/logos/leagues/conference-usa-playoffs.webp",
+        "Atlantic 10 Conference, Playoffs": "assets/logos/leagues/atlantic-10-conference-playoffs.webp",
+        "S\u00e9rie A": "assets/logos/leagues/s\u00e9rie-a.webp",
+        "Champions League Women, Playoffs": "assets/logos/leagues/champions-league-women-playoffs.webp"
     }
 }
