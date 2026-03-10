@@ -5974,7 +5974,12 @@
         "Ethan Cook": "assets/logos/upstreams/ethan-cook.webp",
         "Stefan Vujic": "assets/logos/upstreams/stefan-vujic.webp",
         "Monique Barry": "assets/logos/upstreams/monique-barry.webp",
-        "Emily Dunn": "assets/logos/upstreams/emily-dunn.webp"
+        "Emily Dunn": "assets/logos/upstreams/emily-dunn.webp",
+        "Windy City Bulls": "assets/logos/streamed/windy-city-bulls.webp",
+        "College Park Skyhawks": "assets/logos/streamed/college-park-skyhawks.webp",
+        "Rio Grande Valley Vipers": "assets/logos/streamed/rio-grande-valley-vipers.webp",
+        "Ferro Carril Oeste": "assets/logos/streamed/ferro-carril-oeste.webp",
+        "Racing Club Chivilcoy": "assets/logos/streamed/racing-club-chivilcoy.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
