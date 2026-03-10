@@ -5935,7 +5935,11 @@
         "CD Bidasoa": "assets/logos/streamed/cd-bidasoa.webp",
         "Vardar 1961": "assets/logos/streamed/vardar-1961.webp",
         "AFC Fylde": "assets/logos/streamed/afc-fylde.webp",
-        "AFC Telford United": "assets/logos/streamed/afc-telford-united.webp"
+        "AFC Telford United": "assets/logos/streamed/afc-telford-united.webp",
+        "Chorley": "assets/logos/streamed/chorley.webp",
+        "South Shields": "assets/logos/streamed/south-shields.webp",
+        "Alfreton Town": "assets/logos/streamed/alfreton-town.webp",
+        "Radcliffe": "assets/logos/streamed/radcliffe.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
