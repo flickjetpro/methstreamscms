@@ -5980,7 +5980,27 @@
         "Rio Grande Valley Vipers": "assets/logos/streamed/rio-grande-valley-vipers.webp",
         "Ferro Carril Oeste": "assets/logos/streamed/ferro-carril-oeste.webp",
         "Racing Club Chivilcoy": "assets/logos/streamed/racing-club-chivilcoy.webp",
-        "Ponte Preta": "assets/logos/streamed/ponte-preta.webp"
+        "Ponte Preta": "assets/logos/streamed/ponte-preta.webp",
+        "Ferencv\u00e1ros": "assets/logos/streamed/ferencv\u00e1ros.webp",
+        "AEK Larnaca": "assets/logos/streamed/aek-larnaca.webp",
+        "Italy W": "assets/logos/upstreams/italy-w.webp",
+        "Duquesne": "assets/logos/upstreams/duquesne.webp",
+        "Rhode Island": "assets/logos/upstreams/rhode-island.webp",
+        "Maryland-Eastern Shore": "assets/logos/upstreams/maryland-eastern-shore.webp",
+        "Mount Pleasant FA": "assets/logos/upstreams/mount-pleasant-fa.webp",
+        "Bravo U19": "assets/logos/upstreams/bravo-u19.webp",
+        "Nafta": "assets/logos/upstreams/nafta.webp",
+        "Badalona": "assets/logos/upstreams/badalona.webp",
+        "Barcelona W": "assets/logos/upstreams/barcelona-w.webp",
+        "Ferencvaros": "assets/logos/upstreams/ferencvaros.webp",
+        "Instituto": "assets/logos/upstreams/instituto.webp",
+        "Vasco": "assets/logos/upstreams/vasco.webp",
+        "DC Power (W)": "assets/logos/upstreams/dc-power-w.webp",
+        "Dallas Trinity (W)": "assets/logos/upstreams/dallas-trinity-w.webp",
+        "Dinamo Bucuresti": "assets/logos/upstreams/dinamo-bucuresti.webp",
+        "Parramatta Eels": "assets/logos/upstreams/parramatta-eels.webp",
+        "LOVB Houston": "assets/logos/upstreams/lovb-houston.webp",
+        "LOVB Austin": "assets/logos/upstreams/lovb-austin.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -6525,6 +6545,12 @@
         "Metro Atlantic Athletic Conference, Playoffs": "assets/logos/leagues/metro-atlantic-athletic-conference-playoffs.webp",
         "Patriot League, Playoffs": "assets/logos/leagues/patriot-league-playoffs.webp",
         "football": "assets/logos/leagues/football.webp",
-        "Cup": "assets/logos/leagues/cup.webp"
+        "Cup": "assets/logos/leagues/cup.webp",
+        "Europa Conference League": "assets/logos/leagues/europa-conference-league.webp",
+        "Europa League": "assets/logos/leagues/europa-league.webp",
+        "Pokal Slovenije": "assets/logos/leagues/pokal-slovenije.webp",
+        "USA - USL Super League (W)": "assets/logos/leagues/usa-usl-super-league-w.webp",
+        "NRL Premiership": "assets/logos/leagues/nrl-premiership.webp",
+        "LOVB Pro, Women": "assets/logos/leagues/lovb-pro-women.webp"
     }
 }
