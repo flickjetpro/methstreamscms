@@ -6256,7 +6256,9 @@
         "Yuzuki Miyajima": "assets/logos/upstreams/yuzuki-miyajima.webp",
         "Istanbulspor AS": "assets/logos/upstreams/istanbulspor-as.webp",
         "Enzo Aguiard": "assets/logos/upstreams/enzo-aguiard.webp",
-        "Taleia Tuatao": "assets/logos/upstreams/taleia-tuatao.webp"
+        "Taleia Tuatao": "assets/logos/upstreams/taleia-tuatao.webp",
+        "Morgan State": "assets/logos/streamed/morgan-state.webp",
+        "Delaware State": "assets/logos/streamed/delaware-state.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
