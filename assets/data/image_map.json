@@ -6149,7 +6149,11 @@
         "Lukko": "assets/logos/streamed/lukko.webp",
         "Shanghai Dragons": "assets/logos/streamed/shanghai-dragons.webp",
         "Poland Basketball Women": "assets/logos/streamed/poland-basketball-women.webp",
-        "Slovakia Basketball Women": "assets/logos/streamed/slovakia-basketball-women.webp"
+        "Slovakia Basketball Women": "assets/logos/streamed/slovakia-basketball-women.webp",
+        "Ukraine Basketball Women": "assets/logos/streamed/ukraine-basketball-women.webp",
+        "Montenegro Basketball Women": "assets/logos/streamed/montenegro-basketball-women.webp",
+        "Serbia Basketball Women": "assets/logos/streamed/serbia-basketball-women.webp",
+        "Iceland Basketball Women": "assets/logos/streamed/iceland-basketball-women.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
