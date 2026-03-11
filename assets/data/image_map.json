@@ -6179,7 +6179,25 @@
         "Nathan Guiovanna": "assets/logos/upstreams/nathan-guiovanna.webp",
         "Ni Kadek Dhinda Amartya Pratiwi": "assets/logos/upstreams/ni-kadek-dhinda-amartya-pratiwi.webp",
         "Luo Yu Wu": "assets/logos/upstreams/luo-yu-wu.webp",
-        "Manami Suizu": "assets/logos/upstreams/manami-suizu.webp"
+        "Manami Suizu": "assets/logos/upstreams/manami-suizu.webp",
+        "Kouvottaret": "assets/logos/upstreams/kouvottaret.webp",
+        "Peli-Karhut": "assets/logos/upstreams/peli-karhut.webp",
+        "Fortitudo Bologna": "assets/logos/upstreams/fortitudo-bologna.webp",
+        "Benedetto XIV Cento": "assets/logos/upstreams/benedetto-xiv-cento.webp",
+        "HC 19 Humenne": "assets/logos/upstreams/hc-19-humenne.webp",
+        "HK \u017diar nad Hronom": "assets/logos/upstreams/hk-\u017eiar-nad-hronom.webp",
+        "Macau Black Bears": "assets/logos/upstreams/macau-black-bears.webp",
+        "Converge Fiberxers": "assets/logos/upstreams/converge-fiberxers.webp",
+        "Titan Ultra Giant Risers": "assets/logos/upstreams/titan-ultra-giant-risers.webp",
+        "Terrafirma Dyip": "assets/logos/upstreams/terrafirma-dyip.webp",
+        "Lucca Liu": "assets/logos/upstreams/lucca-liu.webp",
+        "Marina Bassols Ribera": "assets/logos/upstreams/marina-bassols-ribera.webp",
+        "Hiroko Kuwata": "assets/logos/upstreams/hiroko-kuwata.webp",
+        "Raluca Georgiana Serban": "assets/logos/upstreams/raluca-georgiana-serban.webp",
+        "Isaac Yang": "assets/logos/upstreams/isaac-yang.webp",
+        "Sang Yong Park": "assets/logos/upstreams/sang-yong-park.webp",
+        "Tzu Wei Wang": "assets/logos/upstreams/tzu-wei-wang.webp",
+        "Thuy Linh Nguyen": "assets/logos/upstreams/thuy-linh-nguyen.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -6746,6 +6764,8 @@
         "Brazil - Brasileiro - Serie A": "assets/logos/leagues/brazil-brasileiro-serie-a.webp",
         "Sweden - Allsvenskan - Playoff": "assets/logos/leagues/sweden-allsvenskan-playoff.webp",
         "Slovenia - Cup": "assets/logos/leagues/slovenia-cup.webp",
-        "One Day Cup, Final": "assets/logos/leagues/one-day-cup-final.webp"
+        "One Day Cup, Final": "assets/logos/leagues/one-day-cup-final.webp",
+        "1st Liga, Playoffs": "assets/logos/leagues/1st-liga-playoffs.webp",
+        "PBA Commissioner's Cup": "assets/logos/leagues/pba-commissioners-cup.webp"
     }
 }
