@@ -6254,7 +6254,9 @@
         "Alkmaar": "assets/logos/upstreams/alkmaar.webp",
         "Ferencvarosi": "assets/logos/upstreams/ferencvarosi.webp",
         "Yuzuki Miyajima": "assets/logos/upstreams/yuzuki-miyajima.webp",
-        "Istanbulspor AS": "assets/logos/upstreams/istanbulspor-as.webp"
+        "Istanbulspor AS": "assets/logos/upstreams/istanbulspor-as.webp",
+        "Enzo Aguiard": "assets/logos/upstreams/enzo-aguiard.webp",
+        "Taleia Tuatao": "assets/logos/upstreams/taleia-tuatao.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
