@@ -6261,7 +6261,13 @@
         "Delaware State": "assets/logos/streamed/delaware-state.webp",
         "Lehigh": "assets/logos/streamed/lehigh.webp",
         "Tarleton State": "assets/logos/streamed/tarleton-state.webp",
-        "Cal Poly": "assets/logos/streamed/cal-poly.webp"
+        "Cal Poly": "assets/logos/streamed/cal-poly.webp",
+        "ENPPI": "assets/logos/upstreams/enppi.webp",
+        "ZED FC": "assets/logos/upstreams/zed-fc.webp",
+        "Modern Sport FC": "assets/logos/upstreams/modern-sport-fc.webp",
+        "Ting Yu Liang": "assets/logos/upstreams/ting-yu-liang.webp",
+        "Mutiara Ayu Puspitasari": "assets/logos/upstreams/mutiara-ayu-puspitasari.webp",
+        "Min Sun Kim": "assets/logos/upstreams/min-sun-kim.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
