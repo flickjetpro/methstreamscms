@@ -6237,7 +6237,24 @@
         "Mathys Picard": "assets/logos/upstreams/mathys-picard.webp",
         "Worcester Railers": "assets/logos/upstreams/worcester-railers.webp",
         "Norfolk Admirals": "assets/logos/upstreams/norfolk-admirals.webp",
-        "Atlanta Gladiators": "assets/logos/upstreams/atlanta-gladiators.webp"
+        "Atlanta Gladiators": "assets/logos/upstreams/atlanta-gladiators.webp",
+        "NEOM": "assets/logos/streamed/neom.webp",
+        "Dubai Basketball": "assets/logos/streamed/dubai-basketball.webp",
+        "Ferencvarosi TC": "assets/logos/streamed/ferencvarosi-tc.webp",
+        "SC Braga": "assets/logos/streamed/sc-braga.webp",
+        "Central C\u00f3rdoba de Santiago del Estero": "assets/logos/streamed/central-c\u00f3rdoba-de-santiago-del-estero.webp",
+        "Remo": "assets/logos/streamed/remo.webp",
+        "Talleres de C\u00f3rdoba": "assets/logos/streamed/talleres-de-c\u00f3rdoba.webp",
+        "S\u00e3o Paulo": "assets/logos/streamed/s\u00e3o-paulo.webp",
+        "Gremio": "assets/logos/streamed/gremio.webp",
+        "RB Bragantino": "assets/logos/streamed/rb-bragantino.webp",
+        "Brisbane Roar": "assets/logos/streamed/brisbane-roar.webp",
+        "Bremen (W)": "assets/logos/upstreams/bremen-w.webp",
+        "Bodoe/Glimt": "assets/logos/upstreams/bodoeglimt.webp",
+        "Alkmaar": "assets/logos/upstreams/alkmaar.webp",
+        "Ferencvarosi": "assets/logos/upstreams/ferencvarosi.webp",
+        "Yuzuki Miyajima": "assets/logos/upstreams/yuzuki-miyajima.webp",
+        "Istanbulspor AS": "assets/logos/upstreams/istanbulspor-as.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -6810,6 +6827,7 @@
         "Big 12 Conference, Playoffs": "assets/logos/leagues/big-12-conference-playoffs.webp",
         "Malaysia Cup": "assets/logos/leagues/malaysia-cup.webp",
         "Turkey Lig 1": "assets/logos/leagues/turkey-lig-1.webp",
-        "Challenge Cup, Women": "assets/logos/leagues/challenge-cup-women.webp"
+        "Challenge Cup, Women": "assets/logos/leagues/challenge-cup-women.webp",
+        "UEFA Europa Conference League, Knockout stage": "assets/logos/leagues/uefa-europa-conference-league-knockout-stage.webp"
     }
 }
