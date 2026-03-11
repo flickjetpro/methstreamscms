@@ -6258,7 +6258,10 @@
         "Enzo Aguiard": "assets/logos/upstreams/enzo-aguiard.webp",
         "Taleia Tuatao": "assets/logos/upstreams/taleia-tuatao.webp",
         "Morgan State": "assets/logos/streamed/morgan-state.webp",
-        "Delaware State": "assets/logos/streamed/delaware-state.webp"
+        "Delaware State": "assets/logos/streamed/delaware-state.webp",
+        "Lehigh": "assets/logos/streamed/lehigh.webp",
+        "Tarleton State": "assets/logos/streamed/tarleton-state.webp",
+        "Cal Poly": "assets/logos/streamed/cal-poly.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
