@@ -6369,7 +6369,15 @@
         "Younes Lalami Laaroussi": "assets/logos/upstreams/younes-lalami-laaroussi.webp",
         "Luca Castelnuovo": "assets/logos/upstreams/luca-castelnuovo.webp",
         "Ciou-Tong Tung": "assets/logos/upstreams/ciou-tong-tung.webp",
-        "Thi Trang Vu": "assets/logos/upstreams/thi-trang-vu.webp"
+        "Thi Trang Vu": "assets/logos/upstreams/thi-trang-vu.webp",
+        "BK Bauska": "assets/logos/upstreams/bk-bauska.webp",
+        "Gulbenes Buki": "assets/logos/upstreams/gulbenes-buki.webp",
+        "Vasteras": "assets/logos/upstreams/vasteras.webp",
+        "Troja-Ljungby": "assets/logos/upstreams/troja-ljungby.webp",
+        "Richmond Tigers": "assets/logos/upstreams/richmond-tigers.webp",
+        "Benjamin Berger": "assets/logos/upstreams/benjamin-berger.webp",
+        "Chak Lam Coleman Wong": "assets/logos/upstreams/chak-lam-coleman-wong.webp",
+        "Mokaev": "assets/logos/upstreams/mokaev.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -6959,6 +6967,9 @@
         "CAF Champions League, Knockout stage": "assets/logos/leagues/caf-champions-league-knockout-stage.webp",
         "Austrian Bundesliga, Championship Round": "assets/logos/leagues/austrian-bundesliga-championship-round.webp",
         "SuperLiga, Relegation round": "assets/logos/leagues/superliga-relegation-round.webp",
-        "NCAA Basketball": "assets/logos/leagues/ncaa-basketball.webp"
+        "NCAA Basketball": "assets/logos/leagues/ncaa-basketball.webp",
+        "Sweden - Allsvenskan - Playout": "assets/logos/leagues/sweden-allsvenskan-playout.webp",
+        "National Rugby League": "assets/logos/leagues/national-rugby-league.webp",
+        "National League, Play-in": "assets/logos/leagues/national-league-play-in.webp"
     }
 }
