@@ -6401,7 +6401,11 @@
         "Miomir Kecmanovi\u0107": "assets/logos/upstreams/miomir-kecmanovi\u0107.webp",
         "Sousa PB": "assets/logos/upstreams/sousa-pb.webp",
         "CRB AL": "assets/logos/upstreams/crb-al.webp",
-        "Jay Friend": "assets/logos/upstreams/jay-friend.webp"
+        "Jay Friend": "assets/logos/upstreams/jay-friend.webp",
+        "Toledo": "assets/logos/streamed/toledo.webp",
+        "Texas Southern": "assets/logos/streamed/texas-southern.webp",
+        "Alabama A and M": "assets/logos/streamed/alabama-a-and-m.webp",
+        "Buffalo": "assets/logos/streamed/buffalo.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
