@@ -6405,7 +6405,10 @@
         "Toledo": "assets/logos/streamed/toledo.webp",
         "Texas Southern": "assets/logos/streamed/texas-southern.webp",
         "Alabama A and M": "assets/logos/streamed/alabama-a-and-m.webp",
-        "Buffalo": "assets/logos/streamed/buffalo.webp"
+        "Buffalo": "assets/logos/streamed/buffalo.webp",
+        "Piratas de La Guaira": "assets/logos/upstreams/piratas-de-la-guaira.webp",
+        "Stade Rochelais Basket": "assets/logos/upstreams/stade-rochelais-basket.webp",
+        "Utah Grizzlies": "assets/logos/upstreams/utah-grizzlies.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
