@@ -6389,7 +6389,16 @@
         "Maria Fernanda Herazo Gonzalez": "assets/logos/upstreams/maria-fernanda-herazo-gonzalez.webp",
         "Border": "assets/logos/upstreams/border.webp",
         "Essendon Bombers": "assets/logos/streamed/essendon-bombers.webp",
-        "Hawthorn Hawks": "assets/logos/streamed/hawthorn-hawks.webp"
+        "Hawthorn Hawks": "assets/logos/streamed/hawthorn-hawks.webp",
+        "Virginia Cavaliers": "assets/logos/upstreams/virginia-cavaliers.webp",
+        "Texas Southern Tigers": "assets/logos/upstreams/texas-southern-tigers.webp",
+        "Alabama A&M Bulldogs": "assets/logos/upstreams/alabama-am-bulldogs.webp",
+        "Grand Canyon Antelopes": "assets/logos/upstreams/grand-canyon-antelopes.webp",
+        "Nevada Wolf Pack": "assets/logos/upstreams/nevada-wolf-pack.webp",
+        "Davidson Wildcats": "assets/logos/upstreams/davidson-wildcats.webp",
+        "Georgetown": "assets/logos/upstreams/georgetown.webp",
+        "Southampton U21": "assets/logos/upstreams/southampton-u21.webp",
+        "Miomir Kecmanovi\u0107": "assets/logos/upstreams/miomir-kecmanovi\u0107.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -6982,6 +6991,8 @@
         "NCAA Basketball": "assets/logos/leagues/ncaa-basketball.webp",
         "Sweden - Allsvenskan - Playout": "assets/logos/leagues/sweden-allsvenskan-playout.webp",
         "National Rugby League": "assets/logos/leagues/national-rugby-league.webp",
-        "National League, Play-in": "assets/logos/leagues/national-league-play-in.webp"
+        "National League, Play-in": "assets/logos/leagues/national-league-play-in.webp",
+        "Southwestern Athletic Conference, Playoffs": "assets/logos/leagues/southwestern-athletic-conference-playoffs.webp",
+        "Mountain West Conference, Playoffs": "assets/logos/leagues/mountain-west-conference-playoffs.webp"
     }
 }
