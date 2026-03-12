@@ -6446,7 +6446,10 @@
         "UBSC Graz": "assets/logos/upstreams/ubsc-graz.webp",
         "KTP Basket Kotka II": "assets/logos/upstreams/ktp-basket-kotka-ii.webp",
         "Salaspils SS": "assets/logos/upstreams/salaspils-ss.webp",
-        "Umana San Giobbe Chiusi": "assets/logos/upstreams/umana-san-giobbe-chiusi.webp"
+        "Umana San Giobbe Chiusi": "assets/logos/upstreams/umana-san-giobbe-chiusi.webp",
+        "Damac FC": "assets/logos/upstreams/damac-fc.webp",
+        "Mell E.R.Gonzalez": "assets/logos/upstreams/mell-ergonzalez.webp",
+        "Sofia Cabezas Dominguez": "assets/logos/upstreams/sofia-cabezas-dominguez.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
