@@ -6453,7 +6453,10 @@
         "Middle Tennessee": "assets/logos/streamed/middle-tennessee.webp",
         "Grand Canyon": "assets/logos/streamed/grand-canyon.webp",
         "Nevada": "assets/logos/streamed/nevada.webp",
-        "Shumen": "assets/logos/upstreams/shumen.webp"
+        "Shumen": "assets/logos/upstreams/shumen.webp",
+        "Western Kentucky": "assets/logos/streamed/western-kentucky.webp",
+        "North Texas": "assets/logos/streamed/north-texas.webp",
+        "San Jose State": "assets/logos/streamed/san-jose-state.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
