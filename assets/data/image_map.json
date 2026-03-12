@@ -6431,7 +6431,10 @@
         "Livingston": "assets/logos/streamed/livingston.webp",
         "Brighton": "assets/logos/streamed/brighton.webp",
         "Boston Legacy W": "assets/logos/streamed/boston-legacy-w.webp",
-        "NJ/NY Gotham FC W": "assets/logos/streamed/njny-gotham-fc-w.webp"
+        "NJ/NY Gotham FC W": "assets/logos/streamed/njny-gotham-fc-w.webp",
+        "Luan Lacerda": "assets/logos/streamed/luan-lacerda.webp",
+        "SuYoung You": "assets/logos/streamed/suyoung-you.webp",
+        "Elijah Smith": "assets/logos/streamed/elijah-smith.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
