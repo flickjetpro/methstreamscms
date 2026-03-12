@@ -6398,7 +6398,9 @@
         "Davidson Wildcats": "assets/logos/upstreams/davidson-wildcats.webp",
         "Georgetown": "assets/logos/upstreams/georgetown.webp",
         "Southampton U21": "assets/logos/upstreams/southampton-u21.webp",
-        "Miomir Kecmanovi\u0107": "assets/logos/upstreams/miomir-kecmanovi\u0107.webp"
+        "Miomir Kecmanovi\u0107": "assets/logos/upstreams/miomir-kecmanovi\u0107.webp",
+        "Sousa PB": "assets/logos/upstreams/sousa-pb.webp",
+        "CRB AL": "assets/logos/upstreams/crb-al.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
