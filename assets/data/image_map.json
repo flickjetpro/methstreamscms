@@ -6695,7 +6695,11 @@
         "Forward Madison FC": "assets/logos/upstreams/forward-madison-fc.webp",
         "Charlotte Independence": "assets/logos/upstreams/charlotte-independence.webp",
         "Espoo Basket Team": "assets/logos/upstreams/espoo-basket-team.webp",
-        "Pyrint\u00f6": "assets/logos/upstreams/pyrint\u00f6.webp"
+        "Pyrint\u00f6": "assets/logos/upstreams/pyrint\u00f6.webp",
+        "Miercurea Ciuc": "assets/logos/upstreams/miercurea-ciuc.webp",
+        "New York Cosmos": "assets/logos/upstreams/new-york-cosmos.webp",
+        "Portland Hearts of Pine": "assets/logos/upstreams/portland-hearts-of-pine.webp",
+        "Corpus Christi FC": "assets/logos/upstreams/corpus-christi-fc.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
