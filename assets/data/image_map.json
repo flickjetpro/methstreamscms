@@ -6586,7 +6586,9 @@
         "CharlEastown Azzurri (W)": "assets/logos/upstreams/charleastown-azzurri-w.webp",
         "PrEaston Lions (W)": "assets/logos/upstreams/preaston-lions-w.webp",
         "Prahdiska Bagas Shujiwo": "assets/logos/upstreams/prahdiska-bagas-shujiwo.webp",
-        "Ji Hoon Choi": "assets/logos/upstreams/ji-hoon-choi.webp"
+        "Ji Hoon Choi": "assets/logos/upstreams/ji-hoon-choi.webp",
+        "New Zealand Warriors": "assets/logos/streamed/new-zealand-warriors.webp",
+        "Sydney Roosters": "assets/logos/streamed/sydney-roosters.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
