@@ -6608,7 +6608,13 @@
         "Piacenza": "assets/logos/upstreams/piacenza.webp",
         "Nikola Slavic": "assets/logos/upstreams/nikola-slavic.webp",
         "Anton Shepp": "assets/logos/upstreams/anton-shepp.webp",
-        "WEastern Province (W)": "assets/logos/upstreams/weastern-province-w.webp"
+        "WEastern Province (W)": "assets/logos/upstreams/weastern-province-w.webp",
+        "RW Essen": "assets/logos/upstreams/rw-essen.webp",
+        "Aue": "assets/logos/upstreams/aue.webp",
+        "Ole Mississippi": "assets/logos/upstreams/ole-mississippi.webp",
+        "Saint Josephs": "assets/logos/upstreams/saint-josephs.webp",
+        "Cal State Northridge Matadors": "assets/logos/upstreams/cal-state-northridge-matadors.webp",
+        "UMBC Retrievers": "assets/logos/upstreams/umbc-retrievers.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -7240,6 +7246,9 @@
         "Bundesliga, Relegation Round": "assets/logos/leagues/bundesliga-relegation-round.webp",
         "ROmania - SuperLeague - Playout": "assets/logos/leagues/romania-superleague-playout.webp",
         "Australia Women A-League": "assets/logos/leagues/australia-women-a-league.webp",
-        "Women's National Cricket League": "assets/logos/leagues/womens-national-cricket-league.webp"
+        "Women's National Cricket League": "assets/logos/leagues/womens-national-cricket-league.webp",
+        "Big Ten Conference, Playoffs": "assets/logos/leagues/big-ten-conference-playoffs.webp",
+        "Australia - NPL (W)": "assets/logos/leagues/australia-npl-w.webp",
+        "Big West Conference, Playoffs": "assets/logos/leagues/big-west-conference-playoffs.webp"
     }
 }
