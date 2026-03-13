@@ -6588,7 +6588,15 @@
         "Prahdiska Bagas Shujiwo": "assets/logos/upstreams/prahdiska-bagas-shujiwo.webp",
         "Ji Hoon Choi": "assets/logos/upstreams/ji-hoon-choi.webp",
         "New Zealand Warriors": "assets/logos/streamed/new-zealand-warriors.webp",
-        "Sydney Roosters": "assets/logos/streamed/sydney-roosters.webp"
+        "Sydney Roosters": "assets/logos/streamed/sydney-roosters.webp",
+        "Karag\u00fcmr\u00fck": "assets/logos/upstreams/karag\u00fcmr\u00fck.webp",
+        "Furth": "assets/logos/upstreams/furth.webp",
+        "Wisla Krakow": "assets/logos/upstreams/wisla-krakow.webp",
+        "Legnica": "assets/logos/upstreams/legnica.webp",
+        "Latvijas Universitate": "assets/logos/upstreams/latvijas-universitate.webp",
+        "AS Otoh\u00f4": "assets/logos/upstreams/as-otoh\u00f4.webp",
+        "Mohun Bagan Super Giant": "assets/logos/upstreams/mohun-bagan-super-giant.webp",
+        "Jay McFarlane": "assets/logos/upstreams/jay-mcfarlane.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -7213,6 +7221,9 @@
         "Liga F Moeve": "assets/logos/leagues/liga-f-moeve.webp",
         "Austrian Bundesliga, Relegation Round": "assets/logos/leagues/austrian-bundesliga-relegation-round.webp",
         "CAF Confederations Cup, Knockout stage": "assets/logos/leagues/caf-confederations-cup-knockout-stage.webp",
-        "Turkey - TB2L (W)": "assets/logos/leagues/turkey-tb2l-w.webp"
+        "Turkey - TB2L (W)": "assets/logos/leagues/turkey-tb2l-w.webp",
+        "First Professional League": "assets/logos/leagues/first-professional-league.webp",
+        "1. HNL": "assets/logos/leagues/1-hnl.webp",
+        "2nd Bundesliga": "assets/logos/leagues/2nd-bundesliga.webp"
     }
 }
