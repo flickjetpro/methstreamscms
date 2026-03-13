@@ -6614,7 +6614,21 @@
         "Ole Mississippi": "assets/logos/upstreams/ole-mississippi.webp",
         "Saint Josephs": "assets/logos/upstreams/saint-josephs.webp",
         "Cal State Northridge Matadors": "assets/logos/upstreams/cal-state-northridge-matadors.webp",
-        "UMBC Retrievers": "assets/logos/upstreams/umbc-retrievers.webp"
+        "UMBC Retrievers": "assets/logos/upstreams/umbc-retrievers.webp",
+        "Greater Tomorrow": "assets/logos/upstreams/greater-tomorrow.webp",
+        "Maastricht": "assets/logos/upstreams/maastricht.webp",
+        "DH Cebu FC": "assets/logos/upstreams/dh-cebu-fc.webp",
+        "Fortitudo Pomezia": "assets/logos/upstreams/fortitudo-pomezia.webp",
+        "Sandro Abate": "assets/logos/upstreams/sandro-abate.webp",
+        "CS Fullerton": "assets/logos/upstreams/cs-fullerton.webp",
+        "Bia Mesquita": "assets/logos/upstreams/bia-mesquita.webp",
+        "Montserrat Rendon": "assets/logos/upstreams/montserrat-rendon.webp",
+        "Luan Luiz Lacerda": "assets/logos/upstreams/luan-luiz-lacerda.webp",
+        "Hecher Sosa": "assets/logos/upstreams/hecher-sosa.webp",
+        "Bolaji Oki": "assets/logos/upstreams/bolaji-oki.webp",
+        "Manoel Sousa": "assets/logos/upstreams/manoel-sousa.webp",
+        "Brad Tavares": "assets/logos/upstreams/brad-tavares.webp",
+        "Eryk Anders": "assets/logos/upstreams/eryk-anders.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -7249,6 +7263,7 @@
         "Women's National Cricket League": "assets/logos/leagues/womens-national-cricket-league.webp",
         "Big Ten Conference, Playoffs": "assets/logos/leagues/big-ten-conference-playoffs.webp",
         "Australia - NPL (W)": "assets/logos/leagues/australia-npl-w.webp",
-        "Big West Conference, Playoffs": "assets/logos/leagues/big-west-conference-playoffs.webp"
+        "Big West Conference, Playoffs": "assets/logos/leagues/big-west-conference-playoffs.webp",
+        "Seven's World Series - USA": "assets/logos/leagues/sevens-world-series-usa.webp"
     }
 }
