@@ -6596,7 +6596,19 @@
         "Latvijas Universitate": "assets/logos/upstreams/latvijas-universitate.webp",
         "AS Otoh\u00f4": "assets/logos/upstreams/as-otoh\u00f4.webp",
         "Mohun Bagan Super Giant": "assets/logos/upstreams/mohun-bagan-super-giant.webp",
-        "Jay McFarlane": "assets/logos/upstreams/jay-mcfarlane.webp"
+        "Jay McFarlane": "assets/logos/upstreams/jay-mcfarlane.webp",
+        "Fort. D\u00fcsseldorf": "assets/logos/upstreams/fort-d\u00fcsseldorf.webp",
+        "Bielefeld": "assets/logos/upstreams/bielefeld.webp",
+        "Altach": "assets/logos/upstreams/altach.webp",
+        "Otelul Galati": "assets/logos/upstreams/otelul-galati.webp",
+        "Western Australia Women": "assets/logos/upstreams/western-australia-women.webp",
+        "ACT Meteors": "assets/logos/upstreams/act-meteors.webp",
+        "Valence Handball": "assets/logos/upstreams/valence-handball.webp",
+        "Pontault": "assets/logos/upstreams/pontault.webp",
+        "Piacenza": "assets/logos/upstreams/piacenza.webp",
+        "Nikola Slavic": "assets/logos/upstreams/nikola-slavic.webp",
+        "Anton Shepp": "assets/logos/upstreams/anton-shepp.webp",
+        "WEastern Province (W)": "assets/logos/upstreams/weastern-province-w.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -7224,6 +7236,10 @@
         "Turkey - TB2L (W)": "assets/logos/leagues/turkey-tb2l-w.webp",
         "First Professional League": "assets/logos/leagues/first-professional-league.webp",
         "1. HNL": "assets/logos/leagues/1-hnl.webp",
-        "2nd Bundesliga": "assets/logos/leagues/2nd-bundesliga.webp"
+        "2nd Bundesliga": "assets/logos/leagues/2nd-bundesliga.webp",
+        "Bundesliga, Relegation Round": "assets/logos/leagues/bundesliga-relegation-round.webp",
+        "ROmania - SuperLeague - Playout": "assets/logos/leagues/romania-superleague-playout.webp",
+        "Australia Women A-League": "assets/logos/leagues/australia-women-a-league.webp",
+        "Women's National Cricket League": "assets/logos/leagues/womens-national-cricket-league.webp"
     }
 }
