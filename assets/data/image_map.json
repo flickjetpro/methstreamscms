@@ -6922,7 +6922,17 @@
         "Tomas Talajka": "assets/logos/upstreams/tomas-talajka.webp",
         "Lea Belanska": "assets/logos/upstreams/lea-belanska.webp",
         "Bayern U19": "assets/logos/upstreams/bayern-u19.webp",
-        "Kaiserslautern U19": "assets/logos/upstreams/kaiserslautern-u19.webp"
+        "Kaiserslautern U19": "assets/logos/upstreams/kaiserslautern-u19.webp",
+        "Brondby": "assets/logos/streamed/brondby.webp",
+        "VfL Wolfsburg Women": "assets/logos/streamed/vfl-wolfsburg-women.webp",
+        "Bayer Leverkusen Women": "assets/logos/streamed/bayer-leverkusen-women.webp",
+        "Athletico Paranaense": "assets/logos/streamed/athletico-paranaense.webp",
+        "Bolivia": "assets/logos/streamed/bolivia.webp",
+        "Trinidad and Tobago": "assets/logos/streamed/trinidad-and-tobago.webp",
+        "Rionegro \u00c1guilas": "assets/logos/streamed/rionegro-\u00e1guilas.webp",
+        "Esp\u00e9rance de Tunis": "assets/logos/streamed/esp\u00e9rance-de-tunis.webp",
+        "Angel City W": "assets/logos/streamed/angel-city-w.webp",
+        "Chicago Red Stars W": "assets/logos/streamed/chicago-red-stars-w.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
