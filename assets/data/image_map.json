@@ -6778,7 +6778,14 @@
         "Wests Tigers": "assets/logos/streamed/wests-tigers.webp",
         "North Queensland Cowboys": "assets/logos/streamed/north-queensland-cowboys.webp",
         "St. George Illawara Dragons": "assets/logos/streamed/st-george-illawara-dragons.webp",
-        "Melbourne Storm": "assets/logos/streamed/melbourne-storm.webp"
+        "Melbourne Storm": "assets/logos/streamed/melbourne-storm.webp",
+        "Deportes Concepci\u00f3n": "assets/logos/upstreams/deportes-concepci\u00f3n.webp",
+        "Estudiantes de La Plata": "assets/logos/upstreams/estudiantes-de-la-plata.webp",
+        "Fort Lauderdale United": "assets/logos/upstreams/fort-lauderdale-united.webp",
+        "Sporting Jacksonville": "assets/logos/upstreams/sporting-jacksonville.webp",
+        "Soyoung You": "assets/logos/upstreams/soyoung-you.webp",
+        "Spokane Zephyr FC": "assets/logos/upstreams/spokane-zephyr-fc.webp",
+        "Mumbai City": "assets/logos/upstreams/mumbai-city.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
