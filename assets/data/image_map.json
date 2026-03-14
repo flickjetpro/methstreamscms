@@ -6920,7 +6920,9 @@
         "Terek Grozny": "assets/logos/upstreams/terek-grozny.webp",
         "Michal Milko": "assets/logos/upstreams/michal-milko.webp",
         "Tomas Talajka": "assets/logos/upstreams/tomas-talajka.webp",
-        "Lea Belanska": "assets/logos/upstreams/lea-belanska.webp"
+        "Lea Belanska": "assets/logos/upstreams/lea-belanska.webp",
+        "Bayern U19": "assets/logos/upstreams/bayern-u19.webp",
+        "Kaiserslautern U19": "assets/logos/upstreams/kaiserslautern-u19.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -7585,6 +7587,7 @@
         "Norway - Eliteserien": "assets/logos/leagues/norway-eliteserien.webp",
         "Campeonato Nacional, Women": "assets/logos/leagues/campeonato-nacional-women.webp",
         "Stoiximan GBL": "assets/logos/leagues/stoiximan-gbl.webp",
-        "II Liga": "assets/logos/leagues/ii-liga.webp"
+        "II Liga": "assets/logos/leagues/ii-liga.webp",
+        "Second Professional League": "assets/logos/leagues/second-professional-league.webp"
     }
 }
