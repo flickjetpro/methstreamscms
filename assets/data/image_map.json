@@ -6774,7 +6774,11 @@
         "Ayr": "assets/logos/upstreams/ayr.webp",
         "Watsonians": "assets/logos/upstreams/watsonians.webp",
         "Exeter Chiefs": "assets/logos/upstreams/exeter-chiefs.webp",
-        "New York W": "assets/logos/upstreams/new-york-w.webp"
+        "New York W": "assets/logos/upstreams/new-york-w.webp",
+        "Wests Tigers": "assets/logos/streamed/wests-tigers.webp",
+        "North Queensland Cowboys": "assets/logos/streamed/north-queensland-cowboys.webp",
+        "St. George Illawara Dragons": "assets/logos/streamed/st-george-illawara-dragons.webp",
+        "Melbourne Storm": "assets/logos/streamed/melbourne-storm.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
