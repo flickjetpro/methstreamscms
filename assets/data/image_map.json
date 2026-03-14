@@ -6785,7 +6785,34 @@
         "Sporting Jacksonville": "assets/logos/upstreams/sporting-jacksonville.webp",
         "Soyoung You": "assets/logos/upstreams/soyoung-you.webp",
         "Spokane Zephyr FC": "assets/logos/upstreams/spokane-zephyr-fc.webp",
-        "Mumbai City": "assets/logos/upstreams/mumbai-city.webp"
+        "Mumbai City": "assets/logos/upstreams/mumbai-city.webp",
+        "Estudiantes LP": "assets/logos/upstreams/estudiantes-lp.webp",
+        "Vit\u00f3ria SC B": "assets/logos/upstreams/vit\u00f3ria-sc-b.webp",
+        "Dyn. Dresden": "assets/logos/upstreams/dyn-dresden.webp",
+        "Maniema Union": "assets/logos/upstreams/maniema-union.webp",
+        "FC Nordsj\u00e6lland": "assets/logos/upstreams/fc-nordsj\u00e6lland.webp",
+        "West Ham": "assets/logos/upstreams/west-ham.webp",
+        "Bremen": "assets/logos/upstreams/bremen.webp",
+        "FS Jelgava": "assets/logos/upstreams/fs-jelgava.webp",
+        "Chelsea FC": "assets/logos/upstreams/chelsea-fc.webp",
+        "FK Sarajevo": "assets/logos/upstreams/fk-sarajevo.webp",
+        "Nacional Madeira": "assets/logos/upstreams/nacional-madeira.webp",
+        "SC Braga B": "assets/logos/upstreams/sc-braga-b.webp",
+        "APS Atromitos Athinon": "assets/logos/upstreams/aps-atromitos-athinon.webp",
+        "Gimnasia y Tiro de Salta": "assets/logos/upstreams/gimnasia-y-tiro-de-salta.webp",
+        "Orlando Pride": "assets/logos/upstreams/orlando-pride.webp",
+        "Seattle Reign FC": "assets/logos/upstreams/seattle-reign-fc.webp",
+        "Esp\u00e9rance Tunis": "assets/logos/upstreams/esp\u00e9rance-tunis.webp",
+        "Christopher Curtis": "assets/logos/upstreams/christopher-curtis.webp",
+        "Kortrijk Spurs": "assets/logos/upstreams/kortrijk-spurs.webp",
+        "JDA Dijon Basket": "assets/logos/upstreams/jda-dijon-basket.webp",
+        "Lions de Gen\u00e8ve pwd by Grand-Saconnex": "assets/logos/upstreams/lions-de-gen\u00e8ve-pwd-by-grand-saconnex.webp",
+        "Deportivo T\u00e1chira": "assets/logos/upstreams/deportivo-t\u00e1chira.webp",
+        "HSC 2000 Coburg": "assets/logos/upstreams/hsc-2000-coburg.webp",
+        "BM Huesca": "assets/logos/upstreams/bm-huesca.webp",
+        "CB Ciudad de Logro\u00f1o": "assets/logos/upstreams/cb-ciudad-de-logro\u00f1o.webp",
+        "Minnesota Frost": "assets/logos/upstreams/minnesota-frost.webp",
+        "New York PWHL": "assets/logos/upstreams/new-york-pwhl.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -7435,6 +7462,8 @@
         "Irish League Cup": "assets/logos/leagues/irish-league-cup.webp",
         "Austria - BundesLeague - Gr.Championship": "assets/logos/leagues/austria-bundesleague-grchampionship.webp",
         "Eredivisie Women": "assets/logos/leagues/eredivisie-women.webp",
-        "Rugby Europe Championship": "assets/logos/leagues/rugby-europe-championship.webp"
+        "Rugby Europe Championship": "assets/logos/leagues/rugby-europe-championship.webp",
+        "Danish Superliga, Championship round": "assets/logos/leagues/danish-superliga-championship-round.webp",
+        "Liga 1, Relegation round": "assets/logos/leagues/liga-1-relegation-round.webp"
     }
 }
