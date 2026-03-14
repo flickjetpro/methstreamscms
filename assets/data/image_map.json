@@ -6932,7 +6932,9 @@
         "Rionegro \u00c1guilas": "assets/logos/streamed/rionegro-\u00e1guilas.webp",
         "Esp\u00e9rance de Tunis": "assets/logos/streamed/esp\u00e9rance-de-tunis.webp",
         "Angel City W": "assets/logos/streamed/angel-city-w.webp",
-        "Chicago Red Stars W": "assets/logos/streamed/chicago-red-stars-w.webp"
+        "Chicago Red Stars W": "assets/logos/streamed/chicago-red-stars-w.webp",
+        "Corvinul": "assets/logos/upstreams/corvinul.webp",
+        "Sepsi Sf Gheorghe": "assets/logos/upstreams/sepsi-sf-gheorghe.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -7598,6 +7600,7 @@
         "Campeonato Nacional, Women": "assets/logos/leagues/campeonato-nacional-women.webp",
         "Stoiximan GBL": "assets/logos/leagues/stoiximan-gbl.webp",
         "II Liga": "assets/logos/leagues/ii-liga.webp",
-        "Second Professional League": "assets/logos/leagues/second-professional-league.webp"
+        "Second Professional League": "assets/logos/leagues/second-professional-league.webp",
+        "Romania Liga 2": "assets/logos/leagues/romania-liga-2.webp"
     }
 }
