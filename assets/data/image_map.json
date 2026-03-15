@@ -7068,7 +7068,29 @@
         "Nikola Bartunkova": "assets/logos/upstreams/nikola-bartunkova.webp",
         "Dan Martin": "assets/logos/upstreams/dan-martin.webp",
         "Oliver Crawford": "assets/logos/upstreams/oliver-crawford.webp",
-        "Vadym Ursu": "assets/logos/upstreams/vadym-ursu.webp"
+        "Vadym Ursu": "assets/logos/upstreams/vadym-ursu.webp",
+        "CA Sarmiento": "assets/logos/upstreams/ca-sarmiento.webp",
+        "St. Peters FC": "assets/logos/upstreams/st-peters-fc.webp",
+        "Xiao Guodong": "assets/logos/upstreams/xiao-guodong.webp",
+        "Ben Mertens": "assets/logos/upstreams/ben-mertens.webp",
+        "Lei Peifan": "assets/logos/upstreams/lei-peifan.webp",
+        "Ryan Day": "assets/logos/upstreams/ryan-day.webp",
+        "Mitchell Mann": "assets/logos/upstreams/mitchell-mann.webp",
+        "Andrea Fiorentini": "assets/logos/upstreams/andrea-fiorentini.webp",
+        "Matyas Cerny": "assets/logos/upstreams/matyas-cerny.webp",
+        "Ergi Kirkin": "assets/logos/upstreams/ergi-kirkin.webp",
+        "Gerard Campana Lee": "assets/logos/upstreams/gerard-campana-lee.webp",
+        "Oleksii Krutykh": "assets/logos/upstreams/oleksii-krutykh.webp",
+        "Mirza Ba\u0161i\u0107": "assets/logos/upstreams/mirza-ba\u0161i\u0107.webp",
+        "Sergi Perez Contri": "assets/logos/upstreams/sergi-perez-contri.webp",
+        "Stefan Palosi": "assets/logos/upstreams/stefan-palosi.webp",
+        "John Sperle": "assets/logos/upstreams/john-sperle.webp",
+        "Christoph Negritu": "assets/logos/upstreams/christoph-negritu.webp",
+        "Michael Vrbensky": "assets/logos/upstreams/michael-vrbensky.webp",
+        "Denis Yevseyev": "assets/logos/upstreams/denis-yevseyev.webp",
+        "Filip Pieczonka": "assets/logos/upstreams/filip-pieczonka.webp",
+        "Frederico Ferreira Silva": "assets/logos/upstreams/frederico-ferreira-silva.webp",
+        "Rudolf Molleker": "assets/logos/upstreams/rudolf-molleker.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -7752,6 +7774,9 @@
         "Zadar, Croatia": "assets/logos/leagues/zadar-croatia.webp",
         "Murcia, Spain": "assets/logos/leagues/murcia-spain.webp",
         "Asuncion, Paraguay": "assets/logos/leagues/asuncion-paraguay.webp",
-        "Morelos, Mexico": "assets/logos/leagues/morelos-mexico.webp"
+        "Morelos, Mexico": "assets/logos/leagues/morelos-mexico.webp",
+        "Saint Kitts & Nevis - Premier League": "assets/logos/leagues/saint-kitts-nevis-premier-league.webp",
+        "Zadar, Croatia, Qualifying": "assets/logos/leagues/zadar-croatia-qualifying.webp",
+        "Murcia, Spain, Qualifying": "assets/logos/leagues/murcia-spain-qualifying.webp"
     }
 }
