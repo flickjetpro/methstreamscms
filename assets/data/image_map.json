@@ -6969,7 +6969,13 @@
         "Durban City FC": "assets/logos/upstreams/durban-city-fc.webp",
         "Pari Nizhny Novgorod": "assets/logos/upstreams/pari-nizhny-novgorod.webp",
         "Krylya Sovetov Samara": "assets/logos/upstreams/krylya-sovetov-samara.webp",
-        "Bahcesehir Kol.": "assets/logos/streamed/bahcesehir-kol.webp"
+        "Bahcesehir Kol.": "assets/logos/streamed/bahcesehir-kol.webp",
+        "Silkeborg IF": "assets/logos/streamed/silkeborg-if.webp",
+        "Vejle": "assets/logos/streamed/vejle.webp",
+        "Atl\u00e9tico Madrid U19": "assets/logos/streamed/atl\u00e9tico-madrid-u19.webp",
+        "Club Brugge U19": "assets/logos/streamed/club-brugge-u19.webp",
+        "Villarreal U19": "assets/logos/streamed/villarreal-u19.webp",
+        "PSG U19": "assets/logos/streamed/psg-u19.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
