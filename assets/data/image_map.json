@@ -6975,7 +6975,10 @@
         "Atl\u00e9tico Madrid U19": "assets/logos/streamed/atl\u00e9tico-madrid-u19.webp",
         "Club Brugge U19": "assets/logos/streamed/club-brugge-u19.webp",
         "Villarreal U19": "assets/logos/streamed/villarreal-u19.webp",
-        "PSG U19": "assets/logos/streamed/psg-u19.webp"
+        "PSG U19": "assets/logos/streamed/psg-u19.webp",
+        "\u0160K Slovan Bratislava": "assets/logos/upstreams/\u0161k-slovan-bratislava.webp",
+        "M\u0160K \u017dilina": "assets/logos/upstreams/m\u0161k-\u017eilina.webp",
+        "Niels Zonneveld": "assets/logos/upstreams/niels-zonneveld.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -7650,6 +7653,7 @@
         "American Conference, Playoffs": "assets/logos/leagues/american-conference-playoffs.webp",
         "Australia A-League": "assets/logos/leagues/australia-a-league.webp",
         "European Darts Trophy": "assets/logos/leagues/european-darts-trophy.webp",
-        "Cricket T20 World Cup": "assets/logos/leagues/cricket-t20-world-cup.webp"
+        "Cricket T20 World Cup": "assets/logos/leagues/cricket-t20-world-cup.webp",
+        "Nik\u00e9 Liga, Championship Round": "assets/logos/leagues/nik\u00e9-liga-championship-round.webp"
     }
 }
