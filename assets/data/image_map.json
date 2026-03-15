@@ -6955,7 +6955,9 @@
         "FK \u010cukari\u010dki": "assets/logos/upstreams/fk-\u010dukari\u010dki.webp",
         "New York City": "assets/logos/upstreams/new-york-city.webp",
         "Portimonense SAD": "assets/logos/upstreams/portimonense-sad.webp",
-        "Club Le\u00f3n": "assets/logos/upstreams/club-le\u00f3n.webp"
+        "Club Le\u00f3n": "assets/logos/upstreams/club-le\u00f3n.webp",
+        "West Coast Fever W": "assets/logos/upstreams/west-coast-fever-w.webp",
+        "Sunshine Coast Lightning W": "assets/logos/upstreams/sunshine-coast-lightning-w.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -7625,6 +7627,7 @@
         "Romania Liga 2": "assets/logos/leagues/romania-liga-2.webp",
         "World Open": "assets/logos/leagues/world-open.webp",
         "Serie C - Group A": "assets/logos/leagues/serie-c-group-a.webp",
-        "South Africa in New Zealand, 5 T20I Series": "assets/logos/leagues/south-africa-in-new-zealand-5-t20i-series.webp"
+        "South Africa in New Zealand, 5 T20I Series": "assets/logos/leagues/south-africa-in-new-zealand-5-t20i-series.webp",
+        "Suncorp Super Netball": "assets/logos/leagues/suncorp-super-netball.webp"
     }
 }
