@@ -7059,7 +7059,16 @@
         "Mariano Kestelboim": "assets/logos/upstreams/mariano-kestelboim.webp",
         "Pablo Llamas Ruiz": "assets/logos/upstreams/pablo-llamas-ruiz.webp",
         "Himari Sato": "assets/logos/upstreams/himari-sato.webp",
-        "Ariana Gilbert": "assets/logos/upstreams/ariana-gilbert.webp"
+        "Ariana Gilbert": "assets/logos/upstreams/ariana-gilbert.webp",
+        "SV Leo Victor": "assets/logos/upstreams/sv-leo-victor.webp",
+        "Beata Havlickova": "assets/logos/upstreams/beata-havlickova.webp",
+        "Nela Jandova": "assets/logos/upstreams/nela-jandova.webp",
+        "Julia Terziyska": "assets/logos/upstreams/julia-terziyska.webp",
+        "Caroline Dolehide": "assets/logos/upstreams/caroline-dolehide.webp",
+        "Nikola Bartunkova": "assets/logos/upstreams/nikola-bartunkova.webp",
+        "Dan Martin": "assets/logos/upstreams/dan-martin.webp",
+        "Oliver Crawford": "assets/logos/upstreams/oliver-crawford.webp",
+        "Vadym Ursu": "assets/logos/upstreams/vadym-ursu.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -7742,6 +7751,7 @@
         "CAF Confederation Cup": "assets/logos/leagues/caf-confederation-cup.webp",
         "Zadar, Croatia": "assets/logos/leagues/zadar-croatia.webp",
         "Murcia, Spain": "assets/logos/leagues/murcia-spain.webp",
-        "Asuncion, Paraguay": "assets/logos/leagues/asuncion-paraguay.webp"
+        "Asuncion, Paraguay": "assets/logos/leagues/asuncion-paraguay.webp",
+        "Morelos, Mexico": "assets/logos/leagues/morelos-mexico.webp"
     }
 }
