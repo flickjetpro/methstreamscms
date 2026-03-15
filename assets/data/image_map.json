@@ -6951,7 +6951,11 @@
         "Renaissance Berkane": "assets/logos/streamed/renaissance-berkane.webp",
         "Al Hilal Omdurman": "assets/logos/streamed/al-hilal-omdurman.webp",
         "Aston Villa WFC": "assets/logos/streamed/aston-villa-wfc.webp",
-        "Manchester City WFC": "assets/logos/streamed/manchester-city-wfc.webp"
+        "Manchester City WFC": "assets/logos/streamed/manchester-city-wfc.webp",
+        "FK \u010cukari\u010dki": "assets/logos/upstreams/fk-\u010dukari\u010dki.webp",
+        "New York City": "assets/logos/upstreams/new-york-city.webp",
+        "Portimonense SAD": "assets/logos/upstreams/portimonense-sad.webp",
+        "Club Le\u00f3n": "assets/logos/upstreams/club-le\u00f3n.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
