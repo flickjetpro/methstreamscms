@@ -6961,7 +6961,11 @@
         "Jones Jak": "assets/logos/upstreams/jones-jak.webp",
         "Luca Brecel": "assets/logos/upstreams/luca-brecel.webp",
         "UNAM Pumas": "assets/logos/upstreams/unam-pumas.webp",
-        "Canberra W": "assets/logos/upstreams/canberra-w.webp"
+        "Canberra W": "assets/logos/upstreams/canberra-w.webp",
+        "Tottenham FC": "assets/logos/upstreams/tottenham-fc.webp",
+        "Liverpool FC": "assets/logos/upstreams/liverpool-fc.webp",
+        "Ryan Searle": "assets/logos/upstreams/ryan-searle.webp",
+        "Richard Veenstra": "assets/logos/upstreams/richard-veenstra.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -7634,6 +7638,8 @@
         "South Africa in New Zealand, 5 T20I Series": "assets/logos/leagues/south-africa-in-new-zealand-5-t20i-series.webp",
         "Suncorp Super Netball": "assets/logos/leagues/suncorp-super-netball.webp",
         "American Conference, Playoffs": "assets/logos/leagues/american-conference-playoffs.webp",
-        "Australia A-League": "assets/logos/leagues/australia-a-league.webp"
+        "Australia A-League": "assets/logos/leagues/australia-a-league.webp",
+        "European Darts Trophy": "assets/logos/leagues/european-darts-trophy.webp",
+        "Cricket T20 World Cup": "assets/logos/leagues/cricket-t20-world-cup.webp"
     }
 }
