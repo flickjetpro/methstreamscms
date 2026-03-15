@@ -6934,7 +6934,19 @@
         "Angel City W": "assets/logos/streamed/angel-city-w.webp",
         "Chicago Red Stars W": "assets/logos/streamed/chicago-red-stars-w.webp",
         "Corvinul": "assets/logos/upstreams/corvinul.webp",
-        "Sepsi Sf Gheorghe": "assets/logos/upstreams/sepsi-sf-gheorghe.webp"
+        "Sepsi Sf Gheorghe": "assets/logos/upstreams/sepsi-sf-gheorghe.webp",
+        "Club Atl\u00e9tico Uni\u00f3n de Santa Fe": "assets/logos/upstreams/club-atl\u00e9tico-uni\u00f3n-de-santa-fe.webp",
+        "Espanyol W": "assets/logos/upstreams/espanyol-w.webp",
+        "Eibar W": "assets/logos/upstreams/eibar-w.webp",
+        "Helmond": "assets/logos/upstreams/helmond.webp",
+        "Cambuur": "assets/logos/upstreams/cambuur.webp",
+        "Den Bosch": "assets/logos/upstreams/den-bosch.webp",
+        "SCU Torreense": "assets/logos/upstreams/scu-torreense.webp",
+        "John Higgins": "assets/logos/upstreams/john-higgins.webp",
+        "Liam Highfield": "assets/logos/upstreams/liam-highfield.webp",
+        "Ronnie O'Sullivan": "assets/logos/upstreams/ronnie-osullivan.webp",
+        "Ross Muir": "assets/logos/upstreams/ross-muir.webp",
+        "Vicenza": "assets/logos/upstreams/vicenza.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -7601,6 +7613,8 @@
         "Stoiximan GBL": "assets/logos/leagues/stoiximan-gbl.webp",
         "II Liga": "assets/logos/leagues/ii-liga.webp",
         "Second Professional League": "assets/logos/leagues/second-professional-league.webp",
-        "Romania Liga 2": "assets/logos/leagues/romania-liga-2.webp"
+        "Romania Liga 2": "assets/logos/leagues/romania-liga-2.webp",
+        "World Open": "assets/logos/leagues/world-open.webp",
+        "Serie C - Group A": "assets/logos/leagues/serie-c-group-a.webp"
     }
 }
