@@ -6946,7 +6946,10 @@
         "Liam Highfield": "assets/logos/upstreams/liam-highfield.webp",
         "Ronnie O'Sullivan": "assets/logos/upstreams/ronnie-osullivan.webp",
         "Ross Muir": "assets/logos/upstreams/ross-muir.webp",
-        "Vicenza": "assets/logos/upstreams/vicenza.webp"
+        "Vicenza": "assets/logos/upstreams/vicenza.webp",
+        "CF Montreal": "assets/logos/streamed/cf-montreal.webp",
+        "Renaissance Berkane": "assets/logos/streamed/renaissance-berkane.webp",
+        "Al Hilal Omdurman": "assets/logos/streamed/al-hilal-omdurman.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
