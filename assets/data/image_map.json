@@ -6949,7 +6949,9 @@
         "Vicenza": "assets/logos/upstreams/vicenza.webp",
         "CF Montreal": "assets/logos/streamed/cf-montreal.webp",
         "Renaissance Berkane": "assets/logos/streamed/renaissance-berkane.webp",
-        "Al Hilal Omdurman": "assets/logos/streamed/al-hilal-omdurman.webp"
+        "Al Hilal Omdurman": "assets/logos/streamed/al-hilal-omdurman.webp",
+        "Aston Villa WFC": "assets/logos/streamed/aston-villa-wfc.webp",
+        "Manchester City WFC": "assets/logos/streamed/manchester-city-wfc.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
