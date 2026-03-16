@@ -7090,7 +7090,13 @@
         "Denis Yevseyev": "assets/logos/upstreams/denis-yevseyev.webp",
         "Filip Pieczonka": "assets/logos/upstreams/filip-pieczonka.webp",
         "Frederico Ferreira Silva": "assets/logos/upstreams/frederico-ferreira-silva.webp",
-        "Rudolf Molleker": "assets/logos/upstreams/rudolf-molleker.webp"
+        "Rudolf Molleker": "assets/logos/upstreams/rudolf-molleker.webp",
+        "Trieste": "assets/logos/upstreams/trieste.webp",
+        "Rio Claro": "assets/logos/upstreams/rio-claro.webp",
+        "Atl. Madrid U19": "assets/logos/upstreams/atl-madrid-u19.webp",
+        "PSG U23": "assets/logos/upstreams/psg-u23.webp",
+        "Tshakhuma": "assets/logos/upstreams/tshakhuma.webp",
+        "Vermont Green": "assets/logos/upstreams/vermont-green.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -7777,6 +7783,8 @@
         "Morelos, Mexico": "assets/logos/leagues/morelos-mexico.webp",
         "Saint Kitts & Nevis - Premier League": "assets/logos/leagues/saint-kitts-nevis-premier-league.webp",
         "Zadar, Croatia, Qualifying": "assets/logos/leagues/zadar-croatia-qualifying.webp",
-        "Murcia, Spain, Qualifying": "assets/logos/leagues/murcia-spain-qualifying.webp"
+        "Murcia, Spain, Qualifying": "assets/logos/leagues/murcia-spain-qualifying.webp",
+        "UEFA Youth League": "assets/logos/leagues/uefa-youth-league.webp",
+        "US Open Cup": "assets/logos/leagues/us-open-cup.webp"
     }
 }
