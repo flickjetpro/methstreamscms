@@ -7253,7 +7253,16 @@
         "Real Madrid U19": "assets/logos/streamed/real-madrid-u19.webp",
         "Sporting CP U19": "assets/logos/streamed/sporting-cp-u19.webp",
         "Internazionale U19": "assets/logos/streamed/internazionale-u19.webp",
-        "Benfica U19": "assets/logos/streamed/benfica-u19.webp"
+        "Benfica U19": "assets/logos/streamed/benfica-u19.webp",
+        "Ulcinjska Rivijera Ulcinj": "assets/logos/upstreams/ulcinjska-rivijera-ulcinj.webp",
+        "Steel City FC": "assets/logos/upstreams/steel-city-fc.webp",
+        "Michigan Rangers FC": "assets/logos/upstreams/michigan-rangers-fc.webp",
+        "Louisa Chirico": "assets/logos/upstreams/louisa-chirico.webp",
+        "Alejandro Moro Canas": "assets/logos/upstreams/alejandro-moro-canas.webp",
+        "Vilius Gaubas": "assets/logos/upstreams/vilius-gaubas.webp",
+        "Pablo Carre\u00f1o Busta": "assets/logos/upstreams/pablo-carre\u00f1o-busta.webp",
+        "Jesper De Jong": "assets/logos/upstreams/jesper-de-jong.webp",
+        "Andrea Pellegrino": "assets/logos/upstreams/andrea-pellegrino.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
