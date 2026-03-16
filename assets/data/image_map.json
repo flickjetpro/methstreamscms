@@ -7230,7 +7230,15 @@
         "Phil O'Kane": "assets/logos/upstreams/phil-okane.webp",
         "Nicolas Mortreux": "assets/logos/upstreams/nicolas-mortreux.webp",
         "Tessa Davidson": "assets/logos/upstreams/tessa-davidson.webp",
-        "Anthony Parsons": "assets/logos/upstreams/anthony-parsons.webp"
+        "Anthony Parsons": "assets/logos/upstreams/anthony-parsons.webp",
+        "Krasava": "assets/logos/upstreams/krasava.webp",
+        "Paralimni": "assets/logos/upstreams/paralimni.webp",
+        "Savannah Ghost Pirates": "assets/logos/upstreams/savannah-ghost-pirates.webp",
+        "Toledo Walleye": "assets/logos/upstreams/toledo-walleye.webp",
+        "Philippe Frayssinoux": "assets/logos/upstreams/philippe-frayssinoux.webp",
+        "Frano Sucic": "assets/logos/upstreams/frano-sucic.webp",
+        "Tyler Browne": "assets/logos/upstreams/tyler-browne.webp",
+        "Reece Falck": "assets/logos/upstreams/reece-falck.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -7930,6 +7938,7 @@
         "Brasileiro Serie A": "assets/logos/leagues/brasileiro-serie-a.webp",
         "South Africa Women in New Zealand, 5 T20I Series": "assets/logos/leagues/south-africa-women-in-new-zealand-5-t20i-series.webp",
         "Serbia Super Liga": "assets/logos/leagues/serbia-super-liga.webp",
-        "Snooker": "assets/logos/leagues/snooker.webp"
+        "Snooker": "assets/logos/leagues/snooker.webp",
+        "Cyprus League": "assets/logos/leagues/cyprus-league.webp"
     }
 }
