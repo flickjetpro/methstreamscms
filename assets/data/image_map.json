@@ -7476,7 +7476,11 @@
         "Spokane Velocity": "assets/logos/streamed/spokane-velocity.webp",
         "Alta": "assets/logos/streamed/alta.webp",
         "Valley 559 FC": "assets/logos/streamed/valley-559-fc.webp",
-        "Laguna United": "assets/logos/streamed/laguna-united.webp"
+        "Laguna United": "assets/logos/streamed/laguna-united.webp",
+        "Martina Okalova": "assets/logos/upstreams/martina-okalova.webp",
+        "Jacopo Vasami": "assets/logos/upstreams/jacopo-vasami.webp",
+        "Alex Martinez": "assets/logos/upstreams/alex-martinez.webp",
+        "Tamara Korpatsch": "assets/logos/upstreams/tamara-korpatsch.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
