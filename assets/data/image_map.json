@@ -7439,7 +7439,20 @@
         "Pia Lovric": "assets/logos/upstreams/pia-lovric.webp",
         "Lillian Santos": "assets/logos/upstreams/lillian-santos.webp",
         "Dalayna Hewitt": "assets/logos/upstreams/dalayna-hewitt.webp",
-        "Jens Holger Nissen": "assets/logos/upstreams/jens-holger-nissen.webp"
+        "Jens Holger Nissen": "assets/logos/upstreams/jens-holger-nissen.webp",
+        "Martina Colmegna": "assets/logos/upstreams/martina-colmegna.webp",
+        "Abril Cardenas Olivares": "assets/logos/upstreams/abril-cardenas-olivares.webp",
+        "Daniil Kakhniuk": "assets/logos/upstreams/daniil-kakhniuk.webp",
+        "Stefan Menichella": "assets/logos/upstreams/stefan-menichella.webp",
+        "Martin Maldonado": "assets/logos/upstreams/martin-maldonado.webp",
+        "Ryan Haviland": "assets/logos/upstreams/ryan-haviland.webp",
+        "Zachery Foster": "assets/logos/upstreams/zachery-foster.webp",
+        "Kayla Cross": "assets/logos/upstreams/kayla-cross.webp",
+        "Julieta Pareja": "assets/logos/upstreams/julieta-pareja.webp",
+        "Christasha McNeil": "assets/logos/upstreams/christasha-mcneil.webp",
+        "Emma Jackson": "assets/logos/upstreams/emma-jackson.webp",
+        "Jim Hendrikx": "assets/logos/upstreams/jim-hendrikx.webp",
+        "Avi Shugar": "assets/logos/upstreams/avi-shugar.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -8157,6 +8170,7 @@
         "Miami, USA": "assets/logos/leagues/miami-usa.webp",
         "Orleans Masters - Double": "assets/logos/leagues/orleans-masters-double.webp",
         "Sweden - SHL - Playoff": "assets/logos/leagues/sweden-shl-playoff.webp",
-        "NCAA Division I, Championship": "assets/logos/leagues/ncaa-division-i-championship.webp"
+        "NCAA Division I, Championship": "assets/logos/leagues/ncaa-division-i-championship.webp",
+        "WTA Miami": "assets/logos/leagues/wta-miami.webp"
     }
 }
