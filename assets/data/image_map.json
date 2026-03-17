@@ -7315,7 +7315,26 @@
         "Zeren Spor W": "assets/logos/upstreams/zeren-spor-w.webp",
         "San Ramon FC": "assets/logos/upstreams/san-ramon-fc.webp",
         "UMBC": "assets/logos/streamed/umbc.webp",
-        "Western Australia": "assets/logos/upstreams/western-australia.webp"
+        "Western Australia": "assets/logos/upstreams/western-australia.webp",
+        "Union La Calera": "assets/logos/upstreams/union-la-calera.webp",
+        "Ey\u00fcp": "assets/logos/upstreams/ey\u00fcp.webp",
+        "MK Dons": "assets/logos/upstreams/mk-dons.webp",
+        "Atl. Madrid": "assets/logos/upstreams/atl-madrid.webp",
+        "Montevideo City": "assets/logos/upstreams/montevideo-city.webp",
+        "Hapoel Jerusalem BC": "assets/logos/upstreams/hapoel-jerusalem-bc.webp",
+        "T\u00fcrk Telekom B.K.": "assets/logos/upstreams/t\u00fcrk-telekom-bk.webp",
+        "FC Motown": "assets/logos/upstreams/fc-motown.webp",
+        "Sakura Tsuji": "assets/logos/upstreams/sakura-tsuji.webp",
+        "Anna Pushkareva": "assets/logos/upstreams/anna-pushkareva.webp",
+        "Meiling Wang": "assets/logos/upstreams/meiling-wang.webp",
+        "Daria Egorova": "assets/logos/upstreams/daria-egorova.webp",
+        "Kamilla Bartone": "assets/logos/upstreams/kamilla-bartone.webp",
+        "Ruirui Zou": "assets/logos/upstreams/ruirui-zou.webp",
+        "Maria Golovina": "assets/logos/upstreams/maria-golovina.webp",
+        "Yuhan Wang": "assets/logos/upstreams/yuhan-wang.webp",
+        "Huang Yujia": "assets/logos/upstreams/huang-yujia.webp",
+        "Sayaka Ishii": "assets/logos/upstreams/sayaka-ishii.webp",
+        "Xiaodi You": "assets/logos/upstreams/xiaodi-you.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -8025,6 +8044,8 @@
         "League 2": "assets/logos/leagues/league-2.webp",
         "Korisliiga": "assets/logos/leagues/korisliiga.webp",
         "Challenge Cup Women": "assets/logos/leagues/challenge-cup-women.webp",
-        "Sheffield Shield": "assets/logos/leagues/sheffield-shield.webp"
+        "Sheffield Shield": "assets/logos/leagues/sheffield-shield.webp",
+        "King's Cup": "assets/logos/leagues/kings-cup.webp",
+        "Korisliiga, Qualifying round": "assets/logos/leagues/korisliiga-qualifying-round.webp"
     }
 }
