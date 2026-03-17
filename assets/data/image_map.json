@@ -7484,7 +7484,11 @@
         "Al Shamal SC": "assets/logos/upstreams/al-shamal-sc.webp",
         "Al-Rayyan": "assets/logos/upstreams/al-rayyan.webp",
         "Al-Wakrah": "assets/logos/upstreams/al-wakrah.webp",
-        "Atletico Madrid U19": "assets/logos/upstreams/atletico-madrid-u19.webp"
+        "Atletico Madrid U19": "assets/logos/upstreams/atletico-madrid-u19.webp",
+        "Florida Badgers FC": "assets/logos/upstreams/florida-badgers-fc.webp",
+        "Miami Red Force": "assets/logos/upstreams/miami-red-force.webp",
+        "Southern Indiana FC": "assets/logos/upstreams/southern-indiana-fc.webp",
+        "SC Vistula Garfield": "assets/logos/upstreams/sc-vistula-garfield.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
