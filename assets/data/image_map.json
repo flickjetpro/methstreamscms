@@ -7488,7 +7488,12 @@
         "Florida Badgers FC": "assets/logos/upstreams/florida-badgers-fc.webp",
         "Miami Red Force": "assets/logos/upstreams/miami-red-force.webp",
         "Southern Indiana FC": "assets/logos/upstreams/southern-indiana-fc.webp",
-        "SC Vistula Garfield": "assets/logos/upstreams/sc-vistula-garfield.webp"
+        "SC Vistula Garfield": "assets/logos/upstreams/sc-vistula-garfield.webp",
+        "Nova Igua\u00e7u": "assets/logos/upstreams/nova-igua\u00e7u.webp",
+        "Zeynep Sonmez": "assets/logos/upstreams/zeynep-sonmez.webp",
+        "Stuart Bingham": "assets/logos/upstreams/stuart-bingham.webp",
+        "Allan Taylor": "assets/logos/upstreams/allan-taylor.webp",
+        "Kyren Wilson": "assets/logos/upstreams/kyren-wilson.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -8209,6 +8214,7 @@
         "NCAA Division I, Championship": "assets/logos/leagues/ncaa-division-i-championship.webp",
         "WTA Miami": "assets/logos/leagues/wta-miami.webp",
         "Finland - Korisliiga (W) - Playoff": "assets/logos/leagues/finland-korisliiga-w-playoff.webp",
-        "Korisliiga, Women, Playoffs": "assets/logos/leagues/korisliiga-women-playoffs.webp"
+        "Korisliiga, Women, Playoffs": "assets/logos/leagues/korisliiga-women-playoffs.webp",
+        "WTA - Miami (USA)": "assets/logos/leagues/wta-miami-usa.webp"
     }
 }
