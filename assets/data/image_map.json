@@ -7334,7 +7334,19 @@
         "Yuhan Wang": "assets/logos/upstreams/yuhan-wang.webp",
         "Huang Yujia": "assets/logos/upstreams/huang-yujia.webp",
         "Sayaka Ishii": "assets/logos/upstreams/sayaka-ishii.webp",
-        "Xiaodi You": "assets/logos/upstreams/xiaodi-you.webp"
+        "Xiaodi You": "assets/logos/upstreams/xiaodi-you.webp",
+        "U BT Cluj": "assets/logos/upstreams/u-bt-cluj.webp",
+        "Cruzeiro Basquete": "assets/logos/upstreams/cruzeiro-basquete.webp",
+        "LDU": "assets/logos/upstreams/ldu.webp",
+        "Osasco": "assets/logos/upstreams/osasco.webp",
+        "Aaron Hill": "assets/logos/upstreams/aaron-hill.webp",
+        "Gary Wilson": "assets/logos/upstreams/gary-wilson.webp",
+        "Yao Pengcheng": "assets/logos/upstreams/yao-pengcheng.webp",
+        "Sam Craigie": "assets/logos/upstreams/sam-craigie.webp",
+        "Ricky Walden": "assets/logos/upstreams/ricky-walden.webp",
+        "Mark Williams": "assets/logos/upstreams/mark-williams.webp",
+        "Long Zehuang": "assets/logos/upstreams/long-zehuang.webp",
+        "Mazatlan FC W": "assets/logos/upstreams/mazatlan-fc-w.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -8046,6 +8058,8 @@
         "Challenge Cup Women": "assets/logos/leagues/challenge-cup-women.webp",
         "Sheffield Shield": "assets/logos/leagues/sheffield-shield.webp",
         "King's Cup": "assets/logos/leagues/kings-cup.webp",
-        "Korisliiga, Qualifying round": "assets/logos/leagues/korisliiga-qualifying-round.webp"
+        "Korisliiga, Qualifying round": "assets/logos/leagues/korisliiga-qualifying-round.webp",
+        "England - League Two": "assets/logos/leagues/england-league-two.webp",
+        "DEL, Playoffs": "assets/logos/leagues/del-playoffs.webp"
     }
 }
