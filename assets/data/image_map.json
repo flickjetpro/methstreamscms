@@ -7407,7 +7407,14 @@
         "Sin Yan Happy Lo": "assets/logos/upstreams/sin-yan-happy-lo.webp",
         "Juliane Piron": "assets/logos/upstreams/juliane-piron.webp",
         "Enogat Roy": "assets/logos/upstreams/enogat-roy.webp",
-        "Yaro van Delsen": "assets/logos/upstreams/yaro-van-delsen.webp"
+        "Yaro van Delsen": "assets/logos/upstreams/yaro-van-delsen.webp",
+        "Sklar Phillips": "assets/logos/upstreams/sklar-phillips.webp",
+        "Bella Jacutin-Mariona": "assets/logos/upstreams/bella-jacutin-mariona.webp",
+        "Linda \u0160ev\u010d\u00edkov\u00e1": "assets/logos/upstreams/linda-\u0161ev\u010d\u00edkov\u00e1.webp",
+        "Aliaksandra Skapets": "assets/logos/upstreams/aliaksandra-skapets.webp",
+        "Thiago Agustin TIrante": "assets/logos/upstreams/thiago-agustin-tirante.webp",
+        "Iljo van Delsen": "assets/logos/upstreams/iljo-van-delsen.webp",
+        "South Africa W": "assets/logos/upstreams/south-africa-w.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -8123,6 +8130,7 @@
         "England - League Two": "assets/logos/leagues/england-league-two.webp",
         "DEL, Playoffs": "assets/logos/leagues/del-playoffs.webp",
         "Miami, USA": "assets/logos/leagues/miami-usa.webp",
-        "Orleans Masters - Double": "assets/logos/leagues/orleans-masters-double.webp"
+        "Orleans Masters - Double": "assets/logos/leagues/orleans-masters-double.webp",
+        "Sweden - SHL - Playoff": "assets/logos/leagues/sweden-shl-playoff.webp"
     }
 }
