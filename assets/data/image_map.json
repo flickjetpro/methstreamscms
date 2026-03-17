@@ -7414,7 +7414,21 @@
         "Aliaksandra Skapets": "assets/logos/upstreams/aliaksandra-skapets.webp",
         "Thiago Agustin TIrante": "assets/logos/upstreams/thiago-agustin-tirante.webp",
         "Iljo van Delsen": "assets/logos/upstreams/iljo-van-delsen.webp",
-        "South Africa W": "assets/logos/upstreams/south-africa-w.webp"
+        "South Africa W": "assets/logos/upstreams/south-africa-w.webp",
+        "Ian Burns": "assets/logos/upstreams/ian-burns.webp",
+        "Barry Hawkins": "assets/logos/upstreams/barry-hawkins.webp",
+        "Mark Selby": "assets/logos/upstreams/mark-selby.webp",
+        "Michael Holt": "assets/logos/upstreams/michael-holt.webp",
+        "Texas Longhorns": "assets/logos/upstreams/texas-longhorns.webp",
+        "Christopher Papa": "assets/logos/upstreams/christopher-papa.webp",
+        "Iiro Vasa": "assets/logos/upstreams/iiro-vasa.webp",
+        "Jack Patrick McGary": "assets/logos/upstreams/jack-patrick-mcgary.webp",
+        "Joshua Peck": "assets/logos/upstreams/joshua-peck.webp",
+        "Alex Kobelt": "assets/logos/upstreams/alex-kobelt.webp",
+        "Dominique Rolland": "assets/logos/upstreams/dominique-rolland.webp",
+        "Ronald Hohmann": "assets/logos/upstreams/ronald-hohmann.webp",
+        "Gabriela Knutson": "assets/logos/upstreams/gabriela-knutson.webp",
+        "Linda Klimovi\u010dov\u00e1": "assets/logos/upstreams/linda-klimovi\u010dov\u00e1.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -8131,6 +8145,7 @@
         "DEL, Playoffs": "assets/logos/leagues/del-playoffs.webp",
         "Miami, USA": "assets/logos/leagues/miami-usa.webp",
         "Orleans Masters - Double": "assets/logos/leagues/orleans-masters-double.webp",
-        "Sweden - SHL - Playoff": "assets/logos/leagues/sweden-shl-playoff.webp"
+        "Sweden - SHL - Playoff": "assets/logos/leagues/sweden-shl-playoff.webp",
+        "NCAA Division I, Championship": "assets/logos/leagues/ncaa-division-i-championship.webp"
     }
 }
