@@ -7660,7 +7660,17 @@
         "Nicolas Kicker": "assets/logos/upstreams/nicolas-kicker.webp",
         "Meralco Bolts": "assets/logos/upstreams/meralco-bolts.webp",
         "Devika Sihag": "assets/logos/upstreams/devika-sihag.webp",
-        "Isharani Baruah": "assets/logos/upstreams/isharani-baruah.webp"
+        "Isharani Baruah": "assets/logos/upstreams/isharani-baruah.webp",
+        "Latina Calcio": "assets/logos/upstreams/latina-calcio.webp",
+        "Celtic (W)": "assets/logos/upstreams/celtic-w.webp",
+        "Glasgow City (W)": "assets/logos/upstreams/glasgow-city-w.webp",
+        "Vinotinto": "assets/logos/upstreams/vinotinto.webp",
+        "Vargas Torres": "assets/logos/upstreams/vargas-torres.webp",
+        "Olaf Pieczkowski": "assets/logos/upstreams/olaf-pieczkowski.webp",
+        "Edward Winter": "assets/logos/upstreams/edward-winter.webp",
+        "Joao Vitor Goncalves Ceolin": "assets/logos/upstreams/joao-vitor-goncalves-ceolin.webp",
+        "Jazmin Ortenzi": "assets/logos/upstreams/jazmin-ortenzi.webp",
+        "Abhishek Bastola": "assets/logos/upstreams/abhishek-bastola.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -8401,6 +8411,8 @@
         "ATP Miami": "assets/logos/leagues/atp-miami.webp",
         "Bulgaria - NBL": "assets/logos/leagues/bulgaria-nbl.webp",
         "Sweden - SHL - Playout": "assets/logos/leagues/sweden-shl-playout.webp",
-        "Thailand - League Cup": "assets/logos/leagues/thailand-league-cup.webp"
+        "Thailand - League Cup": "assets/logos/leagues/thailand-league-cup.webp",
+        "Coppa Italia Serie C": "assets/logos/leagues/coppa-italia-serie-c.webp",
+        "Ecuador - Serie B": "assets/logos/leagues/ecuador-serie-b.webp"
     }
 }
