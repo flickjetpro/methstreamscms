@@ -7656,7 +7656,11 @@
         "Marvin Moeller": "assets/logos/upstreams/marvin-moeller.webp",
         "Sara Bejlek": "assets/logos/upstreams/sara-bejlek.webp",
         "Anna Siskova": "assets/logos/upstreams/anna-siskova.webp",
-        "Ela Nala Mili\u0107": "assets/logos/upstreams/ela-nala-mili\u0107.webp"
+        "Ela Nala Mili\u0107": "assets/logos/upstreams/ela-nala-mili\u0107.webp",
+        "Nicolas Kicker": "assets/logos/upstreams/nicolas-kicker.webp",
+        "Meralco Bolts": "assets/logos/upstreams/meralco-bolts.webp",
+        "Devika Sihag": "assets/logos/upstreams/devika-sihag.webp",
+        "Isharani Baruah": "assets/logos/upstreams/isharani-baruah.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -8394,6 +8398,8 @@
         "Murcia, Spain, Doubles": "assets/logos/leagues/murcia-spain-doubles.webp",
         "Orleans Masters (W)": "assets/logos/leagues/orleans-masters-w.webp",
         "Orleans Masters": "assets/logos/leagues/orleans-masters.webp",
-        "ATP Miami": "assets/logos/leagues/atp-miami.webp"
+        "ATP Miami": "assets/logos/leagues/atp-miami.webp",
+        "Bulgaria - NBL": "assets/logos/leagues/bulgaria-nbl.webp",
+        "Sweden - SHL - Playout": "assets/logos/leagues/sweden-shl-playout.webp"
     }
 }
