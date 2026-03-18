@@ -7630,7 +7630,33 @@
         "Chi Yu Jen": "assets/logos/upstreams/chi-yu-jen.webp",
         "Kalle Koljonen": "assets/logos/upstreams/kalle-koljonen.webp",
         "Beiwen Zhang": "assets/logos/upstreams/beiwen-zhang.webp",
-        "Rasmus Gemke": "assets/logos/upstreams/rasmus-gemke.webp"
+        "Rasmus Gemke": "assets/logos/upstreams/rasmus-gemke.webp",
+        "Jackson Page": "assets/logos/upstreams/jackson-page.webp",
+        "Xu Si.": "assets/logos/upstreams/xu-si.webp",
+        "Murphy S.": "assets/logos/upstreams/murphy-s.webp",
+        "Matthew Selt": "assets/logos/upstreams/matthew-selt.webp",
+        "Lucia Santos Sanchez": "assets/logos/upstreams/lucia-santos-sanchez.webp",
+        "Ana Carmen Zamburek": "assets/logos/upstreams/ana-carmen-zamburek.webp",
+        "Elisabetta Cocciaretto": "assets/logos/upstreams/elisabetta-cocciaretto.webp",
+        "Tatjana Maria": "assets/logos/upstreams/tatjana-maria.webp",
+        "Tereza Valentov\u00e1": "assets/logos/upstreams/tereza-valentov\u00e1.webp",
+        "Eva Lys": "assets/logos/upstreams/eva-lys.webp",
+        "Luciano Emanuel Ambrogi": "assets/logos/upstreams/luciano-emanuel-ambrogi.webp",
+        "Hernando Jose Escurra Isnardi": "assets/logos/upstreams/hernando-jose-escurra-isnardi.webp",
+        "Camilla Rosatello": "assets/logos/upstreams/camilla-rosatello.webp",
+        "Jessika Ponchet": "assets/logos/upstreams/jessika-ponchet.webp",
+        "Neus Torner Sensano": "assets/logos/upstreams/neus-torner-sensano.webp",
+        "Eva Vedder": "assets/logos/upstreams/eva-vedder.webp",
+        "Susan Bandecchi": "assets/logos/upstreams/susan-bandecchi.webp",
+        "Kuzey Cekirge": "assets/logos/upstreams/kuzey-cekirge.webp",
+        "Kilian Feldbausch": "assets/logos/upstreams/kilian-feldbausch.webp",
+        "Alja Senica": "assets/logos/upstreams/alja-senica.webp",
+        "Kristina Novak": "assets/logos/upstreams/kristina-novak.webp",
+        "Julie Belgraver": "assets/logos/upstreams/julie-belgraver.webp",
+        "Marvin Moeller": "assets/logos/upstreams/marvin-moeller.webp",
+        "Sara Bejlek": "assets/logos/upstreams/sara-bejlek.webp",
+        "Anna Siskova": "assets/logos/upstreams/anna-siskova.webp",
+        "Ela Nala Mili\u0107": "assets/logos/upstreams/ela-nala-mili\u0107.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -8367,6 +8393,7 @@
         "Extraliga, Playoff": "assets/logos/leagues/extraliga-playoff.webp",
         "Murcia, Spain, Doubles": "assets/logos/leagues/murcia-spain-doubles.webp",
         "Orleans Masters (W)": "assets/logos/leagues/orleans-masters-w.webp",
-        "Orleans Masters": "assets/logos/leagues/orleans-masters.webp"
+        "Orleans Masters": "assets/logos/leagues/orleans-masters.webp",
+        "ATP Miami": "assets/logos/leagues/atp-miami.webp"
     }
 }
