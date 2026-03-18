@@ -7704,7 +7704,11 @@
         "Ela Nala Milic": "assets/logos/upstreams/ela-nala-milic.webp",
         "Nurullah Sarac": "assets/logos/upstreams/nurullah-sarac.webp",
         "Adam Konczol": "assets/logos/upstreams/adam-konczol.webp",
-        "Leksands IF": "assets/logos/upstreams/leksands-if.webp"
+        "Leksands IF": "assets/logos/upstreams/leksands-if.webp",
+        "Michael Antonius": "assets/logos/upstreams/michael-antonius.webp",
+        "Kaylan Bigun": "assets/logos/upstreams/kaylan-bigun.webp",
+        "Strong Kirchheimer": "assets/logos/upstreams/strong-kirchheimer.webp",
+        "Artemijs Zizins": "assets/logos/upstreams/artemijs-zizins.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -8453,6 +8457,8 @@
         "Basketball EuroCup": "assets/logos/leagues/basketball-eurocup.webp",
         "Basketball Champions League": "assets/logos/leagues/basketball-champions-league.webp",
         "Slovakia Cup": "assets/logos/leagues/slovakia-cup.webp",
-        "SHL, Relegation": "assets/logos/leagues/shl-relegation.webp"
+        "SHL, Relegation": "assets/logos/leagues/shl-relegation.webp",
+        "Egypt Cup": "assets/logos/leagues/egypt-cup.webp",
+        "U20 CONMEBOL Libertadores, Knockout stage": "assets/logos/leagues/u20-conmebol-libertadores-knockout-stage.webp"
     }
 }
