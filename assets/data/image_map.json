@@ -7685,7 +7685,10 @@
         "Flint City Bucks": "assets/logos/upstreams/flint-city-bucks.webp",
         "Flower City Union": "assets/logos/upstreams/flower-city-union.webp",
         "NY Renegades FC": "assets/logos/upstreams/ny-renegades-fc.webp",
-        "Brody Nejedly Krall": "assets/logos/upstreams/brody-nejedly-krall.webp"
+        "Brody Nejedly Krall": "assets/logos/upstreams/brody-nejedly-krall.webp",
+        "Illinois State": "assets/logos/streamed/illinois-state.webp",
+        "Bradley": "assets/logos/streamed/bradley.webp",
+        "Murray State": "assets/logos/streamed/murray-state.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
