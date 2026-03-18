@@ -7689,7 +7689,8 @@
         "Illinois State": "assets/logos/streamed/illinois-state.webp",
         "Bradley": "assets/logos/streamed/bradley.webp",
         "Murray State": "assets/logos/streamed/murray-state.webp",
-        "Navy": "assets/logos/streamed/navy.webp"
+        "Navy": "assets/logos/streamed/navy.webp",
+        "Rytas": "assets/logos/upstreams/rytas.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -8433,6 +8434,10 @@
         "Thailand - League Cup": "assets/logos/leagues/thailand-league-cup.webp",
         "Coppa Italia Serie C": "assets/logos/leagues/coppa-italia-serie-c.webp",
         "Ecuador - Serie B": "assets/logos/leagues/ecuador-serie-b.webp",
-        "AFC Asian Cup, Women, Playoffs": "assets/logos/leagues/afc-asian-cup-women-playoffs.webp"
+        "AFC Asian Cup, Women, Playoffs": "assets/logos/leagues/afc-asian-cup-women-playoffs.webp",
+        "German Women Bundesliga": "assets/logos/leagues/german-women-bundesliga.webp",
+        "Basketball EuroCup": "assets/logos/leagues/basketball-eurocup.webp",
+        "Basketball Champions League": "assets/logos/leagues/basketball-champions-league.webp",
+        "Slovakia Cup": "assets/logos/leagues/slovakia-cup.webp"
     }
 }
