@@ -7670,7 +7670,9 @@
         "Edward Winter": "assets/logos/upstreams/edward-winter.webp",
         "Joao Vitor Goncalves Ceolin": "assets/logos/upstreams/joao-vitor-goncalves-ceolin.webp",
         "Jazmin Ortenzi": "assets/logos/upstreams/jazmin-ortenzi.webp",
-        "Abhishek Bastola": "assets/logos/upstreams/abhishek-bastola.webp"
+        "Abhishek Bastola": "assets/logos/upstreams/abhishek-bastola.webp",
+        "Shamakhi": "assets/logos/upstreams/shamakhi.webp",
+        "Araz": "assets/logos/upstreams/araz.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -8413,6 +8415,7 @@
         "Sweden - SHL - Playout": "assets/logos/leagues/sweden-shl-playout.webp",
         "Thailand - League Cup": "assets/logos/leagues/thailand-league-cup.webp",
         "Coppa Italia Serie C": "assets/logos/leagues/coppa-italia-serie-c.webp",
-        "Ecuador - Serie B": "assets/logos/leagues/ecuador-serie-b.webp"
+        "Ecuador - Serie B": "assets/logos/leagues/ecuador-serie-b.webp",
+        "AFC Asian Cup, Women, Playoffs": "assets/logos/leagues/afc-asian-cup-women-playoffs.webp"
     }
 }
