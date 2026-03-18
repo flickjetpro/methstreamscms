@@ -7540,7 +7540,24 @@
         "North Korea W": "assets/logos/upstreams/north-korea-w.webp",
         "Orange County": "assets/logos/upstreams/orange-county.webp",
         "Kalonji Pro-profile": "assets/logos/upstreams/kalonji-pro-profile.webp",
-        "Asc New Stars": "assets/logos/upstreams/asc-new-stars.webp"
+        "Asc New Stars": "assets/logos/upstreams/asc-new-stars.webp",
+        "Miami Heat --- HD": "assets/logos/upstreams/miami-heat-hd.webp",
+        "Weymouth Wales": "assets/logos/upstreams/weymouth-wales.webp",
+        "Bagatelle": "assets/logos/upstreams/bagatelle.webp",
+        "North Dakota State Bison": "assets/logos/upstreams/north-dakota-state-bison.webp",
+        "North Carolina Tar Heels": "assets/logos/upstreams/north-carolina-tar-heels.webp",
+        "Monaco Basket": "assets/logos/upstreams/monaco-basket.webp",
+        "Louisville Cardinals": "assets/logos/upstreams/louisville-cardinals.webp",
+        "High Point Panthers": "assets/logos/upstreams/high-point-panthers.webp",
+        "Olivia Gadecki": "assets/logos/upstreams/olivia-gadecki.webp",
+        "Valeria Savinykh": "assets/logos/upstreams/valeria-savinykh.webp",
+        "Yu Jun Lin": "assets/logos/upstreams/yu-jun-lin.webp",
+        "Zhang-Qian Wei": "assets/logos/upstreams/zhang-qian-wei.webp",
+        "Xiyu Wang": "assets/logos/upstreams/xiyu-wang.webp",
+        "Mia Hasegawa": "assets/logos/upstreams/mia-hasegawa.webp",
+        "Nao Hibino": "assets/logos/upstreams/nao-hibino.webp",
+        "Maximilian Homberg": "assets/logos/upstreams/maximilian-homberg.webp",
+        "Andrew Fenty": "assets/logos/upstreams/andrew-fenty.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -8270,6 +8287,7 @@
         "The FA Women's Super League": "assets/logos/leagues/the-fa-womens-super-league.webp",
         "Brazil Copa": "assets/logos/leagues/brazil-copa.webp",
         "Ecuador - Serie A - Phase 1": "assets/logos/leagues/ecuador-serie-a-phase-1.webp",
-        "Australia - A-League (W)": "assets/logos/leagues/australia-a-league-w.webp"
+        "Australia - A-League (W)": "assets/logos/leagues/australia-a-league-w.webp",
+        "Barbados - Premier League": "assets/logos/leagues/barbados-premier-league.webp"
     }
 }
