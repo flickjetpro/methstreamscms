@@ -7789,7 +7789,19 @@
         "Marin Cilic": "assets/logos/upstreams/marin-cilic.webp",
         "Tomas Machac": "assets/logos/upstreams/tomas-machac.webp",
         "Dep Cali": "assets/logos/upstreams/dep-cali.webp",
-        "Aurora Zantedeschi": "assets/logos/upstreams/aurora-zantedeschi.webp"
+        "Aurora Zantedeschi": "assets/logos/upstreams/aurora-zantedeschi.webp",
+        "Karvan": "assets/logos/upstreams/karvan.webp",
+        "Oleksandria": "assets/logos/upstreams/oleksandria.webp",
+        "SC Delhi": "assets/logos/upstreams/sc-delhi.webp",
+        "Sabah Baku": "assets/logos/upstreams/sabah-baku.webp",
+        "Sumqayit": "assets/logos/upstreams/sumqayit.webp",
+        "Daniel Milavsky": "assets/logos/upstreams/daniel-milavsky.webp",
+        "Gino van Steenis": "assets/logos/upstreams/gino-van-steenis.webp",
+        "Mark Ewen": "assets/logos/upstreams/mark-ewen.webp",
+        "Aleksa \u0106iri\u0107": "assets/logos/upstreams/aleksa-\u0107iri\u0107.webp",
+        "Bekhan Atlangeriev": "assets/logos/upstreams/bekhan-atlangeriev.webp",
+        "L84": "assets/logos/upstreams/l84.webp",
+        "Mashujaa": "assets/logos/upstreams/mashujaa.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -8545,6 +8557,7 @@
         "Professional Fighters League": "assets/logos/leagues/professional-fighters-league.webp",
         "Aviva Premiership Rugby": "assets/logos/leagues/aviva-premiership-rugby.webp",
         "1. Division A, Playoffs": "assets/logos/leagues/1-division-a-playoffs.webp",
-        "NRL - Regular Season": "assets/logos/leagues/nrl-regular-season.webp"
+        "NRL - Regular Season": "assets/logos/leagues/nrl-regular-season.webp",
+        "PFL Madrid: Van Steenis vs. Edwards": "assets/logos/leagues/pfl-madrid-van-steenis-vs-edwards.webp"
     }
 }
