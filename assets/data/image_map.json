@@ -7751,7 +7751,12 @@
         "NK Vara\u017edin": "assets/logos/upstreams/nk-vara\u017edin.webp",
         "Kauno \u017dalgiris": "assets/logos/upstreams/kauno-\u017ealgiris.webp",
         "Tennessee State Tigers": "assets/logos/upstreams/tennessee-state-tigers.webp",
-        "Caen Basket Calvados": "assets/logos/upstreams/caen-basket-calvados.webp"
+        "Caen Basket Calvados": "assets/logos/upstreams/caen-basket-calvados.webp",
+        "PBC CSKA Moscow": "assets/logos/streamed/pbc-cska-moscow.webp",
+        "Sydney FC Women": "assets/logos/streamed/sydney-fc-women.webp",
+        "Wellington Phoenix Women": "assets/logos/streamed/wellington-phoenix-women.webp",
+        "Brisbane Roar FC Women": "assets/logos/streamed/brisbane-roar-fc-women.webp",
+        "Newcastle Jets Women": "assets/logos/streamed/newcastle-jets-women.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
