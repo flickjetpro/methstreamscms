@@ -7712,7 +7712,33 @@
         "North Dakota State": "assets/logos/streamed/north-dakota-state.webp",
         "VCU": "assets/logos/streamed/vcu.webp",
         "Aleksa Ciric": "assets/logos/upstreams/aleksa-ciric.webp",
-        "Atl\u00e9tico Goianiense": "assets/logos/upstreams/atl\u00e9tico-goianiense.webp"
+        "Atl\u00e9tico Goianiense": "assets/logos/upstreams/atl\u00e9tico-goianiense.webp",
+        "Vistula": "assets/logos/streamed/vistula.webp",
+        "Naples": "assets/logos/streamed/naples.webp",
+        "Chattanooga": "assets/logos/streamed/chattanooga.webp",
+        "Kalonji": "assets/logos/streamed/kalonji.webp",
+        "Pennsylvania": "assets/logos/streamed/pennsylvania.webp",
+        "Adelaide Football Club": "assets/logos/streamed/adelaide-football-club.webp",
+        "LIU Brooklyn": "assets/logos/upstreams/liu-brooklyn.webp",
+        "St. John's N.Y.": "assets/logos/upstreams/st-johns-ny.webp",
+        "Northern Iowa": "assets/logos/upstreams/northern-iowa.webp",
+        "Queens Royals": "assets/logos/upstreams/queens-royals.webp",
+        "Gimnasia La Plata": "assets/logos/upstreams/gimnasia-la-plata.webp",
+        "Beaman United FC": "assets/logos/upstreams/beaman-united-fc.webp",
+        "Kruger United": "assets/logos/upstreams/kruger-united.webp",
+        "Mohun Bagan": "assets/logos/upstreams/mohun-bagan.webp",
+        "Wehen": "assets/logos/upstreams/wehen.webp",
+        "Lublin": "assets/logos/upstreams/lublin.webp",
+        "Zaglebie": "assets/logos/upstreams/zaglebie.webp",
+        "Cardiff Rugby": "assets/logos/upstreams/cardiff-rugby.webp",
+        "Costello van Steenis": "assets/logos/upstreams/costello-van-steenis.webp",
+        "Fabian Edwards": "assets/logos/upstreams/fabian-edwards.webp",
+        "Tennessee State": "assets/logos/upstreams/tennessee-state.webp",
+        "Rostock": "assets/logos/upstreams/rostock.webp",
+        "Saracens": "assets/logos/upstreams/saracens.webp",
+        "Zebre": "assets/logos/upstreams/zebre.webp",
+        "Kai Stewart": "assets/logos/upstreams/kai-stewart.webp",
+        "Nicolas GaffieHeavyweightSeminole Hard Rock Hotel and Casino, Hollywood": "assets/logos/upstreams/nicolas-gaffieheavyweightseminole-hard-rock-hotel-and-casino-hollywood.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -8463,6 +8489,9 @@
         "Slovakia Cup": "assets/logos/leagues/slovakia-cup.webp",
         "SHL, Relegation": "assets/logos/leagues/shl-relegation.webp",
         "Egypt Cup": "assets/logos/leagues/egypt-cup.webp",
-        "U20 CONMEBOL Libertadores, Knockout stage": "assets/logos/leagues/u20-conmebol-libertadores-knockout-stage.webp"
+        "U20 CONMEBOL Libertadores, Knockout stage": "assets/logos/leagues/u20-conmebol-libertadores-knockout-stage.webp",
+        "Motsepe Foundation Championship": "assets/logos/leagues/motsepe-foundation-championship.webp",
+        "Professional Fighters League": "assets/logos/leagues/professional-fighters-league.webp",
+        "Aviva Premiership Rugby": "assets/logos/leagues/aviva-premiership-rugby.webp"
     }
 }
