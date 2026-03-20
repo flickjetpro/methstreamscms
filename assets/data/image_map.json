@@ -7920,7 +7920,13 @@
         "DVSC Schaeffler": "assets/logos/upstreams/dvsc-schaeffler.webp",
         "Odense H\u00e5ndbold": "assets/logos/upstreams/odense-h\u00e5ndbold.webp",
         "Cookie Jarvis-Tredgett": "assets/logos/upstreams/cookie-jarvis-tredgett.webp",
-        "West Indies W": "assets/logos/upstreams/west-indies-w.webp"
+        "West Indies W": "assets/logos/upstreams/west-indies-w.webp",
+        "Vion Zlate Moravce": "assets/logos/upstreams/vion-zlate-moravce.webp",
+        "Sl. Bratislava B": "assets/logos/upstreams/sl-bratislava-b.webp",
+        "Trotamundos de Carabobo": "assets/logos/upstreams/trotamundos-de-carabobo.webp",
+        "Jokerit Helsinki": "assets/logos/upstreams/jokerit-helsinki.webp",
+        "Daniel Altmaier": "assets/logos/upstreams/daniel-altmaier.webp",
+        "Jiri Lehe\u010dka": "assets/logos/upstreams/jiri-lehe\u010dka.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -8708,6 +8714,8 @@
         "Australia Women in West Indies, 3 T20I Series": "assets/logos/leagues/australia-women-in-west-indies-3-t20i-series.webp",
         "Nationale 3 - Poule F": "assets/logos/leagues/nationale-3-poule-f.webp",
         "Golden League": "assets/logos/leagues/golden-league.webp",
-        "EHF Champions League, Women, Playoffs": "assets/logos/leagues/ehf-champions-league-women-playoffs.webp"
+        "EHF Champions League, Women, Playoffs": "assets/logos/leagues/ehf-champions-league-women-playoffs.webp",
+        "Serbia - KLS - Prima League": "assets/logos/leagues/serbia-kls-prima-league.webp",
+        "Liiga Playoffs": "assets/logos/leagues/liiga-playoffs.webp"
     }
 }
