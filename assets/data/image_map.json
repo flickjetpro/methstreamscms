@@ -7881,7 +7881,23 @@
         "Leinster": "assets/logos/upstreams/leinster.webp",
         "Movsar Evloev": "assets/logos/upstreams/movsar-evloev.webp",
         "Lerone Murphy": "assets/logos/upstreams/lerone-murphy.webp",
-        "Axel Sola": "assets/logos/upstreams/axel-sola.webp"
+        "Axel Sola": "assets/logos/upstreams/axel-sola.webp",
+        "Ningbo FC": "assets/logos/upstreams/ningbo-fc.webp",
+        "Znicz Pruszkow": "assets/logos/upstreams/znicz-pruszkow.webp",
+        "K. Beerschot V.A.": "assets/logos/upstreams/k-beerschot-va.webp",
+        "Bogota": "assets/logos/upstreams/bogota.webp",
+        "St Marys": "assets/logos/upstreams/st-marys.webp",
+        "Texas A-M": "assets/logos/upstreams/texas-a-m.webp",
+        "IA Akranes": "assets/logos/upstreams/ia-akranes.webp",
+        "Shenzhen Juniors FC": "assets/logos/upstreams/shenzhen-juniors-fc.webp",
+        "CD El Nacional": "assets/logos/upstreams/cd-el-nacional.webp",
+        "Independiente Juniors": "assets/logos/upstreams/independiente-juniors.webp",
+        "Sporting FC": "assets/logos/upstreams/sporting-fc.webp",
+        "Macau B.Bears": "assets/logos/upstreams/macau-bbears.webp",
+        "Barangay Ginebra": "assets/logos/upstreams/barangay-ginebra.webp",
+        "TNT Tropang 5G": "assets/logos/upstreams/tnt-tropang-5g.webp",
+        "West Indies Women": "assets/logos/upstreams/west-indies-women.webp",
+        "Wilson G.": "assets/logos/upstreams/wilson-g.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -8663,6 +8679,9 @@
         "Golden League - Denmark": "assets/logos/leagues/golden-league-denmark.webp",
         "Top 14": "assets/logos/leagues/top-14.webp",
         "Swiss - NLA - Playoff": "assets/logos/leagues/swiss-nla-playoff.webp",
-        "UFC Fight Night: Evloev vs. Murphy": "assets/logos/leagues/ufc-fight-night-evloev-vs-murphy.webp"
+        "UFC Fight Night: Evloev vs. Murphy": "assets/logos/leagues/ufc-fight-night-evloev-vs-murphy.webp",
+        "Copa Argentina": "assets/logos/leagues/copa-argentina.webp",
+        "Peru - League 1 - Apertura": "assets/logos/leagues/peru-league-1-apertura.webp",
+        "Australia Women in West Indies, 3 T20I Series": "assets/logos/leagues/australia-women-in-west-indies-3-t20i-series.webp"
     }
 }
