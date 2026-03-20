@@ -7933,7 +7933,18 @@
         "Basquete Osasco": "assets/logos/upstreams/basquete-osasco.webp",
         "Brasilia": "assets/logos/upstreams/brasilia.webp",
         "Odbojka": "assets/logos/upstreams/odbojka.webp",
-        "Nema\u010dka liga (\u017d): 1/4 Finale (G1): Dresdner - Munster": "assets/logos/upstreams/nema\u010dka-liga-\u017e-14-finale-g1-dresdner-munster.webp"
+        "Nema\u010dka liga (\u017d): 1/4 Finale (G1): Dresdner - Munster": "assets/logos/upstreams/nema\u010dka-liga-\u017e-14-finale-g1-dresdner-munster.webp",
+        "Roda Kerkrade": "assets/logos/upstreams/roda-kerkrade.webp",
+        "Betis B": "assets/logos/upstreams/betis-b.webp",
+        "Hercules": "assets/logos/upstreams/hercules.webp",
+        "Florida Gators": "assets/logos/upstreams/florida-gators.webp",
+        "AFC Asian Cup (v): Japan": "assets/logos/upstreams/afc-asian-cup-v-japan.webp",
+        "Australi\u00eb": "assets/logos/upstreams/australi\u00eb.webp",
+        "Smederevo": "assets/logos/upstreams/smederevo.webp",
+        "Dresdner SC": "assets/logos/upstreams/dresdner-sc.webp",
+        "USC M\u00fcnster": "assets/logos/upstreams/usc-m\u00fcnster.webp",
+        "La Rochelle": "assets/logos/upstreams/la-rochelle.webp",
+        "Section Paloise": "assets/logos/upstreams/section-paloise.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -8723,6 +8734,9 @@
         "Golden League": "assets/logos/leagues/golden-league.webp",
         "EHF Champions League, Women, Playoffs": "assets/logos/leagues/ehf-champions-league-women-playoffs.webp",
         "Serbia - KLS - Prima League": "assets/logos/leagues/serbia-kls-prima-league.webp",
-        "Liiga Playoffs": "assets/logos/leagues/liiga-playoffs.webp"
+        "Liiga Playoffs": "assets/logos/leagues/liiga-playoffs.webp",
+        "Primera RFEF 2": "assets/logos/leagues/primera-rfef-2.webp",
+        "Prva liga": "assets/logos/leagues/prva-liga.webp",
+        "1. Bundesliga, Women, Playoffs": "assets/logos/leagues/1-bundesliga-women-playoffs.webp"
     }
 }
