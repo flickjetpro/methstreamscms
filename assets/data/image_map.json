@@ -7971,7 +7971,11 @@
         "Ricky Evans": "assets/logos/upstreams/ricky-evans.webp",
         "VfL Bochum": "assets/logos/streamed/vfl-bochum.webp",
         "FC Fredericia": "assets/logos/streamed/fc-fredericia.webp",
-        "Stade Malien Bamako": "assets/logos/streamed/stade-malien-bamako.webp"
+        "Stade Malien Bamako": "assets/logos/streamed/stade-malien-bamako.webp",
+        "Enosis Neon Paralimniou": "assets/logos/upstreams/enosis-neon-paralimniou.webp",
+        "Huima": "assets/logos/upstreams/huima.webp",
+        "Centauros de Portuguesa": "assets/logos/upstreams/centauros-de-portuguesa.webp",
+        "Camila Osorio Serrano": "assets/logos/upstreams/camila-osorio-serrano.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -8767,6 +8771,8 @@
         "1. Bundesliga, Women, Playoffs": "assets/logos/leagues/1-bundesliga-women-playoffs.webp",
         "Liga MX Women": "assets/logos/leagues/liga-mx-women.webp",
         "EHF European League Women": "assets/logos/leagues/ehf-european-league-women.webp",
-        "Belgian Darts Open": "assets/logos/leagues/belgian-darts-open.webp"
+        "Belgian Darts Open": "assets/logos/leagues/belgian-darts-open.webp",
+        "Cyprus League by Stoiximan, Relegation group": "assets/logos/leagues/cyprus-league-by-stoiximan-relegation-group.webp",
+        "China Super League": "assets/logos/leagues/china-super-league.webp"
     }
 }
