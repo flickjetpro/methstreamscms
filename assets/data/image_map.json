@@ -7944,7 +7944,13 @@
         "Dresdner SC": "assets/logos/upstreams/dresdner-sc.webp",
         "USC M\u00fcnster": "assets/logos/upstreams/usc-m\u00fcnster.webp",
         "La Rochelle": "assets/logos/upstreams/la-rochelle.webp",
-        "Section Paloise": "assets/logos/upstreams/section-paloise.webp"
+        "Section Paloise": "assets/logos/upstreams/section-paloise.webp",
+        "Chloraka": "assets/logos/upstreams/chloraka.webp",
+        "Adelaide": "assets/logos/upstreams/adelaide.webp",
+        "Monterrey W": "assets/logos/upstreams/monterrey-w.webp",
+        "Guadalajara Chivas W": "assets/logos/upstreams/guadalajara-chivas-w.webp",
+        "Viborg W": "assets/logos/upstreams/viborg-w.webp",
+        "Rapid Bucuresti W": "assets/logos/upstreams/rapid-bucuresti-w.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -8737,6 +8743,8 @@
         "Liiga Playoffs": "assets/logos/leagues/liiga-playoffs.webp",
         "Primera RFEF 2": "assets/logos/leagues/primera-rfef-2.webp",
         "Prva liga": "assets/logos/leagues/prva-liga.webp",
-        "1. Bundesliga, Women, Playoffs": "assets/logos/leagues/1-bundesliga-women-playoffs.webp"
+        "1. Bundesliga, Women, Playoffs": "assets/logos/leagues/1-bundesliga-women-playoffs.webp",
+        "Liga MX Women": "assets/logos/leagues/liga-mx-women.webp",
+        "EHF European League Women": "assets/logos/leagues/ehf-european-league-women.webp"
     }
 }
