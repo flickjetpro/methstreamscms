@@ -7897,7 +7897,30 @@
         "Barangay Ginebra": "assets/logos/upstreams/barangay-ginebra.webp",
         "TNT Tropang 5G": "assets/logos/upstreams/tnt-tropang-5g.webp",
         "West Indies Women": "assets/logos/upstreams/west-indies-women.webp",
-        "Wilson G.": "assets/logos/upstreams/wilson-g.webp"
+        "Wilson G.": "assets/logos/upstreams/wilson-g.webp",
+        "Bochum U19": "assets/logos/upstreams/bochum-u19.webp",
+        "Stuttgart U19": "assets/logos/upstreams/stuttgart-u19.webp",
+        "NK Rudes": "assets/logos/upstreams/nk-rudes.webp",
+        "NK Bsk Bijelo Brdo": "assets/logos/upstreams/nk-bsk-bijelo-brdo.webp",
+        "Metaloglobus Bucuresti": "assets/logos/upstreams/metaloglobus-bucuresti.webp",
+        "Dinamo Makhachkala": "assets/logos/upstreams/dinamo-makhachkala.webp",
+        "HNK Vukovar 1991": "assets/logos/upstreams/hnk-vukovar-1991.webp",
+        "1. FC Cologne": "assets/logos/upstreams/1-fc-cologne.webp",
+        "Ried": "assets/logos/upstreams/ried.webp",
+        "Magesi FC": "assets/logos/upstreams/magesi-fc.webp",
+        "Univ. Cluj": "assets/logos/upstreams/univ-cluj.webp",
+        "Brigham Young": "assets/logos/upstreams/brigham-young.webp",
+        "Bah\u00e7e\u015fehir Koleji": "assets/logos/upstreams/bah\u00e7e\u015fehir-koleji.webp",
+        "Nanterre 92": "assets/logos/upstreams/nanterre-92.webp",
+        "Paris Acad\u00e9mie Respect Int\u00e9grit\u00e9 Sport": "assets/logos/upstreams/paris-acad\u00e9mie-respect-int\u00e9grit\u00e9-sport.webp",
+        "BCM Gravelines-Dunkerque II": "assets/logos/upstreams/bcm-gravelines-dunkerque-ii.webp",
+        "ADA Blois Basket": "assets/logos/upstreams/ada-blois-basket.webp",
+        "CA Talleres": "assets/logos/upstreams/ca-talleres.webp",
+        "Spinelli Massagno": "assets/logos/upstreams/spinelli-massagno.webp",
+        "DVSC Schaeffler": "assets/logos/upstreams/dvsc-schaeffler.webp",
+        "Odense H\u00e5ndbold": "assets/logos/upstreams/odense-h\u00e5ndbold.webp",
+        "Cookie Jarvis-Tredgett": "assets/logos/upstreams/cookie-jarvis-tredgett.webp",
+        "West Indies W": "assets/logos/upstreams/west-indies-w.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -8682,6 +8705,9 @@
         "UFC Fight Night: Evloev vs. Murphy": "assets/logos/leagues/ufc-fight-night-evloev-vs-murphy.webp",
         "Copa Argentina": "assets/logos/leagues/copa-argentina.webp",
         "Peru - League 1 - Apertura": "assets/logos/leagues/peru-league-1-apertura.webp",
-        "Australia Women in West Indies, 3 T20I Series": "assets/logos/leagues/australia-women-in-west-indies-3-t20i-series.webp"
+        "Australia Women in West Indies, 3 T20I Series": "assets/logos/leagues/australia-women-in-west-indies-3-t20i-series.webp",
+        "Nationale 3 - Poule F": "assets/logos/leagues/nationale-3-poule-f.webp",
+        "Golden League": "assets/logos/leagues/golden-league.webp",
+        "EHF Champions League, Women, Playoffs": "assets/logos/leagues/ehf-champions-league-women-playoffs.webp"
     }
 }
