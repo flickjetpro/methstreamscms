@@ -7966,7 +7966,9 @@
         "Kurtis Campbell": "assets/logos/upstreams/kurtis-campbell.webp",
         "Iwo Baraniewski": "assets/logos/upstreams/iwo-baraniewski.webp",
         "Alex Mol\u010dan": "assets/logos/upstreams/alex-mol\u010dan.webp",
-        "Leylah Fernandez": "assets/logos/upstreams/leylah-fernandez.webp"
+        "Leylah Fernandez": "assets/logos/upstreams/leylah-fernandez.webp",
+        "Scott Williams": "assets/logos/upstreams/scott-williams.webp",
+        "Ricky Evans": "assets/logos/upstreams/ricky-evans.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -8761,6 +8763,7 @@
         "Prva liga": "assets/logos/leagues/prva-liga.webp",
         "1. Bundesliga, Women, Playoffs": "assets/logos/leagues/1-bundesliga-women-playoffs.webp",
         "Liga MX Women": "assets/logos/leagues/liga-mx-women.webp",
-        "EHF European League Women": "assets/logos/leagues/ehf-european-league-women.webp"
+        "EHF European League Women": "assets/logos/leagues/ehf-european-league-women.webp",
+        "Belgian Darts Open": "assets/logos/leagues/belgian-darts-open.webp"
     }
 }
