@@ -8122,7 +8122,10 @@
         "Wilhelm Saiga": "assets/logos/upstreams/wilhelm-saiga.webp",
         "Edinburgh Rugby": "assets/logos/upstreams/edinburgh-rugby.webp",
         "Ross Smith": "assets/logos/upstreams/ross-smith.webp",
-        "Cameron Menzies": "assets/logos/upstreams/cameron-menzies.webp"
+        "Cameron Menzies": "assets/logos/upstreams/cameron-menzies.webp",
+        "Sayuri N Parandian": "assets/logos/upstreams/sayuri-n-parandian.webp",
+        "Koshiro Moriguchi": "assets/logos/upstreams/koshiro-moriguchi.webp",
+        "Karan Rajan Rajarajan": "assets/logos/upstreams/karan-rajan-rajarajan.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -8957,6 +8960,10 @@
         "Club Friendly Games": "assets/logos/leagues/club-friendly-games.webp",
         "UTR PTT Newport Beach Men 06, 5-8 Playoff": "assets/logos/leagues/utr-ptt-newport-beach-men-06-5-8-playoff.webp",
         "UTR PTT Newport Beach Women 06, 5-8 Playoff": "assets/logos/leagues/utr-ptt-newport-beach-women-06-5-8-playoff.webp",
-        "UTR PTT Newport Beach Women 06, 9-12 Playoff": "assets/logos/leagues/utr-ptt-newport-beach-women-06-9-12-playoff.webp"
+        "UTR PTT Newport Beach Women 06, 9-12 Playoff": "assets/logos/leagues/utr-ptt-newport-beach-women-06-9-12-playoff.webp",
+        "UTR PTT Newport Beach Men 06, 9-12 Playoff": "assets/logos/leagues/utr-ptt-newport-beach-men-06-9-12-playoff.webp",
+        "UTR PTT Newport Beach Men 06, 13-16 Playoff": "assets/logos/leagues/utr-ptt-newport-beach-men-06-13-16-playoff.webp",
+        "UTR PTT Newport Beach Women 06, 13-16 Playoff": "assets/logos/leagues/utr-ptt-newport-beach-women-06-13-16-playoff.webp",
+        "UTR PTT Newport Beach Women 06, 17-20 Playoff": "assets/logos/leagues/utr-ptt-newport-beach-women-06-17-20-playoff.webp"
     }
 }
