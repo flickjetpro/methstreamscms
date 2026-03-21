@@ -8010,7 +8010,8 @@
         "Bistrita W": "assets/logos/upstreams/bistrita-w.webp",
         "Pampas XV": "assets/logos/upstreams/pampas-xv.webp",
         "Bordeaux Begles": "assets/logos/upstreams/bordeaux-begles.webp",
-        "Stade Toulousain": "assets/logos/upstreams/stade-toulousain.webp"
+        "Stade Toulousain": "assets/logos/upstreams/stade-toulousain.webp",
+        "Edwards": "assets/logos/upstreams/edwards.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -8814,6 +8815,9 @@
         "UTR PTT Gyor Women 01, 17-20 Playoff": "assets/logos/leagues/utr-ptt-gyor-women-01-17-20-playoff.webp",
         "Regionalliga Nordost": "assets/logos/leagues/regionalliga-nordost.webp",
         "Primera B": "assets/logos/leagues/primera-b.webp",
-        "TVF Efeler Ligi": "assets/logos/leagues/tvf-efeler-ligi.webp"
+        "TVF Efeler Ligi": "assets/logos/leagues/tvf-efeler-ligi.webp",
+        "UTR PTT Gyor Women 01, 5-8 Playoff": "assets/logos/leagues/utr-ptt-gyor-women-01-5-8-playoff.webp",
+        "UTR PTT Gyor Women 01, 9-12 Playoff": "assets/logos/leagues/utr-ptt-gyor-women-01-9-12-playoff.webp",
+        "MMA PFL": "assets/logos/leagues/mma-pfl.webp"
     }
 }
