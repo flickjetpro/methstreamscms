@@ -8144,7 +8144,8 @@
         "Yusuke Kusuhara": "assets/logos/upstreams/yusuke-kusuhara.webp",
         "Tsung-Hao Huang": "assets/logos/upstreams/tsung-hao-huang.webp",
         "Ryuki Matsuda": "assets/logos/upstreams/ryuki-matsuda.webp",
-        "UNC Wilmington": "assets/logos/streamed/unc-wilmington.webp"
+        "UNC Wilmington": "assets/logos/streamed/unc-wilmington.webp",
+        "O'Sullivan R.": "assets/logos/upstreams/osullivan-r.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -8986,6 +8987,7 @@
         "UTR PTT Newport Beach Women 06, 17-20 Playoff": "assets/logos/leagues/utr-ptt-newport-beach-women-06-17-20-playoff.webp",
         "UTR PTT Newport Beach Men 06, 17-20 Playoff": "assets/logos/leagues/utr-ptt-newport-beach-men-06-17-20-playoff.webp",
         "ATP - Miami (USA)": "assets/logos/leagues/atp-miami-usa.webp",
-        "Yokkaichi, Japan, Qualifying": "assets/logos/leagues/yokkaichi-japan-qualifying.webp"
+        "Yokkaichi, Japan, Qualifying": "assets/logos/leagues/yokkaichi-japan-qualifying.webp",
+        "World Open 2026 Final": "assets/logos/leagues/world-open-2026-final.webp"
     }
 }
