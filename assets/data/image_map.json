@@ -8011,7 +8011,20 @@
         "Pampas XV": "assets/logos/upstreams/pampas-xv.webp",
         "Bordeaux Begles": "assets/logos/upstreams/bordeaux-begles.webp",
         "Stade Toulousain": "assets/logos/upstreams/stade-toulousain.webp",
-        "Edwards": "assets/logos/upstreams/edwards.webp"
+        "Edwards": "assets/logos/upstreams/edwards.webp",
+        "Wolfsburg U19": "assets/logos/upstreams/wolfsburg-u19.webp",
+        "K\u00f6ln U19": "assets/logos/upstreams/k\u00f6ln-u19.webp",
+        "CS Voluntari": "assets/logos/upstreams/cs-voluntari.webp",
+        "Hertha Zehlendorf": "assets/logos/upstreams/hertha-zehlendorf.webp",
+        "FC Eilenburg": "assets/logos/upstreams/fc-eilenburg.webp",
+        "Nordsjalland": "assets/logos/upstreams/nordsjalland.webp",
+        "Frankfurt": "assets/logos/upstreams/frankfurt.webp",
+        "Alverca Futebol": "assets/logos/upstreams/alverca-futebol.webp",
+        "Viborg FF": "assets/logos/upstreams/viborg-ff.webp",
+        "San Luis de Quillota": "assets/logos/upstreams/san-luis-de-quillota.webp",
+        "Igokea m:tel": "assets/logos/upstreams/igokea-mtel.webp",
+        "Westchester Knicks": "assets/logos/upstreams/westchester-knicks.webp",
+        "FTC-Rail Cargo Hungaria": "assets/logos/upstreams/ftc-rail-cargo-hungaria.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -8818,6 +8831,10 @@
         "TVF Efeler Ligi": "assets/logos/leagues/tvf-efeler-ligi.webp",
         "UTR PTT Gyor Women 01, 5-8 Playoff": "assets/logos/leagues/utr-ptt-gyor-women-01-5-8-playoff.webp",
         "UTR PTT Gyor Women 01, 9-12 Playoff": "assets/logos/leagues/utr-ptt-gyor-women-01-9-12-playoff.webp",
-        "MMA PFL": "assets/logos/leagues/mma-pfl.webp"
+        "MMA PFL": "assets/logos/leagues/mma-pfl.webp",
+        "Regionalliga Northeast": "assets/logos/leagues/regionalliga-northeast.webp",
+        "Superliga, Championship round": "assets/logos/leagues/superliga-championship-round.webp",
+        "Liga de Ascenso": "assets/logos/leagues/liga-de-ascenso.webp",
+        "UTR PTT Gyor Women 01, 13-16 Playoff": "assets/logos/leagues/utr-ptt-gyor-women-01-13-16-playoff.webp"
     }
 }
