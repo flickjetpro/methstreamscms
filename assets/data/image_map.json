@@ -8150,7 +8150,9 @@
         "Mladost Zemun": "assets/logos/upstreams/mladost-zemun.webp",
         "Granada W": "assets/logos/upstreams/granada-w.webp",
         "Hull F.C.": "assets/logos/streamed/hull-fc.webp",
-        "Seattle": "assets/logos/streamed/seattle.webp"
+        "Seattle": "assets/logos/streamed/seattle.webp",
+        "Grau": "assets/logos/upstreams/grau.webp",
+        "St John": "assets/logos/upstreams/st-john.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -8995,6 +8997,9 @@
         "Yokkaichi, Japan, Qualifying": "assets/logos/leagues/yokkaichi-japan-qualifying.webp",
         "World Open 2026 Final": "assets/logos/leagues/world-open-2026-final.webp",
         "KLS": "assets/logos/leagues/kls.webp",
-        "Baller League": "assets/logos/leagues/baller-league.webp"
+        "Baller League": "assets/logos/leagues/baller-league.webp",
+        "Rugby Top 14": "assets/logos/leagues/rugby-top-14.webp",
+        "Poland Ekstraklasa": "assets/logos/leagues/poland-ekstraklasa.webp",
+        "Denmark Superliga": "assets/logos/leagues/denmark-superliga.webp"
     }
 }
