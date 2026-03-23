@@ -8236,7 +8236,17 @@
         "Lea Bo\u0161kovi\u0107": "assets/logos/upstreams/lea-bo\u0161kovi\u0107.webp",
         "Vladislav Melnic": "assets/logos/upstreams/vladislav-melnic.webp",
         "Weronika Ewald": "assets/logos/upstreams/weronika-ewald.webp",
-        "Alina Granwehr": "assets/logos/upstreams/alina-granwehr.webp"
+        "Alina Granwehr": "assets/logos/upstreams/alina-granwehr.webp",
+        "Riccardo Trione": "assets/logos/upstreams/riccardo-trione.webp",
+        "Steffan van Weldam": "assets/logos/upstreams/steffan-van-weldam.webp",
+        "Ronetto Van Tilburg": "assets/logos/upstreams/ronetto-van-tilburg.webp",
+        "Melis Rasim": "assets/logos/upstreams/melis-rasim.webp",
+        "Simon Reveniau": "assets/logos/upstreams/simon-reveniau.webp",
+        "Alexandra Shubladze": "assets/logos/upstreams/alexandra-shubladze.webp",
+        "Xinxin Yao": "assets/logos/upstreams/xinxin-yao.webp",
+        "Varvara Panshina": "assets/logos/upstreams/varvara-panshina.webp",
+        "Yufei Ren": "assets/logos/upstreams/yufei-ren.webp",
+        "Ekaterina Ovcharenko": "assets/logos/upstreams/ekaterina-ovcharenko.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -9099,6 +9109,8 @@
         "UTR PTT Trnava Men 03, Group C": "assets/logos/leagues/utr-ptt-trnava-men-03-group-c.webp",
         "UTR PTT Umag Men 01, Group B": "assets/logos/leagues/utr-ptt-umag-men-01-group-b.webp",
         "Korisliiga, Playoffs": "assets/logos/leagues/korisliiga-playoffs.webp",
-        "UEFA Champions League, Women, Knockout stage": "assets/logos/leagues/uefa-champions-league-women-knockout-stage.webp"
+        "UEFA Champions League, Women, Knockout stage": "assets/logos/leagues/uefa-champions-league-women-knockout-stage.webp",
+        "UTR PTT Boca Raton Men 03, Group D": "assets/logos/leagues/utr-ptt-boca-raton-men-03-group-d.webp",
+        "UTR PTT Umag Men 01, Group C": "assets/logos/leagues/utr-ptt-umag-men-01-group-c.webp"
     }
 }
