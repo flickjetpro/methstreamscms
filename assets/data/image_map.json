@@ -8252,7 +8252,8 @@
         "Rafael Tosetto": "assets/logos/upstreams/rafael-tosetto.webp",
         "Daniel Cukierman": "assets/logos/upstreams/daniel-cukierman.webp",
         "Mikail Alimli": "assets/logos/upstreams/mikail-alimli.webp",
-        "Remy Dugardin": "assets/logos/upstreams/remy-dugardin.webp"
+        "Remy Dugardin": "assets/logos/upstreams/remy-dugardin.webp",
+        "Bursaspor Basketbol": "assets/logos/upstreams/bursaspor-basketbol.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -9117,6 +9118,7 @@
         "Korisliiga, Playoffs": "assets/logos/leagues/korisliiga-playoffs.webp",
         "UEFA Champions League, Women, Knockout stage": "assets/logos/leagues/uefa-champions-league-women-knockout-stage.webp",
         "UTR PTT Boca Raton Men 03, Group D": "assets/logos/leagues/utr-ptt-boca-raton-men-03-group-d.webp",
-        "UTR PTT Umag Men 01, Group C": "assets/logos/leagues/utr-ptt-umag-men-01-group-c.webp"
+        "UTR PTT Umag Men 01, Group C": "assets/logos/leagues/utr-ptt-umag-men-01-group-c.webp",
+        "Morelia, Mexico": "assets/logos/leagues/morelia-mexico.webp"
     }
 }
