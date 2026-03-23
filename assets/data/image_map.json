@@ -8194,7 +8194,30 @@
         "Svyatoslav Gulin": "assets/logos/upstreams/svyatoslav-gulin.webp",
         "Andrej Nedi\u0107": "assets/logos/upstreams/andrej-nedi\u0107.webp",
         "Lyon W": "assets/logos/upstreams/lyon-w.webp",
-        "Politechnika Lublin": "assets/logos/upstreams/politechnika-lublin.webp"
+        "Politechnika Lublin": "assets/logos/upstreams/politechnika-lublin.webp",
+        "SV Notch": "assets/logos/upstreams/sv-notch.webp",
+        "UConn": "assets/logos/upstreams/uconn.webp",
+        "FC Ju\u00e1rez": "assets/logos/upstreams/fc-ju\u00e1rez.webp",
+        "Yantra Gabrovo": "assets/logos/upstreams/yantra-gabrovo.webp",
+        "FC Fratria Varna": "assets/logos/upstreams/fc-fratria-varna.webp",
+        "Sorocaba Basquete U20": "assets/logos/upstreams/sorocaba-basquete-u20.webp",
+        "Mogi das Cruzes U20": "assets/logos/upstreams/mogi-das-cruzes-u20.webp",
+        "Polona Hercog": "assets/logos/upstreams/polona-hercog.webp",
+        "Mia Risti\u0107": "assets/logos/upstreams/mia-risti\u0107.webp",
+        "Tara W\u00fcrth": "assets/logos/upstreams/tara-w\u00fcrth.webp",
+        "Amarissa Kiara Toth": "assets/logos/upstreams/amarissa-kiara-toth.webp",
+        "Federico Bondioli": "assets/logos/upstreams/federico-bondioli.webp",
+        "Francesco Forti": "assets/logos/upstreams/francesco-forti.webp",
+        "Adrian Oetzbach": "assets/logos/upstreams/adrian-oetzbach.webp",
+        "Stefan Popovic": "assets/logos/upstreams/stefan-popovic.webp",
+        "Juan Cruz Martin Manzano": "assets/logos/upstreams/juan-cruz-martin-manzano.webp",
+        "Simone Agostini": "assets/logos/upstreams/simone-agostini.webp",
+        "Kaitlin Quevedo": "assets/logos/upstreams/kaitlin-quevedo.webp",
+        "Ana Petkovic": "assets/logos/upstreams/ana-petkovic.webp",
+        "Vojtech Petr": "assets/logos/upstreams/vojtech-petr.webp",
+        "Ilya Ivashka": "assets/logos/upstreams/ilya-ivashka.webp",
+        "Julio Cesar Porras": "assets/logos/upstreams/julio-cesar-porras.webp",
+        "Lars Wagenaar": "assets/logos/upstreams/lars-wagenaar.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -9051,6 +9074,10 @@
         "Split, Croatia, Qualifying": "assets/logos/leagues/split-croatia-qualifying.webp",
         "UTR PTT Trnava Men 03, Group B": "assets/logos/leagues/utr-ptt-trnava-men-03-group-b.webp",
         "Naples, Italy": "assets/logos/leagues/naples-italy.webp",
-        "Split, Croatia": "assets/logos/leagues/split-croatia.webp"
+        "Split, Croatia": "assets/logos/leagues/split-croatia.webp",
+        "Bulgaria - B PFG": "assets/logos/leagues/bulgaria-b-pfg.webp",
+        "U20 Paulista, Fase de Classifica\u00e7\u00e3o": "assets/logos/leagues/u20-paulista-fase-de-classifica\u00e7\u00e3o.webp",
+        "UTR PTT Trnava Men 03, Group C": "assets/logos/leagues/utr-ptt-trnava-men-03-group-c.webp",
+        "UTR PTT Umag Men 01, Group B": "assets/logos/leagues/utr-ptt-umag-men-01-group-b.webp"
     }
 }
