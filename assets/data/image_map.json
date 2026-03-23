@@ -8261,7 +8261,23 @@
         "Nikolas Paulovic": "assets/logos/upstreams/nikolas-paulovic.webp",
         "Patrick Zahraj": "assets/logos/upstreams/patrick-zahraj.webp",
         "Daniel Balascak": "assets/logos/upstreams/daniel-balascak.webp",
-        "Alexander Orlov": "assets/logos/upstreams/alexander-orlov.webp"
+        "Alexander Orlov": "assets/logos/upstreams/alexander-orlov.webp",
+        "Daniel Salazar Martinez": "assets/logos/upstreams/daniel-salazar-martinez.webp",
+        "Blake Ellis": "assets/logos/upstreams/blake-ellis.webp",
+        "Soonwoo Kwon": "assets/logos/upstreams/soonwoo-kwon.webp",
+        "James Trotter": "assets/logos/upstreams/james-trotter.webp",
+        "James McCabe": "assets/logos/upstreams/james-mccabe.webp",
+        "Andre Ilagan": "assets/logos/upstreams/andre-ilagan.webp",
+        "Maximilian Borisov": "assets/logos/upstreams/maximilian-borisov.webp",
+        "Dian Nedev": "assets/logos/upstreams/dian-nedev.webp",
+        "Nicola Ion": "assets/logos/upstreams/nicola-ion.webp",
+        "Ondrej Hujo": "assets/logos/upstreams/ondrej-hujo.webp",
+        "Mateo Martinovic": "assets/logos/upstreams/mateo-martinovic.webp",
+        "Jesse de Jager": "assets/logos/upstreams/jesse-de-jager.webp",
+        "Dominik Matic": "assets/logos/upstreams/dominik-matic.webp",
+        "Peter Goldsteiner": "assets/logos/upstreams/peter-goldsteiner.webp",
+        "Sofia Avataneo": "assets/logos/upstreams/sofia-avataneo.webp",
+        "Melinda Biro": "assets/logos/upstreams/melinda-biro.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -9129,6 +9145,8 @@
         "UTR PTT Umag Men 01, Group C": "assets/logos/leagues/utr-ptt-umag-men-01-group-c.webp",
         "Morelia, Mexico": "assets/logos/leagues/morelia-mexico.webp",
         "UTR PTT Boca Raton Men 03, Group B": "assets/logos/leagues/utr-ptt-boca-raton-men-03-group-b.webp",
-        "UTR PTT Boca Raton Men 03, Group C": "assets/logos/leagues/utr-ptt-boca-raton-men-03-group-c.webp"
+        "UTR PTT Boca Raton Men 03, Group C": "assets/logos/leagues/utr-ptt-boca-raton-men-03-group-c.webp",
+        "UTR PTT Trnava Men 03, Group D": "assets/logos/leagues/utr-ptt-trnava-men-03-group-d.webp",
+        "UTR PTT Umag Men 01, Group D": "assets/logos/leagues/utr-ptt-umag-men-01-group-d.webp"
     }
 }
