@@ -8277,7 +8277,13 @@
         "Dominik Matic": "assets/logos/upstreams/dominik-matic.webp",
         "Peter Goldsteiner": "assets/logos/upstreams/peter-goldsteiner.webp",
         "Sofia Avataneo": "assets/logos/upstreams/sofia-avataneo.webp",
-        "Melinda Biro": "assets/logos/upstreams/melinda-biro.webp"
+        "Melinda Biro": "assets/logos/upstreams/melinda-biro.webp",
+        "Jose Pereira": "assets/logos/upstreams/jose-pereira.webp",
+        "Katarina Ku\u017emov\u00e1": "assets/logos/upstreams/katarina-ku\u017emov\u00e1.webp",
+        "Tim Handel": "assets/logos/upstreams/tim-handel.webp",
+        "Lorenzo Favero": "assets/logos/upstreams/lorenzo-favero.webp",
+        "Wojciech Marek": "assets/logos/upstreams/wojciech-marek.webp",
+        "Nikita Mashtakov": "assets/logos/upstreams/nikita-mashtakov.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -9147,6 +9153,7 @@
         "UTR PTT Boca Raton Men 03, Group B": "assets/logos/leagues/utr-ptt-boca-raton-men-03-group-b.webp",
         "UTR PTT Boca Raton Men 03, Group C": "assets/logos/leagues/utr-ptt-boca-raton-men-03-group-c.webp",
         "UTR PTT Trnava Men 03, Group D": "assets/logos/leagues/utr-ptt-trnava-men-03-group-d.webp",
-        "UTR PTT Umag Men 01, Group D": "assets/logos/leagues/utr-ptt-umag-men-01-group-d.webp"
+        "UTR PTT Umag Men 01, Group D": "assets/logos/leagues/utr-ptt-umag-men-01-group-d.webp",
+        "UTR PTT Umag Men 01, Group A": "assets/logos/leagues/utr-ptt-umag-men-01-group-a.webp"
     }
 }
