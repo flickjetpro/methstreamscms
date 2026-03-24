@@ -8350,7 +8350,15 @@
         "Namibia": "assets/logos/upstreams/namibia.webp",
         "Ziraat Bankasi": "assets/logos/upstreams/ziraat-bankasi.webp",
         "Aluron Warta": "assets/logos/upstreams/aluron-warta.webp",
-        "Lindemans Aalst": "assets/logos/upstreams/lindemans-aalst.webp"
+        "Lindemans Aalst": "assets/logos/upstreams/lindemans-aalst.webp",
+        "Vietnam U23": "assets/logos/streamed/vietnam-u23.webp",
+        "North Korea U23": "assets/logos/streamed/north-korea-u23.webp",
+        "China U23": "assets/logos/streamed/china-u23.webp",
+        "Thailand U23": "assets/logos/streamed/thailand-u23.webp",
+        "England U18": "assets/logos/streamed/england-u18.webp",
+        "Bulgaria U18": "assets/logos/streamed/bulgaria-u18.webp",
+        "Kyrgyzstan": "assets/logos/streamed/kyrgyzstan.webp",
+        "Equatorial Guinea": "assets/logos/streamed/equatorial-guinea.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
