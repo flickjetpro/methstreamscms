@@ -8358,7 +8358,10 @@
         "England U18": "assets/logos/streamed/england-u18.webp",
         "Bulgaria U18": "assets/logos/streamed/bulgaria-u18.webp",
         "Kyrgyzstan": "assets/logos/streamed/kyrgyzstan.webp",
-        "Equatorial Guinea": "assets/logos/streamed/equatorial-guinea.webp"
+        "Equatorial Guinea": "assets/logos/streamed/equatorial-guinea.webp",
+        "Sportivo Barracas": "assets/logos/streamed/sportivo-barracas.webp",
+        "Real Pilar": "assets/logos/streamed/real-pilar.webp",
+        "Moldova": "assets/logos/streamed/moldova.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
