@@ -8385,7 +8385,16 @@
         "Palestine": "assets/logos/streamed/palestine.webp",
         "Liberia": "assets/logos/streamed/liberia.webp",
         "Mauritania": "assets/logos/streamed/mauritania.webp",
-        "Russia": "assets/logos/streamed/russia.webp"
+        "Russia": "assets/logos/streamed/russia.webp",
+        "Barranquilla": "assets/logos/upstreams/barranquilla.webp",
+        "Leones": "assets/logos/upstreams/leones.webp",
+        "CA Cerro": "assets/logos/upstreams/ca-cerro.webp",
+        "Yeovil": "assets/logos/upstreams/yeovil.webp",
+        "Truro": "assets/logos/upstreams/truro.webp",
+        "Forest Green": "assets/logos/upstreams/forest-green.webp",
+        "Southend": "assets/logos/upstreams/southend.webp",
+        "Scunthorpe": "assets/logos/upstreams/scunthorpe.webp",
+        "Hartlepool": "assets/logos/upstreams/hartlepool.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -9259,6 +9268,7 @@
         "UTR PTT Umag Men 01, Group A": "assets/logos/leagues/utr-ptt-umag-men-01-group-a.webp",
         "Friendly International": "assets/logos/leagues/friendly-international.webp",
         "Challenge Cup": "assets/logos/leagues/challenge-cup.webp",
-        "USA - MLB": "assets/logos/leagues/usa-mlb.webp"
+        "USA - MLB": "assets/logos/leagues/usa-mlb.webp",
+        "UEFA Women Champions League": "assets/logos/leagues/uefa-women-champions-league.webp"
     }
 }
