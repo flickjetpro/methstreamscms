@@ -8438,7 +8438,9 @@
         "LOVB Nebraska": "assets/logos/upstreams/lovb-nebraska.webp",
         "Xavier Jakubovic": "assets/logos/upstreams/xavier-jakubovic.webp",
         "Nikola Lulic": "assets/logos/upstreams/nikola-lulic.webp",
-        "Jana Bojovic": "assets/logos/upstreams/jana-bojovic.webp"
+        "Jana Bojovic": "assets/logos/upstreams/jana-bojovic.webp",
+        "Victoria": "assets/logos/upstreams/victoria.webp",
+        "South Australia": "assets/logos/upstreams/south-australia.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -9328,6 +9330,7 @@
         "FIFA World Cup Qual, Inter-Confed. Playoffs": "assets/logos/leagues/fifa-world-cup-qual-inter-confed-playoffs.webp",
         "Latvian Hockey League, Playoffs": "assets/logos/leagues/latvian-hockey-league-playoffs.webp",
         "U21 Friendly Games": "assets/logos/leagues/u21-friendly-games.webp",
-        "AFC Asian Cup, Qualification Group E": "assets/logos/leagues/afc-asian-cup-qualification-group-e.webp"
+        "AFC Asian Cup, Qualification Group E": "assets/logos/leagues/afc-asian-cup-qualification-group-e.webp",
+        "Sheffield Shield, Final": "assets/logos/leagues/sheffield-shield-final.webp"
     }
 }
