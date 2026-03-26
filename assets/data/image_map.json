@@ -8558,7 +8558,8 @@
         "Keenan Mayo": "assets/logos/upstreams/keenan-mayo.webp",
         "Alex Solonenko": "assets/logos/upstreams/alex-solonenko.webp",
         "Matyas Kozlovsky": "assets/logos/upstreams/matyas-kozlovsky.webp",
-        "HSG Nordhorn-Lingen": "assets/logos/upstreams/hsg-nordhorn-lingen.webp"
+        "HSG Nordhorn-Lingen": "assets/logos/upstreams/hsg-nordhorn-lingen.webp",
+        "Landskrona": "assets/logos/upstreams/landskrona.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -9466,6 +9467,7 @@
         "Africa League, Group Kalahari": "assets/logos/leagues/africa-league-group-kalahari.webp",
         "International Friendly Games": "assets/logos/leagues/international-friendly-games.webp",
         "UTR PTT Boca Raton Men 03, Group A": "assets/logos/leagues/utr-ptt-boca-raton-men-03-group-a.webp",
-        "Elite League U20": "assets/logos/leagues/elite-league-u20.webp"
+        "Elite League U20": "assets/logos/leagues/elite-league-u20.webp",
+        "NRL": "assets/logos/leagues/nrl.webp"
     }
 }
