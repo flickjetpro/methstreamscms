@@ -8618,7 +8618,10 @@
         "Jonny Clayton": "assets/logos/upstreams/jonny-clayton.webp",
         "Luke Humphries": "assets/logos/upstreams/luke-humphries.webp",
         "Michael van Gerwen": "assets/logos/upstreams/michael-van-gerwen.webp",
-        "Czech Rep.": "assets/logos/upstreams/czech-rep.webp"
+        "Czech Rep.": "assets/logos/upstreams/czech-rep.webp",
+        "Stephen Bunting": "assets/logos/upstreams/stephen-bunting.webp",
+        "Gerwyn Price": "assets/logos/upstreams/gerwyn-price.webp",
+        "Gian Van Veen": "assets/logos/upstreams/gian-van-veen.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -9534,6 +9537,7 @@
         "Cyprus Basketball": "assets/logos/leagues/cyprus-basketball.webp",
         "NCAA, National Championship, Division 1": "assets/logos/leagues/ncaa-national-championship-division-1.webp",
         "Premier League, Night 8": "assets/logos/leagues/premier-league-night-8.webp",
-        "WC Qualification, UEFA, Playoffs": "assets/logos/leagues/wc-qualification-uefa-playoffs.webp"
+        "WC Qualification, UEFA, Playoffs": "assets/logos/leagues/wc-qualification-uefa-playoffs.webp",
+        "Super League Rugby": "assets/logos/leagues/super-league-rugby.webp"
     }
 }
