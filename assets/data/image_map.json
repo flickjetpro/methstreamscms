@@ -8610,7 +8610,8 @@
         "Israel Adesanya": "assets/logos/streamed/israel-adesanya.webp",
         "ZED": "assets/logos/upstreams/zed.webp",
         "Arab Contractors": "assets/logos/upstreams/arab-contractors.webp",
-        "Keravnos": "assets/logos/upstreams/keravnos.webp"
+        "Keravnos": "assets/logos/upstreams/keravnos.webp",
+        "Dartmouth Big Green": "assets/logos/upstreams/dartmouth-big-green.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -9523,6 +9524,7 @@
         "U21 EURO, Qualification, Group B": "assets/logos/leagues/u21-euro-qualification-group-b.webp",
         "Cricket Pakistan League": "assets/logos/leagues/cricket-pakistan-league.webp",
         "Cyprus Basketball Division A, Championship Round": "assets/logos/leagues/cyprus-basketball-division-a-championship-round.webp",
-        "Cyprus Basketball": "assets/logos/leagues/cyprus-basketball.webp"
+        "Cyprus Basketball": "assets/logos/leagues/cyprus-basketball.webp",
+        "NCAA, National Championship, Division 1": "assets/logos/leagues/ncaa-national-championship-division-1.webp"
     }
 }
