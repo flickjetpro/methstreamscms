@@ -8546,7 +8546,15 @@
         "James Quattro": "assets/logos/upstreams/james-quattro.webp",
         "Luisina Giovannini": "assets/logos/upstreams/luisina-giovannini.webp",
         "Donald Nikolas Stoot": "assets/logos/upstreams/donald-nikolas-stoot.webp",
-        "Bejnamin Torres": "assets/logos/upstreams/bejnamin-torres.webp"
+        "Bejnamin Torres": "assets/logos/upstreams/bejnamin-torres.webp",
+        "Biblioteca Atenas": "assets/logos/upstreams/biblioteca-atenas.webp",
+        "Romania U20": "assets/logos/upstreams/romania-u20.webp",
+        "Poland U20": "assets/logos/upstreams/poland-u20.webp",
+        "Die Eulen Ludwigshafen": "assets/logos/upstreams/die-eulen-ludwigshafen.webp",
+        "VfL Eintracht Hagen": "assets/logos/upstreams/vfl-eintracht-hagen.webp",
+        "Steffan Van Weldam": "assets/logos/upstreams/steffan-van-weldam.webp",
+        "Anna Rogers": "assets/logos/upstreams/anna-rogers.webp",
+        "Maria Florencia Urrutia": "assets/logos/upstreams/maria-florencia-urrutia.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -9453,6 +9461,7 @@
         "NCAA Women's March Madness": "assets/logos/leagues/ncaa-womens-march-madness.webp",
         "Africa League, Group Kalahari": "assets/logos/leagues/africa-league-group-kalahari.webp",
         "International Friendly Games": "assets/logos/leagues/international-friendly-games.webp",
-        "UTR PTT Boca Raton Men 03, Group A": "assets/logos/leagues/utr-ptt-boca-raton-men-03-group-a.webp"
+        "UTR PTT Boca Raton Men 03, Group A": "assets/logos/leagues/utr-ptt-boca-raton-men-03-group-a.webp",
+        "Elite League U20": "assets/logos/leagues/elite-league-u20.webp"
     }
 }
