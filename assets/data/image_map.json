@@ -8540,7 +8540,9 @@
         "Luna Maria Cinalli": "assets/logos/upstreams/luna-maria-cinalli.webp",
         "Victoria Bosio": "assets/logos/upstreams/victoria-bosio.webp",
         "Raluka Serban": "assets/logos/upstreams/raluka-serban.webp",
-        "Bonaire": "assets/logos/upstreams/bonaire.webp"
+        "Bonaire": "assets/logos/upstreams/bonaire.webp",
+        "\u017dKK Ras Beograd": "assets/logos/upstreams/\u017ekk-ras-beograd.webp",
+        "\u017dKK Duga \u0160abac": "assets/logos/upstreams/\u017ekk-duga-\u0161abac.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -9445,6 +9447,7 @@
         "U21 EURO, Qualification, Group I": "assets/logos/leagues/u21-euro-qualification-group-i.webp",
         "U21 EURO, Qualification, Group F": "assets/logos/leagues/u21-euro-qualification-group-f.webp",
         "NCAA Women's March Madness": "assets/logos/leagues/ncaa-womens-march-madness.webp",
-        "Africa League, Group Kalahari": "assets/logos/leagues/africa-league-group-kalahari.webp"
+        "Africa League, Group Kalahari": "assets/logos/leagues/africa-league-group-kalahari.webp",
+        "International Friendly Games": "assets/logos/leagues/international-friendly-games.webp"
     }
 }
