@@ -8617,7 +8617,8 @@
         "Portugal U21": "assets/logos/upstreams/portugal-u21.webp",
         "Jonny Clayton": "assets/logos/upstreams/jonny-clayton.webp",
         "Luke Humphries": "assets/logos/upstreams/luke-humphries.webp",
-        "Michael van Gerwen": "assets/logos/upstreams/michael-van-gerwen.webp"
+        "Michael van Gerwen": "assets/logos/upstreams/michael-van-gerwen.webp",
+        "Czech Rep.": "assets/logos/upstreams/czech-rep.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -9532,6 +9533,7 @@
         "Cyprus Basketball Division A, Championship Round": "assets/logos/leagues/cyprus-basketball-division-a-championship-round.webp",
         "Cyprus Basketball": "assets/logos/leagues/cyprus-basketball.webp",
         "NCAA, National Championship, Division 1": "assets/logos/leagues/ncaa-national-championship-division-1.webp",
-        "Premier League, Night 8": "assets/logos/leagues/premier-league-night-8.webp"
+        "Premier League, Night 8": "assets/logos/leagues/premier-league-night-8.webp",
+        "WC Qualification, UEFA, Playoffs": "assets/logos/leagues/wc-qualification-uefa-playoffs.webp"
     }
 }
