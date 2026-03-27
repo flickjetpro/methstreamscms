@@ -8782,7 +8782,9 @@
         "Bullom Stars FC": "assets/logos/upstreams/bullom-stars-fc.webp",
         "Old Edwardians FC": "assets/logos/upstreams/old-edwardians-fc.webp",
         "KeuPa HT": "assets/logos/upstreams/keupa-ht.webp",
-        "Haukat": "assets/logos/upstreams/haukat.webp"
+        "Haukat": "assets/logos/upstreams/haukat.webp",
+        "Germany U19": "assets/logos/upstreams/germany-u19.webp",
+        "Greece U19": "assets/logos/upstreams/greece-u19.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -9735,6 +9737,7 @@
         "Tipsport Liga, Relegation/Promotion round ": "assets/logos/leagues/tipsport-liga-relegationpromotion-round.webp",
         "Mestis Promotion/Relegation": "assets/logos/leagues/mestis-promotionrelegation.webp",
         "Sweden HockeyAllsvenskan": "assets/logos/leagues/sweden-hockeyallsvenskan.webp",
-        "Australia Women in West Indies, 3 ODI Series": "assets/logos/leagues/australia-women-in-west-indies-3-odi-series.webp"
+        "Australia Women in West Indies, 3 ODI Series": "assets/logos/leagues/australia-women-in-west-indies-3-odi-series.webp",
+        "U19 UEFA European Championship, Elite round Gr. 1": "assets/logos/leagues/u19-uefa-european-championship-elite-round-gr-1.webp"
     }
 }
