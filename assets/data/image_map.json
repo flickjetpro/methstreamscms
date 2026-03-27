@@ -8771,7 +8771,9 @@
         "England U19": "assets/logos/upstreams/england-u19.webp",
         "Poland U19": "assets/logos/upstreams/poland-u19.webp",
         "Czechia U19": "assets/logos/upstreams/czechia-u19.webp",
-        "Belgium U19": "assets/logos/upstreams/belgium-u19.webp"
+        "Belgium U19": "assets/logos/upstreams/belgium-u19.webp",
+        "Denmark U19": "assets/logos/upstreams/denmark-u19.webp",
+        "Latvia U19": "assets/logos/upstreams/latvia-u19.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
