@@ -8735,7 +8735,8 @@
         "JS Djijel": "assets/logos/upstreams/js-djijel.webp",
         "Teodora Kostovi\u0107": "assets/logos/upstreams/teodora-kostovi\u0107.webp",
         "Darwin Hearts FC (W)": "assets/logos/upstreams/darwin-hearts-fc-w.webp",
-        "Dar City Basketball Team": "assets/logos/upstreams/dar-city-basketball-team.webp"
+        "Dar City Basketball Team": "assets/logos/upstreams/dar-city-basketball-team.webp",
+        "Petro Atletico": "assets/logos/upstreams/petro-atletico.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -9674,6 +9675,7 @@
         "KHL Playoffs": "assets/logos/leagues/khl-playoffs.webp",
         "U19 UEFA European Championship, Elite round Gr. 2": "assets/logos/leagues/u19-uefa-european-championship-elite-round-gr-2.webp",
         "FIFA Series, Australia": "assets/logos/leagues/fifa-series-australia.webp",
-        "EHF - European Cup (W)": "assets/logos/leagues/ehf-european-cup-w.webp"
+        "EHF - European Cup (W)": "assets/logos/leagues/ehf-european-cup-w.webp",
+        "Basketball African League": "assets/logos/leagues/basketball-african-league.webp"
     }
 }
