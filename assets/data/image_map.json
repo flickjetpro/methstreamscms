@@ -8767,7 +8767,11 @@
         "Capitanes de Arecibo": "assets/logos/upstreams/capitanes-de-arecibo.webp",
         "Quebradillas": "assets/logos/upstreams/quebradillas.webp",
         "Bayamon": "assets/logos/upstreams/bayamon.webp",
-        "Swiss U19": "assets/logos/upstreams/swiss-u19.webp"
+        "Swiss U19": "assets/logos/upstreams/swiss-u19.webp",
+        "England U19": "assets/logos/upstreams/england-u19.webp",
+        "Poland U19": "assets/logos/upstreams/poland-u19.webp",
+        "Czechia U19": "assets/logos/upstreams/czechia-u19.webp",
+        "Belgium U19": "assets/logos/upstreams/belgium-u19.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -9713,6 +9717,7 @@
         "Australia - FNT - Premier League": "assets/logos/leagues/australia-fnt-premier-league.webp",
         "Pakistan Super League": "assets/logos/leagues/pakistan-super-league.webp",
         "U19 UEFA European Championship, Elite round Gr. 5": "assets/logos/leagues/u19-uefa-european-championship-elite-round-gr-5.webp",
-        "Greece Basketball League": "assets/logos/leagues/greece-basketball-league.webp"
+        "Greece Basketball League": "assets/logos/leagues/greece-basketball-league.webp",
+        "U19 UEFA European Championship, Elite round Gr. 4": "assets/logos/leagues/u19-uefa-european-championship-elite-round-gr-4.webp"
     }
 }
