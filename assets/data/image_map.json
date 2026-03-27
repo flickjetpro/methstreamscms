@@ -8685,7 +8685,14 @@
         "England U21": "assets/logos/upstreams/england-u21.webp",
         "Inverness Caledonian Thistle": "assets/logos/upstreams/inverness-caledonian-thistle.webp",
         "Queen of The South": "assets/logos/upstreams/queen-of-the-south.webp",
-        "JS Djidjel": "assets/logos/upstreams/js-djidjel.webp"
+        "JS Djidjel": "assets/logos/upstreams/js-djidjel.webp",
+        "Rot Weiss Essen": "assets/logos/upstreams/rot-weiss-essen.webp",
+        "Poland U21": "assets/logos/upstreams/poland-u21.webp",
+        "Armenia U21": "assets/logos/upstreams/armenia-u21.webp",
+        "HK Nitra": "assets/logos/upstreams/hk-nitra.webp",
+        "Storhamar Ishockey": "assets/logos/upstreams/storhamar-ishockey.webp",
+        "Monaro Panthers": "assets/logos/upstreams/monaro-panthers.webp",
+        "Tuggeranong United": "assets/logos/upstreams/tuggeranong-united.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -9614,6 +9621,8 @@
         "Indian Premier League": "assets/logos/leagues/indian-premier-league.webp",
         "U20 Friendly Games": "assets/logos/leagues/u20-friendly-games.webp",
         "Germany Am. - BundesLeague (W)": "assets/logos/leagues/germany-am-bundesleague-w.webp",
-        "Argentina - Cup": "assets/logos/leagues/argentina-cup.webp"
+        "Argentina - Cup": "assets/logos/leagues/argentina-cup.webp",
+        "Tipsport Liga, Playoffs": "assets/logos/leagues/tipsport-liga-playoffs.webp",
+        "Australia - NPL - Capital": "assets/logos/leagues/australia-npl-capital.webp"
     }
 }
