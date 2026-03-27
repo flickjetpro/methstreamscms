@@ -8762,7 +8762,11 @@
         "Grenada": "assets/logos/streamed/grenada.webp",
         "American Samoa": "assets/logos/streamed/american-samoa.webp",
         "Guam": "assets/logos/streamed/guam.webp",
-        "Mili Poljicak": "assets/logos/upstreams/mili-poljicak.webp"
+        "Mili Poljicak": "assets/logos/upstreams/mili-poljicak.webp",
+        "Mets de Guaynabo": "assets/logos/upstreams/mets-de-guaynabo.webp",
+        "Capitanes de Arecibo": "assets/logos/upstreams/capitanes-de-arecibo.webp",
+        "Quebradillas": "assets/logos/upstreams/quebradillas.webp",
+        "Bayamon": "assets/logos/upstreams/bayamon.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
