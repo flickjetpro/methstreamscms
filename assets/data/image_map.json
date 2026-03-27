@@ -8784,7 +8784,12 @@
         "KeuPa HT": "assets/logos/upstreams/keupa-ht.webp",
         "Haukat": "assets/logos/upstreams/haukat.webp",
         "Germany U19": "assets/logos/upstreams/germany-u19.webp",
-        "Greece U19": "assets/logos/upstreams/greece-u19.webp"
+        "Greece U19": "assets/logos/upstreams/greece-u19.webp",
+        "Wakefield": "assets/logos/upstreams/wakefield.webp",
+        "SA XV Charente": "assets/logos/upstreams/sa-xv-charente.webp",
+        "Glasgow Warriors": "assets/logos/upstreams/glasgow-warriors.webp",
+        "Benetton Treviso": "assets/logos/upstreams/benetton-treviso.webp",
+        "Leinster Rugby": "assets/logos/upstreams/leinster-rugby.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -9738,6 +9743,7 @@
         "Mestis Promotion/Relegation": "assets/logos/leagues/mestis-promotionrelegation.webp",
         "Sweden HockeyAllsvenskan": "assets/logos/leagues/sweden-hockeyallsvenskan.webp",
         "Australia Women in West Indies, 3 ODI Series": "assets/logos/leagues/australia-women-in-west-indies-3-odi-series.webp",
-        "U19 UEFA European Championship, Elite round Gr. 1": "assets/logos/leagues/u19-uefa-european-championship-elite-round-gr-1.webp"
+        "U19 UEFA European Championship, Elite round Gr. 1": "assets/logos/leagues/u19-uefa-european-championship-elite-round-gr-1.webp",
+        "Argentina Copa": "assets/logos/leagues/argentina-copa.webp"
     }
 }
