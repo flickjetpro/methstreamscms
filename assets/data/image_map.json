@@ -8692,7 +8692,10 @@
         "HK Nitra": "assets/logos/upstreams/hk-nitra.webp",
         "Storhamar Ishockey": "assets/logos/upstreams/storhamar-ishockey.webp",
         "Monaro Panthers": "assets/logos/upstreams/monaro-panthers.webp",
-        "Tuggeranong United": "assets/logos/upstreams/tuggeranong-united.webp"
+        "Tuggeranong United": "assets/logos/upstreams/tuggeranong-united.webp",
+        "Hapoel Nof HaGalil": "assets/logos/upstreams/hapoel-nof-hagalil.webp",
+        "Maccabi Yafo Kabilyo": "assets/logos/upstreams/maccabi-yafo-kabilyo.webp",
+        "Hapoel Afula": "assets/logos/upstreams/hapoel-afula.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -9623,6 +9626,7 @@
         "Germany Am. - BundesLeague (W)": "assets/logos/leagues/germany-am-bundesleague-w.webp",
         "Argentina - Cup": "assets/logos/leagues/argentina-cup.webp",
         "Tipsport Liga, Playoffs": "assets/logos/leagues/tipsport-liga-playoffs.webp",
-        "Australia - NPL - Capital": "assets/logos/leagues/australia-npl-capital.webp"
+        "Australia - NPL - Capital": "assets/logos/leagues/australia-npl-capital.webp",
+        "Israel - League Leumit": "assets/logos/leagues/israel-league-leumit.webp"
     }
 }
