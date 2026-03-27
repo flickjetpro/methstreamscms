@@ -8719,7 +8719,9 @@
         "Portugal U19": "assets/logos/upstreams/portugal-u19.webp",
         "Serbia U19": "assets/logos/upstreams/serbia-u19.webp",
         "Greater Western Sydney": "assets/logos/upstreams/greater-western-sydney.webp",
-        "NQ Cowboys": "assets/logos/upstreams/nq-cowboys.webp"
+        "NQ Cowboys": "assets/logos/upstreams/nq-cowboys.webp",
+        "Barangay Ginebra San Miguel": "assets/logos/upstreams/barangay-ginebra-san-miguel.webp",
+        "KK Proleter Naftagas": "assets/logos/upstreams/kk-proleter-naftagas.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
