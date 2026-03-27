@@ -8752,7 +8752,17 @@
         "Northern Ireland U19": "assets/logos/upstreams/northern-ireland-u19.webp",
         "Liverpool FC XI": "assets/logos/upstreams/liverpool-fc-xi.webp",
         "Borussia Dortmund Legends": "assets/logos/upstreams/borussia-dortmund-legends.webp",
-        "Sascha Wayenburg": "assets/logos/upstreams/sascha-wayenburg.webp"
+        "Sascha Wayenburg": "assets/logos/upstreams/sascha-wayenburg.webp",
+        "Indonesia": "assets/logos/streamed/indonesia.webp",
+        "St Kitts and Nevis": "assets/logos/streamed/st-kitts-and-nevis.webp",
+        "Gabon": "assets/logos/streamed/gabon.webp",
+        "Kenya": "assets/logos/streamed/kenya.webp",
+        "Estonia": "assets/logos/streamed/estonia.webp",
+        "Rwanda": "assets/logos/streamed/rwanda.webp",
+        "Grenada": "assets/logos/streamed/grenada.webp",
+        "American Samoa": "assets/logos/streamed/american-samoa.webp",
+        "Guam": "assets/logos/streamed/guam.webp",
+        "Mili Poljicak": "assets/logos/upstreams/mili-poljicak.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
