@@ -8792,7 +8792,8 @@
         "Leinster Rugby": "assets/logos/upstreams/leinster-rugby.webp",
         "Proleter 023 (W)": "assets/logos/upstreams/proleter-023-w.webp",
         "Bagdala (W)": "assets/logos/upstreams/bagdala-w.webp",
-        "North Carolina W": "assets/logos/upstreams/north-carolina-w.webp"
+        "North Carolina W": "assets/logos/upstreams/north-carolina-w.webp",
+        "Hull K R": "assets/logos/upstreams/hull-k-r.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -9749,6 +9750,8 @@
         "U19 UEFA European Championship, Elite round Gr. 1": "assets/logos/leagues/u19-uefa-european-championship-elite-round-gr-1.webp",
         "Argentina Copa": "assets/logos/leagues/argentina-copa.webp",
         "UTR PTT Trnava Men 03, 13-16 Playoff": "assets/logos/leagues/utr-ptt-trnava-men-03-13-16-playoff.webp",
-        "UTR PTT Umag Men 01, 9-12 Playoff": "assets/logos/leagues/utr-ptt-umag-men-01-9-12-playoff.webp"
+        "UTR PTT Umag Men 01, 9-12 Playoff": "assets/logos/leagues/utr-ptt-umag-men-01-9-12-playoff.webp",
+        "Betfred Super League": "assets/logos/leagues/betfred-super-league.webp",
+        "UTR PTT Trnava Men 03, 17-20 Playoff": "assets/logos/leagues/utr-ptt-trnava-men-03-17-20-playoff.webp"
     }
 }
