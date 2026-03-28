@@ -8934,7 +8934,9 @@
         "Lance Gibson Jr.": "assets/logos/upstreams/lance-gibson-jr.webp",
         "Jeffrey John Wolf": "assets/logos/upstreams/jeffrey-john-wolf.webp",
         "Gabriel Debru": "assets/logos/upstreams/gabriel-debru.webp",
-        "New South Wales Swifts W": "assets/logos/upstreams/new-south-wales-swifts-w.webp"
+        "New South Wales Swifts W": "assets/logos/upstreams/new-south-wales-swifts-w.webp",
+        "En-Shuo Liang": "assets/logos/upstreams/en-shuo-liang.webp",
+        "Alisa Oktiabreva": "assets/logos/upstreams/alisa-oktiabreva.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -9915,6 +9917,7 @@
         "UTR PTT Boca Raton Men 03, 9-12 Playoff": "assets/logos/leagues/utr-ptt-boca-raton-men-03-9-12-playoff.webp",
         "UTR PTT Boca Raton Men 03, 1-4 Playoff": "assets/logos/leagues/utr-ptt-boca-raton-men-03-1-4-playoff.webp",
         "Houston, USA, Qualifying": "assets/logos/leagues/houston-usa-qualifying.webp",
-        "UTR PTT Trnava Men 03, 9-12 Playoff": "assets/logos/leagues/utr-ptt-trnava-men-03-9-12-playoff.webp"
+        "UTR PTT Trnava Men 03, 9-12 Playoff": "assets/logos/leagues/utr-ptt-trnava-men-03-9-12-playoff.webp",
+        "Bogota, Colombia, Qualifying": "assets/logos/leagues/bogota-colombia-qualifying.webp"
     }
 }
