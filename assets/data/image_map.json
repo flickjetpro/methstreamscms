@@ -8998,7 +8998,11 @@
         "Brace Cadence": "assets/logos/upstreams/brace-cadence.webp",
         "Stefan Horia Haita": "assets/logos/upstreams/stefan-horia-haita.webp",
         "Gabriel Ghetu": "assets/logos/upstreams/gabriel-ghetu.webp",
-        "George Loffhagen": "assets/logos/upstreams/george-loffhagen.webp"
+        "George Loffhagen": "assets/logos/upstreams/george-loffhagen.webp",
+        "FC Nantes": "assets/logos/upstreams/fc-nantes.webp",
+        "Paris SG (W)": "assets/logos/upstreams/paris-sg-w.webp",
+        "Cezar Cretu": "assets/logos/upstreams/cezar-cretu.webp",
+        "Irene Burillo Escorihuela": "assets/logos/upstreams/irene-burillo-escorihuela.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -9991,6 +9995,9 @@
         "LF Challenge, Regular Season": "assets/logos/leagues/lf-challenge-regular-season.webp",
         "European Cup, Women": "assets/logos/leagues/european-cup-women.webp",
         "UTR PTT Boca Raton Men 03, 5-8 Playoff": "assets/logos/leagues/utr-ptt-boca-raton-men-03-5-8-playoff.webp",
-        "Bucharest, Romania, Qualifying": "assets/logos/leagues/bucharest-romania-qualifying.webp"
+        "Bucharest, Romania, Qualifying": "assets/logos/leagues/bucharest-romania-qualifying.webp",
+        "Division 1, Women": "assets/logos/leagues/division-1-women.webp",
+        "Spanish Segunda Liga": "assets/logos/leagues/spanish-segunda-liga.webp",
+        "Barletta, Italy, Qualifying": "assets/logos/leagues/barletta-italy-qualifying.webp"
     }
 }
