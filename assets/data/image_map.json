@@ -8905,7 +8905,11 @@
         "Katarina Jokic": "assets/logos/upstreams/katarina-jokic.webp",
         "Sachia Vickery": "assets/logos/upstreams/sachia-vickery.webp",
         "Usue Maitane Arconada": "assets/logos/upstreams/usue-maitane-arconada.webp",
-        "Kristina Mladenovic": "assets/logos/upstreams/kristina-mladenovic.webp"
+        "Kristina Mladenovic": "assets/logos/upstreams/kristina-mladenovic.webp",
+        "St Louis BattleHawks": "assets/logos/streamed/st-louis-battlehawks.webp",
+        "DC Defenders": "assets/logos/streamed/dc-defenders.webp",
+        "Dallas Renegades": "assets/logos/streamed/dallas-renegades.webp",
+        "Houston Gamblers": "assets/logos/streamed/houston-gamblers.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
