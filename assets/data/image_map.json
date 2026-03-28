@@ -9004,7 +9004,9 @@
         "Cezar Cretu": "assets/logos/upstreams/cezar-cretu.webp",
         "Irene Burillo Escorihuela": "assets/logos/upstreams/irene-burillo-escorihuela.webp",
         "Stefano Papagno": "assets/logos/upstreams/stefano-papagno.webp",
-        "Radu Albot": "assets/logos/upstreams/radu-albot.webp"
+        "Radu Albot": "assets/logos/upstreams/radu-albot.webp",
+        "Izan Almazan Valiente": "assets/logos/upstreams/izan-almazan-valiente.webp",
+        "Yaroslav Demin": "assets/logos/upstreams/yaroslav-demin.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -10000,6 +10002,7 @@
         "Bucharest, Romania, Qualifying": "assets/logos/leagues/bucharest-romania-qualifying.webp",
         "Division 1, Women": "assets/logos/leagues/division-1-women.webp",
         "Spanish Segunda Liga": "assets/logos/leagues/spanish-segunda-liga.webp",
-        "Barletta, Italy, Qualifying": "assets/logos/leagues/barletta-italy-qualifying.webp"
+        "Barletta, Italy, Qualifying": "assets/logos/leagues/barletta-italy-qualifying.webp",
+        "Menorca, Spain, Qualifying": "assets/logos/leagues/menorca-spain-qualifying.webp"
     }
 }
