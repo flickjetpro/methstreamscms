@@ -8901,7 +8901,11 @@
         "Eskilstuna United (W)": "assets/logos/upstreams/eskilstuna-united-w.webp",
         "Vittsjo GIK (W)": "assets/logos/upstreams/vittsjo-gik-w.webp",
         "Boxing : Joel Mafauad": "assets/logos/upstreams/boxing-joel-mafauad.webp",
-        "Mariano Farias": "assets/logos/upstreams/mariano-farias.webp"
+        "Mariano Farias": "assets/logos/upstreams/mariano-farias.webp",
+        "Katarina Jokic": "assets/logos/upstreams/katarina-jokic.webp",
+        "Sachia Vickery": "assets/logos/upstreams/sachia-vickery.webp",
+        "Usue Maitane Arconada": "assets/logos/upstreams/usue-maitane-arconada.webp",
+        "Kristina Mladenovic": "assets/logos/upstreams/kristina-mladenovic.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -9876,6 +9880,7 @@
         "U23 Friendly Games": "assets/logos/leagues/u23-friendly-games.webp",
         "Champions League (W) - Playoff": "assets/logos/leagues/champions-league-w-playoff.webp",
         "EHF European League, Women, Knockout stage": "assets/logos/leagues/ehf-european-league-women-knockout-stage.webp",
-        "Sweden - Damallsvenskan (W)": "assets/logos/leagues/sweden-damallsvenskan-w.webp"
+        "Sweden - Damallsvenskan (W)": "assets/logos/leagues/sweden-damallsvenskan-w.webp",
+        "Charleston, USA, Qualifying": "assets/logos/leagues/charleston-usa-qualifying.webp"
     }
 }
