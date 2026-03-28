@@ -8946,7 +8946,10 @@
         "APS Bomet": "assets/logos/upstreams/aps-bomet.webp",
         "Nairobi United": "assets/logos/upstreams/nairobi-united.webp",
         "Peshawar Zalmi": "assets/logos/upstreams/peshawar-zalmi.webp",
-        "Rawalpindiz": "assets/logos/upstreams/rawalpindiz.webp"
+        "Rawalpindiz": "assets/logos/upstreams/rawalpindiz.webp",
+        "Morocco U18": "assets/logos/streamed/morocco-u18.webp",
+        "Mariana Isabel Higuita Barraza": "assets/logos/upstreams/mariana-isabel-higuita-barraza.webp",
+        "Eswatini": "assets/logos/upstreams/eswatini.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -9929,6 +9932,7 @@
         "Houston, USA, Qualifying": "assets/logos/leagues/houston-usa-qualifying.webp",
         "UTR PTT Trnava Men 03, 9-12 Playoff": "assets/logos/leagues/utr-ptt-trnava-men-03-9-12-playoff.webp",
         "Bogota, Colombia, Qualifying": "assets/logos/leagues/bogota-colombia-qualifying.webp",
-        "English Women Super League": "assets/logos/leagues/english-women-super-league.webp"
+        "English Women Super League": "assets/logos/leagues/english-women-super-league.webp",
+        "ICC Men's T20 World Cup Africa Sub Regional Qualifier B": "assets/logos/leagues/icc-mens-t20-world-cup-africa-sub-regional-qualifier-b.webp"
     }
 }
