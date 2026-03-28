@@ -8964,7 +8964,13 @@
         "Burgos CF": "assets/logos/upstreams/burgos-cf.webp",
         "Swindon": "assets/logos/upstreams/swindon.webp",
         "Salford": "assets/logos/upstreams/salford.webp",
-        "Emanuela Lares": "assets/logos/upstreams/emanuela-lares.webp"
+        "Emanuela Lares": "assets/logos/upstreams/emanuela-lares.webp",
+        "Multan Sultans": "assets/logos/upstreams/multan-sultans.webp",
+        "Islamabad United": "assets/logos/upstreams/islamabad-united.webp",
+        "Axel Nefve": "assets/logos/upstreams/axel-nefve.webp",
+        "Shunsuke Nakagawa": "assets/logos/upstreams/shunsuke-nakagawa.webp",
+        "Karol Filar": "assets/logos/upstreams/karol-filar.webp",
+        "Ji Sung Nam": "assets/logos/upstreams/ji-sung-nam.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -9950,6 +9956,7 @@
         "English Women Super League": "assets/logos/leagues/english-women-super-league.webp",
         "ICC Men's T20 World Cup Africa Sub Regional Qualifier B": "assets/logos/leagues/icc-mens-t20-world-cup-africa-sub-regional-qualifier-b.webp",
         "France - Top 14": "assets/logos/leagues/france-top-14.webp",
-        "English League Two": "assets/logos/leagues/english-league-two.webp"
+        "English League Two": "assets/logos/leagues/english-league-two.webp",
+        "UTR PTT Boca Raton Men 03, 13-16 Playoff": "assets/logos/leagues/utr-ptt-boca-raton-men-03-13-16-playoff.webp"
     }
 }
