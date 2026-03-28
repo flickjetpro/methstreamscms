@@ -8957,7 +8957,13 @@
         "Montpellier H\u00e9rault Rugby": "assets/logos/upstreams/montpellier-h\u00e9rault-rugby.webp",
         "Kakamega Homeboyz": "assets/logos/upstreams/kakamega-homeboyz.webp",
         "\u017dKK Radni\u010dki Kragujevac": "assets/logos/upstreams/\u017ekk-radni\u010dki-kragujevac.webp",
-        "Liverpool FC Legends": "assets/logos/upstreams/liverpool-fc-legends.webp"
+        "Liverpool FC Legends": "assets/logos/upstreams/liverpool-fc-legends.webp",
+        "Newport": "assets/logos/upstreams/newport.webp",
+        "Al Rayyan": "assets/logos/upstreams/al-rayyan.webp",
+        "Umm-Salal": "assets/logos/upstreams/umm-salal.webp",
+        "Burgos CF": "assets/logos/upstreams/burgos-cf.webp",
+        "Swindon": "assets/logos/upstreams/swindon.webp",
+        "Salford": "assets/logos/upstreams/salford.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -9942,6 +9948,7 @@
         "Bogota, Colombia, Qualifying": "assets/logos/leagues/bogota-colombia-qualifying.webp",
         "English Women Super League": "assets/logos/leagues/english-women-super-league.webp",
         "ICC Men's T20 World Cup Africa Sub Regional Qualifier B": "assets/logos/leagues/icc-mens-t20-world-cup-africa-sub-regional-qualifier-b.webp",
-        "France - Top 14": "assets/logos/leagues/france-top-14.webp"
+        "France - Top 14": "assets/logos/leagues/france-top-14.webp",
+        "English League Two": "assets/logos/leagues/english-league-two.webp"
     }
 }
