@@ -8878,7 +8878,26 @@
         "Kolkata Knight Riders": "assets/logos/upstreams/kolkata-knight-riders.webp",
         "Podlesniy": "assets/logos/upstreams/podlesniy.webp",
         "Wichita Thunder": "assets/logos/streamed/wichita-thunder.webp",
-        "Trois-Rivi\u00e8res": "assets/logos/streamed/trois-rivi\u00e8res.webp"
+        "Trois-Rivi\u00e8res": "assets/logos/streamed/trois-rivi\u00e8res.webp",
+        "Lyn": "assets/logos/upstreams/lyn.webp",
+        "FC Badalona (W)": "assets/logos/upstreams/fc-badalona-w.webp",
+        "Torres 1903": "assets/logos/upstreams/torres-1903.webp",
+        "Ferro Carril OEaste": "assets/logos/upstreams/ferro-carril-oeaste.webp",
+        "La Coruna": "assets/logos/upstreams/la-coruna.webp",
+        "Yukatel Merkezefendi Belediyesi Basket": "assets/logos/upstreams/yukatel-merkezefendi-belediyesi-basket.webp",
+        "KK Vr\u0161ac": "assets/logos/upstreams/kk-vr\u0161ac.webp",
+        "CA La Paz": "assets/logos/upstreams/ca-la-paz.webp",
+        "Gloria Bistrita Nasaud (W)": "assets/logos/upstreams/gloria-bistrita-nasaud-w.webp",
+        "Herning Ikast (W)": "assets/logos/upstreams/herning-ikast-w.webp",
+        "Cerro Porte\u00f1o": "assets/logos/upstreams/cerro-porte\u00f1o.webp",
+        "Halmstad Hammers HC": "assets/logos/upstreams/halmstad-hammers-hc.webp",
+        "Karlskrona HK": "assets/logos/upstreams/karlskrona-hk.webp",
+        "Jeanne d'Arc Dijon": "assets/logos/upstreams/jeanne-darc-dijon.webp",
+        "RK Lokomotiva Zagreb": "assets/logos/upstreams/rk-lokomotiva-zagreb.webp",
+        "San Mart\u00edn Formosa": "assets/logos/upstreams/san-mart\u00edn-formosa.webp",
+        "Tepatitlan": "assets/logos/upstreams/tepatitlan.webp",
+        "SUBT": "assets/logos/upstreams/subt.webp",
+        "Inter Willemstad": "assets/logos/upstreams/inter-willemstad.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -9849,6 +9868,9 @@
         "FA WC Women": "assets/logos/leagues/fa-wc-women.webp",
         "Greece - GBL": "assets/logos/leagues/greece-gbl.webp",
         "Spain - LEB Oro": "assets/logos/leagues/spain-leb-oro.webp",
-        "Estonian-Latvian Basketball League, Playoffs": "assets/logos/leagues/estonian-latvian-basketball-league-playoffs.webp"
+        "Estonian-Latvian Basketball League, Playoffs": "assets/logos/leagues/estonian-latvian-basketball-league-playoffs.webp",
+        "U23 Friendly Games": "assets/logos/leagues/u23-friendly-games.webp",
+        "Champions League (W) - Playoff": "assets/logos/leagues/champions-league-w-playoff.webp",
+        "EHF European League, Women, Knockout stage": "assets/logos/leagues/ehf-european-league-women-knockout-stage.webp"
     }
 }
