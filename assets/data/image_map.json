@@ -8953,7 +8953,8 @@
         "FC Nurnberg W": "assets/logos/upstreams/fc-nurnberg-w.webp",
         "Promitheas": "assets/logos/upstreams/promitheas.webp",
         "LDU Portoviejo": "assets/logos/upstreams/ldu-portoviejo.webp",
-        "Connacht Rugby": "assets/logos/upstreams/connacht-rugby.webp"
+        "Connacht Rugby": "assets/logos/upstreams/connacht-rugby.webp",
+        "Montpellier H\u00e9rault Rugby": "assets/logos/upstreams/montpellier-h\u00e9rault-rugby.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -9937,6 +9938,7 @@
         "UTR PTT Trnava Men 03, 9-12 Playoff": "assets/logos/leagues/utr-ptt-trnava-men-03-9-12-playoff.webp",
         "Bogota, Colombia, Qualifying": "assets/logos/leagues/bogota-colombia-qualifying.webp",
         "English Women Super League": "assets/logos/leagues/english-women-super-league.webp",
-        "ICC Men's T20 World Cup Africa Sub Regional Qualifier B": "assets/logos/leagues/icc-mens-t20-world-cup-africa-sub-regional-qualifier-b.webp"
+        "ICC Men's T20 World Cup Africa Sub Regional Qualifier B": "assets/logos/leagues/icc-mens-t20-world-cup-africa-sub-regional-qualifier-b.webp",
+        "France - Top 14": "assets/logos/leagues/france-top-14.webp"
     }
 }
