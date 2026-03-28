@@ -8983,7 +8983,12 @@
         "Leigh": "assets/logos/upstreams/leigh.webp",
         "Sloga Pozega (W)": "assets/logos/upstreams/sloga-pozega-w.webp",
         "Okk Sabac (W)": "assets/logos/upstreams/okk-sabac-w.webp",
-        "Takaya Ishii": "assets/logos/upstreams/takaya-ishii.webp"
+        "Takaya Ishii": "assets/logos/upstreams/takaya-ishii.webp",
+        "Sernova Renovables Real Canoe": "assets/logos/upstreams/sernova-renovables-real-canoe.webp",
+        "Bosonit Unibasket Logro\u00f1o": "assets/logos/upstreams/bosonit-unibasket-logro\u00f1o.webp",
+        "A.C. PAOK": "assets/logos/upstreams/ac-paok.webp",
+        "Bursa Bbsk": "assets/logos/upstreams/bursa-bbsk.webp",
+        "Yuta Kikuchi": "assets/logos/upstreams/yuta-kikuchi.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -9972,6 +9977,8 @@
         "English League Two": "assets/logos/leagues/english-league-two.webp",
         "UTR PTT Boca Raton Men 03, 13-16 Playoff": "assets/logos/leagues/utr-ptt-boca-raton-men-03-13-16-playoff.webp",
         "Spanish Liga F Women": "assets/logos/leagues/spanish-liga-f-women.webp",
-        "France Premiere Ligue Women": "assets/logos/leagues/france-premiere-ligue-women.webp"
+        "France Premiere Ligue Women": "assets/logos/leagues/france-premiere-ligue-women.webp",
+        "LF Challenge, Regular Season": "assets/logos/leagues/lf-challenge-regular-season.webp",
+        "European Cup, Women": "assets/logos/leagues/european-cup-women.webp"
     }
 }
