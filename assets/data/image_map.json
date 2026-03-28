@@ -8876,7 +8876,9 @@
         "Gold Coast Knights U23": "assets/logos/upstreams/gold-coast-knights-u23.webp",
         "Mumbai Indians": "assets/logos/upstreams/mumbai-indians.webp",
         "Kolkata Knight Riders": "assets/logos/upstreams/kolkata-knight-riders.webp",
-        "Podlesniy": "assets/logos/upstreams/podlesniy.webp"
+        "Podlesniy": "assets/logos/upstreams/podlesniy.webp",
+        "Wichita Thunder": "assets/logos/streamed/wichita-thunder.webp",
+        "Trois-Rivi\u00e8res": "assets/logos/streamed/trois-rivi\u00e8res.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
