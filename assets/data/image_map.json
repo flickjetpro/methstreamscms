@@ -8913,7 +8913,9 @@
         "Maine Mariners": "assets/logos/streamed/maine-mariners.webp",
         "Jacksonville IceMen": "assets/logos/streamed/jacksonville-icemen.webp",
         "Fort Wayne Komets": "assets/logos/streamed/fort-wayne-komets.webp",
-        "Liverpool Legends": "assets/logos/streamed/liverpool-legends.webp"
+        "Liverpool Legends": "assets/logos/streamed/liverpool-legends.webp",
+        "Hume City U23": "assets/logos/upstreams/hume-city-u23.webp",
+        "PrEaston Lions U23": "assets/logos/upstreams/preaston-lions-u23.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -9889,6 +9891,9 @@
         "Champions League (W) - Playoff": "assets/logos/leagues/champions-league-w-playoff.webp",
         "EHF European League, Women, Knockout stage": "assets/logos/leagues/ehf-european-league-women-knockout-stage.webp",
         "Sweden - Damallsvenskan (W)": "assets/logos/leagues/sweden-damallsvenskan-w.webp",
-        "Charleston, USA, Qualifying": "assets/logos/leagues/charleston-usa-qualifying.webp"
+        "Charleston, USA, Qualifying": "assets/logos/leagues/charleston-usa-qualifying.webp",
+        "Australia - NPL - Victoria U23": "assets/logos/leagues/australia-npl-victoria-u23.webp",
+        "UTR PTT Boca Raton Men 03, 9-12 Playoff": "assets/logos/leagues/utr-ptt-boca-raton-men-03-9-12-playoff.webp",
+        "UTR PTT Boca Raton Men 03, 1-4 Playoff": "assets/logos/leagues/utr-ptt-boca-raton-men-03-1-4-playoff.webp"
     }
 }
