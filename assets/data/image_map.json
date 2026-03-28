@@ -8942,7 +8942,11 @@
         "Cadence Brace": "assets/logos/upstreams/cadence-brace.webp",
         "Carol Zhao": "assets/logos/upstreams/carol-zhao.webp",
         "FC Badalona": "assets/logos/upstreams/fc-badalona.webp",
-        "Alhama Club de F\u00fatbol": "assets/logos/upstreams/alhama-club-de-f\u00fatbol.webp"
+        "Alhama Club de F\u00fatbol": "assets/logos/upstreams/alhama-club-de-f\u00fatbol.webp",
+        "APS Bomet": "assets/logos/upstreams/aps-bomet.webp",
+        "Nairobi United": "assets/logos/upstreams/nairobi-united.webp",
+        "Peshawar Zalmi": "assets/logos/upstreams/peshawar-zalmi.webp",
+        "Rawalpindiz": "assets/logos/upstreams/rawalpindiz.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
