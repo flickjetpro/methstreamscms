@@ -9014,7 +9014,12 @@
         "Maxime Chazal": "assets/logos/upstreams/maxime-chazal.webp",
         "Gianmarco Ferrari": "assets/logos/upstreams/gianmarco-ferrari.webp",
         "Sergio Martos Gornes": "assets/logos/upstreams/sergio-martos-gornes.webp",
-        "Joan Nadal Vives": "assets/logos/upstreams/joan-nadal-vives.webp"
+        "Joan Nadal Vives": "assets/logos/upstreams/joan-nadal-vives.webp",
+        "Orlando Storm": "assets/logos/streamed/orlando-storm.webp",
+        "Columbus Aviators": "assets/logos/streamed/columbus-aviators.webp",
+        "Bayer Leverkusen W": "assets/logos/upstreams/bayer-leverkusen-w.webp",
+        "Sierra Leone": "assets/logos/upstreams/sierra-leone.webp",
+        "San Lorenzo (R)": "assets/logos/upstreams/san-lorenzo-r.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -10012,6 +10017,7 @@
         "Spanish Segunda Liga": "assets/logos/leagues/spanish-segunda-liga.webp",
         "Barletta, Italy, Qualifying": "assets/logos/leagues/barletta-italy-qualifying.webp",
         "Menorca, Spain, Qualifying": "assets/logos/leagues/menorca-spain-qualifying.webp",
-        "Marrakech, Morocco, Qualifying": "assets/logos/leagues/marrakech-morocco-qualifying.webp"
+        "Marrakech, Morocco, Qualifying": "assets/logos/leagues/marrakech-morocco-qualifying.webp",
+        "Paraguay - Primera Division - Apertura (R)": "assets/logos/leagues/paraguay-primera-division-apertura-r.webp"
     }
 }
