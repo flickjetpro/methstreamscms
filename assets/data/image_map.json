@@ -9138,7 +9138,12 @@
         "Queanbeyan City": "assets/logos/upstreams/queanbeyan-city.webp",
         "Canberra Croatia": "assets/logos/upstreams/canberra-croatia.webp",
         "Petra Sedlackova": "assets/logos/upstreams/petra-sedlackova.webp",
-        "Janika Kusy Alzugaray": "assets/logos/upstreams/janika-kusy-alzugaray.webp"
+        "Janika Kusy Alzugaray": "assets/logos/upstreams/janika-kusy-alzugaray.webp",
+        "South Carolina Gamecocks": "assets/logos/upstreams/south-carolina-gamecocks.webp",
+        "Fred Gil": "assets/logos/upstreams/fred-gil.webp",
+        "Oscar Brown": "assets/logos/upstreams/oscar-brown.webp",
+        "Vitek Horak": "assets/logos/upstreams/vitek-horak.webp",
+        "Charlotte Pikkaart": "assets/logos/upstreams/charlotte-pikkaart.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -10181,6 +10186,7 @@
         "UTR PTT Trnava Women 03, Group C": "assets/logos/leagues/utr-ptt-trnava-women-03-group-c.webp",
         "UTR PTT Carvoeiro Men +H 05, Group A": "assets/logos/leagues/utr-ptt-carvoeiro-men-h-05-group-a.webp",
         "UTR PTT Krakow Men 03, Group C": "assets/logos/leagues/utr-ptt-krakow-men-03-group-c.webp",
-        "UTR PTT Trnava Women 03, Group A": "assets/logos/leagues/utr-ptt-trnava-women-03-group-a.webp"
+        "UTR PTT Trnava Women 03, Group A": "assets/logos/leagues/utr-ptt-trnava-women-03-group-a.webp",
+        "UTR PTT Carvoeiro Men +H 05, Group B": "assets/logos/leagues/utr-ptt-carvoeiro-men-h-05-group-b.webp"
     }
 }
