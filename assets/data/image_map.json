@@ -9130,7 +9130,10 @@
         "Min Liu": "assets/logos/upstreams/min-liu.webp",
         "Valentina Khrebtova": "assets/logos/upstreams/valentina-khrebtova.webp",
         "Francesca Franchi": "assets/logos/upstreams/francesca-franchi.webp",
-        "Tomas Barrios Vera": "assets/logos/upstreams/tomas-barrios-vera.webp"
+        "Tomas Barrios Vera": "assets/logos/upstreams/tomas-barrios-vera.webp",
+        "Czechia U21": "assets/logos/upstreams/czechia-u21.webp",
+        "Marcus Walters": "assets/logos/upstreams/marcus-walters.webp",
+        "David Knesl": "assets/logos/upstreams/david-knesl.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -10170,6 +10173,8 @@
         "UTR PTT Carvoeiro Men +H 05, Group C": "assets/logos/leagues/utr-ptt-carvoeiro-men-h-05-group-c.webp",
         "UTR PTT Carvoeiro Women +H 05, Group D": "assets/logos/leagues/utr-ptt-carvoeiro-women-h-05-group-d.webp",
         "UTR PTT Trnava Women 03, Group B": "assets/logos/leagues/utr-ptt-trnava-women-03-group-b.webp",
-        "UTR PTT Trnava Women 03, Group C": "assets/logos/leagues/utr-ptt-trnava-women-03-group-c.webp"
+        "UTR PTT Trnava Women 03, Group C": "assets/logos/leagues/utr-ptt-trnava-women-03-group-c.webp",
+        "UTR PTT Carvoeiro Men +H 05, Group A": "assets/logos/leagues/utr-ptt-carvoeiro-men-h-05-group-a.webp",
+        "UTR PTT Krakow Men 03, Group C": "assets/logos/leagues/utr-ptt-krakow-men-03-group-c.webp"
     }
 }
