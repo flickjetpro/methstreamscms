@@ -9344,7 +9344,10 @@
         "Albion FC": "assets/logos/upstreams/albion-fc.webp",
         "Karim AL-Amin": "assets/logos/upstreams/karim-al-amin.webp",
         "Victoria Mann": "assets/logos/upstreams/victoria-mann.webp",
-        "Lucia Hradecka": "assets/logos/upstreams/lucia-hradecka.webp"
+        "Lucia Hradecka": "assets/logos/upstreams/lucia-hradecka.webp",
+        "Hibernian (W)": "assets/logos/upstreams/hibernian-w.webp",
+        "HC Merano": "assets/logos/upstreams/hc-merano.webp",
+        "Neil Robertson": "assets/logos/upstreams/neil-robertson.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -10410,6 +10413,10 @@
         "NBA G League, Playoffs": "assets/logos/leagues/nba-g-league-playoffs.webp",
         "U19 EURO, Elite round, Gr. 1": "assets/logos/leagues/u19-euro-elite-round-gr-1.webp",
         "ATP - Marrakech (MAR)": "assets/logos/leagues/atp-marrakech-mar.webp",
-        "LEN Champions League": "assets/logos/leagues/len-champions-league.webp"
+        "LEN Champions League": "assets/logos/leagues/len-champions-league.webp",
+        "Champions League - Playoff": "assets/logos/leagues/champions-league-playoff.webp",
+        "Poland - PHL - Playoff": "assets/logos/leagues/poland-phl-playoff.webp",
+        "Iceland Basketball Premier League, Playoffs": "assets/logos/leagues/iceland-basketball-premier-league-playoffs.webp",
+        "Tour Championship 2026": "assets/logos/leagues/tour-championship-2026.webp"
     }
 }
