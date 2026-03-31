@@ -9143,7 +9143,13 @@
         "Fred Gil": "assets/logos/upstreams/fred-gil.webp",
         "Oscar Brown": "assets/logos/upstreams/oscar-brown.webp",
         "Vitek Horak": "assets/logos/upstreams/vitek-horak.webp",
-        "Charlotte Pikkaart": "assets/logos/upstreams/charlotte-pikkaart.webp"
+        "Charlotte Pikkaart": "assets/logos/upstreams/charlotte-pikkaart.webp",
+        "Iraq": "assets/logos/upstreams/iraq.webp",
+        "S\u0103o Paulo": "assets/logos/upstreams/s\u0103o-paulo.webp",
+        "Enisey": "assets/logos/upstreams/enisey.webp",
+        "Chieri '76 W": "assets/logos/upstreams/chieri-76-w.webp",
+        "Galatasaray W": "assets/logos/upstreams/galatasaray-w.webp",
+        "Sporting Gij\u00f3n": "assets/logos/upstreams/sporting-gij\u00f3n.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -10187,6 +10193,8 @@
         "UTR PTT Carvoeiro Men +H 05, Group A": "assets/logos/leagues/utr-ptt-carvoeiro-men-h-05-group-a.webp",
         "UTR PTT Krakow Men 03, Group C": "assets/logos/leagues/utr-ptt-krakow-men-03-group-c.webp",
         "UTR PTT Trnava Women 03, Group A": "assets/logos/leagues/utr-ptt-trnava-women-03-group-a.webp",
-        "UTR PTT Carvoeiro Men +H 05, Group B": "assets/logos/leagues/utr-ptt-carvoeiro-men-h-05-group-b.webp"
+        "UTR PTT Carvoeiro Men +H 05, Group B": "assets/logos/leagues/utr-ptt-carvoeiro-men-h-05-group-b.webp",
+        "VTB United League": "assets/logos/leagues/vtb-united-league.webp",
+        "CEV Cup Women": "assets/logos/leagues/cev-cup-women.webp"
     }
 }
