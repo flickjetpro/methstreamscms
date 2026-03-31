@@ -9272,7 +9272,13 @@
         "Santiago Lora": "assets/logos/upstreams/santiago-lora.webp",
         "Annika Barth": "assets/logos/upstreams/annika-barth.webp",
         "Monika Jirouskova": "assets/logos/upstreams/monika-jirouskova.webp",
-        "Sean Hodkin": "assets/logos/upstreams/sean-hodkin.webp"
+        "Sean Hodkin": "assets/logos/upstreams/sean-hodkin.webp",
+        "Alejandro Juan Mano": "assets/logos/upstreams/alejandro-juan-mano.webp",
+        "Lewie Lane": "assets/logos/upstreams/lewie-lane.webp",
+        "Agua Caliente Clippers": "assets/logos/upstreams/agua-caliente-clippers.webp",
+        "Sergio Planella Hernandez": "assets/logos/upstreams/sergio-planella-hernandez.webp",
+        "Duje Markovina": "assets/logos/upstreams/duje-markovina.webp",
+        "Henry Lieberman": "assets/logos/upstreams/henry-lieberman.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -10328,6 +10334,9 @@
         "Atp 250": "assets/logos/leagues/atp-250.webp",
         "U20 AFC Asian Cup, Group A, Women": "assets/logos/leagues/u20-afc-asian-cup-group-a-women.webp",
         "UTR PTT Nashville Men +H 01, Group A": "assets/logos/leagues/utr-ptt-nashville-men-h-01-group-a.webp",
-        "UTR PTT Nashville Men +H 01, Group D": "assets/logos/leagues/utr-ptt-nashville-men-h-01-group-d.webp"
+        "UTR PTT Nashville Men +H 01, Group D": "assets/logos/leagues/utr-ptt-nashville-men-h-01-group-d.webp",
+        "ATP Bucharest": "assets/logos/leagues/atp-bucharest.webp",
+        "ATP Marrakech": "assets/logos/leagues/atp-marrakech.webp",
+        "ATP Houston": "assets/logos/leagues/atp-houston.webp"
     }
 }
