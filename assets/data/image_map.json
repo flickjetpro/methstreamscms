@@ -9337,7 +9337,9 @@
         "IF Bjorkloven": "assets/logos/upstreams/if-bjorkloven.webp",
         "Hamad Medjedovic": "assets/logos/upstreams/hamad-medjedovic.webp",
         "Taha Baadi": "assets/logos/upstreams/taha-baadi.webp",
-        "Felipe Virgili Berini": "assets/logos/upstreams/felipe-virgili-berini.webp"
+        "Felipe Virgili Berini": "assets/logos/upstreams/felipe-virgili-berini.webp",
+        "Dev Mangat": "assets/logos/upstreams/dev-mangat.webp",
+        "Barceloneta": "assets/logos/upstreams/barceloneta.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -10402,6 +10404,7 @@
         "UTR PTT Nashville Men +H 01, Group C": "assets/logos/leagues/utr-ptt-nashville-men-h-01-group-c.webp",
         "NBA G League, Playoffs": "assets/logos/leagues/nba-g-league-playoffs.webp",
         "U19 EURO, Elite round, Gr. 1": "assets/logos/leagues/u19-euro-elite-round-gr-1.webp",
-        "ATP - Marrakech (MAR)": "assets/logos/leagues/atp-marrakech-mar.webp"
+        "ATP - Marrakech (MAR)": "assets/logos/leagues/atp-marrakech-mar.webp",
+        "LEN Champions League": "assets/logos/leagues/len-champions-league.webp"
     }
 }
