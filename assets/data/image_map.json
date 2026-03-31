@@ -9282,7 +9282,20 @@
         "Kathleen Kanev": "assets/logos/upstreams/kathleen-kanev.webp",
         "Karol Malirz": "assets/logos/upstreams/karol-malirz.webp",
         "Sinead Lohan": "assets/logos/upstreams/sinead-lohan.webp",
-        "San Jose Barracuda": "assets/logos/upstreams/san-jose-barracuda.webp"
+        "San Jose Barracuda": "assets/logos/upstreams/san-jose-barracuda.webp",
+        "Noah Regas Luis": "assets/logos/upstreams/noah-regas-luis.webp",
+        "Alvaro Jimenez": "assets/logos/upstreams/alvaro-jimenez.webp",
+        "Luis Garcia Paez": "assets/logos/upstreams/luis-garcia-paez.webp",
+        "Amelie Van Impe": "assets/logos/upstreams/amelie-van-impe.webp",
+        "Chukwumelije Clarke": "assets/logos/upstreams/chukwumelije-clarke.webp",
+        "Kylie Collins": "assets/logos/upstreams/kylie-collins.webp",
+        "Salma Ewing": "assets/logos/upstreams/salma-ewing.webp",
+        "Birtan Duran": "assets/logos/upstreams/birtan-duran.webp",
+        "Karim Al-Amin": "assets/logos/upstreams/karim-al-amin.webp",
+        "Jonasz Dziopak": "assets/logos/upstreams/jonasz-dziopak.webp",
+        "Anas Bennour Dit Sahli": "assets/logos/upstreams/anas-bennour-dit-sahli.webp",
+        "Susana Souhrada": "assets/logos/upstreams/susana-souhrada.webp",
+        "Olive Maunupau": "assets/logos/upstreams/olive-maunupau.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -10342,6 +10355,8 @@
         "ATP Bucharest": "assets/logos/leagues/atp-bucharest.webp",
         "ATP Marrakech": "assets/logos/leagues/atp-marrakech.webp",
         "ATP Houston": "assets/logos/leagues/atp-houston.webp",
-        "UTR PTT Carvoeiro Women +H 05, Group A": "assets/logos/leagues/utr-ptt-carvoeiro-women-h-05-group-a.webp"
+        "UTR PTT Carvoeiro Women +H 05, Group A": "assets/logos/leagues/utr-ptt-carvoeiro-women-h-05-group-a.webp",
+        "UTR PTT Nashville Men +H 01, Group B": "assets/logos/leagues/utr-ptt-nashville-men-h-01-group-b.webp",
+        "UTR PTT Nashville Men +H 01, Group C": "assets/logos/leagues/utr-ptt-nashville-men-h-01-group-c.webp"
     }
 }
