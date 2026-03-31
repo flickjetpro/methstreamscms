@@ -9149,7 +9149,12 @@
         "Enisey": "assets/logos/upstreams/enisey.webp",
         "Chieri '76 W": "assets/logos/upstreams/chieri-76-w.webp",
         "Galatasaray W": "assets/logos/upstreams/galatasaray-w.webp",
-        "Sporting Gij\u00f3n": "assets/logos/upstreams/sporting-gij\u00f3n.webp"
+        "Sporting Gij\u00f3n": "assets/logos/upstreams/sporting-gij\u00f3n.webp",
+        "UAE U23": "assets/logos/streamed/uae-u23.webp",
+        "Oman U23": "assets/logos/streamed/oman-u23.webp",
+        "Chile U20": "assets/logos/streamed/chile-u20.webp",
+        "Peru U20": "assets/logos/streamed/peru-u20.webp",
+        "Rep. Of Ireland": "assets/logos/streamed/rep-of-ireland.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
