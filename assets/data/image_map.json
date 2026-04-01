@@ -9357,7 +9357,8 @@
         "Atl\u00e9tico Mineiro": "assets/logos/upstreams/atl\u00e9tico-mineiro.webp",
         "Vive Kielce": "assets/logos/upstreams/vive-kielce.webp",
         "Grenoble FC": "assets/logos/upstreams/grenoble-fc.webp",
-        "Congo DR": "assets/logos/streamed/congo-dr.webp"
+        "Congo DR": "assets/logos/streamed/congo-dr.webp",
+        "Atlanta": "assets/logos/streamed/atlanta.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
