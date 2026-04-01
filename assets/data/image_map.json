@@ -9404,7 +9404,9 @@
         "Julie Pastikova": "assets/logos/upstreams/julie-pastikova.webp",
         "Linda Sevcikova": "assets/logos/upstreams/linda-sevcikova.webp",
         "Josip Simundza": "assets/logos/upstreams/josip-simundza.webp",
-        "Michiel de Krom": "assets/logos/upstreams/michiel-de-krom.webp"
+        "Michiel de Krom": "assets/logos/upstreams/michiel-de-krom.webp",
+        "Kansai Helios Dom\u017eale": "assets/logos/upstreams/kansai-helios-dom\u017eale.webp",
+        "Denise Valente": "assets/logos/upstreams/denise-valente.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -10477,6 +10479,7 @@
         "Tour Championship 2026": "assets/logos/leagues/tour-championship-2026.webp",
         "CBC": "assets/logos/leagues/cbc.webp",
         "College Basketball Crown": "assets/logos/leagues/college-basketball-crown.webp",
-        "EHF Champions League, Playoffs": "assets/logos/leagues/ehf-champions-league-playoffs.webp"
+        "EHF Champions League, Playoffs": "assets/logos/leagues/ehf-champions-league-playoffs.webp",
+        "1. A SKL": "assets/logos/leagues/1-a-skl.webp"
     }
 }
