@@ -9471,7 +9471,12 @@
         "Simone Piccinin": "assets/logos/upstreams/simone-piccinin.webp",
         "Matthew Cheung": "assets/logos/upstreams/matthew-cheung.webp",
         "Bianca Vanessa Andreescu": "assets/logos/upstreams/bianca-vanessa-andreescu.webp",
-        "Fabrizio Andaloro": "assets/logos/upstreams/fabrizio-andaloro.webp"
+        "Fabrizio Andaloro": "assets/logos/upstreams/fabrizio-andaloro.webp",
+        "Boyac\u00e1 Chic\u00f3 FC": "assets/logos/upstreams/boyac\u00e1-chic\u00f3-fc.webp",
+        "Real Sociedad B U21": "assets/logos/upstreams/real-sociedad-b-u21.webp",
+        "HC Dukla Jihlava": "assets/logos/upstreams/hc-dukla-jihlava.webp",
+        "PSG Berani Zl\u00edn": "assets/logos/upstreams/psg-berani-zl\u00edn.webp",
+        "Oman": "assets/logos/upstreams/oman.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -10553,6 +10558,8 @@
         "UTR PTT Newport Beach Men 07, Group A": "assets/logos/leagues/utr-ptt-newport-beach-men-07-group-a.webp",
         "Asian Cup U20": "assets/logos/leagues/asian-cup-u20.webp",
         "Basketball Europe Cup": "assets/logos/leagues/basketball-europe-cup.webp",
-        "1st DBBL, Playoffs": "assets/logos/leagues/1st-dbbl-playoffs.webp"
+        "1st DBBL, Playoffs": "assets/logos/leagues/1st-dbbl-playoffs.webp",
+        "1st Liga Playoffs": "assets/logos/leagues/1st-liga-playoffs.webp",
+        "ICC CWC League 2": "assets/logos/leagues/icc-cwc-league-2.webp"
     }
 }
