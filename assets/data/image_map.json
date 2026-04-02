@@ -9557,7 +9557,13 @@
         "Melbourne Victory W": "assets/logos/upstreams/melbourne-victory-w.webp",
         "V\u00e4xj\u00f6 DFF": "assets/logos/upstreams/v\u00e4xj\u00f6-dff.webp",
         "Eskilstuna Utd DFF": "assets/logos/upstreams/eskilstuna-utd-dff.webp",
-        "Etoile Carouge": "assets/logos/upstreams/etoile-carouge.webp"
+        "Etoile Carouge": "assets/logos/upstreams/etoile-carouge.webp",
+        "Al Hidd": "assets/logos/upstreams/al-hidd.webp",
+        "Bol\u00edvar": "assets/logos/upstreams/bol\u00edvar.webp",
+        "CDT Real Oruro": "assets/logos/upstreams/cdt-real-oruro.webp",
+        "Atletico Grau": "assets/logos/upstreams/atletico-grau.webp",
+        "Gualaceo": "assets/logos/upstreams/gualaceo.webp",
+        "Nacional Potosi": "assets/logos/upstreams/nacional-potosi.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -10665,6 +10671,9 @@
         "Betinia Liga, Promotion Group": "assets/logos/leagues/betinia-liga-promotion-group.webp",
         "Denmark - 1. Division - Gr.Retrogradare": "assets/logos/leagues/denmark-1-division-grretrogradare.webp",
         "Denmark - 1. Division - Gr.Promovare": "assets/logos/leagues/denmark-1-division-grpromovare.webp",
-        "Damallsvenskan": "assets/logos/leagues/damallsvenskan.webp"
+        "Damallsvenskan": "assets/logos/leagues/damallsvenskan.webp",
+        "Belgium - Pro League - Gr.Conference League": "assets/logos/leagues/belgium-pro-league-grconference-league.webp",
+        "Divisi\u00f3n Profesional": "assets/logos/leagues/divisi\u00f3n-profesional.webp",
+        "Malaysia - Cup": "assets/logos/leagues/malaysia-cup.webp"
     }
 }
