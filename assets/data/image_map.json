@@ -9512,7 +9512,8 @@
         "Dino Prizmic": "assets/logos/upstreams/dino-prizmic.webp",
         "St Louis Blues": "assets/logos/upstreams/st-louis-blues.webp",
         "HK Skalica": "assets/logos/upstreams/hk-skalica.webp",
-        "HC Pre\u0161ov": "assets/logos/upstreams/hc-pre\u0161ov.webp"
+        "HC Pre\u0161ov": "assets/logos/upstreams/hc-pre\u0161ov.webp",
+        "Chinese Taipei U20": "assets/logos/upstreams/chinese-taipei-u20.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -10600,6 +10601,7 @@
         "Serie A Woman": "assets/logos/leagues/serie-a-woman.webp",
         "Primera RFEF 1": "assets/logos/leagues/primera-rfef-1.webp",
         "European Rugby Champions Cup": "assets/logos/leagues/european-rugby-champions-cup.webp",
-        "China - CBA": "assets/logos/leagues/china-cba.webp"
+        "China - CBA": "assets/logos/leagues/china-cba.webp",
+        "U20 AFC Asian Cup, Group C, Women": "assets/logos/leagues/u20-afc-asian-cup-group-c-women.webp"
     }
 }
