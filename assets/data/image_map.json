@@ -9554,7 +9554,10 @@
         "Cambridge Utd": "assets/logos/upstreams/cambridge-utd.webp",
         "Paula Badosa Gibert": "assets/logos/upstreams/paula-badosa-gibert.webp",
         "Wellington Phoenix W": "assets/logos/upstreams/wellington-phoenix-w.webp",
-        "Melbourne Victory W": "assets/logos/upstreams/melbourne-victory-w.webp"
+        "Melbourne Victory W": "assets/logos/upstreams/melbourne-victory-w.webp",
+        "V\u00e4xj\u00f6 DFF": "assets/logos/upstreams/v\u00e4xj\u00f6-dff.webp",
+        "Eskilstuna Utd DFF": "assets/logos/upstreams/eskilstuna-utd-dff.webp",
+        "Etoile Carouge": "assets/logos/upstreams/etoile-carouge.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -10658,6 +10661,10 @@
         "Premier League 2026, Night 9": "assets/logos/leagues/premier-league-2026-night-9.webp",
         "Premier League, Night 9": "assets/logos/leagues/premier-league-night-9.webp",
         "UTR PTT Nashville Men +H 01, 5-8 Playoffs": "assets/logos/leagues/utr-ptt-nashville-men-h-01-5-8-playoffs.webp",
-        "UTR PTT Nashville Men +H 01, 1-4 Playoffs": "assets/logos/leagues/utr-ptt-nashville-men-h-01-1-4-playoffs.webp"
+        "UTR PTT Nashville Men +H 01, 1-4 Playoffs": "assets/logos/leagues/utr-ptt-nashville-men-h-01-1-4-playoffs.webp",
+        "Betinia Liga, Promotion Group": "assets/logos/leagues/betinia-liga-promotion-group.webp",
+        "Denmark - 1. Division - Gr.Retrogradare": "assets/logos/leagues/denmark-1-division-grretrogradare.webp",
+        "Denmark - 1. Division - Gr.Promovare": "assets/logos/leagues/denmark-1-division-grpromovare.webp",
+        "Damallsvenskan": "assets/logos/leagues/damallsvenskan.webp"
     }
 }
