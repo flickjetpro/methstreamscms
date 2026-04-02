@@ -9503,7 +9503,13 @@
         "Brazil Juniors": "assets/logos/upstreams/brazil-juniors.webp",
         "West Virginia": "assets/logos/upstreams/west-virginia.webp",
         "SKN St. P\u00f6lten": "assets/logos/upstreams/skn-st-p\u00f6lten.webp",
-        "Nanjing Tongxi": "assets/logos/upstreams/nanjing-tongxi.webp"
+        "Nanjing Tongxi": "assets/logos/upstreams/nanjing-tongxi.webp",
+        "James Kent Trotter": "assets/logos/upstreams/james-kent-trotter.webp",
+        "Rouen M\u00e9tropole Basket": "assets/logos/upstreams/rouen-m\u00e9tropole-basket.webp",
+        "James Mccabe": "assets/logos/upstreams/james-mccabe.webp",
+        "Ilan Hediger": "assets/logos/upstreams/ilan-hediger.webp",
+        "Michel Hopp": "assets/logos/upstreams/michel-hopp.webp",
+        "Dino Prizmic": "assets/logos/upstreams/dino-prizmic.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
