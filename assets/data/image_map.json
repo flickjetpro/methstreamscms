@@ -9478,7 +9478,23 @@
         "PSG Berani Zl\u00edn": "assets/logos/upstreams/psg-berani-zl\u00edn.webp",
         "Oman": "assets/logos/upstreams/oman.webp",
         "Atletico Atlanta": "assets/logos/upstreams/atletico-atlanta.webp",
-        "Briley Rhoden": "assets/logos/upstreams/briley-rhoden.webp"
+        "Briley Rhoden": "assets/logos/upstreams/briley-rhoden.webp",
+        "West Virginia Mountaineers": "assets/logos/upstreams/west-virginia-mountaineers.webp",
+        "Stanford Cardinal": "assets/logos/upstreams/stanford-cardinal.webp",
+        "Auburn Tigers": "assets/logos/upstreams/auburn-tigers.webp",
+        "Minyor Pernik": "assets/logos/upstreams/minyor-pernik.webp",
+        "Mohammedan": "assets/logos/upstreams/mohammedan.webp",
+        "Voluntari": "assets/logos/upstreams/voluntari.webp",
+        "AS Roma W": "assets/logos/upstreams/as-roma-w.webp",
+        "Como W": "assets/logos/upstreams/como-w.webp",
+        "Al Najma": "assets/logos/upstreams/al-najma.webp",
+        "Real Madrid B": "assets/logos/upstreams/real-madrid-b.webp",
+        "Celta Vigo B": "assets/logos/upstreams/celta-vigo-b.webp",
+        "Rene Santiago": "assets/logos/upstreams/rene-santiago.webp",
+        "Masataka TaniguchiLight flyweightTokyo": "assets/logos/upstreams/masataka-taniguchilight-flyweighttokyo.webp",
+        "Agen": "assets/logos/upstreams/agen.webp",
+        "Castres Olympique": "assets/logos/upstreams/castres-olympique.webp",
+        "Mogi": "assets/logos/upstreams/mogi.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -10562,6 +10578,9 @@
         "Basketball Europe Cup": "assets/logos/leagues/basketball-europe-cup.webp",
         "1st DBBL, Playoffs": "assets/logos/leagues/1st-dbbl-playoffs.webp",
         "1st Liga Playoffs": "assets/logos/leagues/1st-liga-playoffs.webp",
-        "ICC CWC League 2": "assets/logos/leagues/icc-cwc-league-2.webp"
+        "ICC CWC League 2": "assets/logos/leagues/icc-cwc-league-2.webp",
+        "Serie A Woman": "assets/logos/leagues/serie-a-woman.webp",
+        "Primera RFEF 1": "assets/logos/leagues/primera-rfef-1.webp",
+        "European Rugby Champions Cup": "assets/logos/leagues/european-rugby-champions-cup.webp"
     }
 }
