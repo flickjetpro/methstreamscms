@@ -9532,7 +9532,9 @@
         "Sogdiana": "assets/logos/upstreams/sogdiana.webp",
         "Kokand 1912": "assets/logos/upstreams/kokand-1912.webp",
         "Mathare Utd": "assets/logos/upstreams/mathare-utd.webp",
-        "Police FC": "assets/logos/upstreams/police-fc.webp"
+        "Police FC": "assets/logos/upstreams/police-fc.webp",
+        "Hammarby (W)": "assets/logos/upstreams/hammarby-w.webp",
+        "Sparta Prague (W)": "assets/logos/upstreams/sparta-prague-w.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -10628,6 +10630,7 @@
         "UTR PTT Newport Beach Women 07, 1-4 Playoffs": "assets/logos/leagues/utr-ptt-newport-beach-women-07-1-4-playoffs.webp",
         "UTR PTT Newport Beach Women 07, 9-12 Playoffs": "assets/logos/leagues/utr-ptt-newport-beach-women-07-9-12-playoffs.webp",
         "UTR PTT Newport Beach Men 07, 9-12 Playoffs": "assets/logos/leagues/utr-ptt-newport-beach-men-07-9-12-playoffs.webp",
-        "Uzbekistan Super League": "assets/logos/leagues/uzbekistan-super-league.webp"
+        "Uzbekistan Super League": "assets/logos/leagues/uzbekistan-super-league.webp",
+        "UEFA Europa Cup, Women": "assets/logos/leagues/uefa-europa-cup-women.webp"
     }
 }
