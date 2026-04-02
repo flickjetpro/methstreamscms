@@ -9494,7 +9494,16 @@
         "Masataka TaniguchiLight flyweightTokyo": "assets/logos/upstreams/masataka-taniguchilight-flyweighttokyo.webp",
         "Agen": "assets/logos/upstreams/agen.webp",
         "Castres Olympique": "assets/logos/upstreams/castres-olympique.webp",
-        "Mogi": "assets/logos/upstreams/mogi.webp"
+        "Mogi": "assets/logos/upstreams/mogi.webp",
+        "Osos de Manati": "assets/logos/upstreams/osos-de-manati.webp",
+        "Gigantes Carolina": "assets/logos/upstreams/gigantes-carolina.webp",
+        "San Antonio Spurs --- HD": "assets/logos/upstreams/san-antonio-spurs-hd.webp",
+        "Cear\u00e1": "assets/logos/upstreams/cear\u00e1.webp",
+        "Crici\u00fama": "assets/logos/upstreams/crici\u00fama.webp",
+        "Brazil Juniors": "assets/logos/upstreams/brazil-juniors.webp",
+        "West Virginia": "assets/logos/upstreams/west-virginia.webp",
+        "SKN St. P\u00f6lten": "assets/logos/upstreams/skn-st-p\u00f6lten.webp",
+        "Nanjing Tongxi": "assets/logos/upstreams/nanjing-tongxi.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -10581,6 +10590,7 @@
         "ICC CWC League 2": "assets/logos/leagues/icc-cwc-league-2.webp",
         "Serie A Woman": "assets/logos/leagues/serie-a-woman.webp",
         "Primera RFEF 1": "assets/logos/leagues/primera-rfef-1.webp",
-        "European Rugby Champions Cup": "assets/logos/leagues/european-rugby-champions-cup.webp"
+        "European Rugby Champions Cup": "assets/logos/leagues/european-rugby-champions-cup.webp",
+        "China - CBA": "assets/logos/leagues/china-cba.webp"
     }
 }
