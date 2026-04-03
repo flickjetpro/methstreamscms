@@ -9705,7 +9705,10 @@
         "Racing Power (W)": "assets/logos/upstreams/racing-power-w.webp",
         "Turun Nkmy": "assets/logos/upstreams/turun-nkmy.webp",
         "Vaxjo DFF (W)": "assets/logos/upstreams/vaxjo-dff-w.webp",
-        "Enrico Baroni": "assets/logos/upstreams/enrico-baroni.webp"
+        "Enrico Baroni": "assets/logos/upstreams/enrico-baroni.webp",
+        "Al Arabi (SA)": "assets/logos/upstreams/al-arabi-sa.webp",
+        "Al Diriyah": "assets/logos/upstreams/al-diriyah.webp",
+        "Qatar SC": "assets/logos/upstreams/qatar-sc.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -10833,6 +10836,7 @@
         "FA Cup Women": "assets/logos/leagues/fa-cup-women.webp",
         "2. HNL": "assets/logos/leagues/2-hnl.webp",
         "English League One": "assets/logos/leagues/english-league-one.webp",
-        "English Championship": "assets/logos/leagues/english-championship.webp"
+        "English Championship": "assets/logos/leagues/english-championship.webp",
+        "Division 1": "assets/logos/leagues/division-1.webp"
     }
 }
