@@ -9646,7 +9646,10 @@
         "Robertson N.": "assets/logos/upstreams/robertson-n.webp",
         "PK-35": "assets/logos/upstreams/pk-35.webp",
         "EIF": "assets/logos/upstreams/eif.webp",
-        "Stephanie Pineiro Aquino": "assets/logos/upstreams/stephanie-pineiro-aquino.webp"
+        "Stephanie Pineiro Aquino": "assets/logos/upstreams/stephanie-pineiro-aquino.webp",
+        "Hull KR": "assets/logos/upstreams/hull-kr.webp",
+        "Hull FC": "assets/logos/upstreams/hull-fc.webp",
+        "Marco CecChinato": "assets/logos/upstreams/marco-cecchinato.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -10769,6 +10772,7 @@
         "1st Division": "assets/logos/leagues/1st-division.webp",
         "Ettan, Norra": "assets/logos/leagues/ettan-norra.webp",
         "Ettan, Sodra": "assets/logos/leagues/ettan-sodra.webp",
-        "Ykkosliiga": "assets/logos/leagues/ykkosliiga.webp"
+        "Ykkosliiga": "assets/logos/leagues/ykkosliiga.webp",
+        "UTR PTT Nashville Men +H 01, 9-12 Playoffs": "assets/logos/leagues/utr-ptt-nashville-men-h-01-9-12-playoffs.webp"
     }
 }
