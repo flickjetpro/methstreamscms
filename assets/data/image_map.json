@@ -9665,7 +9665,9 @@
         "Mpresia": "assets/logos/upstreams/mpresia.webp",
         "Seattle Seawolves": "assets/logos/upstreams/seattle-seawolves.webp",
         "Old Glory DC": "assets/logos/upstreams/old-glory-dc.webp",
-        "Tofa\u015f Bursa": "assets/logos/upstreams/tofa\u015f-bursa.webp"
+        "Tofa\u015f Bursa": "assets/logos/upstreams/tofa\u015f-bursa.webp",
+        "VELE\u017d": "assets/logos/upstreams/vele\u017e.webp",
+        "ZRINJSKI": "assets/logos/upstreams/zrinjski.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -10789,6 +10791,7 @@
         "Ettan, Norra": "assets/logos/leagues/ettan-norra.webp",
         "Ettan, Sodra": "assets/logos/leagues/ettan-sodra.webp",
         "Ykkosliiga": "assets/logos/leagues/ykkosliiga.webp",
-        "UTR PTT Nashville Men +H 01, 9-12 Playoffs": "assets/logos/leagues/utr-ptt-nashville-men-h-01-9-12-playoffs.webp"
+        "UTR PTT Nashville Men +H 01, 9-12 Playoffs": "assets/logos/leagues/utr-ptt-nashville-men-h-01-9-12-playoffs.webp",
+        "FA Cup Women": "assets/logos/leagues/fa-cup-women.webp"
     }
 }
