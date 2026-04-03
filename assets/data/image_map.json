@@ -9728,7 +9728,8 @@
         "FUS Rabat": "assets/logos/upstreams/fus-rabat.webp",
         "Vend\u00e9e Challans Basket": "assets/logos/upstreams/vend\u00e9e-challans-basket.webp",
         "Romain Arneodo": "assets/logos/upstreams/romain-arneodo.webp",
-        "Hugo Nys": "assets/logos/upstreams/hugo-nys.webp"
+        "Hugo Nys": "assets/logos/upstreams/hugo-nys.webp",
+        "Alianza Atl": "assets/logos/upstreams/alianza-atl.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -10870,6 +10871,9 @@
         "UTR PTT Krakow Men 03, 9-12 Playoffs": "assets/logos/leagues/utr-ptt-krakow-men-03-9-12-playoffs.webp",
         "UTR PTT Krakow Men 03, 13-16 Playoffs": "assets/logos/leagues/utr-ptt-krakow-men-03-13-16-playoffs.webp",
         "UTR PTT Trnava Women 03, 5-8 Playoffs": "assets/logos/leagues/utr-ptt-trnava-women-03-5-8-playoffs.webp",
-        "UTR PTT Trnava Women 03, 9-12 Playoffs": "assets/logos/leagues/utr-ptt-trnava-women-03-9-12-playoffs.webp"
+        "UTR PTT Trnava Women 03, 9-12 Playoffs": "assets/logos/leagues/utr-ptt-trnava-women-03-9-12-playoffs.webp",
+        "Peru Liga 1 Apertura": "assets/logos/leagues/peru-liga-1-apertura.webp",
+        "Bolivia Division Profesional": "assets/logos/leagues/bolivia-division-profesional.webp",
+        "South Africa Women in New Zealand, 3 ODI Series": "assets/logos/leagues/south-africa-women-in-new-zealand-3-odi-series.webp"
     }
 }
