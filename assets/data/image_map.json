@@ -9718,7 +9718,9 @@
         "Basketball Klosterneuburg": "assets/logos/upstreams/basketball-klosterneuburg.webp",
         "Al-Sailiya": "assets/logos/upstreams/al-sailiya.webp",
         "Omonia": "assets/logos/upstreams/omonia.webp",
-        "Apoel": "assets/logos/upstreams/apoel.webp"
+        "Apoel": "assets/logos/upstreams/apoel.webp",
+        "Gent U23": "assets/logos/upstreams/gent-u23.webp",
+        "Sporting Lokeren": "assets/logos/upstreams/sporting-lokeren.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -10850,6 +10852,9 @@
         "Division 1": "assets/logos/leagues/division-1.webp",
         "Slovenia Prva Liga": "assets/logos/leagues/slovenia-prva-liga.webp",
         "Lithuania Toplyga": "assets/logos/leagues/lithuania-toplyga.webp",
-        "Austrian Basketball Superliga, Qualifying Round": "assets/logos/leagues/austrian-basketball-superliga-qualifying-round.webp"
+        "Austrian Basketball Superliga, Qualifying Round": "assets/logos/leagues/austrian-basketball-superliga-qualifying-round.webp",
+        "Dutch Eerste Divisie": "assets/logos/leagues/dutch-eerste-divisie.webp",
+        "Bosnia and Herzegovina Premier League": "assets/logos/leagues/bosnia-and-herzegovina-premier-league.webp",
+        "Belgium Challenge Pro League": "assets/logos/leagues/belgium-challenge-pro-league.webp"
     }
 }
