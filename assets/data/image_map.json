@@ -9675,7 +9675,10 @@
         "Chippa United": "assets/logos/upstreams/chippa-united.webp",
         "Nella Nyqvist": "assets/logos/upstreams/nella-nyqvist.webp",
         "Christopher Vittoriani": "assets/logos/upstreams/christopher-vittoriani.webp",
-        "Connor Huertas del Pino": "assets/logos/upstreams/connor-huertas-del-pino.webp"
+        "Connor Huertas del Pino": "assets/logos/upstreams/connor-huertas-del-pino.webp",
+        "Malut United FC": "assets/logos/upstreams/malut-united-fc.webp",
+        "Cibalia-Vinkovci": "assets/logos/upstreams/cibalia-vinkovci.webp",
+        "NK Croatia Zmijavci": "assets/logos/upstreams/nk-croatia-zmijavci.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -10800,6 +10803,7 @@
         "Ettan, Sodra": "assets/logos/leagues/ettan-sodra.webp",
         "Ykkosliiga": "assets/logos/leagues/ykkosliiga.webp",
         "UTR PTT Nashville Men +H 01, 9-12 Playoffs": "assets/logos/leagues/utr-ptt-nashville-men-h-01-9-12-playoffs.webp",
-        "FA Cup Women": "assets/logos/leagues/fa-cup-women.webp"
+        "FA Cup Women": "assets/logos/leagues/fa-cup-women.webp",
+        "2. HNL": "assets/logos/leagues/2-hnl.webp"
     }
 }
