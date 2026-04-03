@@ -9683,7 +9683,16 @@
         "Mayra Gisone": "assets/logos/upstreams/mayra-gisone.webp",
         "Callum Peters": "assets/logos/upstreams/callum-peters.webp",
         "Delio Anzaqeci Mouzinho": "assets/logos/upstreams/delio-anzaqeci-mouzinho.webp",
-        "Delio Anzaqeci MouzinhoSuper middleweightWIN Entertainment Centre | Wollongong": "assets/logos/upstreams/delio-anzaqeci-mouzinhosuper-middleweightwin-entertainment-centre-wollongong.webp"
+        "Delio Anzaqeci MouzinhoSuper middleweightWIN Entertainment Centre | Wollongong": "assets/logos/upstreams/delio-anzaqeci-mouzinhosuper-middleweightwin-entertainment-centre-wollongong.webp",
+        "SD Eibar": "assets/logos/upstreams/sd-eibar.webp",
+        "Costa Adeje Tenerife": "assets/logos/upstreams/costa-adeje-tenerife.webp",
+        "Gamo Chencha": "assets/logos/upstreams/gamo-chencha.webp",
+        "Harar FC": "assets/logos/upstreams/harar-fc.webp",
+        "B93": "assets/logos/upstreams/b93.webp",
+        "Dodoma Jiji": "assets/logos/upstreams/dodoma-jiji.webp",
+        "Fountain Gate": "assets/logos/upstreams/fountain-gate.webp",
+        "Sofapaka": "assets/logos/upstreams/sofapaka.webp",
+        "Bandari": "assets/logos/upstreams/bandari.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -10809,6 +10818,7 @@
         "Ykkosliiga": "assets/logos/leagues/ykkosliiga.webp",
         "UTR PTT Nashville Men +H 01, 9-12 Playoffs": "assets/logos/leagues/utr-ptt-nashville-men-h-01-9-12-playoffs.webp",
         "FA Cup Women": "assets/logos/leagues/fa-cup-women.webp",
-        "2. HNL": "assets/logos/leagues/2-hnl.webp"
+        "2. HNL": "assets/logos/leagues/2-hnl.webp",
+        "English League One": "assets/logos/leagues/english-league-one.webp"
     }
 }
