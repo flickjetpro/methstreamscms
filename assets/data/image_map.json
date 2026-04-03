@@ -9694,7 +9694,13 @@
         "Sofapaka": "assets/logos/upstreams/sofapaka.webp",
         "Bandari": "assets/logos/upstreams/bandari.webp",
         "Hristomira Popovska": "assets/logos/upstreams/hristomira-popovska.webp",
-        "Xorazm Urganch": "assets/logos/upstreams/xorazm-urganch.webp"
+        "Xorazm Urganch": "assets/logos/upstreams/xorazm-urganch.webp",
+        "FC Stauceni": "assets/logos/upstreams/fc-stauceni.webp",
+        "Accrington": "assets/logos/upstreams/accrington.webp",
+        "Crawley": "assets/logos/upstreams/crawley.webp",
+        "Harrogate": "assets/logos/upstreams/harrogate.webp",
+        "Navbahor Namangan": "assets/logos/upstreams/navbahor-namangan.webp",
+        "Lahore Qalandars": "assets/logos/upstreams/lahore-qalandars.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -10821,6 +10827,7 @@
         "UTR PTT Nashville Men +H 01, 9-12 Playoffs": "assets/logos/leagues/utr-ptt-nashville-men-h-01-9-12-playoffs.webp",
         "FA Cup Women": "assets/logos/leagues/fa-cup-women.webp",
         "2. HNL": "assets/logos/leagues/2-hnl.webp",
-        "English League One": "assets/logos/leagues/english-league-one.webp"
+        "English League One": "assets/logos/leagues/english-league-one.webp",
+        "English Championship": "assets/logos/leagues/english-championship.webp"
     }
 }
