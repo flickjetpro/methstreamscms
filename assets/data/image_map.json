@@ -9713,7 +9713,9 @@
         "CFFEB": "assets/logos/upstreams/cffeb.webp",
         "US Forces Armees": "assets/logos/upstreams/us-forces-armees.webp",
         "Real Du Faso": "assets/logos/upstreams/real-du-faso.webp",
-        "Kk Lim": "assets/logos/upstreams/kk-lim.webp"
+        "Kk Lim": "assets/logos/upstreams/kk-lim.webp",
+        "UEB Cividale": "assets/logos/upstreams/ueb-cividale.webp",
+        "Basketball Klosterneuburg": "assets/logos/upstreams/basketball-klosterneuburg.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -10844,6 +10846,7 @@
         "English Championship": "assets/logos/leagues/english-championship.webp",
         "Division 1": "assets/logos/leagues/division-1.webp",
         "Slovenia Prva Liga": "assets/logos/leagues/slovenia-prva-liga.webp",
-        "Lithuania Toplyga": "assets/logos/leagues/lithuania-toplyga.webp"
+        "Lithuania Toplyga": "assets/logos/leagues/lithuania-toplyga.webp",
+        "Austrian Basketball Superliga, Qualifying Round": "assets/logos/leagues/austrian-basketball-superliga-qualifying-round.webp"
     }
 }
