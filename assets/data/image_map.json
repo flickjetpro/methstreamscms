@@ -9610,7 +9610,21 @@
         "Atl\u00e9tico Ottawa": "assets/logos/streamed/atl\u00e9tico-ottawa.webp",
         "Al-Hilal Saudi FC": "assets/logos/streamed/al-hilal-saudi-fc.webp",
         "Stewart Nicoll": "assets/logos/streamed/stewart-nicoll.webp",
-        "Alessandro Costa": "assets/logos/streamed/alessandro-costa.webp"
+        "Alessandro Costa": "assets/logos/streamed/alessandro-costa.webp",
+        "Guimaraes B": "assets/logos/upstreams/guimaraes-b.webp",
+        "FC Blau Weiss Linz": "assets/logos/upstreams/fc-blau-weiss-linz.webp",
+        "DAC 1904": "assets/logos/upstreams/dac-1904.webp",
+        "FC Alverca B": "assets/logos/upstreams/fc-alverca-b.webp",
+        "GD Alcochetense": "assets/logos/upstreams/gd-alcochetense.webp",
+        "S\u00f8nderjyske Fodbold": "assets/logos/upstreams/s\u00f8nderjyske-fodbold.webp",
+        "Forge FC": "assets/logos/upstreams/forge-fc.webp",
+        "FC Barcelona": "assets/logos/upstreams/fc-barcelona.webp",
+        "Red Bull Bragantino": "assets/logos/upstreams/red-bull-bragantino.webp",
+        "KK Basket \u017divinice": "assets/logos/upstreams/kk-basket-\u017eivinice.webp",
+        "HKK Zrinjski Mostar": "assets/logos/upstreams/hkk-zrinjski-mostar.webp",
+        "Germani Brescia": "assets/logos/upstreams/germani-brescia.webp",
+        "Union Neuch\u00e2tel": "assets/logos/upstreams/union-neuch\u00e2tel.webp",
+        "HFX Wanderers FC": "assets/logos/upstreams/hfx-wanderers-fc.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -10728,6 +10742,8 @@
         "Slovakia - 1. League - Gr. Championship": "assets/logos/leagues/slovakia-1-league-gr-championship.webp",
         "Canadian Premier League": "assets/logos/leagues/canadian-premier-league.webp",
         "Serie D": "assets/logos/leagues/serie-d.webp",
-        "Major League Rugby": "assets/logos/leagues/major-league-rugby.webp"
+        "Major League Rugby": "assets/logos/leagues/major-league-rugby.webp",
+        "Campeonato de Portugal, Group D": "assets/logos/leagues/campeonato-de-portugal-group-d.webp",
+        "1st Division": "assets/logos/leagues/1st-division.webp"
     }
 }
