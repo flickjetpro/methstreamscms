@@ -9946,7 +9946,21 @@
         "Fanming Meng": "assets/logos/upstreams/fanming-meng.webp",
         "FC Barcelona --- ENG 2": "assets/logos/upstreams/fc-barcelona-eng-2.webp",
         "Aurora": "assets/logos/upstreams/aurora.webp",
-        "Pe\u00f1arol": "assets/logos/upstreams/pe\u00f1arol.webp"
+        "Pe\u00f1arol": "assets/logos/upstreams/pe\u00f1arol.webp",
+        "Stromsgodset": "assets/logos/upstreams/stromsgodset.webp",
+        "Stabaek": "assets/logos/upstreams/stabaek.webp",
+        "IK Uppsala": "assets/logos/upstreams/ik-uppsala.webp",
+        "Pite\u00e5 IF": "assets/logos/upstreams/pite\u00e5-if.webp",
+        "AIK Stockholm (W)": "assets/logos/upstreams/aik-stockholm-w.webp",
+        "Shaanxi Union FC": "assets/logos/upstreams/shaanxi-union-fc.webp",
+        "Dalian Kewei": "assets/logos/upstreams/dalian-kewei.webp",
+        "Qingdao Red Lions": "assets/logos/upstreams/qingdao-red-lions.webp",
+        "Shanghai Port B": "assets/logos/upstreams/shanghai-port-b.webp",
+        "Nantong Haimen Codion": "assets/logos/upstreams/nantong-haimen-codion.webp",
+        "HC Ko\u0161ice": "assets/logos/upstreams/hc-ko\u0161ice.webp",
+        "Xiamen Feilu": "assets/logos/upstreams/xiamen-feilu.webp",
+        "Oceane Dodin": "assets/logos/upstreams/oceane-dodin.webp",
+        "Nicoll Stewart": "assets/logos/upstreams/nicoll-stewart.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -11146,6 +11160,9 @@
         "Betsafe-LKL": "assets/logos/leagues/betsafe-lkl.webp",
         "Rugby Challenge Cup": "assets/logos/leagues/rugby-challenge-cup.webp",
         "Poland Division 1": "assets/logos/leagues/poland-division-1.webp",
-        "UTR PTT Trnava Women 03, 17-20 Playoffs": "assets/logos/leagues/utr-ptt-trnava-women-03-17-20-playoffs.webp"
+        "UTR PTT Trnava Women 03, 17-20 Playoffs": "assets/logos/leagues/utr-ptt-trnava-women-03-17-20-playoffs.webp",
+        "Norway - 1.Division": "assets/logos/leagues/norway-1division.webp",
+        "Denmark - SuperLeague - Gr.Retrogradare": "assets/logos/leagues/denmark-superleague-grretrogradare.webp",
+        "Linz, Austria, Qualifying": "assets/logos/leagues/linz-austria-qualifying.webp"
     }
 }
