@@ -9792,7 +9792,20 @@
         "Renato Moicano": "assets/logos/upstreams/renato-moicano.webp",
         "Essendon Football Club": "assets/logos/streamed/essendon-football-club.webp",
         "Charlton Athletic W": "assets/logos/streamed/charlton-athletic-w.webp",
-        "Pacific": "assets/logos/streamed/pacific.webp"
+        "Pacific": "assets/logos/streamed/pacific.webp",
+        "Aris Thessaloniki": "assets/logos/upstreams/aris-thessaloniki.webp",
+        "Lusitania FC Lourosa": "assets/logos/upstreams/lusitania-fc-lourosa.webp",
+        "Madrid CFF": "assets/logos/upstreams/madrid-cff.webp",
+        "FC Spartak Trnava": "assets/logos/upstreams/fc-spartak-trnava.webp",
+        "FK \u017deleziarne Podbrezov\u00e1": "assets/logos/upstreams/fk-\u017eeleziarne-podbrezov\u00e1.webp",
+        "Atletico MG": "assets/logos/upstreams/atletico-mg.webp",
+        "Atletico PR": "assets/logos/upstreams/atletico-pr.webp",
+        "Cavalry FC": "assets/logos/upstreams/cavalry-fc.webp",
+        "Coquimbo": "assets/logos/upstreams/coquimbo.webp",
+        "HC Erlangen": "assets/logos/upstreams/hc-erlangen.webp",
+        "Allianz MTV Stuttgart": "assets/logos/upstreams/allianz-mtv-stuttgart.webp",
+        "Recoletas Atl\u00e9tico Valladolid": "assets/logos/upstreams/recoletas-atl\u00e9tico-valladolid.webp",
+        "Rana Verona": "assets/logos/upstreams/rana-verona.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -10953,6 +10966,8 @@
         "UFC Fight Night: Moicano vs. Duncan": "assets/logos/leagues/ufc-fight-night-moicano-vs-duncan.webp",
         "UTR PTT Carvoeiro Men +H 05, 1-4 Playoffs": "assets/logos/leagues/utr-ptt-carvoeiro-men-h-05-1-4-playoffs.webp",
         "UTR PTT Carvoeiro Women +H 05, 1-4 Playoffs": "assets/logos/leagues/utr-ptt-carvoeiro-women-h-05-1-4-playoffs.webp",
-        "USL Super League Women": "assets/logos/leagues/usl-super-league-women.webp"
+        "USL Super League Women": "assets/logos/leagues/usl-super-league-women.webp",
+        "Stoiximan Super League, Qualifying Round": "assets/logos/leagues/stoiximan-super-league-qualifying-round.webp",
+        "Stoiximan Super League, Championship Round": "assets/logos/leagues/stoiximan-super-league-championship-round.webp"
     }
 }
