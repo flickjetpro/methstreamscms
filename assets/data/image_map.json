@@ -9871,7 +9871,15 @@
         "FK Transinvest": "assets/logos/upstreams/fk-transinvest.webp",
         "Kanchanaburi": "assets/logos/upstreams/kanchanaburi.webp",
         "William O'Connor": "assets/logos/upstreams/william-oconnor.webp",
-        "Sebastian Bia\u0142ecki": "assets/logos/upstreams/sebastian-bia\u0142ecki.webp"
+        "Sebastian Bia\u0142ecki": "assets/logos/upstreams/sebastian-bia\u0142ecki.webp",
+        "Persebaya": "assets/logos/upstreams/persebaya.webp",
+        "Persita": "assets/logos/upstreams/persita.webp",
+        "SJK": "assets/logos/upstreams/sjk.webp",
+        "Nea Salamis": "assets/logos/upstreams/nea-salamis.webp",
+        "MGS Panserraikos": "assets/logos/upstreams/mgs-panserraikos.webp",
+        "BalEastier Khalsa": "assets/logos/upstreams/baleastier-khalsa.webp",
+        "Ryan Joyce": "assets/logos/upstreams/ryan-joyce.webp",
+        "Behrens F.": "assets/logos/upstreams/behrens-f.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -11045,6 +11053,9 @@
         "Romania Superliga": "assets/logos/leagues/romania-superliga.webp",
         "TOPLYGA": "assets/logos/leagues/toplyga.webp",
         "Thailand Thai league 1": "assets/logos/leagues/thailand-thai-league-1.webp",
-        "German Darts Grand Prix": "assets/logos/leagues/german-darts-grand-prix.webp"
+        "German Darts Grand Prix": "assets/logos/leagues/german-darts-grand-prix.webp",
+        "Indonesia Liga 1": "assets/logos/leagues/indonesia-liga-1.webp",
+        "Cyprus League 2": "assets/logos/leagues/cyprus-league-2.webp",
+        "Stoiximan Super League, Relegation Round": "assets/logos/leagues/stoiximan-super-league-relegation-round.webp"
     }
 }
