@@ -9887,7 +9887,11 @@
         "Erzurum BB": "assets/logos/upstreams/erzurum-bb.webp",
         "Pamba": "assets/logos/upstreams/pamba.webp",
         "O Ljubljana": "assets/logos/upstreams/o-ljubljana.webp",
-        "Ol Nicosia": "assets/logos/upstreams/ol-nicosia.webp"
+        "Ol Nicosia": "assets/logos/upstreams/ol-nicosia.webp",
+        "FC Real Sireti": "assets/logos/upstreams/fc-real-sireti.webp",
+        "FC Iskra Ribnita": "assets/logos/upstreams/fc-iskra-ribnita.webp",
+        "Michalovce": "assets/logos/upstreams/michalovce.webp",
+        "Henan Songshan": "assets/logos/upstreams/henan-songshan.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -11068,6 +11072,7 @@
         "NB I": "assets/logos/leagues/nb-i.webp",
         "Czech Chance Liga": "assets/logos/leagues/czech-chance-liga.webp",
         "South Africa Nedbank Cup": "assets/logos/leagues/south-africa-nedbank-cup.webp",
-        "European Tour 4 - German Darts Grand Prix 2026": "assets/logos/leagues/european-tour-4-german-darts-grand-prix-2026.webp"
+        "European Tour 4 - German Darts Grand Prix 2026": "assets/logos/leagues/european-tour-4-german-darts-grand-prix-2026.webp",
+        "Slovakia Nike liga": "assets/logos/leagues/slovakia-nike-liga.webp"
     }
 }
