@@ -9891,7 +9891,13 @@
         "FC Real Sireti": "assets/logos/upstreams/fc-real-sireti.webp",
         "FC Iskra Ribnita": "assets/logos/upstreams/fc-iskra-ribnita.webp",
         "Michalovce": "assets/logos/upstreams/michalovce.webp",
-        "Henan Songshan": "assets/logos/upstreams/henan-songshan.webp"
+        "Henan Songshan": "assets/logos/upstreams/henan-songshan.webp",
+        "Kuopion Palloseura": "assets/logos/upstreams/kuopion-palloseura.webp",
+        "IFK Mariehamn": "assets/logos/upstreams/ifk-mariehamn.webp",
+        "TPS": "assets/logos/upstreams/tps.webp",
+        "Warrington": "assets/logos/upstreams/warrington.webp",
+        "Morton": "assets/logos/upstreams/morton.webp",
+        "RC Toulonnais": "assets/logos/upstreams/rc-toulonnais.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -11073,6 +11079,7 @@
         "Czech Chance Liga": "assets/logos/leagues/czech-chance-liga.webp",
         "South Africa Nedbank Cup": "assets/logos/leagues/south-africa-nedbank-cup.webp",
         "European Tour 4 - German Darts Grand Prix 2026": "assets/logos/leagues/european-tour-4-german-darts-grand-prix-2026.webp",
-        "Slovakia Nike liga": "assets/logos/leagues/slovakia-nike-liga.webp"
+        "Slovakia Nike liga": "assets/logos/leagues/slovakia-nike-liga.webp",
+        "Scottish Championship": "assets/logos/leagues/scottish-championship.webp"
     }
 }
