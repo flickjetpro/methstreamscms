@@ -9914,7 +9914,18 @@
         "Pafos FC": "assets/logos/upstreams/pafos-fc.webp",
         "Sp Subotica": "assets/logos/upstreams/sp-subotica.webp",
         "Hanyi Liu": "assets/logos/upstreams/hanyi-liu.webp",
-        "Sergey Betov": "assets/logos/upstreams/sergey-betov.webp"
+        "Sergey Betov": "assets/logos/upstreams/sergey-betov.webp",
+        "Etoile Filante Ouagadougou": "assets/logos/upstreams/etoile-filante-ouagadougou.webp",
+        "Rahimo FC": "assets/logos/upstreams/rahimo-fc.webp",
+        "Vitesse FC": "assets/logos/upstreams/vitesse-fc.webp",
+        "Ajeb FC": "assets/logos/upstreams/ajeb-fc.webp",
+        "K\u0117daini\u0173 Nev\u0117\u017eis": "assets/logos/upstreams/k\u0117daini\u0173-nev\u0117\u017eis.webp",
+        "Sea Stars": "assets/logos/upstreams/sea-stars.webp",
+        "ZKK Primorje": "assets/logos/upstreams/zkk-primorje.webp",
+        "Benetton": "assets/logos/upstreams/benetton.webp",
+        "Kody Pearson": "assets/logos/upstreams/kody-pearson.webp",
+        "Xianfeng Chen": "assets/logos/upstreams/xianfeng-chen.webp",
+        "Mitsuki Wei Kang Leong": "assets/logos/upstreams/mitsuki-wei-kang-leong.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -11110,6 +11121,8 @@
         "Fight Night": "assets/logos/leagues/fight-night.webp",
         "Cyprus League by Stoiximan, Championship group": "assets/logos/leagues/cyprus-league-by-stoiximan-championship-group.webp",
         "Greece - Super League - Gr.Retrogradare": "assets/logos/leagues/greece-super-league-grretrogradare.webp",
-        "Monte Carlo, Monaco": "assets/logos/leagues/monte-carlo-monaco.webp"
+        "Monte Carlo, Monaco": "assets/logos/leagues/monte-carlo-monaco.webp",
+        "Betsafe-LKL": "assets/logos/leagues/betsafe-lkl.webp",
+        "Rugby Challenge Cup": "assets/logos/leagues/rugby-challenge-cup.webp"
     }
 }
