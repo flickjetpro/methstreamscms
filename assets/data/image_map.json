@@ -9862,7 +9862,10 @@
         "Pohang": "assets/logos/upstreams/pohang.webp",
         "Daejeon": "assets/logos/upstreams/daejeon.webp",
         "Adelaide Thunderbirds W": "assets/logos/upstreams/adelaide-thunderbirds-w.webp",
-        "PSM Makassar": "assets/logos/upstreams/psm-makassar.webp"
+        "PSM Makassar": "assets/logos/upstreams/psm-makassar.webp",
+        "DUX Logrono W": "assets/logos/upstreams/dux-logrono-w.webp",
+        "Serik Spor": "assets/logos/upstreams/serik-spor.webp",
+        "Ceadir-Lunga": "assets/logos/upstreams/ceadir-lunga.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -11032,6 +11035,7 @@
         "UTR PTT Carvoeiro Men +H 05, 13-16 Playoffs": "assets/logos/leagues/utr-ptt-carvoeiro-men-h-05-13-16-playoffs.webp",
         "UTR PTT Carvoeiro Women +H 05, 5-8 Playoffs": "assets/logos/leagues/utr-ptt-carvoeiro-women-h-05-5-8-playoffs.webp",
         "One Day International Women": "assets/logos/leagues/one-day-international-women.webp",
-        "South Korea K League": "assets/logos/leagues/south-korea-k-league.webp"
+        "South Korea K League": "assets/logos/leagues/south-korea-k-league.webp",
+        "Romania Superliga": "assets/logos/leagues/romania-superliga.webp"
     }
 }
