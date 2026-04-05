@@ -10076,7 +10076,21 @@
         "Leopards": "assets/logos/upstreams/leopards.webp",
         "Semen Padang FC": "assets/logos/upstreams/semen-padang-fc.webp",
         "Yusra Irakoze": "assets/logos/upstreams/yusra-irakoze.webp",
-        "Patrik Kov\u00e1cs": "assets/logos/upstreams/patrik-kov\u00e1cs.webp"
+        "Patrik Kov\u00e1cs": "assets/logos/upstreams/patrik-kov\u00e1cs.webp",
+        "Puskas Academy": "assets/logos/upstreams/puskas-academy.webp",
+        "Obolon": "assets/logos/upstreams/obolon.webp",
+        "FK Zorya Luhansk": "assets/logos/upstreams/fk-zorya-luhansk.webp",
+        "FK Tukums 2000": "assets/logos/upstreams/fk-tukums-2000.webp",
+        "FK Grobi\u0146a": "assets/logos/upstreams/fk-grobi\u0146a.webp",
+        "Shabana": "assets/logos/upstreams/shabana.webp",
+        "Achnas": "assets/logos/upstreams/achnas.webp",
+        "Trois-Rivieres Lions": "assets/logos/upstreams/trois-rivieres-lions.webp",
+        "Raymond Smith": "assets/logos/upstreams/raymond-smith.webp",
+        "Kovacs Patrik": "assets/logos/upstreams/kovacs-patrik.webp",
+        "BBC Nord Dragonz": "assets/logos/upstreams/bbc-nord-dragonz.webp",
+        "F\u00fcrstenfeld Panthers": "assets/logos/upstreams/f\u00fcrstenfeld-panthers.webp",
+        "Traiskirchen Lions": "assets/logos/upstreams/traiskirchen-lions.webp",
+        "Wotton FC": "assets/logos/upstreams/wotton-fc.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -11301,6 +11315,8 @@
         "English Women FA Cup": "assets/logos/leagues/english-women-fa-cup.webp",
         "Russia Premier League": "assets/logos/leagues/russia-premier-league.webp",
         "Turkey Super Lig": "assets/logos/leagues/turkey-super-lig.webp",
-        "German 2 Bundesliga": "assets/logos/leagues/german-2-bundesliga.webp"
+        "German 2 Bundesliga": "assets/logos/leagues/german-2-bundesliga.webp",
+        "Bundesliga, Championship Round": "assets/logos/leagues/bundesliga-championship-round.webp",
+        "PDC European Tour": "assets/logos/leagues/pdc-european-tour.webp"
     }
 }
