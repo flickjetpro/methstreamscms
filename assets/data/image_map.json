@@ -10115,7 +10115,12 @@
         "Sliven Basket": "assets/logos/upstreams/sliven-basket.webp",
         "BC Yambol": "assets/logos/upstreams/bc-yambol.webp",
         "ASC Kara": "assets/logos/upstreams/asc-kara.webp",
-        "Trnava": "assets/logos/upstreams/trnava.webp"
+        "Trnava": "assets/logos/upstreams/trnava.webp",
+        "MFK Karvina": "assets/logos/upstreams/mfk-karvina.webp",
+        "Salitas FC": "assets/logos/upstreams/salitas-fc.webp",
+        "Simba": "assets/logos/upstreams/simba.webp",
+        "KK Budu\u0107nost VOLI": "assets/logos/upstreams/kk-budu\u0107nost-voli.webp",
+        "Chavdar Troyan": "assets/logos/upstreams/chavdar-troyan.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -11344,6 +11349,7 @@
         "Bundesliga, Championship Round": "assets/logos/leagues/bundesliga-championship-round.webp",
         "PDC European Tour": "assets/logos/leagues/pdc-european-tour.webp",
         "1st Liga, Relegation/Promotion Playoffs": "assets/logos/leagues/1st-liga-relegationpromotion-playoffs.webp",
-        "German 3 liga": "assets/logos/leagues/german-3-liga.webp"
+        "German 3 liga": "assets/logos/leagues/german-3-liga.webp",
+        "1. Liga": "assets/logos/leagues/1-liga.webp"
     }
 }
