@@ -10113,7 +10113,9 @@
         "Politehnika": "assets/logos/upstreams/politehnika.webp",
         "BC Udarnik": "assets/logos/upstreams/bc-udarnik.webp",
         "Sliven Basket": "assets/logos/upstreams/sliven-basket.webp",
-        "BC Yambol": "assets/logos/upstreams/bc-yambol.webp"
+        "BC Yambol": "assets/logos/upstreams/bc-yambol.webp",
+        "ASC Kara": "assets/logos/upstreams/asc-kara.webp",
+        "Trnava": "assets/logos/upstreams/trnava.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
