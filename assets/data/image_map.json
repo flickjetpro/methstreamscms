@@ -10061,7 +10061,16 @@
         "FC Kryvbas Kryvyi Rih": "assets/logos/upstreams/fc-kryvbas-kryvyi-rih.webp",
         "Giulia Gabba": "assets/logos/upstreams/giulia-gabba.webp",
         "Liv Boulard": "assets/logos/upstreams/liv-boulard.webp",
-        "Mauricio Schtulmann Gasca": "assets/logos/upstreams/mauricio-schtulmann-gasca.webp"
+        "Mauricio Schtulmann Gasca": "assets/logos/upstreams/mauricio-schtulmann-gasca.webp",
+        "PSV W": "assets/logos/upstreams/psv-w.webp",
+        "Ajax W": "assets/logos/upstreams/ajax-w.webp",
+        "MCR Lima-Horta Barcelona": "assets/logos/upstreams/mcr-lima-horta-barcelona.webp",
+        "CD Zamarat": "assets/logos/upstreams/cd-zamarat.webp",
+        "Okk Balkanski Ris Plav": "assets/logos/upstreams/okk-balkanski-ris-plav.webp",
+        "N. Meira Anastasia": "assets/logos/upstreams/n-meira-anastasia.webp",
+        "Lorena Schaedel": "assets/logos/upstreams/lorena-schaedel.webp",
+        "C. Benedetti Ravon": "assets/logos/upstreams/c-benedetti-ravon.webp",
+        "Marie Mattel": "assets/logos/upstreams/marie-mattel.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -11281,6 +11290,7 @@
         "Campinas, Brazil, Qualifying": "assets/logos/leagues/campinas-brazil-qualifying.webp",
         "Sarasota, USA, Qualifying": "assets/logos/leagues/sarasota-usa-qualifying.webp",
         "U20 AFC Asian Cup, Group B, Women": "assets/logos/leagues/u20-afc-asian-cup-group-b-women.webp",
-        "Mexico City, Mexico, Qualifying": "assets/logos/leagues/mexico-city-mexico-qualifying.webp"
+        "Mexico City, Mexico, Qualifying": "assets/logos/leagues/mexico-city-mexico-qualifying.webp",
+        "Dutch Women Eredivisie": "assets/logos/leagues/dutch-women-eredivisie.webp"
     }
 }
