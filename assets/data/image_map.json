@@ -10129,7 +10129,16 @@
         "Academia de Balompi\u00e9 Boliviano": "assets/logos/upstreams/academia-de-balompi\u00e9-boliviano.webp",
         "Razvan Baiant": "assets/logos/upstreams/razvan-baiant.webp",
         "Dinko Dinev": "assets/logos/upstreams/dinko-dinev.webp",
-        "Matthias Ujvary": "assets/logos/upstreams/matthias-ujvary.webp"
+        "Matthias Ujvary": "assets/logos/upstreams/matthias-ujvary.webp",
+        "SV Transvaal": "assets/logos/upstreams/sv-transvaal.webp",
+        "Club FC Universitario": "assets/logos/upstreams/club-fc-universitario.webp",
+        "The Strongest": "assets/logos/upstreams/the-strongest.webp",
+        "Ilias Zimmermann": "assets/logos/upstreams/ilias-zimmermann.webp",
+        "Botond Kisantal": "assets/logos/upstreams/botond-kisantal.webp",
+        "Kristijan Juhas": "assets/logos/upstreams/kristijan-juhas.webp",
+        "Mia Horvit": "assets/logos/upstreams/mia-horvit.webp",
+        "Alexa Karatantcheva": "assets/logos/upstreams/alexa-karatantcheva.webp",
+        "Nina Radovanovic": "assets/logos/upstreams/nina-radovanovic.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -11363,6 +11372,8 @@
         "Egyptian Premier League, Championship Round": "assets/logos/leagues/egyptian-premier-league-championship-round.webp",
         "Egypt Premier League": "assets/logos/leagues/egypt-premier-league.webp",
         "Madrid, Spain": "assets/logos/leagues/madrid-spain.webp",
-        "Monza, Italy": "assets/logos/leagues/monza-italy.webp"
+        "Monza, Italy": "assets/logos/leagues/monza-italy.webp",
+        "UTR PTT Belgrade Women 03, Group C": "assets/logos/leagues/utr-ptt-belgrade-women-03-group-c.webp",
+        "UTR PTT Belgrade Women 03, Group A": "assets/logos/leagues/utr-ptt-belgrade-women-03-group-a.webp"
     }
 }
