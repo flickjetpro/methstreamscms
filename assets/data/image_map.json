@@ -10090,7 +10090,24 @@
         "BBC Nord Dragonz": "assets/logos/upstreams/bbc-nord-dragonz.webp",
         "F\u00fcrstenfeld Panthers": "assets/logos/upstreams/f\u00fcrstenfeld-panthers.webp",
         "Traiskirchen Lions": "assets/logos/upstreams/traiskirchen-lions.webp",
-        "Wotton FC": "assets/logos/upstreams/wotton-fc.webp"
+        "Wotton FC": "assets/logos/upstreams/wotton-fc.webp",
+        "Ostrava": "assets/logos/upstreams/ostrava.webp",
+        "Uzbekistan U20": "assets/logos/upstreams/uzbekistan-u20.webp",
+        "North Korea U20": "assets/logos/upstreams/north-korea-u20.webp",
+        "FK Panevezys": "assets/logos/upstreams/fk-panevezys.webp",
+        "Unstoppable": "assets/logos/upstreams/unstoppable.webp",
+        "Vihar Aitos": "assets/logos/upstreams/vihar-aitos.webp",
+        "HK Gladiators Trnava": "assets/logos/upstreams/hk-gladiators-trnava.webp",
+        "HC Dukla Senica": "assets/logos/upstreams/hc-dukla-senica.webp",
+        "Jermaine Wattimena": "assets/logos/upstreams/jermaine-wattimena.webp",
+        "Jefferson Wendler Filho": "assets/logos/upstreams/jefferson-wendler-filho.webp",
+        "Luis David Martinez": "assets/logos/upstreams/luis-david-martinez.webp",
+        "Juan Jose Bianchi": "assets/logos/upstreams/juan-jose-bianchi.webp",
+        "Cristian Rodriguez": "assets/logos/upstreams/cristian-rodriguez.webp",
+        "Preston Brown": "assets/logos/upstreams/preston-brown.webp",
+        "Bruno Kuzuhara": "assets/logos/upstreams/bruno-kuzuhara.webp",
+        "Justin Roberts": "assets/logos/upstreams/justin-roberts.webp",
+        "Szymon Kielan": "assets/logos/upstreams/szymon-kielan.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -11317,6 +11334,7 @@
         "Turkey Super Lig": "assets/logos/leagues/turkey-super-lig.webp",
         "German 2 Bundesliga": "assets/logos/leagues/german-2-bundesliga.webp",
         "Bundesliga, Championship Round": "assets/logos/leagues/bundesliga-championship-round.webp",
-        "PDC European Tour": "assets/logos/leagues/pdc-european-tour.webp"
+        "PDC European Tour": "assets/logos/leagues/pdc-european-tour.webp",
+        "1st Liga, Relegation/Promotion Playoffs": "assets/logos/leagues/1st-liga-relegationpromotion-playoffs.webp"
     }
 }
