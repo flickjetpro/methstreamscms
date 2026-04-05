@@ -9965,7 +9965,14 @@
         "Neil Oberleitner": "assets/logos/upstreams/neil-oberleitner.webp",
         "Tomasz Berkieta": "assets/logos/upstreams/tomasz-berkieta.webp",
         "Luke Woodhouse": "assets/logos/upstreams/luke-woodhouse.webp",
-        "Kim Huybrechts": "assets/logos/upstreams/kim-huybrechts.webp"
+        "Kim Huybrechts": "assets/logos/upstreams/kim-huybrechts.webp",
+        "Bayern II": "assets/logos/upstreams/bayern-ii.webp",
+        "Vilzing": "assets/logos/upstreams/vilzing.webp",
+        "Dordrecht": "assets/logos/upstreams/dordrecht.webp",
+        "Eindhoven FC": "assets/logos/upstreams/eindhoven-fc.webp",
+        "R. Sociedad B": "assets/logos/upstreams/r-sociedad-b.webp",
+        "Parramatta Eels II": "assets/logos/upstreams/parramatta-eels-ii.webp",
+        "Western Suburbs": "assets/logos/upstreams/western-suburbs.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -11169,6 +11176,9 @@
         "Norway - 1.Division": "assets/logos/leagues/norway-1division.webp",
         "Denmark - SuperLeague - Gr.Retrogradare": "assets/logos/leagues/denmark-superleague-grretrogradare.webp",
         "Linz, Austria, Qualifying": "assets/logos/leagues/linz-austria-qualifying.webp",
-        "Monza, Italy, Qualifying": "assets/logos/leagues/monza-italy-qualifying.webp"
+        "Monza, Italy, Qualifying": "assets/logos/leagues/monza-italy-qualifying.webp",
+        "Regionalliga Bayern": "assets/logos/leagues/regionalliga-bayern.webp",
+        "ROmania - SuperLeague - Playoff": "assets/logos/leagues/romania-superleague-playoff.webp",
+        "NSW Cup": "assets/logos/leagues/nsw-cup.webp"
     }
 }
