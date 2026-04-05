@@ -10107,7 +10107,13 @@
         "Preston Brown": "assets/logos/upstreams/preston-brown.webp",
         "Bruno Kuzuhara": "assets/logos/upstreams/bruno-kuzuhara.webp",
         "Justin Roberts": "assets/logos/upstreams/justin-roberts.webp",
-        "Szymon Kielan": "assets/logos/upstreams/szymon-kielan.webp"
+        "Szymon Kielan": "assets/logos/upstreams/szymon-kielan.webp",
+        "OC Charleroi": "assets/logos/upstreams/oc-charleroi.webp",
+        "Haskovo": "assets/logos/upstreams/haskovo.webp",
+        "Politehnika": "assets/logos/upstreams/politehnika.webp",
+        "BC Udarnik": "assets/logos/upstreams/bc-udarnik.webp",
+        "Sliven Basket": "assets/logos/upstreams/sliven-basket.webp",
+        "BC Yambol": "assets/logos/upstreams/bc-yambol.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -11335,6 +11341,7 @@
         "German 2 Bundesliga": "assets/logos/leagues/german-2-bundesliga.webp",
         "Bundesliga, Championship Round": "assets/logos/leagues/bundesliga-championship-round.webp",
         "PDC European Tour": "assets/logos/leagues/pdc-european-tour.webp",
-        "1st Liga, Relegation/Promotion Playoffs": "assets/logos/leagues/1st-liga-relegationpromotion-playoffs.webp"
+        "1st Liga, Relegation/Promotion Playoffs": "assets/logos/leagues/1st-liga-relegationpromotion-playoffs.webp",
+        "German 3 liga": "assets/logos/leagues/german-3-liga.webp"
     }
 }
