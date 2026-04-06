@@ -10244,7 +10244,13 @@
         "ATP Masters Monte Carlo: Cobolli - Comesana": "assets/logos/upstreams/atp-masters-monte-carlo-cobolli-comesana.webp",
         "ATP Masters Monte Carlo: Vacherot": "assets/logos/upstreams/atp-masters-monte-carlo-vacherot.webp",
         "J.M. Cerundolo": "assets/logos/upstreams/jm-cerundolo.webp",
-        "Christian Garin": "assets/logos/upstreams/christian-garin.webp"
+        "Christian Garin": "assets/logos/upstreams/christian-garin.webp",
+        "SJK Akatemia": "assets/logos/upstreams/sjk-akatemia.webp",
+        "MP": "assets/logos/upstreams/mp.webp",
+        "Lautaro Agustin Falabella": "assets/logos/upstreams/lautaro-agustin-falabella.webp",
+        "Ezequiel Simonit": "assets/logos/upstreams/ezequiel-simonit.webp",
+        "Alejo Lorenzo Lingua Lavallen": "assets/logos/upstreams/alejo-lorenzo-lingua-lavallen.webp",
+        "Nikos Lehmann": "assets/logos/upstreams/nikos-lehmann.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -11497,6 +11503,7 @@
         "Campinas, Brazil": "assets/logos/leagues/campinas-brazil.webp",
         "Sarasota, USA": "assets/logos/leagues/sarasota-usa.webp",
         "UTR PTT Cordoba Men +H 03, Group B": "assets/logos/leagues/utr-ptt-cordoba-men-h-03-group-b.webp",
-        "UTR PTT Cordoba Men +H 03, Group C": "assets/logos/leagues/utr-ptt-cordoba-men-h-03-group-c.webp"
+        "UTR PTT Cordoba Men +H 03, Group C": "assets/logos/leagues/utr-ptt-cordoba-men-h-03-group-c.webp",
+        "UTR PTT Cordoba Men +H 03, Group A": "assets/logos/leagues/utr-ptt-cordoba-men-h-03-group-a.webp"
     }
 }
