@@ -10279,7 +10279,15 @@
         "Nicolas Jara Lozano": "assets/logos/upstreams/nicolas-jara-lozano.webp",
         "Fermin Tenti": "assets/logos/upstreams/fermin-tenti.webp",
         "Puhuttaret": "assets/logos/upstreams/puhuttaret.webp",
-        "Stefani Stoeva": "assets/logos/upstreams/stefani-stoeva.webp"
+        "Stefani Stoeva": "assets/logos/upstreams/stefani-stoeva.webp",
+        "Odra Opole": "assets/logos/upstreams/odra-opole.webp",
+        "Wisla": "assets/logos/upstreams/wisla.webp",
+        "Leczna": "assets/logos/upstreams/leczna.webp",
+        "Denislava Glushkova": "assets/logos/upstreams/denislava-glushkova.webp",
+        "Isabella Kruger": "assets/logos/upstreams/isabella-kruger.webp",
+        "Ana Mitevska": "assets/logos/upstreams/ana-mitevska.webp",
+        "Yasmin Ezzat": "assets/logos/upstreams/yasmin-ezzat.webp",
+        "Mavie Osterreicher": "assets/logos/upstreams/mavie-osterreicher.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -11536,6 +11544,9 @@
         "UTR PTT Cordoba Men +H 03, Group A": "assets/logos/leagues/utr-ptt-cordoba-men-h-03-group-a.webp",
         "UTR PTT Belgrade Women 03, Group D": "assets/logos/leagues/utr-ptt-belgrade-women-03-group-d.webp",
         "Championshipul Mondial": "assets/logos/leagues/championshipul-mondial.webp",
-        "UTR PTT Cordoba Men +H 03, Group D": "assets/logos/leagues/utr-ptt-cordoba-men-h-03-group-d.webp"
+        "UTR PTT Cordoba Men +H 03, Group D": "assets/logos/leagues/utr-ptt-cordoba-men-h-03-group-d.webp",
+        "ATP 1000": "assets/logos/leagues/atp-1000.webp",
+        "Cup Billie Jean King": "assets/logos/leagues/cup-billie-jean-king.webp",
+        "World Cup 2026 - Qualifiers": "assets/logos/leagues/world-cup-2026-qualifiers.webp"
     }
 }
