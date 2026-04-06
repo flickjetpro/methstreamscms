@@ -10321,7 +10321,13 @@
         "Jordan Chiu": "assets/logos/upstreams/jordan-chiu.webp",
         "Lily Stohl": "assets/logos/upstreams/lily-stohl.webp",
         "Britney Chiu": "assets/logos/upstreams/britney-chiu.webp",
-        "Avery Nguyen": "assets/logos/upstreams/avery-nguyen.webp"
+        "Avery Nguyen": "assets/logos/upstreams/avery-nguyen.webp",
+        "Odense Boldklub": "assets/logos/upstreams/odense-boldklub.webp",
+        "Csikszereda M Ciuc": "assets/logos/upstreams/csikszereda-m-ciuc.webp",
+        "Jera Staley": "assets/logos/upstreams/jera-staley.webp",
+        "Mathieu Perchicot": "assets/logos/upstreams/mathieu-perchicot.webp",
+        "Thomas Patton": "assets/logos/upstreams/thomas-patton.webp",
+        "Evan Vasiliadis": "assets/logos/upstreams/evan-vasiliadis.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -11586,6 +11592,9 @@
         "UTR PTT Melbourne Women 01, Group A": "assets/logos/leagues/utr-ptt-melbourne-women-01-group-a.webp",
         "Norway Eliteserien": "assets/logos/leagues/norway-eliteserien.webp",
         "UTR PTT Melbourne Men 01, Group D": "assets/logos/leagues/utr-ptt-melbourne-men-01-group-d.webp",
-        "Sweden in Indonesia, 8 T20I Series": "assets/logos/leagues/sweden-in-indonesia-8-t20i-series.webp"
+        "Sweden in Indonesia, 8 T20I Series": "assets/logos/leagues/sweden-in-indonesia-8-t20i-series.webp",
+        "ATP - Monte Carlo (MCO)": "assets/logos/leagues/atp-monte-carlo-mco.webp",
+        "WTA - Linz (AUT)": "assets/logos/leagues/wta-linz-aut.webp",
+        "UTR PTT Melbourne Men 01, Group C": "assets/logos/leagues/utr-ptt-melbourne-men-01-group-c.webp"
     }
 }
