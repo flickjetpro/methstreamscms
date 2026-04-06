@@ -10225,7 +10225,8 @@
         "Leonardo Iemmi": "assets/logos/upstreams/leonardo-iemmi.webp",
         "Chorale Roanne Basket": "assets/logos/upstreams/chorale-roanne-basket.webp",
         "ALM \u00c9vreux Basket": "assets/logos/upstreams/alm-\u00e9vreux-basket.webp",
-        "Elan B\u00e9arnais Pau-Lacq-Orthez": "assets/logos/upstreams/elan-b\u00e9arnais-pau-lacq-orthez.webp"
+        "Elan B\u00e9arnais Pau-Lacq-Orthez": "assets/logos/upstreams/elan-b\u00e9arnais-pau-lacq-orthez.webp",
+        "Enzo Camargo Lima": "assets/logos/upstreams/enzo-camargo-lima.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -11474,6 +11475,8 @@
         "2nd Division, Group 2": "assets/logos/leagues/2nd-division-group-2.webp",
         "Belgium - Pro League - Gr.Retrogradare": "assets/logos/leagues/belgium-pro-league-grretrogradare.webp",
         "Linz, Austria": "assets/logos/leagues/linz-austria.webp",
-        "Mexico City, Mexico": "assets/logos/leagues/mexico-city-mexico.webp"
+        "Mexico City, Mexico": "assets/logos/leagues/mexico-city-mexico.webp",
+        "Campinas, Brazil": "assets/logos/leagues/campinas-brazil.webp",
+        "Sarasota, USA": "assets/logos/leagues/sarasota-usa.webp"
     }
 }
