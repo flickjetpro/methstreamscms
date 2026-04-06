@@ -10145,7 +10145,9 @@
         "Uwi Blackbirds": "assets/logos/upstreams/uwi-blackbirds.webp",
         "George Lazarov": "assets/logos/upstreams/george-lazarov.webp",
         "Dusan Milanovic": "assets/logos/upstreams/dusan-milanovic.webp",
-        "SV Broki": "assets/logos/upstreams/sv-broki.webp"
+        "SV Broki": "assets/logos/upstreams/sv-broki.webp",
+        "Universidad Catolica": "assets/logos/upstreams/universidad-catolica.webp",
+        "Corinthians Paulista": "assets/logos/upstreams/corinthians-paulista.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -11382,6 +11384,9 @@
         "Monza, Italy": "assets/logos/leagues/monza-italy.webp",
         "UTR PTT Belgrade Women 03, Group C": "assets/logos/leagues/utr-ptt-belgrade-women-03-group-c.webp",
         "UTR PTT Belgrade Women 03, Group A": "assets/logos/leagues/utr-ptt-belgrade-women-03-group-a.webp",
-        "UTR PTT Belgrade Women 03, Group B": "assets/logos/leagues/utr-ptt-belgrade-women-03-group-b.webp"
+        "UTR PTT Belgrade Women 03, Group B": "assets/logos/leagues/utr-ptt-belgrade-women-03-group-b.webp",
+        "Copa Libertadores - Gr.C": "assets/logos/leagues/copa-libertadores-grc.webp",
+        "Copa Southamericana - Gr.G": "assets/logos/leagues/copa-southamericana-grg.webp",
+        "Copa Southamericana - Gr.E": "assets/logos/leagues/copa-southamericana-gre.webp"
     }
 }
