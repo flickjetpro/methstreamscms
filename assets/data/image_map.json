@@ -10339,7 +10339,11 @@
         "Mahi Khore": "assets/logos/upstreams/mahi-khore.webp",
         "Celtic W": "assets/logos/upstreams/celtic-w.webp",
         "Coastal Union": "assets/logos/upstreams/coastal-union.webp",
-        "Mtibwa Sugar": "assets/logos/upstreams/mtibwa-sugar.webp"
+        "Mtibwa Sugar": "assets/logos/upstreams/mtibwa-sugar.webp",
+        "Always Ready": "assets/logos/streamed/always-ready.webp",
+        "LDU de Quito": "assets/logos/streamed/ldu-de-quito.webp",
+        "U. Catolica": "assets/logos/streamed/u-catolica.webp",
+        "Zawisza Bydgoszcz": "assets/logos/streamed/zawisza-bydgoszcz.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
