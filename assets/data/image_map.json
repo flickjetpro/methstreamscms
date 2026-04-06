@@ -10272,7 +10272,9 @@
         "Bruno Carvalho": "assets/logos/upstreams/bruno-carvalho.webp",
         "Dicky Dwi PangEastu": "assets/logos/upstreams/dicky-dwi-pangeastu.webp",
         "Dimitar Yanakiev": "assets/logos/upstreams/dimitar-yanakiev.webp",
-        "Giovanni Toti": "assets/logos/upstreams/giovanni-toti.webp"
+        "Giovanni Toti": "assets/logos/upstreams/giovanni-toti.webp",
+        "MIranda Wilson": "assets/logos/upstreams/miranda-wilson.webp",
+        "Rosy Oktavia Pancasari": "assets/logos/upstreams/rosy-oktavia-pancasari.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -11527,6 +11529,7 @@
         "UTR PTT Cordoba Men +H 03, Group B": "assets/logos/leagues/utr-ptt-cordoba-men-h-03-group-b.webp",
         "UTR PTT Cordoba Men +H 03, Group C": "assets/logos/leagues/utr-ptt-cordoba-men-h-03-group-c.webp",
         "UTR PTT Cordoba Men +H 03, Group A": "assets/logos/leagues/utr-ptt-cordoba-men-h-03-group-a.webp",
-        "UTR PTT Belgrade Women 03, Group D": "assets/logos/leagues/utr-ptt-belgrade-women-03-group-d.webp"
+        "UTR PTT Belgrade Women 03, Group D": "assets/logos/leagues/utr-ptt-belgrade-women-03-group-d.webp",
+        "Championshipul Mondial": "assets/logos/leagues/championshipul-mondial.webp"
     }
 }
