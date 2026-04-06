@@ -10153,7 +10153,30 @@
         "Club Independiente": "assets/logos/upstreams/club-independiente.webp",
         "Ruslan Tiukaev": "assets/logos/upstreams/ruslan-tiukaev.webp",
         "Marko Miladinovic": "assets/logos/upstreams/marko-miladinovic.webp",
-        "Stefan Popovi\u0107": "assets/logos/upstreams/stefan-popovi\u0107.webp"
+        "Stefan Popovi\u0107": "assets/logos/upstreams/stefan-popovi\u0107.webp",
+        "Stal Rzesz\u00f3w": "assets/logos/upstreams/stal-rzesz\u00f3w.webp",
+        "Asane": "assets/logos/upstreams/asane.webp",
+        "Lyn FK": "assets/logos/upstreams/lyn-fk.webp",
+        "Haugesund": "assets/logos/upstreams/haugesund.webp",
+        "Odd BK": "assets/logos/upstreams/odd-bk.webp",
+        "Sogndal": "assets/logos/upstreams/sogndal.webp",
+        "Norrk\u00f6ping DFK": "assets/logos/upstreams/norrk\u00f6ping-dfk.webp",
+        "Sarpsborg 08": "assets/logos/upstreams/sarpsborg-08.webp",
+        "IK Start": "assets/logos/upstreams/ik-start.webp",
+        "Brann": "assets/logos/upstreams/brann.webp",
+        "Kristiansund": "assets/logos/upstreams/kristiansund.webp",
+        "LillEastrom": "assets/logos/upstreams/lilleastrom.webp",
+        "Legia Varsovia": "assets/logos/upstreams/legia-varsovia.webp",
+        "Tromso": "assets/logos/upstreams/tromso.webp",
+        "Pogo\u0144 Grodzisk Mazowiecki": "assets/logos/upstreams/pogo\u0144-grodzisk-mazowiecki.webp",
+        "Daniel Womersley": "assets/logos/upstreams/daniel-womersley.webp",
+        "Yang Gao": "assets/logos/upstreams/yang-gao.webp",
+        "Haris Tahir": "assets/logos/upstreams/haris-tahir.webp",
+        "Connor Benzey": "assets/logos/upstreams/connor-benzey.webp",
+        "Liam Pullen": "assets/logos/upstreams/liam-pullen.webp",
+        "Alfie Burden": "assets/logos/upstreams/alfie-burden.webp",
+        "Ken Doherty": "assets/logos/upstreams/ken-doherty.webp",
+        "Patrick Whelan": "assets/logos/upstreams/patrick-whelan.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -11396,6 +11419,7 @@
         "Copa Southamericana - Gr.E": "assets/logos/leagues/copa-southamericana-gre.webp",
         "CONMEBOL Libertadores, Group C": "assets/logos/leagues/conmebol-libertadores-group-c.webp",
         "CONMEBOL Sudamericana, Group G": "assets/logos/leagues/conmebol-sudamericana-group-g.webp",
-        "CONMEBOL Sudamericana, Group E": "assets/logos/leagues/conmebol-sudamericana-group-e.webp"
+        "CONMEBOL Sudamericana, Group E": "assets/logos/leagues/conmebol-sudamericana-group-e.webp",
+        "Denmark - SuperLeague - Gr.Championship": "assets/logos/leagues/denmark-superleague-grchampionship.webp"
     }
 }
