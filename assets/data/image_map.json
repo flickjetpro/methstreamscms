@@ -10539,7 +10539,13 @@
         "Cottbus": "assets/logos/upstreams/cottbus.webp",
         "Munich 1860": "assets/logos/upstreams/munich-1860.webp",
         "Nouakchott Academie": "assets/logos/upstreams/nouakchott-academie.webp",
-        "Arsenal --- CN HD": "assets/logos/upstreams/arsenal-cn-hd.webp"
+        "Arsenal --- CN HD": "assets/logos/upstreams/arsenal-cn-hd.webp",
+        "Arsenal --- CH 2 HD": "assets/logos/upstreams/arsenal-ch-2-hd.webp",
+        "Arsenal --- CH 3 HD": "assets/logos/upstreams/arsenal-ch-3-hd.webp",
+        "Thailand U20 W": "assets/logos/upstreams/thailand-u20-w.webp",
+        "Bangladesh U20 W": "assets/logos/upstreams/bangladesh-u20-w.webp",
+        "Dominique Schaefer": "assets/logos/upstreams/dominique-schaefer.webp",
+        "Malwina Rowinska": "assets/logos/upstreams/malwina-rowinska.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -11829,6 +11835,7 @@
         "Russian Cup, Qualification": "assets/logos/leagues/russian-cup-qualification.webp",
         "Singles Matches": "assets/logos/leagues/singles-matches.webp",
         "Sarasota, USA, Doubles": "assets/logos/leagues/sarasota-usa-doubles.webp",
-        "Switzerland Challenge League": "assets/logos/leagues/switzerland-challenge-league.webp"
+        "Switzerland Challenge League": "assets/logos/leagues/switzerland-challenge-league.webp",
+        "AFC Asian Cup Women U20": "assets/logos/leagues/afc-asian-cup-women-u20.webp"
     }
 }
