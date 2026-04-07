@@ -10372,7 +10372,19 @@
         "Carol Young-suh Lee": "assets/logos/upstreams/carol-young-suh-lee.webp",
         "Karol\u00edna Pl\u00ed\u0161kov\u00e1": "assets/logos/upstreams/karol\u00edna-pl\u00ed\u0161kov\u00e1.webp",
         "Kreishh Gurbaxani": "assets/logos/upstreams/kreishh-gurbaxani.webp",
-        "Sahil Nayyar": "assets/logos/upstreams/sahil-nayyar.webp"
+        "Sahil Nayyar": "assets/logos/upstreams/sahil-nayyar.webp",
+        "Hernan Casanova": "assets/logos/upstreams/hernan-casanova.webp",
+        "Zijiang Yang": "assets/logos/upstreams/zijiang-yang.webp",
+        "Seongwoo Cho": "assets/logos/upstreams/seongwoo-cho.webp",
+        "Duanrui Gao": "assets/logos/upstreams/duanrui-gao.webp",
+        "Yajing Cao": "assets/logos/upstreams/yajing-cao.webp",
+        "Jaeda Daniel": "assets/logos/upstreams/jaeda-daniel.webp",
+        "Shiho Tsujioka": "assets/logos/upstreams/shiho-tsujioka.webp",
+        "Anja Blazina": "assets/logos/upstreams/anja-blazina.webp",
+        "Jelena Buchberger": "assets/logos/upstreams/jelena-buchberger.webp",
+        "Cecilia Wang": "assets/logos/upstreams/cecilia-wang.webp",
+        "Vivien Sandorhazi": "assets/logos/upstreams/vivien-sandorhazi.webp",
+        "Petra Saarnivaara": "assets/logos/upstreams/petra-saarnivaara.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -11650,6 +11662,8 @@
         "CONMEBOL Libertadores, Group D": "assets/logos/leagues/conmebol-libertadores-group-d.webp",
         "CONMEBOL Libertadores, Group B": "assets/logos/leagues/conmebol-libertadores-group-b.webp",
         "Copa Libertadores - Gr.G": "assets/logos/leagues/copa-libertadores-grg.webp",
-        "Copa Southamericana - Gr.D": "assets/logos/leagues/copa-southamericana-grd.webp"
+        "Copa Southamericana - Gr.D": "assets/logos/leagues/copa-southamericana-grd.webp",
+        "CONMEBOL Sudamericana, Group D": "assets/logos/leagues/conmebol-sudamericana-group-d.webp",
+        "CONMEBOL Sudamericana, Group F": "assets/logos/leagues/conmebol-sudamericana-group-f.webp"
     }
 }
