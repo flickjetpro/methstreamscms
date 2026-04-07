@@ -10522,7 +10522,9 @@
         "Adam Duda": "assets/logos/upstreams/adam-duda.webp",
         "Corey Gaal": "assets/logos/upstreams/corey-gaal.webp",
         "Muhammad Dossani": "assets/logos/upstreams/muhammad-dossani.webp",
-        "Mahta Khanloo": "assets/logos/upstreams/mahta-khanloo.webp"
+        "Mahta Khanloo": "assets/logos/upstreams/mahta-khanloo.webp",
+        "Famalicao U23": "assets/logos/upstreams/famalicao-u23.webp",
+        "St Andrew Lions": "assets/logos/upstreams/st-andrew-lions.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -11807,6 +11809,7 @@
         "Copa Southamericana - Gr.C": "assets/logos/leagues/copa-southamericana-grc.webp",
         "Copa Libertadores - Gr.B": "assets/logos/leagues/copa-libertadores-grb.webp",
         "USA - USL League One": "assets/logos/leagues/usa-usl-league-one.webp",
-        "World Championship Qualifiers 2026": "assets/logos/leagues/world-championship-qualifiers-2026.webp"
+        "World Championship Qualifiers 2026": "assets/logos/leagues/world-championship-qualifiers-2026.webp",
+        "U23 Liga Revelacao, Championship Round": "assets/logos/leagues/u23-liga-revelacao-championship-round.webp"
     }
 }
