@@ -10621,7 +10621,13 @@
         "Sijia Wei": "assets/logos/upstreams/sijia-wei.webp",
         "Weiyi Kong": "assets/logos/upstreams/weiyi-kong.webp",
         "Hanyang Z.": "assets/logos/upstreams/hanyang-z.webp",
-        "El Hareedy M.": "assets/logos/upstreams/el-hareedy-m.webp"
+        "El Hareedy M.": "assets/logos/upstreams/el-hareedy-m.webp",
+        "Sarah Iliev": "assets/logos/upstreams/sarah-iliev.webp",
+        "Jenny Lim": "assets/logos/upstreams/jenny-lim.webp",
+        "Ferraroni Juvi Cremona 1952": "assets/logos/upstreams/ferraroni-juvi-cremona-1952.webp",
+        "Ya-Yi Yang": "assets/logos/upstreams/ya-yi-yang.webp",
+        "Yevheniia Kantemyr": "assets/logos/upstreams/yevheniia-kantemyr.webp",
+        "Ozge Bayrak": "assets/logos/upstreams/ozge-bayrak.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -11922,6 +11928,7 @@
         "Extreme Fighting Championship": "assets/logos/leagues/extreme-fighting-championship.webp",
         "CONMEBOL Sudamericana, Group A": "assets/logos/leagues/conmebol-sudamericana-group-a.webp",
         "Germany - DEL - Playoff": "assets/logos/leagues/germany-del-playoff.webp",
-        "CONMEBOL Libertadores, Group H": "assets/logos/leagues/conmebol-libertadores-group-h.webp"
+        "CONMEBOL Libertadores, Group H": "assets/logos/leagues/conmebol-libertadores-group-h.webp",
+        "EHF Euro Women, Qualification Phase 2 Group 4": "assets/logos/leagues/ehf-euro-women-qualification-phase-2-group-4.webp"
     }
 }
