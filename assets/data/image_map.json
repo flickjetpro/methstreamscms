@@ -10559,7 +10559,12 @@
         "Gianna Stiglich": "assets/logos/upstreams/gianna-stiglich.webp",
         "Pablo Abian": "assets/logos/upstreams/pablo-abian.webp",
         "Luciano Doria": "assets/logos/upstreams/luciano-doria.webp",
-        "Felipe De Dios": "assets/logos/upstreams/felipe-de-dios.webp"
+        "Felipe De Dios": "assets/logos/upstreams/felipe-de-dios.webp",
+        "Universidad Central Venezuela": "assets/logos/upstreams/universidad-central-venezuela.webp",
+        "Portugal W": "assets/logos/upstreams/portugal-w.webp",
+        "Montenegro W": "assets/logos/upstreams/montenegro-w.webp",
+        "Matunga Djikasa": "assets/logos/upstreams/matunga-djikasa.webp",
+        "Adama Diop": "assets/logos/upstreams/adama-diop.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -11850,6 +11855,13 @@
         "Singles Matches": "assets/logos/leagues/singles-matches.webp",
         "Sarasota, USA, Doubles": "assets/logos/leagues/sarasota-usa-doubles.webp",
         "Switzerland Challenge League": "assets/logos/leagues/switzerland-challenge-league.webp",
-        "AFC Asian Cup Women U20": "assets/logos/leagues/afc-asian-cup-women-u20.webp"
+        "AFC Asian Cup Women U20": "assets/logos/leagues/afc-asian-cup-women-u20.webp",
+        "CONMEBOL Sudamericana, Group H": "assets/logos/leagues/conmebol-sudamericana-group-h.webp",
+        "CONMEBOL Libertadores, Group A": "assets/logos/leagues/conmebol-libertadores-group-a.webp",
+        "CONMEBOL Libertadores, Group F": "assets/logos/leagues/conmebol-libertadores-group-f.webp",
+        "CONMEBOL Sudamericana, Group B": "assets/logos/leagues/conmebol-sudamericana-group-b.webp",
+        "Copa Libertadores - Gr.H": "assets/logos/leagues/copa-libertadores-grh.webp",
+        "Copa Southamericana - Gr.B": "assets/logos/leagues/copa-southamericana-grb.webp",
+        "Extreme Fighting Championship": "assets/logos/leagues/extreme-fighting-championship.webp"
     }
 }
