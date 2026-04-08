@@ -10677,7 +10677,9 @@
         "Zawisza": "assets/logos/upstreams/zawisza.webp",
         "Espoo Basket Team II": "assets/logos/upstreams/espoo-basket-team-ii.webp",
         "Leppavaaran Pyrinto": "assets/logos/upstreams/leppavaaran-pyrinto.webp",
-        "Kansas City Mavericks": "assets/logos/upstreams/kansas-city-mavericks.webp"
+        "Kansas City Mavericks": "assets/logos/upstreams/kansas-city-mavericks.webp",
+        "UCV": "assets/logos/streamed/ucv.webp",
+        "Deportivo Camioneros": "assets/logos/streamed/deportivo-camioneros.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
