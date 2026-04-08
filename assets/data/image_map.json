@@ -10668,7 +10668,8 @@
         "Jiangsu Phoenix": "assets/logos/upstreams/jiangsu-phoenix.webp",
         "Sichuan Blue Whale": "assets/logos/upstreams/sichuan-blue-whale.webp",
         "Xinjiang Wojiang": "assets/logos/upstreams/xinjiang-wojiang.webp",
-        "Shanxi Xing Rui Flame": "assets/logos/upstreams/shanxi-xing-rui-flame.webp"
+        "Shanxi Xing Rui Flame": "assets/logos/upstreams/shanxi-xing-rui-flame.webp",
+        "Panseraikos": "assets/logos/upstreams/panseraikos.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -11974,6 +11975,7 @@
         "EHF Euro Women, Qualification Phase 2 Group 5": "assets/logos/leagues/ehf-euro-women-qualification-phase-2-group-5.webp",
         "Korean Basketball League": "assets/logos/leagues/korean-basketball-league.webp",
         "Thailand Cup": "assets/logos/leagues/thailand-cup.webp",
-        "WCBA, Playoffs": "assets/logos/leagues/wcba-playoffs.webp"
+        "WCBA, Playoffs": "assets/logos/leagues/wcba-playoffs.webp",
+        "Super League, Relegation Round": "assets/logos/leagues/super-league-relegation-round.webp"
     }
 }
