@@ -10737,7 +10737,8 @@
         "LDLC ASVEL Villeurbanne": "assets/logos/streamed/ldlc-asvel-villeurbanne.webp",
         "Crvena Zvezda Meridianbet Belgrade": "assets/logos/streamed/crvena-zvezda-meridianbet-belgrade.webp",
         "Melbourne": "assets/logos/streamed/melbourne.webp",
-        "Essendon": "assets/logos/streamed/essendon.webp"
+        "Essendon": "assets/logos/streamed/essendon.webp",
+        "GAS RR": "assets/logos/upstreams/gas-rr.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
