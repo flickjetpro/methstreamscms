@@ -10784,7 +10784,13 @@
         "Samantha Martinez": "assets/logos/upstreams/samantha-martinez.webp",
         "Ismaily": "assets/logos/upstreams/ismaily.webp",
         "Andrea Magallanes": "assets/logos/upstreams/andrea-magallanes.webp",
-        "Antalya": "assets/logos/upstreams/antalya.webp"
+        "Antalya": "assets/logos/upstreams/antalya.webp",
+        "VPS Vaasa": "assets/logos/upstreams/vps-vaasa.webp",
+        "Jaro": "assets/logos/upstreams/jaro.webp",
+        "Riga FC II": "assets/logos/upstreams/riga-fc-ii.webp",
+        "JDSF Alberts": "assets/logos/upstreams/jdsf-alberts.webp",
+        "Vikingur Reykjavik": "assets/logos/upstreams/vikingur-reykjavik.webp",
+        "Breidablik": "assets/logos/upstreams/breidablik.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -12110,6 +12116,7 @@
         "UTR PTT Melbourne Women 01, 13-16 Playoffs": "assets/logos/leagues/utr-ptt-melbourne-women-01-13-16-playoffs.webp",
         "UTR PTT Melbourne Women 01, 1-4 Playoffs": "assets/logos/leagues/utr-ptt-melbourne-women-01-1-4-playoffs.webp",
         "Israel State Cup": "assets/logos/leagues/israel-state-cup.webp",
-        "Premier League, Night 10": "assets/logos/leagues/premier-league-night-10.webp"
+        "Premier League, Night 10": "assets/logos/leagues/premier-league-night-10.webp",
+        "Iceland - Urvalsdeild": "assets/logos/leagues/iceland-urvalsdeild.webp"
     }
 }
