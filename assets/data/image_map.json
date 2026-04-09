@@ -10771,7 +10771,16 @@
         "Adam (2004) Duda": "assets/logos/upstreams/adam-2004-duda.webp",
         "Greta Nemcsek": "assets/logos/upstreams/greta-nemcsek.webp",
         "Bazar Brothers FC": "assets/logos/upstreams/bazar-brothers-fc.webp",
-        "Dilana Rsovac": "assets/logos/upstreams/dilana-rsovac.webp"
+        "Dilana Rsovac": "assets/logos/upstreams/dilana-rsovac.webp",
+        "Peru Women": "assets/logos/streamed/peru-women.webp",
+        "Uruguay Women": "assets/logos/streamed/uruguay-women.webp",
+        "Paraguay Women": "assets/logos/streamed/paraguay-women.webp",
+        "Ecuador Women": "assets/logos/streamed/ecuador-women.webp",
+        "Venezuela W": "assets/logos/streamed/venezuela-w.webp",
+        "Gen\u00e7lerbirli\u011fi S.K.": "assets/logos/streamed/gen\u00e7lerbirli\u011fi-sk.webp",
+        "H Beer Sheva": "assets/logos/upstreams/h-beer-sheva.webp",
+        "Bnei Yehuda": "assets/logos/upstreams/bnei-yehuda.webp",
+        "Silvana Fajardo": "assets/logos/upstreams/silvana-fajardo.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -12095,6 +12104,7 @@
         "Ligue A": "assets/logos/leagues/ligue-a.webp",
         "Premijer Liga": "assets/logos/leagues/premijer-liga.webp",
         "UTR PTT Melbourne Women 01, 13-16 Playoffs": "assets/logos/leagues/utr-ptt-melbourne-women-01-13-16-playoffs.webp",
-        "UTR PTT Melbourne Women 01, 1-4 Playoffs": "assets/logos/leagues/utr-ptt-melbourne-women-01-1-4-playoffs.webp"
+        "UTR PTT Melbourne Women 01, 1-4 Playoffs": "assets/logos/leagues/utr-ptt-melbourne-women-01-1-4-playoffs.webp",
+        "Israel State Cup": "assets/logos/leagues/israel-state-cup.webp"
     }
 }
