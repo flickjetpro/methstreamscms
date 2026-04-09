@@ -10769,7 +10769,9 @@
         "Natalija Senic": "assets/logos/upstreams/natalija-senic.webp",
         "Iveta Dapkute": "assets/logos/upstreams/iveta-dapkute.webp",
         "Adam (2004) Duda": "assets/logos/upstreams/adam-2004-duda.webp",
-        "Greta Nemcsek": "assets/logos/upstreams/greta-nemcsek.webp"
+        "Greta Nemcsek": "assets/logos/upstreams/greta-nemcsek.webp",
+        "Bazar Brothers FC": "assets/logos/upstreams/bazar-brothers-fc.webp",
+        "Dilana Rsovac": "assets/logos/upstreams/dilana-rsovac.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -12091,6 +12093,8 @@
         "New Zealand NBL": "assets/logos/leagues/new-zealand-nbl.webp",
         "CONCACAF Champions League": "assets/logos/leagues/concacaf-champions-league.webp",
         "Ligue A": "assets/logos/leagues/ligue-a.webp",
-        "Premijer Liga": "assets/logos/leagues/premijer-liga.webp"
+        "Premijer Liga": "assets/logos/leagues/premijer-liga.webp",
+        "UTR PTT Melbourne Women 01, 13-16 Playoffs": "assets/logos/leagues/utr-ptt-melbourne-women-01-13-16-playoffs.webp",
+        "UTR PTT Melbourne Women 01, 1-4 Playoffs": "assets/logos/leagues/utr-ptt-melbourne-women-01-1-4-playoffs.webp"
     }
 }
