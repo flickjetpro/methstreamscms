@@ -10738,7 +10738,12 @@
         "Crvena Zvezda Meridianbet Belgrade": "assets/logos/streamed/crvena-zvezda-meridianbet-belgrade.webp",
         "Melbourne": "assets/logos/streamed/melbourne.webp",
         "Essendon": "assets/logos/streamed/essendon.webp",
-        "GAS RR": "assets/logos/upstreams/gas-rr.webp"
+        "GAS RR": "assets/logos/upstreams/gas-rr.webp",
+        "Zdravlje Leskovac": "assets/logos/upstreams/zdravlje-leskovac.webp",
+        "KK Beko Belgrade": "assets/logos/upstreams/kk-beko-belgrade.webp",
+        "Ibc": "assets/logos/upstreams/ibc.webp",
+        "Klik Arilje": "assets/logos/upstreams/klik-arilje.webp",
+        "Tours": "assets/logos/upstreams/tours.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -12058,6 +12063,7 @@
         "Copa Libertadores, Group A": "assets/logos/leagues/copa-libertadores-group-a.webp",
         "Israel - Cup": "assets/logos/leagues/israel-cup.webp",
         "New Zealand NBL": "assets/logos/leagues/new-zealand-nbl.webp",
-        "CONCACAF Champions League": "assets/logos/leagues/concacaf-champions-league.webp"
+        "CONCACAF Champions League": "assets/logos/leagues/concacaf-champions-league.webp",
+        "Ligue A": "assets/logos/leagues/ligue-a.webp"
     }
 }
