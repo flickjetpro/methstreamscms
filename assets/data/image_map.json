@@ -10717,7 +10717,27 @@
         "Camioneros": "assets/logos/upstreams/camioneros.webp",
         "Manawatu Jets": "assets/logos/upstreams/manawatu-jets.webp",
         "Taranaki Airs": "assets/logos/upstreams/taranaki-airs.webp",
-        "Julie \u0160truplov\u00e1": "assets/logos/upstreams/julie-\u0161truplov\u00e1.webp"
+        "Julie \u0160truplov\u00e1": "assets/logos/upstreams/julie-\u0161truplov\u00e1.webp",
+        "CD Victoria": "assets/logos/streamed/cd-victoria.webp",
+        "Svay Rieng": "assets/logos/streamed/svay-rieng.webp",
+        "Manila Digger": "assets/logos/streamed/manila-digger.webp",
+        "Gornyak-UGMK": "assets/logos/streamed/gornyak-ugmk.webp",
+        "Ittihad Kalba": "assets/logos/streamed/ittihad-kalba.webp",
+        "Grobi\u0146as": "assets/logos/streamed/grobi\u0146as.webp",
+        "Fenerbahce Beko Istanbul": "assets/logos/streamed/fenerbahce-beko-istanbul.webp",
+        "EA7 Emporio Armani Milan": "assets/logos/streamed/ea7-emporio-armani-milan.webp",
+        "FC Bayern Munich Basketball": "assets/logos/streamed/fc-bayern-munich-basketball.webp",
+        "Valencia Basketball": "assets/logos/streamed/valencia-basketball.webp",
+        "Panathinaikos Athens Basketball": "assets/logos/streamed/panathinaikos-athens-basketball.webp",
+        "Fremantle": "assets/logos/streamed/fremantle.webp",
+        "AS Monaco Basketball": "assets/logos/streamed/as-monaco-basketball.webp",
+        "FC Barcelona Basketball": "assets/logos/streamed/fc-barcelona-basketball.webp",
+        "Partizan Mozzart Bet Belgrade": "assets/logos/streamed/partizan-mozzart-bet-belgrade.webp",
+        "Baskonia Vitoria-Gasteiz": "assets/logos/streamed/baskonia-vitoria-gasteiz.webp",
+        "LDLC ASVEL Villeurbanne": "assets/logos/streamed/ldlc-asvel-villeurbanne.webp",
+        "Crvena Zvezda Meridianbet Belgrade": "assets/logos/streamed/crvena-zvezda-meridianbet-belgrade.webp",
+        "Melbourne": "assets/logos/streamed/melbourne.webp",
+        "Essendon": "assets/logos/streamed/essendon.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -12036,6 +12056,7 @@
         "Billie Jean King Cup, Qualifiers": "assets/logos/leagues/billie-jean-king-cup-qualifiers.webp",
         "Copa Libertadores, Group A": "assets/logos/leagues/copa-libertadores-group-a.webp",
         "Israel - Cup": "assets/logos/leagues/israel-cup.webp",
-        "New Zealand NBL": "assets/logos/leagues/new-zealand-nbl.webp"
+        "New Zealand NBL": "assets/logos/leagues/new-zealand-nbl.webp",
+        "CONCACAF Champions League": "assets/logos/leagues/concacaf-champions-league.webp"
     }
 }
