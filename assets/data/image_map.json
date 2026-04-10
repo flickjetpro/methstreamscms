@@ -10839,7 +10839,24 @@
         "Deportes Santa Cruz": "assets/logos/upstreams/deportes-santa-cruz.webp",
         "Deportes Magallanes": "assets/logos/upstreams/deportes-magallanes.webp",
         "FC Supra Du Quebec": "assets/logos/upstreams/fc-supra-du-quebec.webp",
-        "Karolina Pliskova": "assets/logos/upstreams/karolina-pliskova.webp"
+        "Karolina Pliskova": "assets/logos/upstreams/karolina-pliskova.webp",
+        "J\u00e4PS": "assets/logos/upstreams/j\u00e4ps.webp",
+        "MP Mikkeli": "assets/logos/upstreams/mp-mikkeli.webp",
+        "Grenoble Foot 38": "assets/logos/upstreams/grenoble-foot-38.webp",
+        "Sonja Zhiyenbayeva": "assets/logos/upstreams/sonja-zhiyenbayeva.webp",
+        "Daria Yesypchuk": "assets/logos/upstreams/daria-yesypchuk.webp",
+        "Sara Daavettila": "assets/logos/upstreams/sara-daavettila.webp",
+        "Torneo Montecarlo (T2026): Auger-Aliassime": "assets/logos/upstreams/torneo-montecarlo-t2026-auger-aliassime.webp",
+        "Sinner": "assets/logos/upstreams/sinner.webp",
+        "S\u00e9lestat Alsace Handball": "assets/logos/upstreams/s\u00e9lestat-alsace-handball.webp",
+        "Jiri Prochazka": "assets/logos/upstreams/jiri-prochazka.webp",
+        "Carlos Ulberg": "assets/logos/upstreams/carlos-ulberg.webp",
+        "Patricio Freire": "assets/logos/upstreams/patricio-freire.webp",
+        "Aaron Pico": "assets/logos/upstreams/aaron-pico.webp",
+        "Mika Stojsavljevic": "assets/logos/upstreams/mika-stojsavljevic.webp",
+        "Esther Adeshina": "assets/logos/upstreams/esther-adeshina.webp",
+        "Eliz Maloney": "assets/logos/upstreams/eliz-maloney.webp",
+        "Eva Marie Voracek": "assets/logos/upstreams/eva-marie-voracek.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -12170,6 +12187,8 @@
         "Friendly International Women": "assets/logos/leagues/friendly-international-women.webp",
         "Six Nations Women": "assets/logos/leagues/six-nations-women.webp",
         "UFC 327: Proch\u00e1zka vs. Ulberg": "assets/logos/leagues/ufc-327-proch\u00e1zka-vs-ulberg.webp",
-        "International Friendly Games, Women": "assets/logos/leagues/international-friendly-games-women.webp"
+        "International Friendly Games, Women": "assets/logos/leagues/international-friendly-games-women.webp",
+        "Billie Jean King Cup, Singles Matches, Qualifiers": "assets/logos/leagues/billie-jean-king-cup-singles-matches-qualifiers.webp",
+        "UTR PTT Melbourne Men 01, 5-8 Playoffs": "assets/logos/leagues/utr-ptt-melbourne-men-01-5-8-playoffs.webp"
     }
 }
