@@ -10832,7 +10832,14 @@
         "Tatiana USArez": "assets/logos/upstreams/tatiana-usarez.webp",
         "Kevin Holland": "assets/logos/upstreams/kevin-holland.webp",
         "Randy Brown": "assets/logos/upstreams/randy-brown.webp",
-        "Denver": "assets/logos/streamed/denver.webp"
+        "Denver": "assets/logos/streamed/denver.webp",
+        "RB Leipzig U19": "assets/logos/upstreams/rb-leipzig-u19.webp",
+        "M\u00f6nchengladbach U19": "assets/logos/upstreams/m\u00f6nchengladbach-u19.webp",
+        "St. Etienne": "assets/logos/upstreams/st-etienne.webp",
+        "Deportes Santa Cruz": "assets/logos/upstreams/deportes-santa-cruz.webp",
+        "Deportes Magallanes": "assets/logos/upstreams/deportes-magallanes.webp",
+        "FC Supra Du Quebec": "assets/logos/upstreams/fc-supra-du-quebec.webp",
+        "Karolina Pliskova": "assets/logos/upstreams/karolina-pliskova.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -12162,6 +12169,7 @@
         "Iceland - Urvalsdeild": "assets/logos/leagues/iceland-urvalsdeild.webp",
         "Friendly International Women": "assets/logos/leagues/friendly-international-women.webp",
         "Six Nations Women": "assets/logos/leagues/six-nations-women.webp",
-        "UFC 327: Proch\u00e1zka vs. Ulberg": "assets/logos/leagues/ufc-327-proch\u00e1zka-vs-ulberg.webp"
+        "UFC 327: Proch\u00e1zka vs. Ulberg": "assets/logos/leagues/ufc-327-proch\u00e1zka-vs-ulberg.webp",
+        "International Friendly Games, Women": "assets/logos/leagues/international-friendly-games-women.webp"
     }
 }
