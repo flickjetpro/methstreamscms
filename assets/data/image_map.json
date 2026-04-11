@@ -10991,7 +10991,22 @@
         "Orlando City II": "assets/logos/upstreams/orlando-city-ii.webp",
         "Benfica de Macau": "assets/logos/upstreams/benfica-de-macau.webp",
         "Botafogo SP": "assets/logos/upstreams/botafogo-sp.webp",
-        "Alice Robbe": "assets/logos/upstreams/alice-robbe.webp"
+        "Alice Robbe": "assets/logos/upstreams/alice-robbe.webp",
+        "Follo": "assets/logos/upstreams/follo.webp",
+        "Kjelsas": "assets/logos/upstreams/kjelsas.webp",
+        "Pors": "assets/logos/upstreams/pors.webp",
+        "Campobasso": "assets/logos/upstreams/campobasso.webp",
+        "AC Bra": "assets/logos/upstreams/ac-bra.webp",
+        "Gefle": "assets/logos/upstreams/gefle.webp",
+        "FC Jarfalla": "assets/logos/upstreams/fc-jarfalla.webp",
+        "Hammarby Talang": "assets/logos/upstreams/hammarby-talang.webp",
+        "Ascoli Calcio": "assets/logos/upstreams/ascoli-calcio.webp",
+        "Ironi Tiberias": "assets/logos/upstreams/ironi-tiberias.webp",
+        "SC Ashdod": "assets/logos/upstreams/sc-ashdod.webp",
+        "Bnei Sakhnin": "assets/logos/upstreams/bnei-sakhnin.webp",
+        "Eva Marie Vorace": "assets/logos/upstreams/eva-marie-vorace.webp",
+        "KK Zemun": "assets/logos/upstreams/kk-zemun.webp",
+        "Polzela": "assets/logos/upstreams/polzela.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -12353,6 +12368,8 @@
         "UTR PTT Belgrade Women 03": "assets/logos/leagues/utr-ptt-belgrade-women-03.webp",
         "China - Super League": "assets/logos/leagues/china-super-league.webp",
         "Scottish - Premiership": "assets/logos/leagues/scottish-premiership.webp",
-        "USA - MLS": "assets/logos/leagues/usa-mls.webp"
+        "USA - MLS": "assets/logos/leagues/usa-mls.webp",
+        "Sweden - Ettan Norra": "assets/logos/leagues/sweden-ettan-norra.webp",
+        "Israel - Premier League": "assets/logos/leagues/israel-premier-league.webp"
     }
 }
