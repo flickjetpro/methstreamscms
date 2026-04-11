@@ -11056,7 +11056,9 @@
         "Light Stars FC": "assets/logos/upstreams/light-stars-fc.webp",
         "Nakhon Ratchasima FC": "assets/logos/upstreams/nakhon-ratchasima-fc.webp",
         "Kings XI Punjab": "assets/logos/upstreams/kings-xi-punjab.webp",
-        "Sandra Samir": "assets/logos/upstreams/sandra-samir.webp"
+        "Sandra Samir": "assets/logos/upstreams/sandra-samir.webp",
+        "Muzinga FC": "assets/logos/upstreams/muzinga-fc.webp",
+        "Dunav Stari Banovci": "assets/logos/upstreams/dunav-stari-banovci.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -12429,6 +12431,7 @@
         "Barcelona, Spain, Qualifying": "assets/logos/leagues/barcelona-spain-qualifying.webp",
         "UTR PTT Belgrade Women 03, 9-12 Playoffs": "assets/logos/leagues/utr-ptt-belgrade-women-03-9-12-playoffs.webp",
         "Australia - NPL - Northern Territory": "assets/logos/leagues/australia-npl-northern-territory.webp",
-        "UTR PTT Belgrade Women 03, 5-8 Playoffs": "assets/logos/leagues/utr-ptt-belgrade-women-03-5-8-playoffs.webp"
+        "UTR PTT Belgrade Women 03, 5-8 Playoffs": "assets/logos/leagues/utr-ptt-belgrade-women-03-5-8-playoffs.webp",
+        "Italy Serie B": "assets/logos/leagues/italy-serie-b.webp"
     }
 }
