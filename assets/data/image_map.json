@@ -11006,7 +11006,15 @@
         "Bnei Sakhnin": "assets/logos/upstreams/bnei-sakhnin.webp",
         "Eva Marie Vorace": "assets/logos/upstreams/eva-marie-vorace.webp",
         "KK Zemun": "assets/logos/upstreams/kk-zemun.webp",
-        "Polzela": "assets/logos/upstreams/polzela.webp"
+        "Polzela": "assets/logos/upstreams/polzela.webp",
+        "Granville Rage": "assets/logos/upstreams/granville-rage.webp",
+        "Bankstown United": "assets/logos/upstreams/bankstown-united.webp",
+        "Ekenas": "assets/logos/upstreams/ekenas.webp",
+        "CA San Miguel": "assets/logos/upstreams/ca-san-miguel.webp",
+        "Deportivo Moron": "assets/logos/upstreams/deportivo-moron.webp",
+        "ABB": "assets/logos/upstreams/abb.webp",
+        "Colon de Santa Fe": "assets/logos/upstreams/colon-de-santa-fe.webp",
+        "Racing Cordoba": "assets/logos/upstreams/racing-cordoba.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -12370,6 +12378,7 @@
         "Scottish - Premiership": "assets/logos/leagues/scottish-premiership.webp",
         "USA - MLS": "assets/logos/leagues/usa-mls.webp",
         "Sweden - Ettan Norra": "assets/logos/leagues/sweden-ettan-norra.webp",
-        "Israel - Premier League": "assets/logos/leagues/israel-premier-league.webp"
+        "Israel - Premier League": "assets/logos/leagues/israel-premier-league.webp",
+        "Australia - NSW - Premier League 2": "assets/logos/leagues/australia-nsw-premier-league-2.webp"
     }
 }
