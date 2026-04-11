@@ -11048,7 +11048,9 @@
         "Astrid Lew Yan Foon": "assets/logos/upstreams/astrid-lew-yan-foon.webp",
         "Maria Kozyreva": "assets/logos/upstreams/maria-kozyreva.webp",
         "Macau Chiba Fc": "assets/logos/upstreams/macau-chiba-fc.webp",
-        "Jesper de Jong": "assets/logos/upstreams/jesper-de-jong.webp"
+        "Jesper de Jong": "assets/logos/upstreams/jesper-de-jong.webp",
+        "Tiantsoa R. Rajaonah": "assets/logos/upstreams/tiantsoa-r-rajaonah.webp",
+        "Stephen Hendry": "assets/logos/upstreams/stephen-hendry.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -12417,6 +12419,8 @@
         "UTR PTT Melbourne Men 01": "assets/logos/leagues/utr-ptt-melbourne-men-01.webp",
         "WTA Billie Jean King Cup": "assets/logos/leagues/wta-billie-jean-king-cup.webp",
         "Atp Monte Carlo": "assets/logos/leagues/atp-monte-carlo.webp",
-        "UTR PTT Belgrade Women 03, 1-4 Playoffs": "assets/logos/leagues/utr-ptt-belgrade-women-03-1-4-playoffs.webp"
+        "UTR PTT Belgrade Women 03, 1-4 Playoffs": "assets/logos/leagues/utr-ptt-belgrade-women-03-1-4-playoffs.webp",
+        "Barcelona, Spain, Qualifying": "assets/logos/leagues/barcelona-spain-qualifying.webp",
+        "UTR PTT Belgrade Women 03, 9-12 Playoffs": "assets/logos/leagues/utr-ptt-belgrade-women-03-9-12-playoffs.webp"
     }
 }
