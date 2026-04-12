@@ -11103,7 +11103,20 @@
         "Noppon Saengkham": "assets/logos/upstreams/noppon-saengkham.webp",
         "Jak Jones": "assets/logos/upstreams/jak-jones.webp",
         "Marco Fu": "assets/logos/upstreams/marco-fu.webp",
-        "Palmer Mallorca Palma": "assets/logos/upstreams/palmer-mallorca-palma.webp"
+        "Palmer Mallorca Palma": "assets/logos/upstreams/palmer-mallorca-palma.webp",
+        "Ranheim": "assets/logos/upstreams/ranheim.webp",
+        "Crown Legacy": "assets/logos/upstreams/crown-legacy.webp",
+        "Vancouver Whitecaps II": "assets/logos/upstreams/vancouver-whitecaps-ii.webp",
+        "Nelson": "assets/logos/upstreams/nelson.webp",
+        "Canterbury": "assets/logos/upstreams/canterbury.webp",
+        "Porta Xi Ensino (W)": "assets/logos/upstreams/porta-xi-ensino-w.webp",
+        "WEast Canberra Wanderers (W)": "assets/logos/upstreams/weast-canberra-wanderers-w.webp",
+        "Analu Freitas": "assets/logos/upstreams/analu-freitas.webp",
+        "Ventura County": "assets/logos/upstreams/ventura-county.webp",
+        "Real Monarchs": "assets/logos/upstreams/real-monarchs.webp",
+        "Wellington": "assets/logos/upstreams/wellington.webp",
+        "Mindil Aces": "assets/logos/upstreams/mindil-aces.webp",
+        "Jil Teichmann": "assets/logos/upstreams/jil-teichmann.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -12484,6 +12497,7 @@
         "Halo World Championship": "assets/logos/leagues/halo-world-championship.webp",
         "Montenegro - I A MCKL": "assets/logos/leagues/montenegro-i-a-mckl.webp",
         "PFL Chicago: Pettis vs. McKee": "assets/logos/leagues/pfl-chicago-pettis-vs-mckee.webp",
-        "UTR PTT Cordoba Men 03": "assets/logos/leagues/utr-ptt-cordoba-men-03.webp"
+        "UTR PTT Cordoba Men 03": "assets/logos/leagues/utr-ptt-cordoba-men-03.webp",
+        "A-league": "assets/logos/leagues/a-league.webp"
     }
 }
