@@ -11232,7 +11232,9 @@
         "Austria W": "assets/logos/streamed/austria-w.webp",
         "Nicolas Ciancaglini": "assets/logos/upstreams/nicolas-ciancaglini.webp",
         "Joao Vitor Scramin do Lago": "assets/logos/upstreams/joao-vitor-scramin-do-lago.webp",
-        "PrEaston Brown": "assets/logos/upstreams/preaston-brown.webp"
+        "PrEaston Brown": "assets/logos/upstreams/preaston-brown.webp",
+        "Old Road Jets": "assets/logos/upstreams/old-road-jets.webp",
+        "Gastao Elias": "assets/logos/upstreams/gastao-elias.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -12625,6 +12627,7 @@
         "Santa Cruz, Bolivia, Qualifying": "assets/logos/leagues/santa-cruz-bolivia-qualifying.webp",
         "ATP Munich": "assets/logos/leagues/atp-munich.webp",
         "ATP Barcelona": "assets/logos/leagues/atp-barcelona.webp",
-        "WTA Stuttgart": "assets/logos/leagues/wta-stuttgart.webp"
+        "WTA Stuttgart": "assets/logos/leagues/wta-stuttgart.webp",
+        "Oeiras 3, Portugal": "assets/logos/leagues/oeiras-3-portugal.webp"
     }
 }
