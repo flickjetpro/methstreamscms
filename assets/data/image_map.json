@@ -11116,7 +11116,28 @@
         "Real Monarchs": "assets/logos/upstreams/real-monarchs.webp",
         "Wellington": "assets/logos/upstreams/wellington.webp",
         "Mindil Aces": "assets/logos/upstreams/mindil-aces.webp",
-        "Jil Teichmann": "assets/logos/upstreams/jil-teichmann.webp"
+        "Jil Teichmann": "assets/logos/upstreams/jil-teichmann.webp",
+        "Kaya FC": "assets/logos/upstreams/kaya-fc.webp",
+        "Brunei DPMM": "assets/logos/upstreams/brunei-dpmm.webp",
+        "Defensores Belgrano": "assets/logos/upstreams/defensores-belgrano.webp",
+        "Ciudad Bolivar": "assets/logos/upstreams/ciudad-bolivar.webp",
+        "Gimnasia y Esgrima Jujuy": "assets/logos/upstreams/gimnasia-y-esgrima-jujuy.webp",
+        "CA All Boys": "assets/logos/upstreams/ca-all-boys.webp",
+        "Central Norte Salta": "assets/logos/upstreams/central-norte-salta.webp",
+        "Mineros Zacatecas": "assets/logos/upstreams/mineros-zacatecas.webp",
+        "San Jose de Oruro": "assets/logos/upstreams/san-jose-de-oruro.webp",
+        "Nagano Parceiro": "assets/logos/upstreams/nagano-parceiro.webp",
+        "Tochigi": "assets/logos/upstreams/tochigi.webp",
+        "Tochigi City": "assets/logos/upstreams/tochigi-city.webp",
+        "Vanraure Hachnohe": "assets/logos/upstreams/vanraure-hachnohe.webp",
+        "Fukushima United": "assets/logos/upstreams/fukushima-united.webp",
+        "Omiya Ardija": "assets/logos/upstreams/omiya-ardija.webp",
+        "Ehime": "assets/logos/upstreams/ehime.webp",
+        "Zwiegen Kanazawa": "assets/logos/upstreams/zwiegen-kanazawa.webp",
+        "Ryukyu": "assets/logos/upstreams/ryukyu.webp",
+        "PDRM": "assets/logos/upstreams/pdrm.webp",
+        "Universidad de Concepcion": "assets/logos/upstreams/universidad-de-concepcion.webp",
+        "Atletico de Cali": "assets/logos/upstreams/atletico-de-cali.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -12498,6 +12519,7 @@
         "Montenegro - I A MCKL": "assets/logos/leagues/montenegro-i-a-mckl.webp",
         "PFL Chicago: Pettis vs. McKee": "assets/logos/leagues/pfl-chicago-pettis-vs-mckee.webp",
         "UTR PTT Cordoba Men 03": "assets/logos/leagues/utr-ptt-cordoba-men-03.webp",
-        "A-league": "assets/logos/leagues/a-league.webp"
+        "A-league": "assets/logos/leagues/a-league.webp",
+        "UTR PTT Melbourne Men 02, Group D": "assets/logos/leagues/utr-ptt-melbourne-men-02-group-d.webp"
     }
 }
