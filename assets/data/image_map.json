@@ -11328,7 +11328,8 @@
         "Jong Ajax Amsterdam": "assets/logos/upstreams/jong-ajax-amsterdam.webp",
         "Vitesse Arnhem": "assets/logos/upstreams/vitesse-arnhem.webp",
         "Tractor Sazi Tabriz": "assets/logos/upstreams/tractor-sazi-tabriz.webp",
-        "Shabab Al Ahli": "assets/logos/upstreams/shabab-al-ahli.webp"
+        "Shabab Al Ahli": "assets/logos/upstreams/shabab-al-ahli.webp",
+        "Moos Van Donk": "assets/logos/upstreams/moos-van-donk.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -12729,6 +12730,7 @@
         "UTR PTT Melbourne Women 02, Group A": "assets/logos/leagues/utr-ptt-melbourne-women-02-group-a.webp",
         "WTA Rouen": "assets/logos/leagues/wta-rouen.webp",
         "Barcelona, Spain": "assets/logos/leagues/barcelona-spain.webp",
-        "Singapore Premier League": "assets/logos/leagues/singapore-premier-league.webp"
+        "Singapore Premier League": "assets/logos/leagues/singapore-premier-league.webp",
+        "UTR PTT Belgrade Women 04, Group D": "assets/logos/leagues/utr-ptt-belgrade-women-04-group-d.webp"
     }
 }
