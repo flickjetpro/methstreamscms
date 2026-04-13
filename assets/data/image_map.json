@@ -11243,7 +11243,15 @@
         "FMP": "assets/logos/upstreams/fmp.webp",
         "Armenia Women": "assets/logos/streamed/armenia-women.webp",
         "Moldova Women": "assets/logos/streamed/moldova-women.webp",
-        "SV Caiquetio": "assets/logos/upstreams/sv-caiquetio.webp"
+        "SV Caiquetio": "assets/logos/upstreams/sv-caiquetio.webp",
+        "New York City II": "assets/logos/upstreams/new-york-city-ii.webp",
+        "Real Tomayapo": "assets/logos/upstreams/real-tomayapo.webp",
+        "San Martin de San Juan": "assets/logos/upstreams/san-martin-de-san-juan.webp",
+        "Jack Bruce Smith": "assets/logos/upstreams/jack-bruce-smith.webp",
+        "Ben Woollaston": "assets/logos/upstreams/ben-woollaston.webp",
+        "Stephen Maguire": "assets/logos/upstreams/stephen-maguire.webp",
+        "Allister Carter": "assets/logos/upstreams/allister-carter.webp",
+        "Orsomarso": "assets/logos/upstreams/orsomarso.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
