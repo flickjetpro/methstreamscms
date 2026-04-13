@@ -11343,7 +11343,9 @@
         "Albania Women": "assets/logos/streamed/albania-women.webp",
         "Bolivia Women": "assets/logos/streamed/bolivia-women.webp",
         "El Gaish": "assets/logos/upstreams/el-gaish.webp",
-        "Univ Craiova": "assets/logos/upstreams/univ-craiova.webp"
+        "Univ Craiova": "assets/logos/upstreams/univ-craiova.webp",
+        "Anthony McGill": "assets/logos/upstreams/anthony-mcgill.webp",
+        "Martin O'Donnell": "assets/logos/upstreams/martin-odonnell.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
