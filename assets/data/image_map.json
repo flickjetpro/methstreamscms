@@ -11289,7 +11289,32 @@
         "Katerina Melicharova": "assets/logos/upstreams/katerina-melicharova.webp",
         "Zala Bizjak": "assets/logos/upstreams/zala-bizjak.webp",
         "Armenia (W)": "assets/logos/upstreams/armenia-w.webp",
-        "Belarus (W)": "assets/logos/upstreams/belarus-w.webp"
+        "Belarus (W)": "assets/logos/upstreams/belarus-w.webp",
+        "Botic Van De Zandschulp": "assets/logos/upstreams/botic-van-de-zandschulp.webp",
+        "Arina Bulatova": "assets/logos/upstreams/arina-bulatova.webp",
+        "Raul Clarijs": "assets/logos/upstreams/raul-clarijs.webp",
+        "Daria Kasatkina": "assets/logos/upstreams/daria-kasatkina.webp",
+        "Moos van Donk": "assets/logos/upstreams/moos-van-donk.webp",
+        "Anastasiia Firman": "assets/logos/upstreams/anastasiia-firman.webp",
+        "Franco Tamagnone": "assets/logos/upstreams/franco-tamagnone.webp",
+        "Jaume Munar": "assets/logos/upstreams/jaume-munar.webp",
+        "Valentin Garay": "assets/logos/upstreams/valentin-garay.webp",
+        "Aleksandar Mihailovic": "assets/logos/upstreams/aleksandar-mihailovic.webp",
+        "Marko Nikolic": "assets/logos/upstreams/marko-nikolic.webp",
+        "Alesia Breaz": "assets/logos/upstreams/alesia-breaz.webp",
+        "Amadatus Admiraal": "assets/logos/upstreams/amadatus-admiraal.webp",
+        "Sarah Olff": "assets/logos/upstreams/sarah-olff.webp",
+        "Emily Webley-Smith": "assets/logos/upstreams/emily-webley-smith.webp",
+        "Dmitry Dolzhenkov": "assets/logos/upstreams/dmitry-dolzhenkov.webp",
+        "Ruth Roura Llaverias": "assets/logos/upstreams/ruth-roura-llaverias.webp",
+        "Ana Konjuh": "assets/logos/upstreams/ana-konjuh.webp",
+        "Tina Manescu": "assets/logos/upstreams/tina-manescu.webp",
+        "Juan Ignacio Gallego": "assets/logos/upstreams/juan-ignacio-gallego.webp",
+        "Yana Morderger": "assets/logos/upstreams/yana-morderger.webp",
+        "Stefanie Auer": "assets/logos/upstreams/stefanie-auer.webp",
+        "Francisco Tomas Geschwind": "assets/logos/upstreams/francisco-tomas-geschwind.webp",
+        "Federico Coria": "assets/logos/upstreams/federico-coria.webp",
+        "Dmitry Popko": "assets/logos/upstreams/dmitry-popko.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -12687,6 +12712,7 @@
         "Finland - Cup": "assets/logos/leagues/finland-cup.webp",
         "NBA, Play-IN Tournament": "assets/logos/leagues/nba-play-in-tournament.webp",
         "Busan, Korea Republic": "assets/logos/leagues/busan-korea-republic.webp",
-        "UTR PTT Melbourne Women 02, Group A": "assets/logos/leagues/utr-ptt-melbourne-women-02-group-a.webp"
+        "UTR PTT Melbourne Women 02, Group A": "assets/logos/leagues/utr-ptt-melbourne-women-02-group-a.webp",
+        "WTA Rouen": "assets/logos/leagues/wta-rouen.webp"
     }
 }
