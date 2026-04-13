@@ -11331,7 +11331,8 @@
         "Shabab Al Ahli": "assets/logos/upstreams/shabab-al-ahli.webp",
         "Moos Van Donk": "assets/logos/upstreams/moos-van-donk.webp",
         "Braga U23": "assets/logos/upstreams/braga-u23.webp",
-        "Nika Stor": "assets/logos/upstreams/nika-stor.webp"
+        "Nika Stor": "assets/logos/upstreams/nika-stor.webp",
+        "Farense U23": "assets/logos/upstreams/farense-u23.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -12734,6 +12735,9 @@
         "Barcelona, Spain": "assets/logos/leagues/barcelona-spain.webp",
         "Singapore Premier League": "assets/logos/leagues/singapore-premier-league.webp",
         "UTR PTT Belgrade Women 04, Group D": "assets/logos/leagues/utr-ptt-belgrade-women-04-group-d.webp",
-        "Munich, Germany": "assets/logos/leagues/munich-germany.webp"
+        "Munich, Germany": "assets/logos/leagues/munich-germany.webp",
+        "Rouen, France": "assets/logos/leagues/rouen-france.webp",
+        "UTR PTT Belgrade Men 03, Group B": "assets/logos/leagues/utr-ptt-belgrade-men-03-group-b.webp",
+        "UTR PTT Belgrade Men 03, Group D": "assets/logos/leagues/utr-ptt-belgrade-men-03-group-d.webp"
     }
 }
