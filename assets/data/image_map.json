@@ -11349,7 +11349,11 @@
         "Jimmy Robertson": "assets/logos/upstreams/jimmy-robertson.webp",
         "Taranaki Mountainairs": "assets/logos/upstreams/taranaki-mountainairs.webp",
         "Matthew Stevens": "assets/logos/upstreams/matthew-stevens.webp",
-        "Juan Pablo II": "assets/logos/upstreams/juan-pablo-ii.webp"
+        "Juan Pablo II": "assets/logos/upstreams/juan-pablo-ii.webp",
+        "Club Universitario de Deportes": "assets/logos/upstreams/club-universitario-de-deportes.webp",
+        "Luneburg": "assets/logos/upstreams/luneburg.webp",
+        "Steaua Bucure\u015fti": "assets/logos/upstreams/steaua-bucure\u015fti.webp",
+        "Bihor Oradea": "assets/logos/upstreams/bihor-oradea.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -12760,6 +12764,7 @@
         "UTR PTT Cordoba Men +H 04, Group B": "assets/logos/leagues/utr-ptt-cordoba-men-h-04-group-b.webp",
         "UTR PTT Cordoba Men +H 04, Group C": "assets/logos/leagues/utr-ptt-cordoba-men-h-04-group-c.webp",
         "UTR PTT Cordoba Men +H 04, Group A": "assets/logos/leagues/utr-ptt-cordoba-men-h-04-group-a.webp",
-        "Portugal Liga 2": "assets/logos/leagues/portugal-liga-2.webp"
+        "Portugal Liga 2": "assets/logos/leagues/portugal-liga-2.webp",
+        "CEV Cup Hague": "assets/logos/leagues/cev-cup-hague.webp"
     }
 }
