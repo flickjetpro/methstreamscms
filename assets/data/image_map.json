@@ -11493,7 +11493,10 @@
         "Club Libertad": "assets/logos/streamed/club-libertad.webp",
         "Queens Park": "assets/logos/upstreams/queens-park.webp",
         "El Ismaily": "assets/logos/upstreams/el-ismaily.webp",
-        "Marcel Volz": "assets/logos/upstreams/marcel-volz.webp"
+        "Marcel Volz": "assets/logos/upstreams/marcel-volz.webp",
+        "Thiago Seyboth Wild": "assets/logos/upstreams/thiago-seyboth-wild.webp",
+        "O'Connor Knights": "assets/logos/upstreams/oconnor-knights.webp",
+        "UTC de Cajamarca": "assets/logos/upstreams/utc-de-cajamarca.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
