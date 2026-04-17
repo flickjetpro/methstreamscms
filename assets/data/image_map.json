@@ -11661,7 +11661,9 @@
         "Correcaminos": "assets/logos/upstreams/correcaminos.webp",
         "CRVENA ZVEZDA": "assets/logos/upstreams/crvena-zvezda.webp",
         "VOJVODINA": "assets/logos/upstreams/vojvodina.webp",
-        "\u017delezni\u010dar": "assets/logos/upstreams/\u017eelezni\u010dar.webp"
+        "\u017delezni\u010dar": "assets/logos/upstreams/\u017eelezni\u010dar.webp",
+        "Iva Ivanova": "assets/logos/upstreams/iva-ivanova.webp",
+        "Madelief Hageman": "assets/logos/upstreams/madelief-hageman.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
