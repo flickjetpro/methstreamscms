@@ -11739,7 +11739,10 @@
         "Gr\u010dka liga: Playoffs: Panathinaikos - Olympiacos": "assets/logos/upstreams/gr\u010dka-liga-playoffs-panathinaikos-olympiacos.webp",
         "Melbourne Football Club": "assets/logos/streamed/melbourne-football-club.webp",
         "Fremantle Football Club": "assets/logos/streamed/fremantle-football-club.webp",
-        "Al-Hussein Irbid": "assets/logos/upstreams/al-hussein-irbid.webp"
+        "Al-Hussein Irbid": "assets/logos/upstreams/al-hussein-irbid.webp",
+        "Enkoping SK": "assets/logos/upstreams/enkoping-sk.webp",
+        "Olympique Marseille": "assets/logos/upstreams/olympique-marseille.webp",
+        "Hapoel Petah Tikva": "assets/logos/upstreams/hapoel-petah-tikva.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
