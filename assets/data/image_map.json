@@ -11715,7 +11715,28 @@
         "Wimbledon": "assets/logos/upstreams/wimbledon.webp",
         "Malkiya Club": "assets/logos/upstreams/malkiya-club.webp",
         "Al Shabab Manama": "assets/logos/upstreams/al-shabab-manama.webp",
-        "Uthai Thani": "assets/logos/upstreams/uthai-thani.webp"
+        "Uthai Thani": "assets/logos/upstreams/uthai-thani.webp",
+        "Zacatecas Mineros": "assets/logos/upstreams/zacatecas-mineros.webp",
+        "Al Hussein": "assets/logos/upstreams/al-hussein.webp",
+        "Araguaina": "assets/logos/upstreams/araguaina.webp",
+        "Kyler Phillips": "assets/logos/upstreams/kyler-phillips.webp",
+        "Charles Jourdain": "assets/logos/upstreams/charles-jourdain.webp",
+        "Dennis Buzukja": "assets/logos/upstreams/dennis-buzukja.webp",
+        "Marcio Barbosa": "assets/logos/upstreams/marcio-barbosa.webp",
+        "Thiago Moises": "assets/logos/upstreams/thiago-moises.webp",
+        "Gauge Young": "assets/logos/upstreams/gauge-young.webp",
+        "Metz W": "assets/logos/upstreams/metz-w.webp",
+        "Gyor W": "assets/logos/upstreams/gyor-w.webp",
+        "Duren": "assets/logos/upstreams/duren.webp",
+        "Dallas": "assets/logos/upstreams/dallas.webp",
+        "Kuwait SC": "assets/logos/upstreams/kuwait-sc.webp",
+        "Al Hussein Irbid": "assets/logos/upstreams/al-hussein-irbid.webp",
+        "Mandel Nallo": "assets/logos/upstreams/mandel-nallo.webp",
+        "Jai Herbert": "assets/logos/upstreams/jai-herbert.webp",
+        "DYNAMO MAKH.": "assets/logos/upstreams/dynamo-makh.webp",
+        "ZENIT": "assets/logos/upstreams/zenit.webp",
+        "Lumezzane | 210 min": "assets/logos/upstreams/lumezzane-210-min.webp",
+        "Gr\u010dka liga: Playoffs: Panathinaikos - Olympiacos": "assets/logos/upstreams/gr\u010dka-liga-playoffs-panathinaikos-olympiacos.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -13173,6 +13194,7 @@
         "German Bundesliga": "assets/logos/leagues/german-bundesliga.webp",
         "Croatia - HMNL": "assets/logos/leagues/croatia-hmnl.webp",
         "Israel - Super League": "assets/logos/leagues/israel-super-league.webp",
-        "England - League One": "assets/logos/leagues/england-league-one.webp"
+        "England - League One": "assets/logos/leagues/england-league-one.webp",
+        "1. Bundesliga": "assets/logos/leagues/1-bundesliga.webp"
     }
 }
