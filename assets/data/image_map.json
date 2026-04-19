@@ -11847,7 +11847,9 @@
         "Anton Chekhov": "assets/logos/upstreams/anton-chekhov.webp",
         "Lilian Poling": "assets/logos/upstreams/lilian-poling.webp",
         "Ophelia Korpanec Davies": "assets/logos/upstreams/ophelia-korpanec-davies.webp",
-        "Nikita Belozertsev": "assets/logos/upstreams/nikita-belozertsev.webp"
+        "Nikita Belozertsev": "assets/logos/upstreams/nikita-belozertsev.webp",
+        "Alessandro Spadola": "assets/logos/upstreams/alessandro-spadola.webp",
+        "Simone Rossolino": "assets/logos/upstreams/simone-rossolino.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -13337,6 +13339,7 @@
         "Canada Premier League": "assets/logos/leagues/canada-premier-league.webp",
         "Fiji - Premier League": "assets/logos/leagues/fiji-premier-league.webp",
         "Gwangju, Korea Republic, Qualifying": "assets/logos/leagues/gwangju-korea-republic-qualifying.webp",
-        "NHL, Playoffs": "assets/logos/leagues/nhl-playoffs.webp"
+        "NHL, Playoffs": "assets/logos/leagues/nhl-playoffs.webp",
+        "Rome, Italy, Qualifying": "assets/logos/leagues/rome-italy-qualifying.webp"
     }
 }
