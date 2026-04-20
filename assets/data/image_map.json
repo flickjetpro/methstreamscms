@@ -11957,7 +11957,9 @@
         "Valeria Monko": "assets/logos/upstreams/valeria-monko.webp",
         "Enmanuel Munoz": "assets/logos/upstreams/enmanuel-munoz.webp",
         "Roberto Herman": "assets/logos/upstreams/roberto-herman.webp",
-        "Wulfrano Martinez Mora Esdras": "assets/logos/upstreams/wulfrano-martinez-mora-esdras.webp"
+        "Wulfrano Martinez Mora Esdras": "assets/logos/upstreams/wulfrano-martinez-mora-esdras.webp",
+        "Ararat-Armenia": "assets/logos/upstreams/ararat-armenia.webp",
+        "Noah": "assets/logos/upstreams/noah.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -13460,6 +13462,7 @@
         "WCH U18": "assets/logos/leagues/wch-u18.webp",
         "Primera Divisionarg Lanus": "assets/logos/leagues/primera-divisionarg-lanus.webp",
         "Primera Division Huracan": "assets/logos/leagues/primera-division-huracan.webp",
-        "Turkish Cup Fenerbahce": "assets/logos/leagues/turkish-cup-fenerbahce.webp"
+        "Turkish Cup Fenerbahce": "assets/logos/leagues/turkish-cup-fenerbahce.webp",
+        "Armenia Premier League": "assets/logos/leagues/armenia-premier-league.webp"
     }
 }
