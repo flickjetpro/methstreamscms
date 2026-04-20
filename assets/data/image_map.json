@@ -11887,7 +11887,8 @@
         "Pierre Delage": "assets/logos/upstreams/pierre-delage.webp",
         "Herbert Jody Maginley": "assets/logos/upstreams/herbert-jody-maginley.webp",
         "Hong Yi Cody Wong": "assets/logos/upstreams/hong-yi-cody-wong.webp",
-        "Shabab Al-Ahli Dubai, AFC Champions League": "assets/logos/upstreams/shabab-al-ahli-dubai-afc-champions-league.webp"
+        "Shabab Al-Ahli Dubai, AFC Champions League": "assets/logos/upstreams/shabab-al-ahli-dubai-afc-champions-league.webp",
+        "Czech Republic U18": "assets/logos/upstreams/czech-republic-u18.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -13386,6 +13387,7 @@
         "Copa do Brasil": "assets/logos/leagues/copa-do-brasil.webp",
         "Turkish Cup": "assets/logos/leagues/turkish-cup.webp",
         "Euroleague, Play-in": "assets/logos/leagues/euroleague-play-in.webp",
-        "AFC Champions League Elite, Knockout stage": "assets/logos/leagues/afc-champions-league-elite-knockout-stage.webp"
+        "AFC Champions League Elite, Knockout stage": "assets/logos/leagues/afc-champions-league-elite-knockout-stage.webp",
+        "WCH U18": "assets/logos/leagues/wch-u18.webp"
     }
 }
