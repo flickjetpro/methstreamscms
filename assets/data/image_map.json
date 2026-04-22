@@ -12156,7 +12156,9 @@
         "Fafe": "assets/logos/streamed/fafe.webp",
         "Al Riyadh": "assets/logos/streamed/al-riyadh.webp",
         "Olimpija U19": "assets/logos/upstreams/olimpija-u19.webp",
-        "KK Zadar U19": "assets/logos/upstreams/kk-zadar-u19.webp"
+        "KK Zadar U19": "assets/logos/upstreams/kk-zadar-u19.webp",
+        "Yannic Nittmann": "assets/logos/upstreams/yannic-nittmann.webp",
+        "Salvador Price": "assets/logos/upstreams/salvador-price.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
