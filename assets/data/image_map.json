@@ -12176,7 +12176,9 @@
         "JCA": "assets/logos/upstreams/jca.webp",
         "Spain U17": "assets/logos/streamed/spain-u17.webp",
         "Ukraine U17": "assets/logos/streamed/ukraine-u17.webp",
-        "Rafael Alfonso De Alba Valdes": "assets/logos/upstreams/rafael-alfonso-de-alba-valdes.webp"
+        "Rafael Alfonso De Alba Valdes": "assets/logos/upstreams/rafael-alfonso-de-alba-valdes.webp",
+        "I.Swiatek": "assets/logos/upstreams/iswiatek.webp",
+        "D.Snigur": "assets/logos/upstreams/dsnigur.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
