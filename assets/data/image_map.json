@@ -12185,7 +12185,11 @@
         "Bucaneros de La Guaira": "assets/logos/upstreams/bucaneros-de-la-guaira.webp",
         "BKMA": "assets/logos/upstreams/bkma.webp",
         "Urartu": "assets/logos/upstreams/urartu.webp",
-        "Mj\u00e4llby": "assets/logos/streamed/mj\u00e4llby.webp"
+        "Mj\u00e4llby": "assets/logos/streamed/mj\u00e4llby.webp",
+        "Braintree": "assets/logos/streamed/braintree.webp",
+        "Sutton Utd": "assets/logos/streamed/sutton-utd.webp",
+        "Carlisle": "assets/logos/streamed/carlisle.webp",
+        "York": "assets/logos/streamed/york.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
