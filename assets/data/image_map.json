@@ -12310,7 +12310,9 @@
         "Luawa": "assets/logos/upstreams/luawa.webp",
         "Square": "assets/logos/upstreams/square.webp",
         "US Oyonnax": "assets/logos/upstreams/us-oyonnax.webp",
-        "Bay FC (W)": "assets/logos/upstreams/bay-fc-w.webp"
+        "Bay FC (W)": "assets/logos/upstreams/bay-fc-w.webp",
+        "Betancourt P / De Rozas R J": "assets/logos/upstreams/betancourt-p-de-rozas-r-j.webp",
+        "Hayen A / Roddick J": "assets/logos/upstreams/hayen-a-roddick-j.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
