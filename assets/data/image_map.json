@@ -12312,7 +12312,9 @@
         "US Oyonnax": "assets/logos/upstreams/us-oyonnax.webp",
         "Bay FC (W)": "assets/logos/upstreams/bay-fc-w.webp",
         "Betancourt P / De Rozas R J": "assets/logos/upstreams/betancourt-p-de-rozas-r-j.webp",
-        "Hayen A / Roddick J": "assets/logos/upstreams/hayen-a-roddick-j.webp"
+        "Hayen A / Roddick J": "assets/logos/upstreams/hayen-a-roddick-j.webp",
+        "Bombers Fc": "assets/logos/upstreams/bombers-fc.webp",
+        "South East": "assets/logos/upstreams/south-east.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -13860,6 +13862,7 @@
         "Greek Cup": "assets/logos/leagues/greek-cup.webp",
         "USL Cup": "assets/logos/leagues/usl-cup.webp",
         "Super Rygbi Cymru": "assets/logos/leagues/super-rygbi-cymru.webp",
-        "USA - WNBA (W) - Preseason": "assets/logos/leagues/usa-wnba-w-preseason.webp"
+        "USA - WNBA (W) - Preseason": "assets/logos/leagues/usa-wnba-w-preseason.webp",
+        "Dominica - Premier League": "assets/logos/leagues/dominica-premier-league.webp"
     }
 }
