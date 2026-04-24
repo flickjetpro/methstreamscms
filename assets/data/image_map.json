@@ -12229,7 +12229,10 @@
         "Washington Mystics (W)": "assets/logos/upstreams/washington-mystics-w.webp",
         "Hannover 96 II U23": "assets/logos/upstreams/hannover-96-ii-u23.webp",
         "FC Inter Wanica": "assets/logos/upstreams/fc-inter-wanica.webp",
-        "Al Ahly SC": "assets/logos/upstreams/al-ahly-sc.webp"
+        "Al Ahly SC": "assets/logos/upstreams/al-ahly-sc.webp",
+        "Remo PA": "assets/logos/upstreams/remo-pa.webp",
+        "Tomayapo": "assets/logos/upstreams/tomayapo.webp",
+        "Matt Guymon": "assets/logos/upstreams/matt-guymon.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
