@@ -12394,7 +12394,10 @@
         "Rachel Chan": "assets/logos/upstreams/rachel-chan.webp",
         "Vital'O": "assets/logos/upstreams/vitalo.webp",
         "Exeter": "assets/logos/upstreams/exeter.webp",
-        "Mlada Boleslav B": "assets/logos/upstreams/mlada-boleslav-b.webp"
+        "Mlada Boleslav B": "assets/logos/upstreams/mlada-boleslav-b.webp",
+        "Bai Bureh Warriors": "assets/logos/upstreams/bai-bureh-warriors.webp",
+        "Slifa FC": "assets/logos/upstreams/slifa-fc.webp",
+        "Kodai Naraoka": "assets/logos/upstreams/kodai-naraoka.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -13953,6 +13956,7 @@
         "Australia - A-League": "assets/logos/leagues/australia-a-league.webp",
         "Uganda - Premier League": "assets/logos/leagues/uganda-premier-league.webp",
         "County Championship One": "assets/logos/leagues/county-championship-one.webp",
-        "Czech - 3. CFL - Gr.B": "assets/logos/leagues/czech-3-cfl-grb.webp"
+        "Czech - 3. CFL - Gr.B": "assets/logos/leagues/czech-3-cfl-grb.webp",
+        "Spain - Segunda FEB": "assets/logos/leagues/spain-segunda-feb.webp"
     }
 }
