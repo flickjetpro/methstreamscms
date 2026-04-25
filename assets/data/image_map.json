@@ -12398,7 +12398,10 @@
         "Bai Bureh Warriors": "assets/logos/upstreams/bai-bureh-warriors.webp",
         "Slifa FC": "assets/logos/upstreams/slifa-fc.webp",
         "Kodai Naraoka": "assets/logos/upstreams/kodai-naraoka.webp",
-        "Eliel Melleri": "assets/logos/upstreams/eliel-melleri.webp"
+        "Eliel Melleri": "assets/logos/upstreams/eliel-melleri.webp",
+        "Odd": "assets/logos/upstreams/odd.webp",
+        "GV San Jose": "assets/logos/upstreams/gv-san-jose.webp",
+        "Ananda Galvani Daniswara": "assets/logos/upstreams/ananda-galvani-daniswara.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -13958,6 +13961,7 @@
         "Uganda - Premier League": "assets/logos/leagues/uganda-premier-league.webp",
         "County Championship One": "assets/logos/leagues/county-championship-one.webp",
         "Czech - 3. CFL - Gr.B": "assets/logos/leagues/czech-3-cfl-grb.webp",
-        "Spain - Segunda FEB": "assets/logos/leagues/spain-segunda-feb.webp"
+        "Spain - Segunda FEB": "assets/logos/leagues/spain-segunda-feb.webp",
+        "Cage Warriors 205: Burlinson vs. Clancy Jr.": "assets/logos/leagues/cage-warriors-205-burlinson-vs-clancy-jr.webp"
     }
 }
