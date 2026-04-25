@@ -12393,7 +12393,8 @@
         "Nadeem Dalvi": "assets/logos/upstreams/nadeem-dalvi.webp",
         "Rachel Chan": "assets/logos/upstreams/rachel-chan.webp",
         "Vital'O": "assets/logos/upstreams/vitalo.webp",
-        "Exeter": "assets/logos/upstreams/exeter.webp"
+        "Exeter": "assets/logos/upstreams/exeter.webp",
+        "Mlada Boleslav B": "assets/logos/upstreams/mlada-boleslav-b.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -13951,6 +13952,7 @@
         "Malawi - Super League": "assets/logos/leagues/malawi-super-league.webp",
         "Australia - A-League": "assets/logos/leagues/australia-a-league.webp",
         "Uganda - Premier League": "assets/logos/leagues/uganda-premier-league.webp",
-        "County Championship One": "assets/logos/leagues/county-championship-one.webp"
+        "County Championship One": "assets/logos/leagues/county-championship-one.webp",
+        "Czech - 3. CFL - Gr.B": "assets/logos/leagues/czech-3-cfl-grb.webp"
     }
 }
