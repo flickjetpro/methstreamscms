@@ -12383,7 +12383,9 @@
         "Anse Reunion FC": "assets/logos/upstreams/anse-reunion-fc.webp",
         "Chiangrai Utd": "assets/logos/upstreams/chiangrai-utd.webp",
         "Faye Huo": "assets/logos/upstreams/faye-huo.webp",
-        "CBA": "assets/logos/upstreams/cba.webp"
+        "CBA": "assets/logos/upstreams/cba.webp",
+        "Surrey": "assets/logos/upstreams/surrey.webp",
+        "Essex": "assets/logos/upstreams/essex.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -13940,6 +13942,7 @@
         "Primera LPF, Apertura": "assets/logos/leagues/primera-lpf-apertura.webp",
         "Malawi - Super League": "assets/logos/leagues/malawi-super-league.webp",
         "Australia - A-League": "assets/logos/leagues/australia-a-league.webp",
-        "Uganda - Premier League": "assets/logos/leagues/uganda-premier-league.webp"
+        "Uganda - Premier League": "assets/logos/leagues/uganda-premier-league.webp",
+        "County Championship One": "assets/logos/leagues/county-championship-one.webp"
     }
 }
