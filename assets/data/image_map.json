@@ -12410,7 +12410,10 @@
         "South Africa U20": "assets/logos/upstreams/south-africa-u20.webp",
         "Germany U18": "assets/logos/upstreams/germany-u18.webp",
         "Dominik Recek": "assets/logos/upstreams/dominik-recek.webp",
-        "Nadi FC": "assets/logos/upstreams/nadi-fc.webp"
+        "Nadi FC": "assets/logos/upstreams/nadi-fc.webp",
+        "Blue Eagles": "assets/logos/upstreams/blue-eagles.webp",
+        "Ekhaya FC": "assets/logos/upstreams/ekhaya-fc.webp",
+        "Ksenia Zaytseva": "assets/logos/upstreams/ksenia-zaytseva.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
