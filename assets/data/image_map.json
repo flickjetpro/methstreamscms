@@ -12459,7 +12459,11 @@
         "Alexander Wagner": "assets/logos/upstreams/alexander-wagner.webp",
         "Trey Hilderbrand": "assets/logos/upstreams/trey-hilderbrand.webp",
         "Bastian Berenz": "assets/logos/upstreams/bastian-berenz.webp",
-        "Timo Rosenkranz Koenig": "assets/logos/upstreams/timo-rosenkranz-koenig.webp"
+        "Timo Rosenkranz Koenig": "assets/logos/upstreams/timo-rosenkranz-koenig.webp",
+        "ROman Postolka": "assets/logos/upstreams/roman-postolka.webp",
+        "Martin Doskocil": "assets/logos/upstreams/martin-doskocil.webp",
+        "Jakub Kusy": "assets/logos/upstreams/jakub-kusy.webp",
+        "Pawel Juszczak": "assets/logos/upstreams/pawel-juszczak.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
@@ -14025,6 +14029,8 @@
         "ECHL, Playoffs": "assets/logos/leagues/echl-playoffs.webp",
         "VFL": "assets/logos/leagues/vfl.webp",
         "Twenty20 International": "assets/logos/leagues/twenty20-international.webp",
-        "EHF - European Cup": "assets/logos/leagues/ehf-european-cup.webp"
+        "EHF - European Cup": "assets/logos/leagues/ehf-european-cup.webp",
+        "Ostrava, Czech Republic, Qualifying": "assets/logos/leagues/ostrava-czech-republic-qualifying.webp",
+        "Mauthausen, Austria, Qualifying": "assets/logos/leagues/mauthausen-austria-qualifying.webp"
     }
 }
