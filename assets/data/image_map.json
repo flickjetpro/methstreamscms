@@ -12653,7 +12653,8 @@
         "Mito": "assets/logos/upstreams/mito.webp",
         "Urawa Reds": "assets/logos/upstreams/urawa-reds.webp",
         "Okayama": "assets/logos/upstreams/okayama.webp",
-        "Kyoto": "assets/logos/upstreams/kyoto.webp"
+        "Kyoto": "assets/logos/upstreams/kyoto.webp",
+        "Dallas Wings": "assets/logos/streamed/dallas-wings.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
