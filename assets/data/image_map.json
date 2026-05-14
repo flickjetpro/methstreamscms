@@ -12746,7 +12746,15 @@
         "Cronulla-Sutherland Sharks": "assets/logos/streamed/cronulla-sutherland-sharks.webp",
         "Turkey U18": "assets/logos/streamed/turkey-u18.webp",
         "Hungary U18": "assets/logos/streamed/hungary-u18.webp",
-        "San Martin S.J.": "assets/logos/streamed/san-martin-sj.webp"
+        "San Martin S.J.": "assets/logos/streamed/san-martin-sj.webp",
+        "Finland Ice Hockey": "assets/logos/streamed/finland-ice-hockey.webp",
+        "Germany Ice Hockey": "assets/logos/streamed/germany-ice-hockey.webp",
+        "Canada Ice Hockey": "assets/logos/streamed/canada-ice-hockey.webp",
+        "Sweden Ice Hockey": "assets/logos/streamed/sweden-ice-hockey.webp",
+        "USA Ice Hockey": "assets/logos/streamed/usa-ice-hockey.webp",
+        "Switzerland Ice Hockey": "assets/logos/streamed/switzerland-ice-hockey.webp",
+        "Czech Republic Ice Hockey": "assets/logos/streamed/czech-republic-ice-hockey.webp",
+        "Denmark Ice Hockey": "assets/logos/streamed/denmark-ice-hockey.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
