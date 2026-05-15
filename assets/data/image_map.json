@@ -12754,7 +12754,15 @@
         "USA Ice Hockey": "assets/logos/streamed/usa-ice-hockey.webp",
         "Switzerland Ice Hockey": "assets/logos/streamed/switzerland-ice-hockey.webp",
         "Czech Republic Ice Hockey": "assets/logos/streamed/czech-republic-ice-hockey.webp",
-        "Denmark Ice Hockey": "assets/logos/streamed/denmark-ice-hockey.webp"
+        "Denmark Ice Hockey": "assets/logos/streamed/denmark-ice-hockey.webp",
+        "Slovakia Ice Hockey": "assets/logos/streamed/slovakia-ice-hockey.webp",
+        "Norway Ice hockey": "assets/logos/streamed/norway-ice-hockey.webp",
+        "Austria Ice Hockey": "assets/logos/streamed/austria-ice-hockey.webp",
+        "Great Britain Ice Hockey": "assets/logos/streamed/great-britain-ice-hockey.webp",
+        "Hungary Ice Hockey": "assets/logos/streamed/hungary-ice-hockey.webp",
+        "Italy Ice Hockey": "assets/logos/streamed/italy-ice-hockey.webp",
+        "Latvia Ice Hockey": "assets/logos/streamed/latvia-ice-hockey.webp",
+        "Slovenia Ice Hockey": "assets/logos/streamed/slovenia-ice-hockey.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
