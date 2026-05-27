@@ -12792,7 +12792,11 @@
         "Denmark U17": "assets/logos/streamed/denmark-u17.webp",
         "New South Wales Blues": "assets/logos/streamed/new-south-wales-blues.webp",
         "Queensland Maroons": "assets/logos/streamed/queensland-maroons.webp",
-        "Vechta": "assets/logos/streamed/vechta.webp"
+        "Vechta": "assets/logos/streamed/vechta.webp",
+        "Cyprus U19": "assets/logos/streamed/cyprus-u19.webp",
+        "North Macedonia U19": "assets/logos/streamed/north-macedonia-u19.webp",
+        "Slovenia U18": "assets/logos/streamed/slovenia-u18.webp",
+        "Colombia U20": "assets/logos/streamed/colombia-u20.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
