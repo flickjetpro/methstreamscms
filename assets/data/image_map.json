@@ -12796,7 +12796,10 @@
         "Cyprus U19": "assets/logos/streamed/cyprus-u19.webp",
         "North Macedonia U19": "assets/logos/streamed/north-macedonia-u19.webp",
         "Slovenia U18": "assets/logos/streamed/slovenia-u18.webp",
-        "Colombia U20": "assets/logos/streamed/colombia-u20.webp"
+        "Colombia U20": "assets/logos/streamed/colombia-u20.webp",
+        "Mexico U17": "assets/logos/streamed/mexico-u17.webp",
+        "England U17": "assets/logos/streamed/england-u17.webp",
+        "Lebanon": "assets/logos/streamed/lebanon.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
