@@ -12799,7 +12799,9 @@
         "Colombia U20": "assets/logos/streamed/colombia-u20.webp",
         "Mexico U17": "assets/logos/streamed/mexico-u17.webp",
         "England U17": "assets/logos/streamed/england-u17.webp",
-        "Lebanon": "assets/logos/streamed/lebanon.webp"
+        "Lebanon": "assets/logos/streamed/lebanon.webp",
+        "Ottawa Redblacks": "assets/logos/streamed/ottawa-redblacks.webp",
+        "Montreal Alouettes": "assets/logos/streamed/montreal-alouettes.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
