@@ -12813,7 +12813,10 @@
         "CF Os Belenenses": "assets/logos/streamed/cf-os-belenenses.webp",
         "Mongolia": "assets/logos/streamed/mongolia.webp",
         "Sussex Sharks": "assets/logos/streamed/sussex-sharks.webp",
-        "Brighton WFC": "assets/logos/streamed/brighton-wfc.webp"
+        "Brighton WFC": "assets/logos/streamed/brighton-wfc.webp",
+        "Latvia U17": "assets/logos/streamed/latvia-u17.webp",
+        "Albania U17": "assets/logos/streamed/albania-u17.webp",
+        "Qatar U20": "assets/logos/streamed/qatar-u20.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
