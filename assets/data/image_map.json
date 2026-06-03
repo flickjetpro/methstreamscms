@@ -12817,7 +12817,9 @@
         "Latvia U17": "assets/logos/streamed/latvia-u17.webp",
         "Albania U17": "assets/logos/streamed/albania-u17.webp",
         "Qatar U20": "assets/logos/streamed/qatar-u20.webp",
-        "Cambodia": "assets/logos/streamed/cambodia.webp"
+        "Cambodia": "assets/logos/streamed/cambodia.webp",
+        "Junior FC": "assets/logos/streamed/junior-fc.webp",
+        "Sweden U20": "assets/logos/streamed/sweden-u20.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
