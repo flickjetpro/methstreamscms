@@ -12819,7 +12819,12 @@
         "Qatar U20": "assets/logos/streamed/qatar-u20.webp",
         "Cambodia": "assets/logos/streamed/cambodia.webp",
         "Junior FC": "assets/logos/streamed/junior-fc.webp",
-        "Sweden U20": "assets/logos/streamed/sweden-u20.webp"
+        "Sweden U20": "assets/logos/streamed/sweden-u20.webp",
+        "Central African Republic": "assets/logos/streamed/central-african-republic.webp",
+        "Uganda": "assets/logos/streamed/uganda.webp",
+        "Angola": "assets/logos/streamed/angola.webp",
+        "Syria": "assets/logos/streamed/syria.webp",
+        "North Macedonia W": "assets/logos/streamed/north-macedonia-w.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
