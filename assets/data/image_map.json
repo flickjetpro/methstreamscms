@@ -12856,7 +12856,12 @@
         "Saudi Arabia U20": "assets/logos/streamed/saudi-arabia-u20.webp",
         "Iraq U20": "assets/logos/streamed/iraq-u20.webp",
         "Georgia U19": "assets/logos/streamed/georgia-u19.webp",
-        "Qatar U23": "assets/logos/streamed/qatar-u23.webp"
+        "Qatar U23": "assets/logos/streamed/qatar-u23.webp",
+        "Russia U19": "assets/logos/streamed/russia-u19.webp",
+        "Algeria U23": "assets/logos/streamed/algeria-u23.webp",
+        "Mauritania U23": "assets/logos/streamed/mauritania-u23.webp",
+        "Brazil U17": "assets/logos/streamed/brazil-u17.webp",
+        "United States U17": "assets/logos/streamed/united-states-u17.webp"
     },
     "leagues": {
         "MLB": "assets/logos/leagues/mlb.webp",
